@@ -50,6 +50,6 @@ def vatican_download():
         except:
             print("error " + sub)
 
-vatican_download(http_get_cached)
+vatican_download()
 
 
