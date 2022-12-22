@@ -11,12 +11,12 @@ def dir_create_if_not_exists(my_path):
     else:
         os.makedirs(my_path)
 
-def http_get_cached(url, cached_path = 'cached_websites'):
+def http_get_cached(url, file_extension, cached_path = 'cached_websites'):
     factor = 1000
     sleep_time = random.randrange(5 * factor, 10  * factor) / factor
 
     encoded = base64.b64encode(url.encode()).decode()
-    encoded_path = os.path.join(cached_path, encoded + '.htm')
+    encoded_path = os.path.join(cached_path, encoded + file_extension)
 
     dir_create_if_not_exists(cached_path)
 
@@ -42,9 +42,10 @@ def vatican_download():
     links_download(
         'https://www.vatican.va/archive/ESL0506/', 
         "_INDEX.HTM", 
-        lambda s: s.startswith('__'))
+        lambda href: href.startswith('__'),
+        '.zip')
 
-def links_download(url_base, url_index, download_if):
+def links_download(url_base, url_index, download_if, file_extension):
     url_root = url_base + url_index
     b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
@@ -52,13 +53,14 @@ def links_download(url_base, url_index, download_if):
 
     for sub in subs:
         try:
-            http_get_cached(sub)
+            http_get_cached(sub, file_extension)
         except:
             print("error " + sub)
 
 # vatican_download()
-
-def bibles_all_download():
-    url_base = 'https://www.wordproject.org/download/bibles/'
-    url_root = url_base + "index.htm"
-
+def vatican_download():
+    links_download(
+        'https://www.wordproject.org/download/bibles/', 
+        "index.htm", 
+        lambda href: href.endswith('.zip'),
+        '.htm')
