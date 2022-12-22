@@ -6,7 +6,7 @@ import firebase_admin
 from firebase_admin import storage
 from firebase_admin import credentials
 
-delete_firebase_blobs = True
+delete_firebase_blobs = False
 
 cred = credentials.Certificate(os.path.join(directory_gitignore, 'firebasecreds.json'))
 firebase_admin.initialize_app(cred)
@@ -34,7 +34,7 @@ def file_html_parse(file_path):
 
 def file_json_write(file_path, result):
     # Create a new blob in the bucket
-    blob = bucket.blob(file_path)
+    blob = bucket.blob(file_path.replace('\\','/').replace('public/',''))
     if delete_firebase_blobs:
         if blob.exists():
             blob.delete()
@@ -44,6 +44,7 @@ def file_json_write(file_path, result):
             output.write(j)
         # Upload the file to the bucket
         blob.upload_from_filename(file_path)
+        exit()
 
 for version in versions:
     index = {}
