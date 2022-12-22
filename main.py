@@ -4,7 +4,6 @@ import base64
 import os
 from urllib.request import urlopen
 
-url = "https://www.vatican.va/archive/ESL0506/_INDEX.HTM"
 
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
@@ -36,5 +35,7 @@ def http_get_save(url, encoded_path):
         with open(encoded_path, 'w') as f:
             f.write(body)
 
-http_get_cached(url, cached_path)
+url = "https://www.vatican.va/archive/ESL0506/_INDEX.HTM"
+
+http_get_cached(url)
 
