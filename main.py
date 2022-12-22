@@ -72,12 +72,9 @@ def directory_files_rename_if_ends_with(directory, ending, ending_new):
         if f.endswith(ending):
             f_new = f[:len(f)-len(ending)] + ending_new
             os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
-    return files
 
 # vatican_download()
 # wordproject_download()
 
 directory = 'gitignore'
-files = directory_files_rename_if_ends_with(directory, ' (1).zip', '.zip')
-print(files)
-# os.rename()
+directory_files_rename_if_ends_with(directory, ' (1).zip', '.zip')
