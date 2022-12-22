@@ -7,9 +7,14 @@ versions = [
     'sp'
 ]
 
-for v in versions:
-    parent = directory_wordproject
-    files = os.listdir(os.path.join(parent, v))
+def directory_for_each_if_numeric(parent, for_each):
+    files = os.listdir(parent)
     for f in files:
         if f.isnumeric():
-            print(f)
+            for_each(f)
+
+for v in versions:
+    parent = os.path.join(directory_wordproject, v)
+    def for_each(f):
+        print(f)
+    directory_for_each_if_numeric(parent, for_each)
