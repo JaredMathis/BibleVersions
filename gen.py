@@ -6,6 +6,7 @@ import firebase_admin
 from firebase_admin import storage
 from firebase_admin import credentials
 
+first_chapter_only = False
 delete_firebase_blobs = False
 
 cred = credentials.Certificate(os.path.join(directory_gitignore, 'firebasecreds.json'))
@@ -44,7 +45,8 @@ def file_json_write(file_path, result):
             output.write(j)
         # Upload the file to the bucket
         blob.upload_from_filename(file_path)
-        exit()
+        if first_chapter_only:
+            exit()
 
 for version in versions:
     index = {}
