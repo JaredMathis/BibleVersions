@@ -58,7 +58,6 @@ def links_download(url_base, url_index, download_if, file_extension, decode_resp
         except:
             print("error " + sub)
 
-# vatican_download()
 def wordproject_download():
     links_download(
         'https://www.wordproject.org/download/bibles/', 
@@ -67,4 +66,10 @@ def wordproject_download():
         '.zip',
         False)
 
-wordproject_download()
+# vatican_download()
+# wordproject_download()
+
+directory = 'gitignore'
+files = os.listdir(directory)
+print(files)
+# os.rename()
