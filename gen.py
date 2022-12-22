@@ -14,7 +14,7 @@ def directory_for_each_if_numeric(parent, for_each):
             for_each(f)
 
 for v in versions:
-    parent = os.path.join(directory_wordproject, v)
+    version_directory = os.path.join(directory_wordproject, v)
     def for_each(f):
         print(f)
-    directory_for_each_if_numeric(parent, for_each)
+    directory_for_each_if_numeric(version_directory, for_each)
