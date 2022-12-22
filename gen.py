@@ -29,6 +29,10 @@ for v in versions:
                 verses = str(parsed.find_all('p')[-2])
                 verses_list = verses.split('<br/>')
                 for v in verses_list:
-                    print({"book":book,"chapter":chapter,"v":v})
+                    t = html_parse(v).text.strip('\n')
+                    s = t.split(' ')
+                    verse = s[0]
+                    tokens = s[1:] 
+                    print({"book":book,"chapter":chapter,"verse":verse,"tokens":tokens})
                 exit()
     directory_for_each_if_numeric(version_directory, for_each)
