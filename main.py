@@ -43,7 +43,7 @@ def vatican_download():
         'https://www.vatican.va/archive/ESL0506/', 
         "_INDEX.HTM", 
         lambda href: href.startswith('__'),
-        '.zip',
+        '.htm',
         True)
 
 def links_download(url_base, url_index, download_if, file_extension, decode_response):
@@ -59,10 +59,12 @@ def links_download(url_base, url_index, download_if, file_extension, decode_resp
             print("error " + sub)
 
 # vatican_download()
-def vatican_download():
+def wordproject_download():
     links_download(
         'https://www.wordproject.org/download/bibles/', 
         "index.htm", 
         lambda href: href.endswith('.zip'),
-        '.htm',
+        '.zip',
         False)
+
+wordproject_download()
