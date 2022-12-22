@@ -11,7 +11,7 @@ def dir_create_if_not_exists(my_path):
     else:
         os.makedirs(my_path)
 
-def http_get_cached(url, file_extension, decode_response, cached_path = 'cached_websites'):
+def http_get_cached(url, file_extension='.htm', decode_response=True, cached_path = 'cached_websites'):
     factor = 1000
     sleep_time = random.randrange(5 * factor, 10  * factor) / factor
 
