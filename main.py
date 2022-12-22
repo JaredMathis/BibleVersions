@@ -3,7 +3,7 @@ from time import sleep
 import base64
 import os
 from urllib.request import urlopen
-
+from bs4 import BeautifulSoup
 
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
@@ -37,5 +37,8 @@ def http_get_save(url, encoded_path):
 
 url = "https://www.vatican.va/archive/ESL0506/_INDEX.HTM"
 
-http_get_cached(url)
+b = BeautifulSoup(http_get_cached(url), features="html.parser")
+hrefs = ([c['href'] for c in b.find_all('a', href=True)])
+subs = [x for x in filter(lambda s: s.startswith('__'), hrefs)]
+print(subs)
 
