@@ -5,7 +5,6 @@ import os
 from urllib.request import urlopen
 
 url = "https://www.vatican.va/archive/ESL0506/_INDEX.HTM"
-cached_path = 'cached_websites'
 
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
@@ -13,7 +12,7 @@ def dir_create_if_not_exists(my_path):
     else:
         os.makedirs(my_path)
 
-def http_get_cached(url, cached_path):
+def http_get_cached(url, cached_path = 'cached_websites'):
     factor = 1000
     sleep_time = random.randrange(5 * factor, 10  * factor) / factor
 
