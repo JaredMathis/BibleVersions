@@ -35,9 +35,10 @@ def http_get_save(url, encoded_path):
         with open(encoded_path, 'w') as f:
             f.write(body)
 
-url = "https://www.vatican.va/archive/ESL0506/_INDEX.HTM"
+url_base = 'https://www.vatican.va/archive/ESL0506/'
+url_root = url_base + "_INDEX.HTM"
 
-b = BeautifulSoup(http_get_cached(url), features="html.parser")
+b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
 hrefs = ([c['href'] for c in b.find_all('a', href=True)])
 subs = [x for x in filter(lambda s: s.startswith('__'), hrefs)]
 print(subs)
