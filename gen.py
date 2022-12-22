@@ -24,6 +24,11 @@ for v in versions:
                 parsed = html_parse(f)
                 h = parsed.find_all('h1')
                 book = list_first(h).text.strip()
-                print(book)
+                s = parsed.find_all('span', {"class":"chapread"})
+                chapter = list_first(s).text.strip()
+                verses = str(parsed.find_all('p')[-2])
+                verses_list = verses.split('<br/>')
+                for v in verses_list:
+                    print({"book":book,"chapter":chapter,"v":v})
                 exit()
     directory_for_each_if_numeric(version_directory, for_each)
