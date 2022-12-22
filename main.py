@@ -90,13 +90,18 @@ def wordproject_downloads_fix_endings():
 
 import zipfile
 
-def unzip(f):
+def unzip_to_wordproject(f):
     joined = os.path.join(directory, f)
     with zipfile.ZipFile(joined, 'r') as zip_ref:
-        zip_ref.extractall()
+        zip_ref.extractall(directory_wordproject)
 
-directory_files_for_if_ends_with(directory, extension, unzip)
+
+directory_wordproject = 'wordproject'
+def wordproject_unzip():
+    dir_create_if_not_exists(directory_wordproject)
+    directory_files_for_if_ends_with(directory, extension, unzip_to_wordproject)
 
 # vatican_download()
 # wordproject_download()
 # wordproject_downloads_fix_endings()
+wordproject_unzip()
