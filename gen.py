@@ -23,7 +23,7 @@ for version in versions:
         for chapter in files:
             f_path = os.path.join(book_directory, chapter)
             with open(f_path, 'r', encoding='utf-8') as source:
-                output_directory = os.path.join(directory_public, version, book_directory)
+                output_directory = os.path.join(directory_public, book_directory)
                 dir_create_if_not_exists(output_directory)
                 output_path = os.path.join(output_directory, str_ending_rename(chapter, '.htm', '') + ".json")
                 with open(output_path, 'w', encoding='utf-8') as output:
@@ -42,5 +42,4 @@ for version in versions:
                         tokens = s[1:] 
                         result.append({"book":book,"chapter":chapter,"verse":verse,"tokens":tokens})
                     json.dump(result, output, ensure_ascii=False, indent=4)
-                    exit()
     directory_for_each_if_numeric(version_directory, for_each)
