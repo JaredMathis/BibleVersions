@@ -44,6 +44,9 @@ def html_parse(s):
     b = BeautifulSoup(s, features="html.parser")
     return b
 
+def list_first(list):
+    assert len(list) == 1
+    return list[0]
 
 def links_download(url_base, url_index, download_if, file_extension, decode_response):
     url_root = url_base + url_index

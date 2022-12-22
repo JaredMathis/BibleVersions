@@ -23,6 +23,7 @@ for v in versions:
             with open(f_path, 'r', encoding='utf-8') as f:
                 parsed = html_parse(f)
                 h = parsed.find_all('h1')
-                print(h)
+                book = list_first(h).text.strip()
+                print(book)
                 exit()
     directory_for_each_if_numeric(version_directory, for_each)
