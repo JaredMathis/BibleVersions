@@ -70,6 +70,16 @@ def wordproject_download():
 # wordproject_download()
 
 directory = 'gitignore'
-files = os.listdir(directory)
+ending = ' (1).zip'
+ending_new = '.zip'
+def directory_files_rename_if_ends_with(directory, ending, ending_new):
+    files = os.listdir(directory)
+    for f in files:
+        if f.endswith(ending):
+            f_new = f[:len(f)-len(ending)] + ending_new
+            os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
+    return files
+
+files = directory_files_rename_if_ends_with(directory, ending, ending_new)
 print(files)
 # os.rename()
