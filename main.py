@@ -67,11 +67,10 @@ def wordproject_download():
         False)
 
 def directory_files_rename_if_ends_with(directory, ending, ending_new):
-    files = os.listdir(directory)
-    for f in files:
-        if f.endswith(ending):
-            f_new = f[:len(f)-len(ending)] + ending_new
-            os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
+    def for_each(f):
+        f_new = f[:len(f)-len(ending)] + ending_new
+        os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
+    directory_files_for_if_ends_with(directory, ending, for_each)
 
 def directory_files_for_if_ends_with(directory, ending, for_each):
     files = os.listdir(directory)
