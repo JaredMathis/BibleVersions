@@ -66,8 +66,14 @@ def directory_files_for_if_ends_with(directory, ending, for_each):
         if f.endswith(ending):
             for_each(f)
         
+def str_ending_rename(f, ending, ending_new):
+    assert f.endswith(ending)
+    f_new = f[:len(f)-len(ending)] + ending_new
+    return f_new
+
 def directory_files_rename_if_ends_with(directory, ending, ending_new):
     def for_each(f):
-        f_new = f[:len(f)-len(ending)] + ending_new
+        f_new = str_ending_rename(f, ending, ending_new)
         os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
+
     directory_files_for_if_ends_with(directory, ending, for_each)
