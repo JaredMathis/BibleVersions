@@ -5,6 +5,8 @@ import os
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+directory_wordproject = 'wordproject'
+
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
         return

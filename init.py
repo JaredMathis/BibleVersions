@@ -35,7 +35,6 @@ def unzip_to_wordproject(f):
     with zipfile.ZipFile(joined, 'r') as zip_ref:
         zip_ref.extractall(directory_wordproject)
 
-directory_wordproject = 'wordproject'
 def wordproject_unzip():
     dir_create_if_not_exists(directory_wordproject)
     directory_files_for_if_ends_with(directory, extension, unzip_to_wordproject)
