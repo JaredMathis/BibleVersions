@@ -21,6 +21,7 @@ def http_get_cached(url, cached_path = 'cached_websites'):
     dir_create_if_not_exists(cached_path)
 
     if not os.path.exists(encoded_path):
+        print(f'downloading {url} to {encoded_path}')
         print(f'Sleeping for {sleep_time}s')
         sleep(sleep_time)
         http_get_save(url, encoded_path)
@@ -43,6 +44,9 @@ hrefs = ([c['href'] for c in b.find_all('a', href=True)])
 subs = [url_base + x for x in filter(lambda s: s.startswith('__'), hrefs)]
 
 for sub in subs:
-    http_get_cached(sub)
+    try:
+        http_get_cached(sub)
+    except:
+        print("error " + sub)
 
 
