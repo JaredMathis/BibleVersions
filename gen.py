@@ -2,6 +2,18 @@
 from common import *
 import json
 
+import firebase_admin
+from firebase_admin import storage
+from firebase_admin import credentials
+
+delete_firebase_blobs = True
+
+cred = credentials.Certificate(os.path.join(directory_gitignore, 'firebasecreds.json'))
+firebase_admin.initialize_app(cred)
+
+# Get a reference to the Cloud Storage bucket
+bucket = storage.bucket('wlj-bible-versions.appspot.com')
+
 directory_public = 'public'
 dir_create_if_not_exists(directory_public)
 
@@ -21,8 +33,17 @@ def file_html_parse(file_path):
         return parsed
 
 def file_json_write(file_path, result):
-    with open(file_path, 'w', encoding='utf-8') as output:
-        json.dump(result, output, ensure_ascii=False, indent=4)
+    # Create a new blob in the bucket
+    blob = bucket.blob(file_path)
+    if delete_firebase_blobs:
+        if blob.exists():
+            blob.delete()
+    else:
+        j = json.dumps(result, ensure_ascii=False, indent=4)
+        with open(file_path, 'w', encoding='utf-8') as output:
+            output.write(j)
+        # Upload the file to the bucket
+        blob.upload_from_filename(file_path)
 
 for version in versions:
     index = {}
