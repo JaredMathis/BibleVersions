@@ -40,6 +40,7 @@ def vatican_download():
     url_base = 'https://www.vatican.va/archive/ESL0506/'
     url_root = url_base + "_INDEX.HTM"
     download_if = lambda s: s.startswith('__')
+    
     b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
     subs = [url_base + x for x in filter(download_if, hrefs)]
