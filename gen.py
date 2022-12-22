@@ -16,5 +16,13 @@ def directory_for_each_if_numeric(parent, for_each):
 for v in versions:
     version_directory = os.path.join(directory_wordproject, v)
     def for_each(f):
-        print(f)
+        chapter_directory = os.path.join(version_directory, f)
+        files = os.listdir(chapter_directory)
+        for f in files:
+            f_path = os.path.join(chapter_directory, f)
+            with open(f_path, 'r', encoding='utf-8') as f:
+                parsed = html_parse(f)
+                h = parsed.find_all('h1')
+                print(h)
+                exit()
     directory_for_each_if_numeric(version_directory, for_each)

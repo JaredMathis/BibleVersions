@@ -40,9 +40,14 @@ def http_get_save(url, path_save, decode_response=True):
         with open(path_save, 'w') as f:
             f.write(body)
 
+def html_parse(s):
+    b = BeautifulSoup(s, features="html.parser")
+    return b
+
+
 def links_download(url_base, url_index, download_if, file_extension, decode_response):
     url_root = url_base + url_index
-    b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
+    b = html_parse(http_get_cached(url_root))
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
     subs = [url_base + x for x in filter(download_if, hrefs)]
 
