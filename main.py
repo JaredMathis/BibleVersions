@@ -54,7 +54,7 @@ def links_download(url_base, url_index, download_if, file_extension, decode_resp
 
     for sub in subs:
         try:
-            http_get_cached(sub, file_extension)
+            http_get_cached(sub, file_extension, decode_response)
         except:
             print("error " + sub)
 
