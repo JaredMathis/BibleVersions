@@ -40,6 +40,9 @@ url_root = url_base + "_INDEX.HTM"
 
 b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
 hrefs = ([c['href'] for c in b.find_all('a', href=True)])
-subs = [x for x in filter(lambda s: s.startswith('__'), hrefs)]
-print(subs)
+subs = [url_base + x for x in filter(lambda s: s.startswith('__'), hrefs)]
+
+for sub in subs:
+    http_get_cached(sub)
+
 
