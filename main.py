@@ -39,10 +39,10 @@ def http_get_save(url, encoded_path):
 def vatican_download():
     url_base = 'https://www.vatican.va/archive/ESL0506/'
     url_root = url_base + "_INDEX.HTM"
-
+    download_if = lambda s: s.startswith('__')
     b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
-    subs = [url_base + x for x in filter(lambda s: s.startswith('__'), hrefs)]
+    subs = [url_base + x for x in filter(download_if, hrefs)]
 
     for sub in subs:
         try:
@@ -50,6 +50,9 @@ def vatican_download():
         except:
             print("error " + sub)
 
-vatican_download()
+# vatican_download()
 
+def bibles_all_download():
+    url_base = 'https://www.wordproject.org/download/bibles/'
+    url_root = url_base + "index.htm"
 
