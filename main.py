@@ -30,9 +30,11 @@ def http_get_cached(url, cached_path = 'cached_websites'):
         body = opened.read()
         return body
 
-def http_get_save(url, path_save):
+def http_get_save(url, path_save, decode_response=True):
     with urlopen(url) as response:
-        body = response.read().decode()
+        body = response.read()
+        if decode_response:
+            body = body.decode()
         with open(path_save, 'w') as f:
             f.write(body)
 
