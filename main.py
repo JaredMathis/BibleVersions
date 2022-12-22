@@ -77,4 +77,9 @@ def directory_files_rename_if_ends_with(directory, ending, ending_new):
 # wordproject_download()
 
 directory = 'gitignore'
-directory_files_rename_if_ends_with(directory, ' (1).zip', '.zip')
+endings = [
+    ' (1).zip',
+    '_new.zip'
+]
+for ending in endings:
+    directory_files_rename_if_ends_with(directory, ending, '.zip')
