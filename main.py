@@ -11,7 +11,7 @@ def dir_create_if_not_exists(my_path):
     else:
         os.makedirs(my_path)
 
-def http_get_cached(url, file_extension, cached_path = 'cached_websites'):
+def http_get_cached(url, file_extension, decode_response, cached_path = 'cached_websites'):
     factor = 1000
     sleep_time = random.randrange(5 * factor, 10  * factor) / factor
 
@@ -24,7 +24,7 @@ def http_get_cached(url, file_extension, cached_path = 'cached_websites'):
         print(f'downloading {url} to {encoded_path}')
         print(f'Sleeping for {sleep_time}s')
         sleep(sleep_time)
-        http_get_save(url, encoded_path)
+        http_get_save(url, encoded_path, decode_response)
 
     with open(encoded_path, 'r') as opened:
         body = opened.read()
@@ -43,9 +43,10 @@ def vatican_download():
         'https://www.vatican.va/archive/ESL0506/', 
         "_INDEX.HTM", 
         lambda href: href.startswith('__'),
-        '.zip')
+        '.zip',
+        True)
 
-def links_download(url_base, url_index, download_if, file_extension):
+def links_download(url_base, url_index, download_if, file_extension, decode_response):
     url_root = url_base + url_index
     b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
@@ -63,4 +64,5 @@ def vatican_download():
         'https://www.wordproject.org/download/bibles/', 
         "index.htm", 
         lambda href: href.endswith('.zip'),
-        '.htm')
+        '.htm',
+        False)
