@@ -73,15 +73,28 @@ def directory_files_rename_if_ends_with(directory, ending, ending_new):
             f_new = f[:len(f)-len(ending)] + ending_new
             os.rename(os.path.join(directory, f), os.path.join(directory, f_new))
 
+def directory_files_for_if_ends_with(directory, ending, for_each):
+    files = os.listdir(directory)
+    for f in files:
+        if f.endswith(ending):
+            for_each(f)
+
+directory = 'gitignore'
 def wordproject_downloads_fix_endings():
     extension = '.zip'
-    directory = 'gitignore'
     endings = [
         ' (1)' + extension,
         '_new' + extension
     ]
     for ending in endings:
         directory_files_rename_if_ends_with(directory, ending, extension)
+
+# import zipfile
+
+# # Open the zip file in read mode
+# with zipfile.ZipFile('file.zip', 'r') as zip_ref:
+#     # Extract all the contents of zip file in current directory
+#     zip_ref.extractall()
 
 # vatican_download()
 # wordproject_download()
