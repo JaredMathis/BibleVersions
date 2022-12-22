@@ -30,17 +30,17 @@ def http_get_cached(url, cached_path = 'cached_websites'):
         body = opened.read()
         return body
 
-def http_get_save(url, encoded_path):
+def http_get_save(url, path_save):
     with urlopen(url) as response:
         body = response.read().decode()
-        with open(encoded_path, 'w') as f:
+        with open(path_save, 'w') as f:
             f.write(body)
 
 def vatican_download():
     url_base = 'https://www.vatican.va/archive/ESL0506/'
     url_root = url_base + "_INDEX.HTM"
     download_if = lambda s: s.startswith('__')
-    
+
     b = BeautifulSoup(http_get_cached(url_root), features="html.parser")
     hrefs = ([c['href'] for c in b.find_all('a', href=True)])
     subs = [url_base + x for x in filter(download_if, hrefs)]
