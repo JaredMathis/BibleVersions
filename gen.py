@@ -61,12 +61,36 @@ verse_column = 5
 import csv
 bsb = file_read_lines('./bsb/bsb.csv')
 verse_reference = None
+verses = []
+i = 0
 for line in csv.reader(bsb):
-    result = {}
+    i = i+1
+    if i == 1:
+        continue
+    if (line[0] == ""):
+        continue
     if line[verse_column] != '':
+        result_verse = {"tokens": []}
+        verses.append(result_verse)
         verse_reference = line[verse_column]
-    result["verse_reference"] = verse_reference
-    print(result, line)
+        parsed1 = verse_reference.split(' ')
+        book = " ".join(parsed1[:-1])
+        chapter_verse = parsed1[-1]
+        parsed2 = chapter_verse.split(':')
+        assert len(parsed2) == 2
+        chapter = parsed2[0] 
+        verse = parsed2[1]
+    result_verse["verse_reference"] = verse_reference
+    result_verse["book"] = book
+    result_verse["chapter"] = chapter
+    result_verse["verse"] = verse
+    token = {}
+    token["token"] = line[0]
+    token["transliteration"] = line[1] 
+    token["strong"] = line[4] 
+    token["translation"] = line[6] 
+    result_verse["tokens"].append(token)
+print(verses)
 exit()
 
 #Wordproject
