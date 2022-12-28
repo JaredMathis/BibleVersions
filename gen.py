@@ -28,10 +28,14 @@ def directory_for_each_if_numeric(parent, for_each):
         if f.isnumeric():
             for_each(f)
 
-def file_html_parse(file_path):
+def file_read(file_path):
     with open(file_path, 'r', encoding='utf-8') as source:
-        parsed = html_parse(source)
-        return parsed
+        return source
+
+def file_html_parse(file_path):
+    source = file_read(file_path)
+    parsed = html_parse(source)
+    return parsed
 
 def file_json_write(file_path, result):
     # Create a new blob in the bucket
@@ -53,6 +57,8 @@ def json_to(result):
     return j
 
 #BSB
+
+
 
 #Wordproject
 
