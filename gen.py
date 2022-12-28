@@ -114,7 +114,8 @@ for book_number in bsb_index:
     for chapter in  bsb_index[book_number]["chapters"]:
         chapter_output_path = os.path.join(book_output_path, chapter + ".json")
         verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result_bsb)]
-        file_json_write(chapter_output_path, verses_for_book_and_chapter)
+        if not os.path.exists(chapter_output_path):
+            file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
 #Wordproject
 exit()
