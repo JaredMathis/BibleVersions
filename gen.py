@@ -6,14 +6,15 @@ import firebase_admin
 from firebase_admin import storage
 from firebase_admin import credentials
 
-first_chapter_only = False
-delete_firebase_blobs = False
-
 cred = credentials.Certificate(os.path.join(directory_gitignore, 'firebasecreds.json'))
 firebase_admin.initialize_app(cred)
 
 # Get a reference to the Cloud Storage bucket
 bucket = storage.bucket('wlj-bible-versions.appspot.com')
+
+first_chapter_only = False
+delete_firebase_blobs = False
+
 
 directory_public = 'public'
 dir_create_if_not_exists(directory_public)
