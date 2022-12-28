@@ -1,0 +1,3088 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַה֗וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " At that "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " time "
+            },
+            {
+                "token": "בְּסֵ֥פֶר",
+                "transliteration": "bə·sê·p̄er",
+                "strong": "5612",
+                "translation": " the Book "
+            },
+            {
+                "token": "מֹשֶׁ֖ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " of Moses "
+            },
+            {
+                "token": "נִקְרָ֛א",
+                "transliteration": "niq·rā",
+                "strong": "7121",
+                "translation": " was read aloud "
+            },
+            {
+                "token": "בְּאָזְנֵ֣י",
+                "transliteration": "bə·’ā·zə·nê",
+                "strong": "241",
+                "translation": " in the hearing "
+            },
+            {
+                "token": "הָעָ֑ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " of the people , "
+            },
+            {
+                "token": "בּ֔וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " and in it "
+            },
+            {
+                "token": "וְנִמְצָא֙",
+                "transliteration": "wə·nim·ṣā",
+                "strong": "4672",
+                "translation": " they found "
+            },
+            {
+                "token": "כָּת֣וּב",
+                "transliteration": "kā·ṯūḇ",
+                "strong": "3789",
+                "translation": " the passage stating "
+            },
+            {
+                "token": "אֲ֠שֶׁר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "עַמֹּנִ֧י",
+                "transliteration": "‘am·mō·nî",
+                "strong": "5984",
+                "translation": " Ammonite "
+            },
+            {
+                "token": "וּמֹאָבִ֛י",
+                "transliteration": "ū·mō·’ā·ḇî",
+                "strong": "4125",
+                "translation": " or Moabite "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " should ever "
+            },
+            {
+                "token": "עוֹלָֽם׃",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " . . . "
+            },
+            {
+                "token": "יָב֨וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " enter "
+            },
+            {
+                "token": "בִּקְהַ֥ל",
+                "transliteration": "biq·hal",
+                "strong": "6951",
+                "translation": " the assembly "
+            },
+            {
+                "token": "הָאֱלֹהִ֖ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God , "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:1",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "לֹ֧א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " they had not "
+            },
+            {
+                "token": "קִדְּמ֛וּ",
+                "transliteration": "qid·də·mū",
+                "strong": "6923",
+                "translation": " met "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּלֶּ֣חֶם",
+                "transliteration": "bal·le·ḥem",
+                "strong": "3899",
+                "translation": " with food "
+            },
+            {
+                "token": "וּבַמָּ֑יִם",
+                "transliteration": "ū·ḇam·mā·yim",
+                "strong": "4325",
+                "translation": " and water , "
+            },
+            {
+                "token": "וַיִּשְׂכֹּ֨ר",
+                "transliteration": "way·yiś·kōr",
+                "strong": "7936",
+                "translation": " but had hired "
+            },
+            {
+                "token": "בִּלְעָם֙",
+                "transliteration": "bil·‘ām",
+                "strong": "1109",
+                "translation": " Balaam "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְקַֽלְל֔וֹ",
+                "transliteration": "lə·qal·lōw",
+                "strong": "7043",
+                "translation": " to call down a curse "
+            },
+            {
+                "token": "עָלָ֤יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " against them "
+            },
+            {
+                "token": "אֱלֹהֵ֛ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " ( although our God "
+            },
+            {
+                "token": "וַיַּהֲפֹ֧ךְ",
+                "transliteration": "way·ya·hă·p̄ōḵ",
+                "strong": "2015",
+                "translation": " had turned "
+            },
+            {
+                "token": "הַקְּלָלָ֖ה",
+                "transliteration": "haq·qə·lā·lāh",
+                "strong": "7045",
+                "translation": " the curse "
+            },
+            {
+                "token": "לִבְרָכָֽה׃",
+                "transliteration": "liḇ·rā·ḵāh",
+                "strong": "1293",
+                "translation": " into a blessing ) . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:2",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֖י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " As soon as "
+            },
+            {
+                "token": "כְּשָׁמְעָ֣ם",
+                "transliteration": "kə·šā·mə·‘ām",
+                "strong": "8085",
+                "translation": " [the people] heard "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַתּוֹרָ֑ה",
+                "transliteration": "hat·tō·w·rāh",
+                "strong": "8451",
+                "translation": " this law , "
+            },
+            {
+                "token": "וַיַּבְדִּ֥ילוּ",
+                "transliteration": "way·yaḇ·dî·lū",
+                "strong": "914",
+                "translation": " they excluded "
+            },
+            {
+                "token": "מִיִּשְׂרָאֵֽל׃",
+                "transliteration": "mî·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " from Israel "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "עֵ֖רֶב",
+                "transliteration": "‘ê·reḇ",
+                "strong": "6154",
+                "translation": " of foreign descent . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:3",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלִפְנֵ֣י",
+                "transliteration": "wə·lip̄·nê",
+                "strong": "6440",
+                "translation": " Now before "
+            },
+            {
+                "token": "מִזֶּ֔ה",
+                "transliteration": "miz·zeh",
+                "strong": "2088",
+                "translation": " this , "
+            },
+            {
+                "token": "אֶלְיָשִׁיב֙",
+                "transliteration": "’el·yā·šîḇ",
+                "strong": "475",
+                "translation": " Eliashib "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest , "
+            },
+            {
+                "token": "קָר֖וֹב",
+                "transliteration": "qā·rō·wḇ",
+                "strong": "7138",
+                "translation": " a relative "
+            },
+            {
+                "token": "לְטוֹבִיָּֽה׃",
+                "transliteration": "lə·ṭō·w·ḇî·yāh",
+                "strong": "2900",
+                "translation": " of Tobiah , "
+            },
+            {
+                "token": "נָת֖וּן",
+                "transliteration": "nā·ṯūn",
+                "strong": "5414",
+                "translation": " had been put in charge of "
+            },
+            {
+                "token": "בְּלִשְׁכַּ֣ת",
+                "transliteration": "bə·liš·kaṯ",
+                "strong": "3957",
+                "translation": " the storerooms "
+            },
+            {
+                "token": "בֵּית־",
+                "transliteration": "bêṯ-",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "אֱלֹהֵ֑ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " of our God "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:4",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּ֨עַשׂ",
+                "transliteration": "way·ya·‘aś",
+                "strong": "6213",
+                "translation": " and had prepared "
+            },
+            {
+                "token": "ל֜וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " for [Tobiah] "
+            },
+            {
+                "token": "גְדוֹלָ֗ה",
+                "transliteration": "ḡə·ḏō·w·lāh",
+                "strong": "1419",
+                "translation": " a large "
+            },
+            {
+                "token": "לִשְׁכָּ֣ה",
+                "transliteration": "liš·kāh",
+                "strong": "3957",
+                "translation": " room "
+            },
+            {
+                "token": "וְשָׁ֣ם",
+                "transliteration": "wə·šām",
+                "strong": "8033",
+                "translation": " where "
+            },
+            {
+                "token": "הָי֪וּ",
+                "transliteration": "hā·yū",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְפָנִ֟ים",
+                "transliteration": "lə·p̄ā·nîm",
+                "strong": "6440",
+                "translation": " they had previously "
+            },
+            {
+                "token": "נֹ֠תְנִים",
+                "transliteration": "nō·ṯə·nîm",
+                "strong": "5414",
+                "translation": " stored "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמִּנְחָ֨ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offerings , "
+            },
+            {
+                "token": "הַלְּבוֹנָ֜ה",
+                "transliteration": "hal·lə·ḇō·w·nāh",
+                "strong": "3828",
+                "translation": " the frankincense , "
+            },
+            {
+                "token": "וְהַכֵּלִ֗ים",
+                "transliteration": "wə·hak·kê·lîm",
+                "strong": "3627",
+                "translation": " the [temple] articles , "
+            },
+            {
+                "token": "וּמַעְשַׂ֤ר",
+                "transliteration": "ū·ma‘·śar",
+                "strong": "4643",
+                "translation": " and the tithes "
+            },
+            {
+                "token": "הַדָּגָן֙",
+                "transliteration": "had·dā·ḡān",
+                "strong": "1715",
+                "translation": " of grain , "
+            },
+            {
+                "token": "הַתִּיר֣וֹשׁ",
+                "transliteration": "hat·tî·rō·wōš",
+                "strong": "8492",
+                "translation": " new wine , "
+            },
+            {
+                "token": "וְהַיִּצְהָ֔ר",
+                "transliteration": "wə·hay·yiṣ·hār",
+                "strong": "3323",
+                "translation": " and oil "
+            },
+            {
+                "token": "מִצְוַת֙",
+                "transliteration": "miṣ·waṯ",
+                "strong": "4687",
+                "translation": " prescribed "
+            },
+            {
+                "token": "הַלְוִיִּ֔ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " for the Levites , "
+            },
+            {
+                "token": "וְהַמְשֹׁרְרִ֖ים",
+                "transliteration": "wə·ham·šō·rə·rîm",
+                "strong": "7891",
+                "translation": " singers , "
+            },
+            {
+                "token": "וְהַשֹּׁעֲרִ֑ים",
+                "transliteration": "wə·haš·šō·‘ă·rîm",
+                "strong": "7778",
+                "translation": " and gatekeepers , "
+            },
+            {
+                "token": "וּתְרוּמַ֖ת",
+                "transliteration": "ū·ṯə·rū·maṯ",
+                "strong": "8641",
+                "translation": " along with the contributions "
+            },
+            {
+                "token": "הַכֹּהֲנִֽים׃",
+                "transliteration": "hak·kō·hă·nîm",
+                "strong": "3548",
+                "translation": " for the priests . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:5",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְכָל־",
+                "transliteration": "ū·ḇə·ḵāl",
+                "strong": "3605",
+                "translation": " While all "
+            },
+            {
+                "token": "זֶ֕ה",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הָיִ֖יתִי",
+                "transliteration": "hā·yî·ṯî",
+                "strong": "1961",
+                "translation": " was happening , "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I was not "
+            },
+            {
+                "token": "בִּֽירוּשָׁלִָ֑ם",
+                "transliteration": "bî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " in Jerusalem , "
+            },
+            {
+                "token": "כִּ֡י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "בָּ֣אתִי",
+                "transliteration": "bā·ṯî",
+                "strong": "935",
+                "translation": " I had returned "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "לְאַרְתַּחְשַׁ֤סְתְּא",
+                "transliteration": "lə·’ar·taḥ·šast",
+                "strong": "783",
+                "translation": " Artaxerxes "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "בָּבֶל֙",
+                "transliteration": "bā·ḇel",
+                "strong": "894",
+                "translation": " of Babylon "
+            },
+            {
+                "token": "שְׁלֹשִׁ֨ים",
+                "transliteration": "šə·lō·šîm",
+                "strong": "7970",
+                "translation": " in the thirty-second "
+            },
+            {
+                "token": "וּשְׁתַּ֜יִם",
+                "transliteration": "ū·šə·ta·yim",
+                "strong": "8147",
+                "translation": " . . . "
+            },
+            {
+                "token": "בִּשְׁנַת֩",
+                "transliteration": "biš·naṯ",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "הַמֶּ֔לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " of his reign . "
+            },
+            {
+                "token": "וּלְקֵ֥ץ",
+                "transliteration": "ū·lə·qêṣ",
+                "strong": "7093",
+                "translation": " Some time later "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִשְׁאַ֥לְתִּי",
+                "transliteration": "niš·’al·tî",
+                "strong": "7592",
+                "translation": " I obtained leave "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:6",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאָב֖וֹא",
+                "transliteration": "wā·’ā·ḇō·w",
+                "strong": "935",
+                "translation": " to return "
+            },
+            {
+                "token": "לִֽירוּשָׁלִָ֑ם",
+                "transliteration": "lî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " to Jerusalem . "
+            },
+            {
+                "token": "וָאָבִ֣ינָה",
+                "transliteration": "wā·’ā·ḇî·nāh",
+                "strong": "995",
+                "translation": " Then I discovered "
+            },
+            {
+                "token": "בָרָעָ֗ה",
+                "transliteration": "ḇā·rā·‘āh",
+                "strong": "7451",
+                "translation": " the evil "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֶלְיָשִׁיב֙",
+                "transliteration": "’el·yā·šîḇ",
+                "strong": "475",
+                "translation": " Eliashib "
+            },
+            {
+                "token": "עָשָׂ֤ה",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " had done "
+            },
+            {
+                "token": "לְט֣וֹבִיָּ֔ה",
+                "transliteration": "lə·ṭō·w·ḇî·yāh",
+                "strong": "2900",
+                "translation": " on behalf of Tobiah "
+            },
+            {
+                "token": "לַעֲשׂ֥וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " by providing "
+            },
+            {
+                "token": "לוֹ֙",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him "
+            },
+            {
+                "token": "נִשְׁכָּ֔ה",
+                "transliteration": "niš·kāh",
+                "strong": "5393",
+                "translation": " a room "
+            },
+            {
+                "token": "בְּחַצְרֵ֖י",
+                "transliteration": "bə·ḥaṣ·rê",
+                "strong": "2691",
+                "translation": " in the courts "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "הָאֱלֹהִֽים׃",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:7",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מְאֹ֑ד",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " And I was greatly "
+            },
+            {
+                "token": "וַיֵּ֥רַֽע",
+                "transliteration": "way·yê·ra‘",
+                "strong": "7489",
+                "translation": " displeased "
+            },
+            {
+                "token": "לִ֖י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וָֽאַשְׁלִ֜יכָה",
+                "transliteration": "wā·’aš·lî·ḵāh",
+                "strong": "7993",
+                "translation": " and threw "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "טוֹבִיָּ֛ה",
+                "transliteration": "ṭō·w·ḇî·yāh",
+                "strong": "2900",
+                "translation": " of Tobiah’s "
+            },
+            {
+                "token": "בֵית־",
+                "transliteration": "ḇêṯ-",
+                "strong": "1004",
+                "translation": " household "
+            },
+            {
+                "token": "כְּלֵ֧י",
+                "transliteration": "kə·lê",
+                "strong": "3627",
+                "translation": " goods "
+            },
+            {
+                "token": "הַח֖וּץ",
+                "transliteration": "ha·ḥūṣ",
+                "strong": "2351",
+                "translation": " out "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַלִּשְׁכָּֽה׃",
+                "transliteration": "hal·liš·kāh",
+                "strong": "3957",
+                "translation": " the room . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:8",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֹ֣מְרָ֔ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " Then I ordered "
+            },
+            {
+                "token": "הַלְּשָׁכ֑וֹת",
+                "transliteration": "hal·lə·šā·ḵō·wṯ",
+                "strong": "3957",
+                "translation": " that the rooms "
+            },
+            {
+                "token": "וַֽיְטַהֲר֖וּ",
+                "transliteration": "way·ṭa·hă·rū",
+                "strong": "2891",
+                "translation": " be purified , "
+            },
+            {
+                "token": "כְּלֵי֙",
+                "transliteration": "kə·lê",
+                "strong": "3627",
+                "translation": " and I had the articles "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "הָאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וָאָשִׁ֣יבָה",
+                "transliteration": "wā·’ā·šî·ḇāh",
+                "strong": "7725",
+                "translation": " restored "
+            },
+            {
+                "token": "שָּׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " to them , "
+            },
+            {
+                "token": "הַמִּנְחָ֖ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " along with the grain offerings "
+            },
+            {
+                "token": "וְהַלְּבוֹנָֽה׃פ",
+                "transliteration": "wə·hal·lə·ḇō·w·nāh",
+                "strong": "3828",
+                "translation": " and frankincense . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:9",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֵ֣דְעָ֔ה",
+                "transliteration": "wā·’ê·ḏə·‘āh",
+                "strong": "3045",
+                "translation": " I also learned "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "מְנָי֥וֹת",
+                "transliteration": "mə·nā·yō·wṯ",
+                "strong": "4521",
+                "translation": " because the portions "
+            },
+            {
+                "token": "הַלְוִיִּ֖ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " for the Levites "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " had not "
+            },
+            {
+                "token": "נִתָּ֑נָה",
+                "transliteration": "nit·tā·nāh",
+                "strong": "5414",
+                "translation": " been given to them , "
+            },
+            {
+                "token": "אִישׁ־",
+                "transliteration": "’îš-",
+                "strong": "376",
+                "translation": " all "
+            },
+            {
+                "token": "הַלְוִיִּ֥ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " the Levites "
+            },
+            {
+                "token": "וְהַמְשֹׁרְרִ֖ים",
+                "transliteration": "wə·ham·šō·rə·rîm",
+                "strong": "7891",
+                "translation": " and singers "
+            },
+            {
+                "token": "עֹשֵׂ֥י",
+                "transliteration": "‘ō·śê",
+                "strong": "6213",
+                "translation": " responsible for performing "
+            },
+            {
+                "token": "הַמְּלָאכָֽה׃",
+                "transliteration": "ham·mə·lā·ḵāh",
+                "strong": "4399",
+                "translation": " the service "
+            },
+            {
+                "token": "וַיִּבְרְח֧וּ",
+                "transliteration": "way·yiḇ·rə·ḥū",
+                "strong": "1272",
+                "translation": " had gone back "
+            },
+            {
+                "token": "לְשָׂדֵ֛הוּ",
+                "transliteration": "lə·śā·ḏê·hū",
+                "strong": "7704",
+                "translation": " to their own fields . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:10",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאָרִ֙יבָה֙",
+                "transliteration": "wā·’ā·rî·ḇāh",
+                "strong": "7378",
+                "translation": " So I rebuked "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " "
+            },
+            {
+                "token": "הַסְּגָנִ֔ים",
+                "transliteration": "has·sə·ḡā·nîm",
+                "strong": "5461",
+                "translation": " the officials "
+            },
+            {
+                "token": "וָאֹ֣מְרָ֔ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " and asked , "
+            },
+            {
+                "token": "מַדּ֖וּעַ",
+                "transliteration": "mad·dū·a‘",
+                "strong": "4069",
+                "translation": " “ Why "
+            },
+            {
+                "token": "בֵּית־",
+                "transliteration": "bêṯ-",
+                "strong": "1004",
+                "translation": " has the house "
+            },
+            {
+                "token": "הָאֱלֹהִ֑ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "נֶעֱזַ֣ב",
+                "transliteration": "ne·‘ĕ·zaḇ",
+                "strong": "5800",
+                "translation": " been neglected ? ” "
+            },
+            {
+                "token": "וָֽאֶ֨קְבְּצֵ֔ם",
+                "transliteration": "wā·’eq·bə·ṣêm",
+                "strong": "6908",
+                "translation": " Then I gathered the Levites and singers together "
+            },
+            {
+                "token": "וָֽאַעֲמִדֵ֖ם",
+                "transliteration": "wā·’a·‘ă·mi·ḏêm",
+                "strong": "5975",
+                "translation": " and stationed them "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " at "
+            },
+            {
+                "token": "עָמְדָֽם׃",
+                "transliteration": "‘ā·mə·ḏām",
+                "strong": "5977",
+                "translation": " their posts , "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:11",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יְהוּדָ֗ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah "
+            },
+            {
+                "token": "הֵבִ֜יאוּ",
+                "transliteration": "hê·ḇî·’ū",
+                "strong": "935",
+                "translation": " brought "
+            },
+            {
+                "token": "מַעְשַׂ֧ר",
+                "transliteration": "ma‘·śar",
+                "strong": "4643",
+                "translation": " a tenth "
+            },
+            {
+                "token": "הַדָּגָ֛ן",
+                "transliteration": "had·dā·ḡān",
+                "strong": "1715",
+                "translation": " of the grain , "
+            },
+            {
+                "token": "וְהַתִּיר֥וֹשׁ",
+                "transliteration": "wə·hat·tî·rō·wōš",
+                "strong": "8492",
+                "translation": " new wine , "
+            },
+            {
+                "token": "וְהַיִּצְהָ֖ר",
+                "transliteration": "wə·hay·yiṣ·hār",
+                "strong": "3323",
+                "translation": " and oil "
+            },
+            {
+                "token": "לָאוֹצָרֽוֹת׃",
+                "transliteration": "lā·’ō·w·ṣā·rō·wṯ",
+                "strong": "214",
+                "translation": " into the storerooms . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:12",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאוֹצְרָ֣ה",
+                "transliteration": "wā·’ō·wṣ·rāh",
+                "strong": "686",
+                "translation": " I appointed as treasurers "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "א֠וֹצָרוֹת",
+                "transliteration": "’ō·w·ṣā·rō·wṯ",
+                "strong": "214",
+                "translation": " the storerooms "
+            },
+            {
+                "token": "שֶׁלֶמְיָ֨ה",
+                "transliteration": "še·lem·yāh",
+                "strong": "8018",
+                "translation": " Shelemiah "
+            },
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest , "
+            },
+            {
+                "token": "וְצָד֣וֹק",
+                "transliteration": "wə·ṣā·ḏō·wq",
+                "strong": "6659",
+                "translation": " Zadok "
+            },
+            {
+                "token": "הַסּוֹפֵ֗ר",
+                "transliteration": "has·sō·w·p̄êr",
+                "strong": "5608",
+                "translation": " the scribe , "
+            },
+            {
+                "token": "וּפְדָיָה֙",
+                "transliteration": "ū·p̄ə·ḏā·yāh",
+                "strong": "6305",
+                "translation": " and Pedaiah "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַלְוִיִּ֔ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " the Levites , "
+            },
+            {
+                "token": "חָנָ֥ן",
+                "transliteration": "ḥā·nān",
+                "strong": "2605",
+                "translation": " with Hanan "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "זַכּ֖וּר",
+                "transliteration": "zak·kūr",
+                "strong": "2139",
+                "translation": " of Zaccur , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " the son "
+            },
+            {
+                "token": "מַתַּנְיָ֑ה",
+                "transliteration": "mat·tan·yāh",
+                "strong": "4983",
+                "translation": " of Mattaniah , "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " to assist "
+            },
+            {
+                "token": "יָדָ֔ם",
+                "transliteration": "yā·ḏām",
+                "strong": "3027",
+                "translation": " them , "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "נֶחְשָׁ֔בוּ",
+                "transliteration": "neḥ·šā·ḇū",
+                "strong": "2803",
+                "translation": " they were considered "
+            },
+            {
+                "token": "נֶאֱמָנִים֙",
+                "transliteration": "ne·’ĕ·mā·nîm",
+                "strong": "539",
+                "translation": " trustworthy . "
+            },
+            {
+                "token": "וַעֲלֵיהֶ֖ם",
+                "transliteration": "wa·‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " They were responsible for "
+            },
+            {
+                "token": "לַחֲלֹ֥ק",
+                "transliteration": "la·ḥă·lōq",
+                "strong": "2505",
+                "translation": " distributing the supplies "
+            },
+            {
+                "token": "לַאֲחֵיהֶֽם׃פ",
+                "transliteration": "la·’ă·ḥê·hem",
+                "strong": "251",
+                "translation": " to their fellow [Levites] . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:13",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זָכְרָה־",
+                "transliteration": "zā·ḵə·rāh-",
+                "strong": "2142",
+                "translation": " Remember "
+            },
+            {
+                "token": "לִּ֥י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " for "
+            },
+            {
+                "token": "זֹ֑את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this , "
+            },
+            {
+                "token": "אֱלֹהַ֖י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "וְאַל־",
+                "transliteration": "wə·’al-",
+                "strong": "408",
+                "translation": " and do not "
+            },
+            {
+                "token": "תֶּ֣מַח",
+                "transliteration": "te·maḥ",
+                "strong": "4229",
+                "translation": " blot out "
+            },
+            {
+                "token": "חֲסָדַ֗י",
+                "transliteration": "ḥă·sā·ḏay",
+                "strong": "2617",
+                "translation": " my deeds of loving devotion "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עָשִׂ֛יתִי",
+                "transliteration": "‘ā·śî·ṯî",
+                "strong": "6213",
+                "translation": " - "
+            },
+            {
+                "token": "בְּבֵ֥ית",
+                "transliteration": "bə·ḇêṯ",
+                "strong": "1004",
+                "translation": " for the house "
+            },
+            {
+                "token": "אֱלֹהַ֖י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " of my God "
+            },
+            {
+                "token": "וּבְמִשְׁמָרָֽיו׃",
+                "transliteration": "ū·ḇə·miš·mā·rāw",
+                "strong": "4929",
+                "translation": " and for its services . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:14",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָהֵ֡מָּה",
+                "transliteration": "hā·hêm·māh",
+                "strong": "1992",
+                "translation": " In those "
+            },
+            {
+                "token": "בַּיָּמִ֣ים",
+                "transliteration": "bay·yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "רָאִ֣יתִי",
+                "transliteration": "rā·’î·ṯî",
+                "strong": "7200",
+                "translation": " I saw "
+            },
+            {
+                "token": "בִֽיהוּדָ֣ה׀",
+                "transliteration": "ḇî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " people in Judah "
+            },
+            {
+                "token": "דֹּֽרְכִֽים־",
+                "transliteration": "dō·rə·ḵîm-",
+                "strong": "1869",
+                "translation": " treading "
+            },
+            {
+                "token": "גִּתּ֣וֹת׀",
+                "transliteration": "git·tō·wṯ",
+                "strong": "1660",
+                "translation": " winepresses "
+            },
+            {
+                "token": "בַּשַּׁבָּ֡ת",
+                "transliteration": "baš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " on the Sabbath "
+            },
+            {
+                "token": "וּמְבִיאִ֣ים",
+                "transliteration": "ū·mə·ḇî·’îm",
+                "strong": "935",
+                "translation": " and bringing in "
+            },
+            {
+                "token": "הָעֲרֵמ֣וֹת",
+                "transliteration": "hā·‘ă·rê·mō·wṯ",
+                "strong": "6194",
+                "translation": " grain "
+            },
+            {
+                "token": "וְֽעֹמְסִ֪ים",
+                "transliteration": "wə·‘ō·mə·sîm",
+                "strong": "6006",
+                "translation": " and loading it "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "הַחֲמֹרִ֟ים",
+                "transliteration": "ha·ḥă·mō·rîm",
+                "strong": "2543",
+                "translation": " donkeys , "
+            },
+            {
+                "token": "וְאַף־",
+                "transliteration": "wə·’ap̄-",
+                "strong": "637",
+                "translation": " along with "
+            },
+            {
+                "token": "יַ֜יִן",
+                "transliteration": "ya·yin",
+                "strong": "3196",
+                "translation": " wine , "
+            },
+            {
+                "token": "עֲנָבִ֤ים",
+                "transliteration": "‘ă·nā·ḇîm",
+                "strong": "6025",
+                "translation": " grapes , "
+            },
+            {
+                "token": "וּתְאֵנִים֙",
+                "transliteration": "ū·ṯə·’ê·nîm",
+                "strong": "8384",
+                "translation": " and figs . "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " All kinds "
+            },
+            {
+                "token": "מַשָּׂ֔א",
+                "transliteration": "maś·śā",
+                "strong": "4853",
+                "translation": " of goods "
+            },
+            {
+                "token": "וּמְבִיאִ֥ים",
+                "transliteration": "ū·mə·ḇî·’îm",
+                "strong": "935",
+                "translation": " were being brought "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֖ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " into Jerusalem "
+            },
+            {
+                "token": "הַשַּׁבָּ֑ת",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " on the Sabbath "
+            },
+            {
+                "token": "בְּי֣וֹם",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            },
+            {
+                "token": "וָאָעִ֕יד",
+                "transliteration": "wā·’ā·‘îḏ",
+                "strong": "5749",
+                "translation": " So I warned them "
+            },
+            {
+                "token": "מִכְרָ֥ם",
+                "transliteration": "miḵ·rām",
+                "strong": "4376",
+                "translation": " against selling "
+            },
+            {
+                "token": "צָֽיִד׃",
+                "transliteration": "ṣā·yiḏ",
+                "strong": "6718",
+                "translation": " food "
+            },
+            {
+                "token": "בְּי֖וֹם",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " on that day . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:15",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַצֹּרִים֙",
+                "transliteration": "wə·haṣ·ṣō·rîm",
+                "strong": "6876",
+                "translation": " Additionally, [men of] Tyre "
+            },
+            {
+                "token": "יָ֣שְׁבוּ",
+                "transliteration": "yā·šə·ḇū",
+                "strong": "3427",
+                "translation": " who lived "
+            },
+            {
+                "token": "בָ֔הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " there "
+            },
+            {
+                "token": "מְבִיאִ֥ים",
+                "transliteration": "mə·ḇî·’îm",
+                "strong": "935",
+                "translation": " were importing "
+            },
+            {
+                "token": "דָּ֖אג",
+                "transliteration": "dāḡ",
+                "strong": "1709",
+                "translation": " fish "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all kinds "
+            },
+            {
+                "token": "מֶ֑כֶר",
+                "transliteration": "me·ḵer",
+                "strong": "4377",
+                "translation": " of merchandise "
+            },
+            {
+                "token": "וּמֹכְרִ֧ים",
+                "transliteration": "ū·mō·ḵə·rîm",
+                "strong": "4376",
+                "translation": " and selling them "
+            },
+            {
+                "token": "בַּשַּׁבָּ֛ת",
+                "transliteration": "baš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " on the Sabbath "
+            },
+            {
+                "token": "לִבְנֵ֥י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " to the people "
+            },
+            {
+                "token": "יְהוּדָ֖ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וּבִירוּשָׁלִָֽם׃",
+                "transliteration": "ū·ḇî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " in Jerusalem . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:16",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאָרִ֕יבָה",
+                "transliteration": "wā·’ā·rî·ḇāh",
+                "strong": "7378",
+                "translation": " Then I rebuked "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֹרֵ֣י",
+                "transliteration": "ḥō·rê",
+                "strong": "2715",
+                "translation": " the nobles "
+            },
+            {
+                "token": "יְהוּדָ֑ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וָאֹמְרָ֣ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " and asked "
+            },
+            {
+                "token": "לָהֶ֗ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "מָֽה־",
+                "transliteration": "māh-",
+                "strong": "4100",
+                "translation": " “ What "
+            },
+            {
+                "token": "הַדָּבָ֨ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַזֶּה֙",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " is this "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָרָ֤ע",
+                "transliteration": "hā·rā‘",
+                "strong": "7451",
+                "translation": " evil "
+            },
+            {
+                "token": "אַתֶּ֣ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "עֹשִׂ֔ים",
+                "transliteration": "‘ō·śîm",
+                "strong": "6213",
+                "translation": " are doing — "
+            },
+            {
+                "token": "וּֽמְחַלְּלִ֖ים",
+                "transliteration": "ū·mə·ḥal·lə·lîm",
+                "strong": "2490",
+                "translation": " profaning "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשַּׁבָּֽת׃",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " the Sabbath "
+            },
+            {
+                "token": "י֥וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day ? "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:17",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲל֨וֹא",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " Did not "
+            },
+            {
+                "token": "אֲבֹ֣תֵיכֶ֔ם",
+                "transliteration": "’ă·ḇō·ṯê·ḵem",
+                "strong": "1",
+                "translation": " your forefathers "
+            },
+            {
+                "token": "עָשׂוּ֙",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " do "
+            },
+            {
+                "token": "כֹ֤ה",
+                "transliteration": "ḵōh",
+                "strong": "3541",
+                "translation": " the same things , "
+            },
+            {
+                "token": "אֱלֹהֵ֜ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " so that our God "
+            },
+            {
+                "token": "וַיָּבֵ֨א",
+                "transliteration": "way·yā·ḇê",
+                "strong": "935",
+                "translation": " brought "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַזֹּ֔את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "הָרָעָ֣ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " disaster "
+            },
+            {
+                "token": "עָלֵ֗ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " on us "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְעַ֖ל",
+                "transliteration": "wə·‘al",
+                "strong": "5921",
+                "translation": " and on "
+            },
+            {
+                "token": "הַזֹּ֑את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "הָעִ֣יר",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " city ? "
+            },
+            {
+                "token": "וְאַתֶּ֞ם",
+                "transliteration": "wə·’at·tem",
+                "strong": "859",
+                "translation": " And now "
+            },
+            {
+                "token": "מוֹסִיפִ֤ים",
+                "transliteration": "mō·w·sî·p̄îm",
+                "strong": "3254",
+                "translation": " you are rekindling "
+            },
+            {
+                "token": "חָרוֹן֙",
+                "transliteration": "ḥā·rō·wn",
+                "strong": "2740",
+                "translation": " His wrath "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "לְחַלֵּ֖ל",
+                "transliteration": "lə·ḥal·lêl",
+                "strong": "2490",
+                "translation": " by profaning "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשַּׁבָּֽת׃פ",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " the Sabbath ! ” "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:18",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֡י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כַּאֲשֶׁ֣ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " When "
+            },
+            {
+                "token": "צָֽלֲלוּ֩",
+                "transliteration": "ṣā·lă·lū",
+                "strong": "6751",
+                "translation": " the evening shadows "
+            },
+            {
+                "token": "שַׁעֲרֵ֨י",
+                "transliteration": "ša·‘ă·rê",
+                "strong": "8179",
+                "translation": " began to fall on the gates "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֜ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem , "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " just before "
+            },
+            {
+                "token": "הַשַּׁבָּ֗ת",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " the Sabbath , "
+            },
+            {
+                "token": "וָאֹֽמְרָה֙",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " I ordered "
+            },
+            {
+                "token": "הַדְּלָת֔וֹת",
+                "transliteration": "had·də·lā·ṯō·wṯ",
+                "strong": "1817",
+                "translation": " that the gates "
+            },
+            {
+                "token": "וָאֹ֣מְרָ֔ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר֙",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּסָּגְר֣וּ",
+                "transliteration": "way·yis·sā·ḡə·rū",
+                "strong": "5462",
+                "translation": " be shut "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and not "
+            },
+            {
+                "token": "יִפְתָּח֔וּם",
+                "transliteration": "yip̄·tā·ḥūm",
+                "strong": "6605",
+                "translation": " opened "
+            },
+            {
+                "token": "עַ֖ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "אַחַ֣ר",
+                "transliteration": "’a·ḥar",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "הַשַּׁבָּ֑ת",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " the Sabbath . "
+            },
+            {
+                "token": "הֶֽעֱמַ֙דְתִּי֙",
+                "transliteration": "he·‘ĕ·maḏ·tî",
+                "strong": "5975",
+                "translation": " I posted "
+            },
+            {
+                "token": "וּמִנְּעָרַ֗י",
+                "transliteration": "ū·min·nə·‘ā·ray",
+                "strong": "5288",
+                "translation": " some of my servants "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " at "
+            },
+            {
+                "token": "הַשְּׁעָרִ֔ים",
+                "transliteration": "haš·šə·‘ā·rîm",
+                "strong": "8179",
+                "translation": " the gates "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " so that no "
+            },
+            {
+                "token": "מַשָּׂ֖א",
+                "transliteration": "maś·śā",
+                "strong": "4853",
+                "translation": " load "
+            },
+            {
+                "token": "יָב֥וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " could enter "
+            },
+            {
+                "token": "הַשַּׁבָּֽת׃",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " on the Sabbath "
+            },
+            {
+                "token": "בְּי֥וֹם",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:19",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פַּ֥עַם",
+                "transliteration": "pa·‘am",
+                "strong": "6471",
+                "translation": " Once "
+            },
+            {
+                "token": "וּשְׁתָּֽיִם׃",
+                "transliteration": "ū·šə·tā·yim",
+                "strong": "8147",
+                "translation": " or twice , "
+            },
+            {
+                "token": "הָרֹכְלִ֜ים",
+                "transliteration": "hā·rō·ḵə·lîm",
+                "strong": "7402",
+                "translation": " the merchants "
+            },
+            {
+                "token": "וּמֹכְרֵ֧י",
+                "transliteration": "ū·mō·ḵə·rê",
+                "strong": "4376",
+                "translation": " and those who sell "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all kinds "
+            },
+            {
+                "token": "מִמְכָּ֛ר",
+                "transliteration": "mim·kār",
+                "strong": "4465",
+                "translation": " of goods "
+            },
+            {
+                "token": "וַיָּלִ֨ינוּ",
+                "transliteration": "way·yā·lî·nū",
+                "strong": "3885",
+                "translation": " camped "
+            },
+            {
+                "token": "מִח֥וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לִירוּשָׁלִָ֖ם",
+                "transliteration": "lî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:20",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאָעִ֣ידָה",
+                "transliteration": "wā·’ā·‘î·ḏāh",
+                "strong": "5749",
+                "translation": " but I warned "
+            },
+            {
+                "token": "בָהֶ֗ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "וָאֹמְרָ֤ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " - "
+            },
+            {
+                "token": "אֲלֵיהֶם֙",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " - , "
+            },
+            {
+                "token": "מַדּ֜וּעַ",
+                "transliteration": "mad·dū·a‘",
+                "strong": "4069",
+                "translation": " “ Why "
+            },
+            {
+                "token": "אַתֶּ֤ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " are you "
+            },
+            {
+                "token": "לֵנִים֙",
+                "transliteration": "lê·nîm",
+                "strong": "3885",
+                "translation": " camping "
+            },
+            {
+                "token": "נֶ֣גֶד",
+                "transliteration": "ne·ḡeḏ",
+                "strong": "5048",
+                "translation": " in front of "
+            },
+            {
+                "token": "הַחוֹמָ֔ה",
+                "transliteration": "ha·ḥō·w·māh",
+                "strong": "2346",
+                "translation": " the wall ? "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "תִּשְׁנ֕וּ",
+                "transliteration": "tiš·nū",
+                "strong": "8138",
+                "translation": " you do it again , "
+            },
+            {
+                "token": "אֶשְׁלַ֣ח",
+                "transliteration": "’eš·laḥ",
+                "strong": "7971",
+                "translation": " I will lay "
+            },
+            {
+                "token": "יָ֖ד",
+                "transliteration": "yāḏ",
+                "strong": "3027",
+                "translation": " hands "
+            },
+            {
+                "token": "בָּכֶ֑ם",
+                "transliteration": "bā·ḵem",
+                "strong": "",
+                "translation": " on you . ” "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " From "
+            },
+            {
+                "token": "הַהִ֔יא",
+                "transliteration": "ha·hî",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "הָעֵ֣ת",
+                "transliteration": "hā·‘êṯ",
+                "strong": "6256",
+                "translation": " time on , "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " they did not "
+            },
+            {
+                "token": "בָ֖אוּ",
+                "transliteration": "ḇā·’ū",
+                "strong": "935",
+                "translation": " return "
+            },
+            {
+                "token": "בַּשַּׁבָּֽת׃ס",
+                "transliteration": "baš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " on the Sabbath . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:21",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֹמְרָ֣ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " Then I instructed "
+            },
+            {
+                "token": "לַלְוִיִּ֗ם",
+                "transliteration": "lal·wî·yim",
+                "strong": "3881",
+                "translation": " the Levites "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יִֽהְי֤וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "מִֽטַּהֲרִים֙",
+                "transliteration": "miṭ·ṭa·hă·rîm",
+                "strong": "2891",
+                "translation": " to purify themselves "
+            },
+            {
+                "token": "וּבָאִים֙",
+                "transliteration": "ū·ḇā·’îm",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "שֹׁמְרִ֣ים",
+                "transliteration": "šō·mə·rîm",
+                "strong": "8104",
+                "translation": " and guard "
+            },
+            {
+                "token": "הַשְּׁעָרִ֔ים",
+                "transliteration": "haš·šə·‘ā·rîm",
+                "strong": "8179",
+                "translation": " the gates "
+            },
+            {
+                "token": "הַשַּׁבָּ֑ת",
+                "transliteration": "haš·šab·bāṯ",
+                "strong": "7676",
+                "translation": " in order to keep the Sabbath "
+            },
+            {
+                "token": "י֣וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "לְקַדֵּ֖שׁ",
+                "transliteration": "lə·qad·dêš",
+                "strong": "6942",
+                "translation": " holy . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "זָכְרָה־",
+                "transliteration": "zā·ḵə·rāh-",
+                "strong": "2142",
+                "translation": " Remember "
+            },
+            {
+                "token": "לִּ֣י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "זֹאת֙",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " for this "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " as well , "
+            },
+            {
+                "token": "אֱלֹהַ֔י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "עָלַ֖י",
+                "transliteration": "‘ā·lay",
+                "strong": "5921",
+                "translation": " and {show} me "
+            },
+            {
+                "token": "וְח֥וּסָה",
+                "transliteration": "wə·ḥū·sāh",
+                "strong": "2347",
+                "translation": " mercy "
+            },
+            {
+                "token": "כְּרֹ֥ב",
+                "transliteration": "kə·rōḇ",
+                "strong": "7230",
+                "translation": " according to Your abundant "
+            },
+            {
+                "token": "חַסְדֶּֽךָ׃פ",
+                "transliteration": "ḥas·de·ḵā",
+                "strong": "2617",
+                "translation": " loving devotion . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:22",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָהֵ֗ם",
+                "transliteration": "hā·hêm",
+                "strong": "1992",
+                "translation": " In those "
+            },
+            {
+                "token": "בַּיָּמִ֣ים",
+                "transliteration": "bay·yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "גַּ֣ם׀",
+                "transliteration": "gam",
+                "strong": "1571",
+                "translation": " I also "
+            },
+            {
+                "token": "רָאִ֤יתִי",
+                "transliteration": "rā·’î·ṯî",
+                "strong": "7200",
+                "translation": " saw "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַיְּהוּדִים֙",
+                "transliteration": "hay·yə·hū·ḏîm",
+                "strong": "3064",
+                "translation": " Jews "
+            },
+            {
+                "token": "הֹשִׁ֗יבוּ",
+                "transliteration": "hō·šî·ḇū",
+                "strong": "3427",
+                "translation": " who had married "
+            },
+            {
+                "token": "נָשִׁים֙",
+                "transliteration": "nā·šîm",
+                "strong": "802",
+                "translation": " women "
+            },
+            {
+                "token": "אַשְׁדּוֹדִיּוֹת",
+                "transliteration": "ʾaš·dō·ḏī·yōṯ",
+                "strong": "796",
+                "translation": " from Ashdod , "
+            },
+            {
+                "token": "עַמּוֹנִיּוֹת",
+                "transliteration": "ʿam·mō·nī·yōṯ",
+                "strong": "5984",
+                "translation": " Ammon , "
+            },
+            {
+                "token": "מוֹאֲבִיּֽוֹת׃",
+                "transliteration": "mō·w·’ă·ḇî·yō·wṯ",
+                "strong": "4125",
+                "translation": " and Moab . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:23",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חֲצִי֙",
+                "transliteration": "ḥă·ṣî",
+                "strong": "2677",
+                "translation": " Half "
+            },
+            {
+                "token": "וּבְנֵיהֶ֗ם",
+                "transliteration": "ū·ḇə·nê·hem",
+                "strong": "1121",
+                "translation": " of their children "
+            },
+            {
+                "token": "מְדַבֵּ֣ר",
+                "transliteration": "mə·ḏab·bêr",
+                "strong": "1696",
+                "translation": " spoke "
+            },
+            {
+                "token": "אַשְׁדּוֹדִ֔ית",
+                "transliteration": "’aš·dō·w·ḏîṯ",
+                "strong": "797",
+                "translation": " the language of Ashdod "
+            },
+            {
+                "token": "וְכִלְשׁ֖וֹן",
+                "transliteration": "wə·ḵil·šō·wn",
+                "strong": "3956",
+                "translation": " or of "
+            },
+            {
+                "token": "עַ֥ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " the other peoples , "
+            },
+            {
+                "token": "וָעָֽם׃",
+                "transliteration": "wā·‘ām",
+                "strong": "5971",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַכִּירִ֖ים",
+                "transliteration": "mak·kî·rîm",
+                "strong": "5234",
+                "translation": " but could "
+            },
+            {
+                "token": "וְאֵינָ֥ם",
+                "transliteration": "wə·’ê·nām",
+                "strong": "369",
+                "translation": " not "
+            },
+            {
+                "token": "לְדַבֵּ֣ר",
+                "transliteration": "lə·ḏab·bêr",
+                "strong": "1696",
+                "translation": " speak "
+            },
+            {
+                "token": "יְהוּדִ֑ית",
+                "transliteration": "yə·hū·ḏîṯ",
+                "strong": "3066",
+                "translation": " the language of Judah . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:24",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאָרִ֤יב",
+                "transliteration": "wā·’ā·rîḇ",
+                "strong": "7378",
+                "translation": " I rebuked them "
+            },
+            {
+                "token": "עִמָּם֙",
+                "transliteration": "‘im·mām",
+                "strong": "5973",
+                "translation": " . . . "
+            },
+            {
+                "token": "וָאֲקַֽלְלֵ֔ם",
+                "transliteration": "wā·’ă·qal·lêm",
+                "strong": "7043",
+                "translation": " and called down curses on them . "
+            },
+            {
+                "token": "וָאַכֶּ֥ה",
+                "transliteration": "wā·’ak·keh",
+                "strong": "5221",
+                "translation": " I beat "
+            },
+            {
+                "token": "מֵהֶ֛ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " some of "
+            },
+            {
+                "token": "אֲנָשִׁ֖ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " these men "
+            },
+            {
+                "token": "וָֽאֶמְרְטֵ֑ם",
+                "transliteration": "wā·’em·rə·ṭêm",
+                "strong": "4803",
+                "translation": " and pulled out their hair . "
+            },
+            {
+                "token": "וָאַשְׁבִּיעֵ֣ם",
+                "transliteration": "wā·’aš·bî·‘êm",
+                "strong": "7650",
+                "translation": " Then I made them take an oath "
+            },
+            {
+                "token": "בֵּֽאלֹהִ֗ים",
+                "transliteration": "bê·lō·hîm",
+                "strong": "430",
+                "translation": " before God [and said] , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " “ You must not "
+            },
+            {
+                "token": "בְנֹֽתֵיכֶם֙",
+                "transliteration": "ḇə·nō·ṯê·ḵem",
+                "strong": "1323",
+                "translation": " give your daughters "
+            },
+            {
+                "token": "תִּתְּנ֤וּ",
+                "transliteration": "tit·tə·nū",
+                "strong": "5414",
+                "translation": " in marriage "
+            },
+            {
+                "token": "לִבְנֵיהֶ֔ם",
+                "transliteration": "liḇ·nê·hem",
+                "strong": "1121",
+                "translation": " to their sons "
+            },
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִּשְׂאוּ֙",
+                "transliteration": "tiś·’ū",
+                "strong": "5375",
+                "translation": " or take "
+            },
+            {
+                "token": "מִבְּנֹ֣תֵיהֶ֔ם",
+                "transliteration": "mib·bə·nō·ṯê·hem",
+                "strong": "1323",
+                "translation": " their daughters "
+            },
+            {
+                "token": "לִבְנֵיכֶ֖ם",
+                "transliteration": "liḇ·nê·ḵem",
+                "strong": "1121",
+                "translation": " as wives for your sons "
+            },
+            {
+                "token": "וְלָכֶֽם׃",
+                "transliteration": "wə·lā·ḵem",
+                "strong": "",
+                "translation": " or for yourselves ! "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:25",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲל֣וֹא",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " Did not "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " King "
+            },
+            {
+                "token": "שְׁלֹמֹ֣ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "יִשְׂרָאֵ֡ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "חָטָֽא־",
+                "transliteration": "ḥā·ṭā-",
+                "strong": "2398",
+                "translation": " sin "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "אֵ֣לֶּה",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " matters like this ? "
+            },
+            {
+                "token": "הָיָ֨ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " There was "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "מֶ֜לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " a king "
+            },
+            {
+                "token": "כָּמֹ֗הוּ",
+                "transliteration": "kā·mō·hū",
+                "strong": "3644",
+                "translation": " like him "
+            },
+            {
+                "token": "הָרַבִּים֩",
+                "transliteration": "hā·rab·bîm",
+                "strong": "7227",
+                "translation": " among many "
+            },
+            {
+                "token": "וּבַגּוֹיִ֣ם",
+                "transliteration": "ū·ḇag·gō·w·yim",
+                "strong": "1471",
+                "translation": " nations , "
+            },
+            {
+                "token": "הָיָ֔ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " and he was "
+            },
+            {
+                "token": "וְאָה֤וּב",
+                "transliteration": "wə·’ā·hūḇ",
+                "strong": "157",
+                "translation": " loved "
+            },
+            {
+                "token": "לֵֽאלֹהָיו֙",
+                "transliteration": "lê·lō·hāw",
+                "strong": "430",
+                "translation": " by his God , "
+            },
+            {
+                "token": "אֱלֹהִ֔ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " [who] "
+            },
+            {
+                "token": "וַיִּתְּנֵ֣הוּ",
+                "transliteration": "way·yit·tə·nê·hū",
+                "strong": "5414",
+                "translation": " made him "
+            },
+            {
+                "token": "מֶ֖לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel — "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " yet "
+            },
+            {
+                "token": "הַנָּכְרִיּֽוֹת׃",
+                "transliteration": "han·nā·ḵə·rî·yō·wṯ",
+                "strong": "5237",
+                "translation": " foreign "
+            },
+            {
+                "token": "הַנָּשִׁ֖ים",
+                "transliteration": "han·nā·šîm",
+                "strong": "802",
+                "translation": " women "
+            },
+            {
+                "token": "אוֹת֣וֹ",
+                "transliteration": "’ō·w·ṯōw",
+                "strong": "853",
+                "translation": " vvv "
+            },
+            {
+                "token": "הֶחֱטִ֔יאוּ",
+                "transliteration": "he·ḥĕ·ṭî·’ū",
+                "strong": "2398",
+                "translation": " drew him into sin . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:26",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלָכֶ֣ם",
+                "transliteration": "wə·lā·ḵem",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "הֲנִשְׁמַ֗ע",
+                "transliteration": "hă·niš·ma‘",
+                "strong": "8085",
+                "translation": " Must we now hear "
+            },
+            {
+                "token": "לַעֲשֹׂת֙",
+                "transliteration": "la·‘ă·śōṯ",
+                "strong": "6213",
+                "translation": " that you too are doing "
+            },
+            {
+                "token": "אֵ֣ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַזֹּ֔את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "הַגְּדוֹלָה֙",
+                "transliteration": "hag·gə·ḏō·w·lāh",
+                "strong": "1419",
+                "translation": " terrible "
+            },
+            {
+                "token": "הָרָעָ֤ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " evil "
+            },
+            {
+                "token": "לִמְעֹ֖ל",
+                "transliteration": "lim·‘ōl",
+                "strong": "4603",
+                "translation": " and acting unfaithfully "
+            },
+            {
+                "token": "בֵּֽאלֹהֵ֑ינוּ",
+                "transliteration": "bê·lō·hê·nū",
+                "strong": "430",
+                "translation": " against our God "
+            },
+            {
+                "token": "לְהֹשִׁ֖יב",
+                "transliteration": "lə·hō·šîḇ",
+                "strong": "3427",
+                "translation": " by marrying "
+            },
+            {
+                "token": "נָכְרִיּֽוֹת׃",
+                "transliteration": "nā·ḵə·rî·yō·wṯ",
+                "strong": "5237",
+                "translation": " foreign "
+            },
+            {
+                "token": "נָשִׁ֥ים",
+                "transliteration": "nā·šîm",
+                "strong": "802",
+                "translation": " women ? ” "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:27",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמִבְּנֵ֨י",
+                "transliteration": "ū·mib·bə·nê",
+                "strong": "1121",
+                "translation": " Even one of the sons "
+            },
+            {
+                "token": "יוֹיָדָ֤ע",
+                "transliteration": "yō·w·yā·ḏā‘",
+                "strong": "3111",
+                "translation": " of Jehoiada "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "אֶלְיָשִׁיב֙",
+                "transliteration": "’el·yā·šîḇ",
+                "strong": "475",
+                "translation": " of Eliashib "
+            },
+            {
+                "token": "הַגָּד֔וֹל",
+                "transliteration": "hag·gā·ḏō·wl",
+                "strong": "1419",
+                "translation": " the high "
+            },
+            {
+                "token": "הַכֹּהֵ֣ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " priest "
+            },
+            {
+                "token": "חָתָ֖ן",
+                "transliteration": "ḥā·ṯān",
+                "strong": "2860",
+                "translation": " had become a son-in-law "
+            },
+            {
+                "token": "לְסַנְבַלַּ֣ט",
+                "transliteration": "lə·san·ḇal·laṭ",
+                "strong": "5571",
+                "translation": " to Sanballat "
+            },
+            {
+                "token": "הַחֹרֹנִ֑י",
+                "transliteration": "ha·ḥō·rō·nî",
+                "strong": "2772",
+                "translation": " the Horonite . "
+            },
+            {
+                "token": "וָאַבְרִיחֵ֖הוּ",
+                "transliteration": "wā·’aḇ·rî·ḥê·hū",
+                "strong": "1272",
+                "translation": " Therefore I drove him away "
+            },
+            {
+                "token": "מֵעָלָֽי׃",
+                "transliteration": "mê·‘ā·lāy",
+                "strong": "5921",
+                "translation": " from me . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:28",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זָכְרָ֥ה",
+                "transliteration": "zā·ḵə·rāh",
+                "strong": "2142",
+                "translation": " Remember "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them , "
+            },
+            {
+                "token": "אֱלֹהָ֑י",
+                "transliteration": "’ĕ·lō·hāy",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "עַ֚ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " because "
+            },
+            {
+                "token": "גָּאֳלֵ֣י",
+                "transliteration": "gā·’o·lê",
+                "strong": "1352",
+                "translation": " they have defiled "
+            },
+            {
+                "token": "הַכְּהֻנָּ֔ה",
+                "transliteration": "hak·kə·hun·nāh",
+                "strong": "3550",
+                "translation": " the priesthood "
+            },
+            {
+                "token": "וּבְרִ֥ית",
+                "transliteration": "ū·ḇə·rîṯ",
+                "strong": "1285",
+                "translation": " and the covenant "
+            },
+            {
+                "token": "הַכְּהֻנָּ֖ה",
+                "transliteration": "hak·kə·hun·nāh",
+                "strong": "3550",
+                "translation": " of the priesthood "
+            },
+            {
+                "token": "וְהַלְוִיִּֽם׃",
+                "transliteration": "wə·hal·wî·yim",
+                "strong": "3881",
+                "translation": " and of the Levites . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:29",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְטִֽהַרְתִּ֖ים",
+                "transliteration": "wə·ṭi·har·tîm",
+                "strong": "2891",
+                "translation": " Thus I purified [the priests and Levites] "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " from everything "
+            },
+            {
+                "token": "נֵכָ֑ר",
+                "transliteration": "nê·ḵār",
+                "strong": "5236",
+                "translation": " foreign , "
+            },
+            {
+                "token": "וָאַעֲמִ֧ידָה",
+                "transliteration": "wā·’a·‘ă·mî·ḏāh",
+                "strong": "5975",
+                "translation": " and I assigned "
+            },
+            {
+                "token": "בִּמְלַאכְתּֽוֹ׃",
+                "transliteration": "bim·laḵ·tōw",
+                "strong": "4399",
+                "translation": " specific "
+            },
+            {
+                "token": "מִשְׁמָר֛וֹת",
+                "transliteration": "miš·mā·rō·wṯ",
+                "strong": "4931",
+                "translation": " duties "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " to each "
+            },
+            {
+                "token": "לַכֹּהֲנִ֥ים",
+                "transliteration": "lak·kō·hă·nîm",
+                "strong": "3548",
+                "translation": " of the priests "
+            },
+            {
+                "token": "וְלַלְוִיִּ֖ם",
+                "transliteration": "wə·lal·wî·yim",
+                "strong": "3881",
+                "translation": " and Levites . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:30",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּלְקֻרְבַּ֧ן",
+                "transliteration": "ū·lə·qur·ban",
+                "strong": "7133",
+                "translation": " I also arranged for contributions "
+            },
+            {
+                "token": "הָעֵצִ֛ים",
+                "transliteration": "hā·‘ê·ṣîm",
+                "strong": "6086",
+                "translation": " of wood "
+            },
+            {
+                "token": "מְזֻמָּנ֖וֹת",
+                "transliteration": "mə·zum·mā·nō·wṯ",
+                "strong": "2163",
+                "translation": " at the appointed "
+            },
+            {
+                "token": "בְּעִתִּ֥ים",
+                "transliteration": "bə·‘it·tîm",
+                "strong": "6256",
+                "translation": " times , "
+            },
+            {
+                "token": "וְלַבִּכּוּרִ֑ים",
+                "transliteration": "wə·lab·bik·kū·rîm",
+                "strong": "1061",
+                "translation": " and for the firstfruits . "
+            },
+            {
+                "token": "זָכְרָה־",
+                "transliteration": "zā·ḵə·rāh-",
+                "strong": "2142",
+                "translation": " Remember "
+            },
+            {
+                "token": "לִּ֥י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me , "
+            },
+            {
+                "token": "אֱלֹהַ֖י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "לְטוֹבָֽה׃",
+                "transliteration": "lə·ṭō·w·ḇāh",
+                "strong": "2896",
+                "translation": " with favor . "
+            }
+        ],
+        "verse_reference": "Nehemiah 13:31",
+        "book": "Nehemiah",
+        "chapter": "13",
+        "verse": "31"
+    }
+]

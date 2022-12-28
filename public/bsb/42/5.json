@@ -1,0 +1,4826 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " On one occasion "
+            },
+            {
+                "token": "Ἐγένετο",
+                "transliteration": "Egeneto",
+                "strong": "1096",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " while "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "ἑστὼς",
+                "transliteration": "hestōs",
+                "strong": "2476",
+                "translation": " standing "
+            },
+            {
+                "token": "παρὰ",
+                "transliteration": "para",
+                "strong": "3844",
+                "translation": " by "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λίμνην",
+                "transliteration": "limnēn",
+                "strong": "3041",
+                "translation": " Lake "
+            },
+            {
+                "token": "Γεννησαρέτ",
+                "transliteration": "Gennēsaret",
+                "strong": "1082",
+                "translation": " of Gennesaret "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " [with] the "
+            },
+            {
+                "token": "ὄχλον",
+                "transliteration": "ochlon",
+                "strong": "3793",
+                "translation": " crowd "
+            },
+            {
+                "token": "ἐπικεῖσθαι",
+                "transliteration": "epikeisthai",
+                "strong": "1945",
+                "translation": " pressing in on "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἀκούειν",
+                "transliteration": "akouein",
+                "strong": "191",
+                "translation": " to hear "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λόγον",
+                "transliteration": "logon",
+                "strong": "3056",
+                "translation": " word "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God , "
+            }
+        ],
+        "verse_reference": "Luke 5:1",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "εἶδεν",
+                "transliteration": "eiden",
+                "strong": "3708",
+                "translation": " He saw "
+            },
+            {
+                "token": "δύο",
+                "transliteration": "dyo",
+                "strong": "1417",
+                "translation": " two "
+            },
+            {
+                "token": "πλοῖα",
+                "transliteration": "ploia",
+                "strong": "4143",
+                "translation": " boats "
+            },
+            {
+                "token": "ἑστῶτα",
+                "transliteration": "hestōta",
+                "strong": "2476",
+                "translation": " vvv "
+            },
+            {
+                "token": "παρὰ",
+                "transliteration": "para",
+                "strong": "3844",
+                "translation": " at the edge "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "λίμνην",
+                "transliteration": "limnēn",
+                "strong": "3041",
+                "translation": " lake . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "ἁλιεῖς",
+                "transliteration": "halieis",
+                "strong": "231",
+                "translation": " fishermen "
+            },
+            {
+                "token": "ἀποβάντες",
+                "transliteration": "apobantes",
+                "strong": "576",
+                "translation": " had left "
+            },
+            {
+                "token": "ἀπ’",
+                "transliteration": "ap’",
+                "strong": "575",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them "
+            },
+            {
+                "token": "ἔπλυνον",
+                "transliteration": "eplynon",
+                "strong": "4150",
+                "translation": " and were washing "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " [their] "
+            },
+            {
+                "token": "δίκτυα",
+                "transliteration": "diktya",
+                "strong": "1350",
+                "translation": " nets . "
+            }
+        ],
+        "verse_reference": "Luke 5:2",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐμβὰς",
+                "transliteration": "embas",
+                "strong": "1684",
+                "translation": " [Jesus] got "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "ἓν",
+                "transliteration": "hen",
+                "strong": "1520",
+                "translation": " - "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίων",
+                "transliteration": "ploiōn",
+                "strong": "4143",
+                "translation": " boat "
+            },
+            {
+                "token": "ὃ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " belonging "
+            },
+            {
+                "token": "Σίμωνος",
+                "transliteration": "Simōnos",
+                "strong": "4613",
+                "translation": " to Simon "
+            },
+            {
+                "token": "ἠρώτησεν",
+                "transliteration": "ērōtēsen",
+                "strong": "2065",
+                "translation": " [and] asked "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " him "
+            },
+            {
+                "token": "ἐπαναγαγεῖν",
+                "transliteration": "epanagagein",
+                "strong": "1877",
+                "translation": " to put out "
+            },
+            {
+                "token": "ὀλίγον",
+                "transliteration": "oligon",
+                "strong": "3641",
+                "translation": " a little "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γῆς",
+                "transliteration": "gēs",
+                "strong": "1093",
+                "translation": " shore . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " And "
+            },
+            {
+                "token": "καθίσας",
+                "transliteration": "kathisas",
+                "strong": "2523",
+                "translation": " sitting down , "
+            },
+            {
+                "token": "ἐδίδασκεν",
+                "transliteration": "edidasken",
+                "strong": "1321",
+                "translation": " He taught "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄχλους",
+                "transliteration": "ochlous",
+                "strong": "3793",
+                "translation": " people "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " boat . "
+            }
+        ],
+        "verse_reference": "Luke 5:3",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ὡς",
+                "transliteration": "Hōs",
+                "strong": "5613",
+                "translation": " When "
+            },
+            {
+                "token": "ἐπαύσατο",
+                "transliteration": "epausato",
+                "strong": "3973",
+                "translation": " [Jesus] had finished "
+            },
+            {
+                "token": "λαλῶν",
+                "transliteration": "lalōn",
+                "strong": "2980",
+                "translation": " speaking , "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " He said "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σίμωνα",
+                "transliteration": "Simōna",
+                "strong": "4613",
+                "translation": " Simon , "
+            },
+            {
+                "token": "Ἐπανάγαγε",
+                "transliteration": "Epanagage",
+                "strong": "1877",
+                "translation": " “ Put out "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "βάθος",
+                "transliteration": "bathos",
+                "strong": "899",
+                "translation": " deep [water] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "χαλάσατε",
+                "transliteration": "chalasate",
+                "strong": "5465",
+                "translation": " let down "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "δίκτυα",
+                "transliteration": "diktya",
+                "strong": "1350",
+                "translation": " nets "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "ἄγραν",
+                "transliteration": "agran",
+                "strong": "61",
+                "translation": " a catch . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:4",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἐπιστάτα",
+                "transliteration": "Epistata",
+                "strong": "1988",
+                "translation": " “ Master , ” "
+            },
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "Σίμων",
+                "transliteration": "Simōn",
+                "strong": "4613",
+                "translation": " Simon "
+            },
+            {
+                "token": "ἀποκριθεὶς",
+                "transliteration": "apokritheis",
+                "strong": "611",
+                "translation": " replied "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " - , "
+            },
+            {
+                "token": "κοπιάσαντες",
+                "transliteration": "kopiasantes",
+                "strong": "2872",
+                "translation": " “ we have worked hard "
+            },
+            {
+                "token": "δι’",
+                "transliteration": "di’",
+                "strong": "1223",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὅλης",
+                "transliteration": "holēs",
+                "strong": "3650",
+                "translation": " all "
+            },
+            {
+                "token": "νυκτὸς",
+                "transliteration": "nyktos",
+                "strong": "3571",
+                "translation": " night "
+            },
+            {
+                "token": "ἐλάβομεν",
+                "transliteration": "elabomen",
+                "strong": "2983",
+                "translation": " [without] catching "
+            },
+            {
+                "token": "οὐδὲν",
+                "transliteration": "ouden",
+                "strong": "3762",
+                "translation": " [anything] . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " because "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " You "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ῥήματί",
+                "transliteration": "rhēmati",
+                "strong": "4487",
+                "translation": " say so , "
+            },
+            {
+                "token": "χαλάσω",
+                "transliteration": "chalasō",
+                "strong": "5465",
+                "translation": " I will let down "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "δίκτυα",
+                "transliteration": "diktya",
+                "strong": "1350",
+                "translation": " nets . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:5",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " When "
+            },
+            {
+                "token": "ποιήσαντες",
+                "transliteration": "poiēsantes",
+                "strong": "4160",
+                "translation": " they had done "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " so , "
+            },
+            {
+                "token": "συνέκλεισαν",
+                "transliteration": "synekleisan",
+                "strong": "4788",
+                "translation": " they caught "
+            },
+            {
+                "token": "πολύ",
+                "transliteration": "poly",
+                "strong": "4183",
+                "translation": " [such] a large "
+            },
+            {
+                "token": "πλῆθος",
+                "transliteration": "plēthos",
+                "strong": "4128",
+                "translation": " number "
+            },
+            {
+                "token": "ἰχθύων",
+                "transliteration": "ichthyōn",
+                "strong": "2486",
+                "translation": " of fish "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [that] "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "δίκτυα",
+                "transliteration": "diktya",
+                "strong": "1350",
+                "translation": " nets "
+            },
+            {
+                "token": "διερρήσσετο",
+                "transliteration": "dierrēsseto",
+                "strong": "1284",
+                "translation": " began to tear . "
+            }
+        ],
+        "verse_reference": "Luke 5:6",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " So "
+            },
+            {
+                "token": "κατένευσαν",
+                "transliteration": "kateneusan",
+                "strong": "2656",
+                "translation": " they signaled "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " to [their] "
+            },
+            {
+                "token": "μετόχοις",
+                "transliteration": "metochois",
+                "strong": "3353",
+                "translation": " partners "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἑτέρῳ",
+                "transliteration": "heterō",
+                "strong": "2087",
+                "translation": " other "
+            },
+            {
+                "token": "πλοίῳ",
+                "transliteration": "ploiō",
+                "strong": "4143",
+                "translation": " boat "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἐλθόντας",
+                "transliteration": "elthontas",
+                "strong": "2064",
+                "translation": " to come "
+            },
+            {
+                "token": "συλλαβέσθαι",
+                "transliteration": "syllabesthai",
+                "strong": "4815",
+                "translation": " [and] help "
+            },
+            {
+                "token": "αὐτοῖς",
+                "transliteration": "autois",
+                "strong": "846",
+                "translation": " them , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἦλθον*",
+                "transliteration": "ēlthon",
+                "strong": "2064",
+                "translation": " they came "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἔπλησαν",
+                "transliteration": "eplēsan",
+                "strong": "4130",
+                "translation": " filled "
+            },
+            {
+                "token": "ἀμφότερα",
+                "transliteration": "amphotera",
+                "strong": "297",
+                "translation": " both "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πλοῖα",
+                "transliteration": "ploia",
+                "strong": "4143",
+                "translation": " boats "
+            },
+            {
+                "token": "ὥστε",
+                "transliteration": "hōste",
+                "strong": "5620",
+                "translation": " so [full] that "
+            },
+            {
+                "token": "αὐτά",
+                "transliteration": "auta",
+                "strong": "846",
+                "translation": " they "
+            },
+            {
+                "token": "βυθίζεσθαι",
+                "transliteration": "bythizesthai",
+                "strong": "1036",
+                "translation": " began to sink . "
+            }
+        ],
+        "verse_reference": "Luke 5:7",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " When "
+            },
+            {
+                "token": "Σίμων",
+                "transliteration": "Simōn",
+                "strong": "4613",
+                "translation": " Simon "
+            },
+            {
+                "token": "Πέτρος",
+                "transliteration": "Petros",
+                "strong": "4074",
+                "translation": " Peter "
+            },
+            {
+                "token": "Ἰδὼν",
+                "transliteration": "Idōn",
+                "strong": "3708",
+                "translation": " saw [this] , "
+            },
+            {
+                "token": "προσέπεσεν",
+                "transliteration": "prosepesen",
+                "strong": "4363",
+                "translation": " he fell at "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus’ "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γόνασιν",
+                "transliteration": "gonasin",
+                "strong": "1119",
+                "translation": " knees . "
+            },
+            {
+                "token": "Ἔξελθε",
+                "transliteration": "Exelthe",
+                "strong": "1831",
+                "translation": " “ Go away "
+            },
+            {
+                "token": "ἀπ’",
+                "transliteration": "ap’",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "ἐμοῦ",
+                "transliteration": "emou",
+                "strong": "1473",
+                "translation": " me , "
+            },
+            {
+                "token": "Κύριε",
+                "transliteration": "Kyrie",
+                "strong": "2962",
+                "translation": " Lord , ” "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " he said , "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " “ for "
+            },
+            {
+                "token": "εἰμι",
+                "transliteration": "eimi",
+                "strong": "1510",
+                "translation": " I am "
+            },
+            {
+                "token": "ἁμαρτωλός",
+                "transliteration": "hamartōlos",
+                "strong": "268",
+                "translation": " a sinful "
+            },
+            {
+                "token": "ἀνὴρ",
+                "transliteration": "anēr",
+                "strong": "435",
+                "translation": " man . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:8",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " he "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πάντας",
+                "transliteration": "pantas",
+                "strong": "3956",
+                "translation": " - "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " his companions "
+            },
+            {
+                "token": "σὺν",
+                "transliteration": "syn",
+                "strong": "4862",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "περιέσχεν",
+                "transliteration": "perieschen",
+                "strong": "4023",
+                "translation": " vvv "
+            },
+            {
+                "token": "θάμβος",
+                "transliteration": "thambos",
+                "strong": "2285",
+                "translation": " were astonished "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " at "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἄγρᾳ",
+                "transliteration": "agra",
+                "strong": "61",
+                "translation": " catch "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of "
+            },
+            {
+                "token": "ἰχθύων",
+                "transliteration": "ichthyōn",
+                "strong": "2486",
+                "translation": " fish "
+            },
+            {
+                "token": "ὧν*",
+                "transliteration": "hōn",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "συνέλαβον",
+                "transliteration": "synelabon",
+                "strong": "4815",
+                "translation": " they had taken , "
+            }
+        ],
+        "verse_reference": "Luke 5:9",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "ὁμοίως",
+                "transliteration": "homoiōs",
+                "strong": "3668",
+                "translation": " so [were] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "οἳ",
+                "transliteration": "hoi",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἦσαν",
+                "transliteration": "ēsan",
+                "strong": "1510",
+                "translation": " - "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σίμωνι",
+                "transliteration": "Simōni",
+                "strong": "4613",
+                "translation": " [his] "
+            },
+            {
+                "token": "κοινωνοὶ",
+                "transliteration": "koinōnoi",
+                "strong": "2844",
+                "translation": " partners "
+            },
+            {
+                "token": "Ἰάκωβον",
+                "transliteration": "Iakōbon",
+                "strong": "2385",
+                "translation": " James "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰωάννην",
+                "transliteration": "Iōannēn",
+                "strong": "2491",
+                "translation": " John , "
+            },
+            {
+                "token": "υἱοὺς",
+                "transliteration": "huious",
+                "strong": "5207",
+                "translation": " [the] sons "
+            },
+            {
+                "token": "Ζεβεδαίου",
+                "transliteration": "Zebedaiou",
+                "strong": "2199",
+                "translation": " of Zebedee . "
+            },
+            {
+                "token": "Μὴ",
+                "transliteration": "Mē",
+                "strong": "3361",
+                "translation": " “ {Do} not "
+            },
+            {
+                "token": "φοβοῦ",
+                "transliteration": "phobou",
+                "strong": "5399",
+                "translation": " be afraid , ” "
+            },
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " said "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σίμωνα",
+                "transliteration": "Simōna",
+                "strong": "4613",
+                "translation": " Simon . "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " “ From "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "νῦν",
+                "transliteration": "nyn",
+                "strong": "3568",
+                "translation": " now on "
+            },
+            {
+                "token": "ἔσῃ",
+                "transliteration": "esē",
+                "strong": "1510",
+                "translation": " you will "
+            },
+            {
+                "token": "ζωγρῶν",
+                "transliteration": "zōgrōn",
+                "strong": "2221",
+                "translation": " catch "
+            },
+            {
+                "token": "ἀνθρώπους",
+                "transliteration": "anthrōpous",
+                "strong": "444",
+                "translation": " men . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:10",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " And when "
+            },
+            {
+                "token": "καταγαγόντες",
+                "transliteration": "katagagontes",
+                "strong": "2609",
+                "translation": " they had brought "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " [their] "
+            },
+            {
+                "token": "πλοῖα",
+                "transliteration": "ploia",
+                "strong": "4143",
+                "translation": " boats "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " vvv "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "γῆν",
+                "transliteration": "gēn",
+                "strong": "1093",
+                "translation": " ashore , "
+            },
+            {
+                "token": "ἀφέντες",
+                "transliteration": "aphentes",
+                "strong": "863",
+                "translation": " they left "
+            },
+            {
+                "token": "πάντα",
+                "transliteration": "panta",
+                "strong": "3956",
+                "translation": " everything "
+            },
+            {
+                "token": "ἠκολούθησαν",
+                "transliteration": "ēkolouthēsan",
+                "strong": "190",
+                "translation": " [and] followed "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " Him . "
+            }
+        ],
+        "verse_reference": "Luke 5:11",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " While "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἶναι",
+                "transliteration": "einai",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "μιᾷ",
+                "transliteration": "mia",
+                "strong": "1520",
+                "translation": " one "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "πόλεων",
+                "transliteration": "poleōn",
+                "strong": "4172",
+                "translation": " towns , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνὴρ",
+                "transliteration": "anēr",
+                "strong": "435",
+                "translation": " a man "
+            },
+            {
+                "token": "ἰδοὺ",
+                "transliteration": "idou",
+                "strong": "2400",
+                "translation": " [came along] "
+            },
+            {
+                "token": "πλήρης",
+                "transliteration": "plērēs",
+                "strong": "4134",
+                "translation": " [who was] covered "
+            },
+            {
+                "token": "λέπρας",
+                "transliteration": "lepras",
+                "strong": "3014",
+                "translation": " with leprosy . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἰδὼν",
+                "transliteration": "idōn",
+                "strong": "3708",
+                "translation": " When he saw "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦν",
+                "transliteration": "Iēsoun",
+                "strong": "2424",
+                "translation": " Jesus , "
+            },
+            {
+                "token": "πεσὼν",
+                "transliteration": "pesōn",
+                "strong": "4098",
+                "translation": " he fell "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " vvv "
+            },
+            {
+                "token": "πρόσωπον",
+                "transliteration": "prosōpon",
+                "strong": "4383",
+                "translation": " facedown "
+            },
+            {
+                "token": "ἐδεήθη",
+                "transliteration": "edeēthē",
+                "strong": "1189",
+                "translation": " [and] begged "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " - , "
+            },
+            {
+                "token": "Κύριε",
+                "transliteration": "Kyrie",
+                "strong": "2962",
+                "translation": " “ Lord , "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " if "
+            },
+            {
+                "token": "θέλῃς",
+                "transliteration": "thelēs",
+                "strong": "2309",
+                "translation": " You are willing , "
+            },
+            {
+                "token": "δύνασαί",
+                "transliteration": "dynasai",
+                "strong": "1410",
+                "translation": " You can "
+            },
+            {
+                "token": "καθαρίσαι",
+                "transliteration": "katharisai",
+                "strong": "2511",
+                "translation": " make me clean "
+            },
+            {
+                "token": "με",
+                "transliteration": "me",
+                "strong": "1473",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:12",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐκτείνας",
+                "transliteration": "ekteinas",
+                "strong": "1614",
+                "translation": " [Jesus] reached out "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " [His] "
+            },
+            {
+                "token": "χεῖρα",
+                "transliteration": "cheira",
+                "strong": "5495",
+                "translation": " hand "
+            },
+            {
+                "token": "ἥψατο",
+                "transliteration": "hēpsato",
+                "strong": "680",
+                "translation": " [and] touched "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " [the man] . "
+            },
+            {
+                "token": "Θέλω",
+                "transliteration": "Thelō",
+                "strong": "2309",
+                "translation": " “ I am willing , ” "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " He said . "
+            },
+            {
+                "token": "καθαρίσθητι",
+                "transliteration": "katharisthēti",
+                "strong": "2511",
+                "translation": " “ Be clean ! ” "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "εὐθέως",
+                "transliteration": "eutheōs",
+                "strong": "2112",
+                "translation": " immediately "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λέπρα",
+                "transliteration": "lepra",
+                "strong": "3014",
+                "translation": " leprosy "
+            },
+            {
+                "token": "ἀπῆλθεν",
+                "transliteration": "apēlthen",
+                "strong": "565",
+                "translation": " left "
+            },
+            {
+                "token": "ἀπ’",
+                "transliteration": "ap’",
+                "strong": "575",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " him . "
+            }
+        ],
+        "verse_reference": "Luke 5:13",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "εἰπεῖν",
+                "transliteration": "eipein",
+                "strong": "2036",
+                "translation": " “ {Do not} tell "
+            },
+            {
+                "token": "μηδενὶ",
+                "transliteration": "mēdeni",
+                "strong": "3367",
+                "translation": " [anyone] , ” "
+            },
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "παρήγγειλεν",
+                "transliteration": "parēngeilen",
+                "strong": "3853",
+                "translation": " instructed "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " him . "
+            },
+            {
+                "token": "Ἀλλὰ",
+                "transliteration": "Alla",
+                "strong": "235",
+                "translation": " “ But "
+            },
+            {
+                "token": "ἀπελθὼν",
+                "transliteration": "apelthōn",
+                "strong": "565",
+                "translation": " go , "
+            },
+            {
+                "token": "δεῖξον",
+                "transliteration": "deixon",
+                "strong": "1166",
+                "translation": " show "
+            },
+            {
+                "token": "σεαυτὸν",
+                "transliteration": "seauton",
+                "strong": "4572",
+                "translation": " yourself "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " to the "
+            },
+            {
+                "token": "ἱερεῖ",
+                "transliteration": "hierei",
+                "strong": "2409",
+                "translation": " priest "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "προσένεγκε",
+                "transliteration": "prosenenke",
+                "strong": "4374",
+                "translation": " present the offering "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " - "
+            },
+            {
+                "token": "Μωϋσῆς",
+                "transliteration": "Mōusēs",
+                "strong": "3475",
+                "translation": " Moses "
+            },
+            {
+                "token": "προσέταξεν",
+                "transliteration": "prosetaxen",
+                "strong": "4367",
+                "translation": " prescribed "
+            },
+            {
+                "token": "περὶ",
+                "transliteration": "peri",
+                "strong": "4012",
+                "translation": " for "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καθαρισμοῦ",
+                "transliteration": "katharismou",
+                "strong": "2512",
+                "translation": " cleansing , "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " as "
+            },
+            {
+                "token": "μαρτύριον",
+                "transliteration": "martyrion",
+                "strong": "3142",
+                "translation": " a testimony "
+            },
+            {
+                "token": "αὐτοῖς",
+                "transliteration": "autois",
+                "strong": "846",
+                "translation": " to them . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:14",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λόγος",
+                "transliteration": "logos",
+                "strong": "3056",
+                "translation": " news "
+            },
+            {
+                "token": "περὶ",
+                "transliteration": "peri",
+                "strong": "4012",
+                "translation": " about "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "Διήρχετο",
+                "transliteration": "Diērcheto",
+                "strong": "1330",
+                "translation": " spread "
+            },
+            {
+                "token": "μᾶλλον",
+                "transliteration": "mallon",
+                "strong": "3123",
+                "translation": " all the more , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πολλοὶ",
+                "transliteration": "polloi",
+                "strong": "4183",
+                "translation": " great "
+            },
+            {
+                "token": "ὄχλοι",
+                "transliteration": "ochloi",
+                "strong": "3793",
+                "translation": " crowds "
+            },
+            {
+                "token": "συνήρχοντο",
+                "transliteration": "synērchonto",
+                "strong": "4905",
+                "translation": " came "
+            },
+            {
+                "token": "ἀκούειν",
+                "transliteration": "akouein",
+                "strong": "191",
+                "translation": " to hear [Him] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "θεραπεύεσθαι",
+                "transliteration": "therapeuesthai",
+                "strong": "2323",
+                "translation": " to be healed "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " of "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀσθενειῶν",
+                "transliteration": "astheneiōn",
+                "strong": "769",
+                "translation": " sicknesses . "
+            }
+        ],
+        "verse_reference": "Luke 5:15",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Yet "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " He "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " frequently "
+            },
+            {
+                "token": "ὑποχωρῶν",
+                "transliteration": "hypochōrōn",
+                "strong": "5298",
+                "translation": " withdrew "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " to "
+            },
+            {
+                "token": "ταῖς",
+                "transliteration": "tais",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἐρήμοις",
+                "transliteration": "erēmois",
+                "strong": "2048",
+                "translation": " wilderness "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " to "
+            },
+            {
+                "token": "προσευχόμενος",
+                "transliteration": "proseuchomenos",
+                "strong": "4336",
+                "translation": " pray . "
+            }
+        ],
+        "verse_reference": "Luke 5:16",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " vvv "
+            },
+            {
+                "token": "μιᾷ",
+                "transliteration": "mia",
+                "strong": "1520",
+                "translation": " One "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἡμερῶν",
+                "transliteration": "hēmerōn",
+                "strong": "2250",
+                "translation": " day "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "διδάσκων",
+                "transliteration": "didaskōn",
+                "strong": "1321",
+                "translation": " teaching , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Φαρισαῖοι",
+                "transliteration": "Pharisaioi",
+                "strong": "5330",
+                "translation": " [the] Pharisees "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "νομοδιδάσκαλοι",
+                "transliteration": "nomodidaskaloi",
+                "strong": "3547",
+                "translation": " teachers of the law "
+            },
+            {
+                "token": "ἦσαν",
+                "transliteration": "ēsan",
+                "strong": "1510",
+                "translation": " were "
+            },
+            {
+                "token": "καθήμενοι",
+                "transliteration": "kathēmenoi",
+                "strong": "2521",
+                "translation": " sitting [there] . "
+            },
+            {
+                "token": "οἳ",
+                "transliteration": "hoi",
+                "strong": "3739",
+                "translation": " [People] "
+            },
+            {
+                "token": "ἦσαν",
+                "transliteration": "ēsan",
+                "strong": "1510",
+                "translation": " had "
+            },
+            {
+                "token": "ἐληλυθότες",
+                "transliteration": "elēlythotes",
+                "strong": "2064",
+                "translation": " come "
+            },
+            {
+                "token": "Ἰερουσαλήμ",
+                "transliteration": "Ierousalēm",
+                "strong": "2419",
+                "translation": " from Jerusalem "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "πάσης",
+                "transliteration": "pasēs",
+                "strong": "3956",
+                "translation": " every "
+            },
+            {
+                "token": "κώμης",
+                "transliteration": "kōmēs",
+                "strong": "2968",
+                "translation": " village "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Γαλιλαίας",
+                "transliteration": "Galilaias",
+                "strong": "1056",
+                "translation": " of Galilee "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰουδαίας",
+                "transliteration": "Ioudaias",
+                "strong": "2449",
+                "translation": " Judea , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δύναμις",
+                "transliteration": "dynamis",
+                "strong": "1411",
+                "translation": " [the] power "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " of [the] Lord "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was [present] "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "αὐτόν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἰᾶσθαι",
+                "transliteration": "iasthai",
+                "strong": "2390",
+                "translation": " to heal [the sick] . "
+            }
+        ],
+        "verse_reference": "Luke 5:17",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " Just then "
+            },
+            {
+                "token": "ἰδοὺ",
+                "transliteration": "idou",
+                "strong": "2400",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἄνδρες",
+                "transliteration": "andres",
+                "strong": "435",
+                "translation": " [some] men "
+            },
+            {
+                "token": "φέροντες",
+                "transliteration": "pherontes",
+                "strong": "5342",
+                "translation": " [came] carrying "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " vvv "
+            },
+            {
+                "token": "παραλελυμένος",
+                "transliteration": "paralelymenos",
+                "strong": "3886",
+                "translation": " a paralyzed "
+            },
+            {
+                "token": "ἄνθρωπον",
+                "transliteration": "anthrōpon",
+                "strong": "444",
+                "translation": " man "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "κλίνης",
+                "transliteration": "klinēs",
+                "strong": "2825",
+                "translation": " a mat . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐζήτουν",
+                "transliteration": "ezētoun",
+                "strong": "2212",
+                "translation": " They tried "
+            },
+            {
+                "token": "εἰσενεγκεῖν",
+                "transliteration": "eisenenkein",
+                "strong": "1533",
+                "translation": " to bring him inside "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "θεῖναι",
+                "transliteration": "theinai",
+                "strong": "5087",
+                "translation": " to set "
+            },
+            {
+                "token": "[αὐτὸν]",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " him "
+            },
+            {
+                "token": "ἐνώπιον",
+                "transliteration": "enōpion",
+                "strong": "1799",
+                "translation": " before "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " [Jesus] , "
+            }
+        ],
+        "verse_reference": "Luke 5:18",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " but "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "εὑρόντες",
+                "transliteration": "heurontes",
+                "strong": "2147",
+                "translation": " they could not find "
+            },
+            {
+                "token": "ποίας",
+                "transliteration": "poias",
+                "strong": "4169",
+                "translation": " a way "
+            },
+            {
+                "token": "εἰσενέγκωσιν",
+                "transliteration": "eisenenkōsin",
+                "strong": "1533",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄχλον",
+                "transliteration": "ochlon",
+                "strong": "3793",
+                "translation": " crowd . "
+            },
+            {
+                "token": "ἀναβάντες",
+                "transliteration": "anabantes",
+                "strong": "305",
+                "translation": " So they went up "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "δῶμα",
+                "transliteration": "dōma",
+                "strong": "1430",
+                "translation": " roof "
+            },
+            {
+                "token": "καθῆκαν",
+                "transliteration": "kathēkan",
+                "strong": "2524",
+                "translation": " and lowered "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " him "
+            },
+            {
+                "token": "σὺν",
+                "transliteration": "syn",
+                "strong": "4862",
+                "translation": " on "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " [his] "
+            },
+            {
+                "token": "κλινιδίῳ",
+                "transliteration": "klinidiō",
+                "strong": "2826",
+                "translation": " mat "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κεράμων",
+                "transliteration": "keramōn",
+                "strong": "2766",
+                "translation": " tiles "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μέσον",
+                "transliteration": "meson",
+                "strong": "3319",
+                "translation": " middle [of the crowd] , "
+            },
+            {
+                "token": "ἔμπροσθεν",
+                "transliteration": "emprosthen",
+                "strong": "1715",
+                "translation": " right in front of "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus . "
+            }
+        ],
+        "verse_reference": "Luke 5:19",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " When "
+            },
+            {
+                "token": "ἰδὼν",
+                "transliteration": "idōn",
+                "strong": "3708",
+                "translation": " [Jesus] saw "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πίστιν",
+                "transliteration": "pistin",
+                "strong": "4102",
+                "translation": " faith , "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " He said , "
+            },
+            {
+                "token": "Ἄνθρωπε",
+                "transliteration": "Anthrōpe",
+                "strong": "444",
+                "translation": " “ Friend , "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "αἱ",
+                "transliteration": "hai",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἁμαρτίαι",
+                "transliteration": "hamartiai",
+                "strong": "266",
+                "translation": " sins "
+            },
+            {
+                "token": "ἀφέωνταί",
+                "transliteration": "apheōntai",
+                "strong": "863",
+                "translation": " are forgiven "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:20",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " But "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γραμματεῖς",
+                "transliteration": "grammateis",
+                "strong": "1122",
+                "translation": " scribes "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Φαρισαῖοι",
+                "transliteration": "Pharisaioi",
+                "strong": "5330",
+                "translation": " Pharisees "
+            },
+            {
+                "token": "ἤρξαντο",
+                "transliteration": "ērxanto",
+                "strong": "756",
+                "translation": " began "
+            },
+            {
+                "token": "διαλογίζεσθαι",
+                "transliteration": "dialogizesthai",
+                "strong": "1260",
+                "translation": " thinking to themselves "
+            },
+            {
+                "token": "λέγοντες",
+                "transliteration": "legontes",
+                "strong": "3004",
+                "translation": " . . . , "
+            },
+            {
+                "token": "Τίς",
+                "transliteration": "Tis",
+                "strong": "5101",
+                "translation": " “ Who "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "οὗτος",
+                "transliteration": "houtos",
+                "strong": "3778",
+                "translation": " this "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " [man] who "
+            },
+            {
+                "token": "λαλεῖ",
+                "transliteration": "lalei",
+                "strong": "2980",
+                "translation": " speaks "
+            },
+            {
+                "token": "βλασφημίας",
+                "transliteration": "blasphēmias",
+                "strong": "988",
+                "translation": " blasphemy ? "
+            },
+            {
+                "token": "τίς",
+                "transliteration": "tis",
+                "strong": "5101",
+                "translation": " Who "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "ἀφεῖναι",
+                "transliteration": "apheinai",
+                "strong": "863",
+                "translation": " forgive "
+            },
+            {
+                "token": "ἁμαρτίας",
+                "transliteration": "hamartias",
+                "strong": "266",
+                "translation": " sins "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " but "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "μόνος",
+                "transliteration": "monos",
+                "strong": "3441",
+                "translation": " alone ? ” "
+            }
+        ],
+        "verse_reference": "Luke 5:21",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐπιγνοὺς",
+                "transliteration": "Epignous",
+                "strong": "1921",
+                "translation": " Knowing "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " what they "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "διαλογισμοὺς",
+                "transliteration": "dialogismous",
+                "strong": "1261",
+                "translation": " were thinking , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "ἀποκριθεὶς",
+                "transliteration": "apokritheis",
+                "strong": "611",
+                "translation": " replied "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτούς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "Τί",
+                "transliteration": "Ti",
+                "strong": "5101",
+                "translation": " “ Why "
+            },
+            {
+                "token": "διαλογίζεσθε",
+                "transliteration": "dialogizesthe",
+                "strong": "1260",
+                "translation": " are you thinking [these things] "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "ταῖς",
+                "transliteration": "tais",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καρδίαις",
+                "transliteration": "kardiais",
+                "strong": "2588",
+                "translation": " hearts ? "
+            }
+        ],
+        "verse_reference": "Luke 5:22",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τί",
+                "transliteration": "ti",
+                "strong": "5101",
+                "translation": " Which "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "εὐκοπώτερον",
+                "transliteration": "eukopōteron",
+                "strong": "2123",
+                "translation": " easier : "
+            },
+            {
+                "token": "εἰπεῖν",
+                "transliteration": "eipein",
+                "strong": "2036",
+                "translation": " to say , "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " ‘ Your "
+            },
+            {
+                "token": "αἱ",
+                "transliteration": "hai",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἁμαρτίαι",
+                "transliteration": "hamartiai",
+                "strong": "266",
+                "translation": " sins "
+            },
+            {
+                "token": "Ἀφέωνταί",
+                "transliteration": "Apheōntai",
+                "strong": "863",
+                "translation": " are forgiven "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " . . . , ’ "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " or "
+            },
+            {
+                "token": "εἰπεῖν",
+                "transliteration": "eipein",
+                "strong": "2036",
+                "translation": " to say , "
+            },
+            {
+                "token": "Ἔγειρε",
+                "transliteration": "Egeire",
+                "strong": "1453",
+                "translation": " ‘ Get up "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "περιπάτει",
+                "transliteration": "peripatei",
+                "strong": "4043",
+                "translation": " walk ? ’ "
+            }
+        ],
+        "verse_reference": "Luke 5:23",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " so that "
+            },
+            {
+                "token": "εἰδῆτε",
+                "transliteration": "eidēte",
+                "strong": "1492",
+                "translation": " you may know "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱὸς",
+                "transliteration": "Huios",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπου",
+                "transliteration": "anthrōpou",
+                "strong": "444",
+                "translation": " of Man "
+            },
+            {
+                "token": "ἔχει",
+                "transliteration": "echei",
+                "strong": "2192",
+                "translation": " has "
+            },
+            {
+                "token": "ἐξουσίαν",
+                "transliteration": "exousian",
+                "strong": "1849",
+                "translation": " authority "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γῆς",
+                "transliteration": "gēs",
+                "strong": "1093",
+                "translation": " earth "
+            },
+            {
+                "token": "ἀφιέναι",
+                "transliteration": "aphienai",
+                "strong": "863",
+                "translation": " to forgive "
+            },
+            {
+                "token": "ἁμαρτίας",
+                "transliteration": "hamartias",
+                "strong": "266",
+                "translation": " sins ... ” "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " He said "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " to the "
+            },
+            {
+                "token": "παραλελυμένῳ",
+                "transliteration": "paralelymenō",
+                "strong": "3886",
+                "translation": " paralytic , "
+            },
+            {
+                "token": "λέγω",
+                "transliteration": "legō",
+                "strong": "3004",
+                "translation": " “ I tell "
+            },
+            {
+                "token": "Σοὶ",
+                "transliteration": "Soi",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "ἔγειρε",
+                "transliteration": "egeire",
+                "strong": "1453",
+                "translation": " get up , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἄρας",
+                "transliteration": "aras",
+                "strong": "142",
+                "translation": " pick up "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κλινίδιόν",
+                "transliteration": "klinidion",
+                "strong": "2826",
+                "translation": " mat , "
+            },
+            {
+                "token": "πορεύου",
+                "transliteration": "poreuou",
+                "strong": "4198",
+                "translation": " [and] go "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " vvv "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " vvv "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "οἶκόν",
+                "transliteration": "oikon",
+                "strong": "3624",
+                "translation": " home . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:24",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "παραχρῆμα",
+                "transliteration": "parachrēma",
+                "strong": "3916",
+                "translation": " immediately "
+            },
+            {
+                "token": "ἀναστὰς",
+                "transliteration": "anastas",
+                "strong": "450",
+                "translation": " [the man] stood up "
+            },
+            {
+                "token": "ἐνώπιον",
+                "transliteration": "enōpion",
+                "strong": "1799",
+                "translation": " before "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them , "
+            },
+            {
+                "token": "ἄρας",
+                "transliteration": "aras",
+                "strong": "142",
+                "translation": " took "
+            },
+            {
+                "token": "ὃ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " what "
+            },
+            {
+                "token": "κατέκειτο",
+                "transliteration": "katekeito",
+                "strong": "2621",
+                "translation": " he had been lying "
+            },
+            {
+                "token": "ἐφ’",
+                "transliteration": "eph’",
+                "strong": "1909",
+                "translation": " on , "
+            },
+            {
+                "token": "ἀπῆλθεν",
+                "transliteration": "apēlthen",
+                "strong": "565",
+                "translation": " and went "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " vvv "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " vvv "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "οἶκον",
+                "transliteration": "oikon",
+                "strong": "3624",
+                "translation": " home "
+            },
+            {
+                "token": "δοξάζων",
+                "transliteration": "doxazōn",
+                "strong": "1392",
+                "translation": " glorifying "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεόν",
+                "transliteration": "Theon",
+                "strong": "2316",
+                "translation": " God . "
+            }
+        ],
+        "verse_reference": "Luke 5:25",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἅπαντας",
+                "transliteration": "hapantas",
+                "strong": "537",
+                "translation": " Everyone "
+            },
+            {
+                "token": "ἔλαβεν",
+                "transliteration": "elaben",
+                "strong": "2983",
+                "translation": " was taken with "
+            },
+            {
+                "token": "ἔκστασις",
+                "transliteration": "ekstasis",
+                "strong": "1611",
+                "translation": " amazement "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐδόξαζον",
+                "transliteration": "edoxazon",
+                "strong": "1392",
+                "translation": " glorified "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεόν",
+                "transliteration": "Theon",
+                "strong": "2316",
+                "translation": " God . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπλήσθησαν",
+                "transliteration": "eplēsthēsan",
+                "strong": "4130",
+                "translation": " They were filled "
+            },
+            {
+                "token": "φόβου",
+                "transliteration": "phobou",
+                "strong": "5401",
+                "translation": " with awe "
+            },
+            {
+                "token": "λέγοντες",
+                "transliteration": "legontes",
+                "strong": "3004",
+                "translation": " [and] said "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - , "
+            },
+            {
+                "token": "Εἴδομεν",
+                "transliteration": "Eidomen",
+                "strong": "3708",
+                "translation": " “ We have seen "
+            },
+            {
+                "token": "παράδοξα",
+                "transliteration": "paradoxa",
+                "strong": "3861",
+                "translation": " remarkable things "
+            },
+            {
+                "token": "σήμερον",
+                "transliteration": "sēmeron",
+                "strong": "4594",
+                "translation": " today . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:26",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " After "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " [this] , "
+            },
+            {
+                "token": "ἐξῆλθεν",
+                "transliteration": "exēlthen",
+                "strong": "1831",
+                "translation": " [Jesus] went out "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐθεάσατο",
+                "transliteration": "etheasato",
+                "strong": "2300",
+                "translation": " saw "
+            },
+            {
+                "token": "τελώνην",
+                "transliteration": "telōnēn",
+                "strong": "5057",
+                "translation": " a tax collector "
+            },
+            {
+                "token": "ὀνόματι",
+                "transliteration": "onomati",
+                "strong": "3686",
+                "translation": " named "
+            },
+            {
+                "token": "Λευὶν",
+                "transliteration": "Leuin",
+                "strong": "3018",
+                "translation": " Levi "
+            },
+            {
+                "token": "καθήμενον",
+                "transliteration": "kathēmenon",
+                "strong": "2521",
+                "translation": " sitting "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " at "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "τελώνιον",
+                "transliteration": "telōnion",
+                "strong": "5058",
+                "translation": " tax booth . "
+            },
+            {
+                "token": "Ἀκολούθει",
+                "transliteration": "Akolouthei",
+                "strong": "190",
+                "translation": " “ Follow "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " Me , ” "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " He told "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " him , "
+            }
+        ],
+        "verse_reference": "Luke 5:27",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀναστὰς",
+                "transliteration": "anastas",
+                "strong": "450",
+                "translation": " [Levi] got up , "
+            },
+            {
+                "token": "καταλιπὼν",
+                "transliteration": "katalipōn",
+                "strong": "2641",
+                "translation": " left "
+            },
+            {
+                "token": "πάντα",
+                "transliteration": "panta",
+                "strong": "3956",
+                "translation": " everything , "
+            },
+            {
+                "token": "ἠκολούθει",
+                "transliteration": "ēkolouthei",
+                "strong": "190",
+                "translation": " [and] followed "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " Him . "
+            }
+        ],
+        "verse_reference": "Luke 5:28",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " Then "
+            },
+            {
+                "token": "Λευὶς",
+                "transliteration": "Leuis",
+                "strong": "3018",
+                "translation": " Levi "
+            },
+            {
+                "token": "ἐποίησεν",
+                "transliteration": "epoiēsen",
+                "strong": "4160",
+                "translation": " hosted "
+            },
+            {
+                "token": "μεγάλην",
+                "transliteration": "megalēn",
+                "strong": "3173",
+                "translation": " a great "
+            },
+            {
+                "token": "δοχὴν",
+                "transliteration": "dochēn",
+                "strong": "1403",
+                "translation": " banquet "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " for [Jesus] "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " at "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οἰκίᾳ",
+                "transliteration": "oikia",
+                "strong": "3614",
+                "translation": " house . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "πολὺς",
+                "transliteration": "polys",
+                "strong": "4183",
+                "translation": " A large "
+            },
+            {
+                "token": "ὄχλος",
+                "transliteration": "ochlos",
+                "strong": "3793",
+                "translation": " crowd "
+            },
+            {
+                "token": "τελωνῶν",
+                "transliteration": "telōnōn",
+                "strong": "5057",
+                "translation": " of tax collectors "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was there , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " along with "
+            },
+            {
+                "token": "ἄλλων",
+                "transliteration": "allōn",
+                "strong": "243",
+                "translation": " others "
+            },
+            {
+                "token": "οἳ",
+                "transliteration": "hoi",
+                "strong": "3739",
+                "translation": " who "
+            },
+            {
+                "token": "ἦσαν",
+                "transliteration": "ēsan",
+                "strong": "1510",
+                "translation": " were "
+            },
+            {
+                "token": "κατακείμενοι",
+                "transliteration": "katakeimenoi",
+                "strong": "2621",
+                "translation": " eating "
+            },
+            {
+                "token": "μετ’",
+                "transliteration": "met’",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them . "
+            }
+        ],
+        "verse_reference": "Luke 5:29",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " But "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Φαρισαῖοι",
+                "transliteration": "Pharisaioi",
+                "strong": "5330",
+                "translation": " Pharisees "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γραμματεῖς",
+                "transliteration": "grammateis",
+                "strong": "1122",
+                "translation": " scribes "
+            },
+            {
+                "token": "ἐγόγγυζον",
+                "transliteration": "egongyzon",
+                "strong": "1111",
+                "translation": " complained "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " [Jesus’] "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαθητὰς",
+                "transliteration": "mathētas",
+                "strong": "3101",
+                "translation": " disciples "
+            },
+            {
+                "token": "λέγοντες",
+                "transliteration": "legontes",
+                "strong": "3004",
+                "translation": " - , "
+            },
+            {
+                "token": "Διὰ",
+                "transliteration": "Dia",
+                "strong": "1223",
+                "translation": " “ Why "
+            },
+            {
+                "token": "τί",
+                "transliteration": "ti",
+                "strong": "5101",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐσθίετε",
+                "transliteration": "esthiete",
+                "strong": "2068",
+                "translation": " do you eat "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πίνετε",
+                "transliteration": "pinete",
+                "strong": "4095",
+                "translation": " drink "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τελωνῶν",
+                "transliteration": "telōnōn",
+                "strong": "5057",
+                "translation": " tax collectors "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἁμαρτωλῶν",
+                "transliteration": "hamartōlōn",
+                "strong": "268",
+                "translation": " sinners ? ” "
+            }
+        ],
+        "verse_reference": "Luke 5:30",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "ἀποκριθεὶς",
+                "transliteration": "apokritheis",
+                "strong": "611",
+                "translation": " answered "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτούς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "Οὐ",
+                "transliteration": "Ou",
+                "strong": "3756",
+                "translation": " “ [It is] not "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὑγιαίνοντες",
+                "transliteration": "hygiainontes",
+                "strong": "5198",
+                "translation": " healthy "
+            },
+            {
+                "token": "ἔχουσιν",
+                "transliteration": "echousin",
+                "strong": "2192",
+                "translation": " [who] "
+            },
+            {
+                "token": "χρείαν",
+                "transliteration": "chreian",
+                "strong": "5532",
+                "translation": " need "
+            },
+            {
+                "token": "ἰατροῦ",
+                "transliteration": "iatrou",
+                "strong": "2395",
+                "translation": " a doctor , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κακῶς",
+                "transliteration": "kakōs",
+                "strong": "2560",
+                "translation": " sick "
+            },
+            {
+                "token": "ἔχοντες",
+                "transliteration": "echontes",
+                "strong": "2192",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Luke 5:31",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐλήλυθα",
+                "transliteration": "elēlytha",
+                "strong": "2064",
+                "translation": " I have not come "
+            },
+            {
+                "token": "καλέσαι",
+                "transliteration": "kalesai",
+                "strong": "2564",
+                "translation": " to call "
+            },
+            {
+                "token": "δικαίους",
+                "transliteration": "dikaious",
+                "strong": "1342",
+                "translation": " [the] righteous , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ἁμαρτωλοὺς",
+                "transliteration": "hamartōlous",
+                "strong": "268",
+                "translation": " sinners , "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " to "
+            },
+            {
+                "token": "μετάνοιαν",
+                "transliteration": "metanoian",
+                "strong": "3341",
+                "translation": " repentance . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:32",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Then "
+            },
+            {
+                "token": "Οἱ",
+                "transliteration": "Hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἶπαν",
+                "transliteration": "eipan",
+                "strong": "2036",
+                "translation": " they said "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "αὐτόν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " Him , "
+            },
+            {
+                "token": "Ἰωάννου",
+                "transliteration": "Iōannou",
+                "strong": "2491",
+                "translation": " “ John’s "
+            },
+            {
+                "token": "Οἱ",
+                "transliteration": "Hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαθηταὶ",
+                "transliteration": "mathētai",
+                "strong": "3101",
+                "translation": " disciples "
+            },
+            {
+                "token": "ὁμοίως",
+                "transliteration": "homoiōs",
+                "strong": "3668",
+                "translation": " vvv "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " those "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "Φαρισαίων",
+                "transliteration": "Pharisaiōn",
+                "strong": "5330",
+                "translation": " Pharisees "
+            },
+            {
+                "token": "πυκνὰ",
+                "transliteration": "pykna",
+                "strong": "4437",
+                "translation": " frequently "
+            },
+            {
+                "token": "νηστεύουσιν",
+                "transliteration": "nēsteuousin",
+                "strong": "3522",
+                "translation": " fast "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ποιοῦνται",
+                "transliteration": "poiountai",
+                "strong": "4160",
+                "translation": " vvv "
+            },
+            {
+                "token": "δεήσεις",
+                "transliteration": "deēseis",
+                "strong": "1162",
+                "translation": " pray , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "σοὶ",
+                "transliteration": "soi",
+                "strong": "4674",
+                "translation": " Yours "
+            },
+            {
+                "token": "ἐσθίουσιν",
+                "transliteration": "esthiousin",
+                "strong": "2068",
+                "translation": " keep on eating "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πίνουσιν",
+                "transliteration": "pinousin",
+                "strong": "4095",
+                "translation": " drinking . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:33",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " replied "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτούς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "Μὴ",
+                "transliteration": "Mē",
+                "strong": "3361",
+                "translation": " “ vvv "
+            },
+            {
+                "token": "δύνασθε",
+                "transliteration": "dynasthe",
+                "strong": "1410",
+                "translation": " Can you "
+            },
+            {
+                "token": "ποιῆσαι",
+                "transliteration": "poiēsai",
+                "strong": "4160",
+                "translation": " make "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "υἱοὺς",
+                "transliteration": "huious",
+                "strong": "5207",
+                "translation": " guests "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "νυμφῶνος",
+                "transliteration": "nymphōnos",
+                "strong": "3567",
+                "translation": " bridegroom "
+            },
+            {
+                "token": "νηστεῦσαι",
+                "transliteration": "nēsteusai",
+                "strong": "3522",
+                "translation": " fast "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " vvv "
+            },
+            {
+                "token": "ᾧ",
+                "transliteration": "hō",
+                "strong": "3739",
+                "translation": " while "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "νυμφίος",
+                "transliteration": "nymphios",
+                "strong": "3566",
+                "translation": " [He] "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "μετ’",
+                "transliteration": "met’",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them ? "
+            }
+        ],
+        "verse_reference": "Luke 5:34",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ἡμέραι",
+                "transliteration": "hēmerai",
+                "strong": "2250",
+                "translation": " [the] time "
+            },
+            {
+                "token": "ἐλεύσονται",
+                "transliteration": "eleusontai",
+                "strong": "2064",
+                "translation": " will come "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ὅταν",
+                "transliteration": "hotan",
+                "strong": "3752",
+                "translation": " when "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νυμφίος",
+                "transliteration": "nymphios",
+                "strong": "3566",
+                "translation": " bridegroom "
+            },
+            {
+                "token": "ἀπαρθῇ",
+                "transliteration": "aparthē",
+                "strong": "522",
+                "translation": " will be taken "
+            },
+            {
+                "token": "ἀπ’",
+                "transliteration": "ap’",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them ; "
+            },
+            {
+                "token": "τότε",
+                "transliteration": "tote",
+                "strong": "5119",
+                "translation": " then "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐκείναις",
+                "transliteration": "ekeinais",
+                "strong": "1565",
+                "translation": " . . . "
+            },
+            {
+                "token": "ταῖς",
+                "transliteration": "tais",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἡμέραις",
+                "transliteration": "hēmerais",
+                "strong": "2250",
+                "translation": " . . . "
+            },
+            {
+                "token": "νηστεύσουσιν",
+                "transliteration": "nēsteusousin",
+                "strong": "3522",
+                "translation": " they will fast . ” "
+            }
+        ],
+        "verse_reference": "Luke 5:35",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἔλεγεν",
+                "transliteration": "Elegen",
+                "strong": "2036",
+                "translation": " He also told "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτοὺς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " them "
+            },
+            {
+                "token": "παραβολὴν",
+                "transliteration": "parabolēn",
+                "strong": "3850",
+                "translation": " a parable "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - : "
+            },
+            {
+                "token": "Οὐδεὶς",
+                "transliteration": "Oudeis",
+                "strong": "3762",
+                "translation": " “ No one "
+            },
+            {
+                "token": "σχίσας",
+                "transliteration": "schisas",
+                "strong": "4977",
+                "translation": " tears "
+            },
+            {
+                "token": "ἐπίβλημα",
+                "transliteration": "epiblēma",
+                "strong": "1915",
+                "translation": " a piece of cloth "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "καινοῦ",
+                "transliteration": "kainou",
+                "strong": "2537",
+                "translation": " a new "
+            },
+            {
+                "token": "ἱματίου",
+                "transliteration": "himatiou",
+                "strong": "2440",
+                "translation": " garment "
+            },
+            {
+                "token": "ἐπιβάλλει",
+                "transliteration": "epiballei",
+                "strong": "1911",
+                "translation": " [and] sews [it] "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "παλαιόν",
+                "transliteration": "palaion",
+                "strong": "3820",
+                "translation": " an old "
+            },
+            {
+                "token": "ἱμάτιον",
+                "transliteration": "himation",
+                "strong": "2440",
+                "translation": " [one] . "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " If he does "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " . . . "
+            },
+            {
+                "token": "μή¦γε",
+                "transliteration": "mē¦ge",
+                "strong": "1490",
+                "translation": " . . . , "
+            },
+            {
+                "token": "σχίσει",
+                "transliteration": "schisei",
+                "strong": "4977",
+                "translation": " he will tear "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "καινὸν",
+                "transliteration": "kainon",
+                "strong": "2537",
+                "translation": " new [garment] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " as well , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐπίβλημα",
+                "transliteration": "epiblēma",
+                "strong": "1915",
+                "translation": " [the] patch "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "καινοῦ",
+                "transliteration": "kainou",
+                "strong": "2537",
+                "translation": " new "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "συμφωνήσει",
+                "transliteration": "symphōnēsei",
+                "strong": "4856",
+                "translation": " will not match "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "παλαιῷ",
+                "transliteration": "palaiō",
+                "strong": "3820",
+                "translation": " old . "
+            }
+        ],
+        "verse_reference": "Luke 5:36",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "οὐδεὶς",
+                "transliteration": "oudeis",
+                "strong": "3762",
+                "translation": " no one "
+            },
+            {
+                "token": "βάλλει",
+                "transliteration": "ballei",
+                "strong": "906",
+                "translation": " pours "
+            },
+            {
+                "token": "νέον",
+                "transliteration": "neon",
+                "strong": "3501",
+                "translation": " new "
+            },
+            {
+                "token": "οἶνον",
+                "transliteration": "oinon",
+                "strong": "3631",
+                "translation": " wine "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "παλαιούς",
+                "transliteration": "palaious",
+                "strong": "3820",
+                "translation": " old "
+            },
+            {
+                "token": "ἀσκοὺς",
+                "transliteration": "askous",
+                "strong": "779",
+                "translation": " wineskins . "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " vvv "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " vvv "
+            },
+            {
+                "token": "μή¦γε",
+                "transliteration": "mē¦ge",
+                "strong": "1490",
+                "translation": " If he does , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "νέος",
+                "transliteration": "neos",
+                "strong": "3501",
+                "translation": " new "
+            },
+            {
+                "token": "οἶνος",
+                "transliteration": "oinos",
+                "strong": "3631",
+                "translation": " wine "
+            },
+            {
+                "token": "ῥήξει",
+                "transliteration": "rhēxei",
+                "strong": "4486",
+                "translation": " will burst "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀσκούς",
+                "transliteration": "askous",
+                "strong": "779",
+                "translation": " skins , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " [the wine] "
+            },
+            {
+                "token": "ἐκχυθήσεται",
+                "transliteration": "ekchythēsetai",
+                "strong": "1632",
+                "translation": " will spill , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀσκοὶ",
+                "transliteration": "askoi",
+                "strong": "779",
+                "translation": " wineskins "
+            },
+            {
+                "token": "ἀπολοῦνται",
+                "transliteration": "apolountai",
+                "strong": "622",
+                "translation": " will be ruined . "
+            }
+        ],
+        "verse_reference": "Luke 5:37",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " Instead , "
+            },
+            {
+                "token": "νέον",
+                "transliteration": "neon",
+                "strong": "3501",
+                "translation": " new "
+            },
+            {
+                "token": "οἶνον",
+                "transliteration": "oinon",
+                "strong": "3631",
+                "translation": " wine "
+            },
+            {
+                "token": "βλητέον",
+                "transliteration": "blēteon",
+                "strong": "992",
+                "translation": " is poured "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "καινοὺς",
+                "transliteration": "kainous",
+                "strong": "2537",
+                "translation": " new "
+            },
+            {
+                "token": "ἀσκοὺς",
+                "transliteration": "askous",
+                "strong": "779",
+                "translation": " wineskins . "
+            }
+        ],
+        "verse_reference": "Luke 5:38",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "οὐδεὶς",
+                "transliteration": "oudeis",
+                "strong": "3762",
+                "translation": " no one "
+            },
+            {
+                "token": "πιὼν",
+                "transliteration": "piōn",
+                "strong": "4095",
+                "translation": " after drinking "
+            },
+            {
+                "token": "παλαιὸν",
+                "transliteration": "palaion",
+                "strong": "3820",
+                "translation": " old [wine ] "
+            },
+            {
+                "token": "θέλει",
+                "transliteration": "thelei",
+                "strong": "2309",
+                "translation": " wants "
+            },
+            {
+                "token": "νέον",
+                "transliteration": "neon",
+                "strong": "3501",
+                "translation": " new , "
+            },
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " for "
+            },
+            {
+                "token": "λέγει",
+                "transliteration": "legei",
+                "strong": "3004",
+                "translation": " he says , "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " ‘ The "
+            },
+            {
+                "token": "παλαιὸς",
+                "transliteration": "palaios",
+                "strong": "3820",
+                "translation": " old "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "χρηστός",
+                "transliteration": "chrēstos",
+                "strong": "5543",
+                "translation": " better . ’” "
+            }
+        ],
+        "verse_reference": "Luke 5:39",
+        "book": "Luke",
+        "chapter": "5",
+        "verse": "39"
+    }
+]

@@ -1,0 +1,5832 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֣ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַהֲרֹ֖ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:1",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " “ When "
+            },
+            {
+                "token": "אָדָ֗ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " someone "
+            },
+            {
+                "token": "יִהְיֶ֤ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " has "
+            },
+            {
+                "token": "שְׂאֵ֤ת",
+                "transliteration": "śə·’êṯ",
+                "strong": "7613",
+                "translation": " a swelling "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "סַפַּ֙חַת֙",
+                "transliteration": "sap·pa·ḥaṯ",
+                "strong": "5597",
+                "translation": " rash "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בַהֶ֔רֶת",
+                "transliteration": "ḇa·he·reṯ",
+                "strong": "934",
+                "translation": " bright spot "
+            },
+            {
+                "token": "בְעוֹר־",
+                "transliteration": "ḇə·‘ō·wr-",
+                "strong": "5785",
+                "translation": " on his skin "
+            },
+            {
+                "token": "בְּשָׂרוֹ֙",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְהָיָ֥ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " that could become "
+            },
+            {
+                "token": "צָרָ֑עַת",
+                "transliteration": "ṣā·rā·‘aṯ",
+                "strong": "6883",
+                "translation": " an infectious "
+            },
+            {
+                "token": "בְעוֹר־",
+                "transliteration": "ḇə·‘ō·wr-",
+                "strong": "5785",
+                "translation": " skin "
+            },
+            {
+                "token": "בְּשָׂר֖וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְנֶ֣גַע",
+                "transliteration": "lə·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " disease , "
+            },
+            {
+                "token": "וְהוּבָא֙",
+                "transliteration": "wə·hū·ḇā",
+                "strong": "935",
+                "translation": " he must be brought "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַהֲרֹ֣ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " Aaron "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "א֛וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַחַ֥ד",
+                "transliteration": "’a·ḥaḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "מִבָּנָ֖יו",
+                "transliteration": "mib·bā·nāw",
+                "strong": "1121",
+                "translation": " of his sons "
+            },
+            {
+                "token": "הַכֹּהֲנִֽים׃",
+                "transliteration": "hak·kō·hă·nîm",
+                "strong": "3548",
+                "translation": " who is a priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:2",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֣ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " is to examine "
+            },
+            {
+                "token": "הַנֶּ֣גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the infection "
+            },
+            {
+                "token": "בְּעֽוֹר־",
+                "transliteration": "bə·‘ō·wr-",
+                "strong": "5785",
+                "translation": " on his skin "
+            },
+            {
+                "token": "הַ֠בָּשָׂר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְשֵׂעָ֨ר",
+                "transliteration": "wə·śê·‘ār",
+                "strong": "8181",
+                "translation": " and if the hair "
+            },
+            {
+                "token": "בַּנֶּ֜גַע",
+                "transliteration": "ban·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " in the infection "
+            },
+            {
+                "token": "הָפַ֣ךְ׀",
+                "transliteration": "hā·p̄aḵ",
+                "strong": "2015",
+                "translation": " has turned "
+            },
+            {
+                "token": "לָבָ֗ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white "
+            },
+            {
+                "token": "הַנֶּ֙גַע֙",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " and the sore "
+            },
+            {
+                "token": "וּמַרְאֵ֤ה",
+                "transliteration": "ū·mar·’êh",
+                "strong": "4758",
+                "translation": " appears "
+            },
+            {
+                "token": "עָמֹק֙",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מֵע֣וֹר",
+                "transliteration": "mê·‘ō·wr",
+                "strong": "5785",
+                "translation": " than the skin "
+            },
+            {
+                "token": "בְּשָׂר֔וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " . . . , "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "ה֑וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֖עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a skin disease . "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " After the priest "
+            },
+            {
+                "token": "וְרָאָ֥הוּ",
+                "transliteration": "wə·rā·’ā·hū",
+                "strong": "7200",
+                "translation": " examines him , "
+            },
+            {
+                "token": "וְטִמֵּ֥א",
+                "transliteration": "wə·ṭim·mê",
+                "strong": "2930",
+                "translation": " he must pronounce him unclean "
+            },
+            {
+                "token": "אֹתֽוֹ׃",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:3",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If, however , "
+            },
+            {
+                "token": "בַּהֶרֶת֩",
+                "transliteration": "ba·he·reṯ",
+                "strong": "934",
+                "translation": " the spot "
+            },
+            {
+                "token": "בְּע֣וֹר",
+                "transliteration": "bə·‘ō·wr",
+                "strong": "5785",
+                "translation": " on his skin "
+            },
+            {
+                "token": "בְּשָׂר֗וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְבָנָ֨ה",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " is white "
+            },
+            {
+                "token": "הִ֜וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " and does not "
+            },
+            {
+                "token": "מַרְאֶ֣הָ",
+                "transliteration": "mar·’e·hā",
+                "strong": "4758",
+                "translation": " appear "
+            },
+            {
+                "token": "וְעָמֹק֙",
+                "transliteration": "wə·‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin , "
+            },
+            {
+                "token": "וּשְׂעָרָ֖ה",
+                "transliteration": "ū·śə·‘ā·rāh",
+                "strong": "8181",
+                "translation": " and the hair in it "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "הָפַ֣ךְ",
+                "transliteration": "hā·p̄aḵ",
+                "strong": "2015",
+                "translation": " turned "
+            },
+            {
+                "token": "לָבָ֑ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִסְגִּ֧יר",
+                "transliteration": "wə·his·gîr",
+                "strong": "5462",
+                "translation": " shall isolate "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the infected person "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:4",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁבִיעִי֒",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " On the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַכֹּהֵן֮",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֣הוּ",
+                "transliteration": "wə·rā·’ā·hū",
+                "strong": "7200",
+                "translation": " is to reexamine him , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "בְּעֵינָ֔יו",
+                "transliteration": "bə·‘ê·nāw",
+                "strong": "5869",
+                "translation": " he sees "
+            },
+            {
+                "token": "הַנֶּ֙גַע֙",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " that the infection "
+            },
+            {
+                "token": "עָמַ֣ד",
+                "transliteration": "‘ā·maḏ",
+                "strong": "5975",
+                "translation": " is unchanged "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " and has not "
+            },
+            {
+                "token": "פָשָׂ֥ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְהִסְגִּיר֧וֹ",
+                "transliteration": "wə·his·gî·rōw",
+                "strong": "5462",
+                "translation": " must isolate him "
+            },
+            {
+                "token": "שֵׁנִֽית׃",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " for another "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:5",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֨ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "אֹת֜וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָה֩",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " will examine him "
+            },
+            {
+                "token": "שֵׁנִית֒",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " again "
+            },
+            {
+                "token": "הַשְּׁבִיעִי֮",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " on the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "וְהִנֵּה֙",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֔גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the sore "
+            },
+            {
+                "token": "כֵּהָ֣ה",
+                "transliteration": "kê·hāh",
+                "strong": "3543",
+                "translation": " has faded "
+            },
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " and has not "
+            },
+            {
+                "token": "פָשָׂ֥ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְטִהֲר֤וֹ",
+                "transliteration": "wə·ṭi·hă·rōw",
+                "strong": "2891",
+                "translation": " shall pronounce him clean ; "
+            },
+            {
+                "token": "הִ֔יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מִסְפַּ֣חַת",
+                "transliteration": "mis·pa·ḥaṯ",
+                "strong": "4556",
+                "translation": " is a rash . "
+            },
+            {
+                "token": "וְכִבֶּ֥ס",
+                "transliteration": "wə·ḵib·bes",
+                "strong": "3526",
+                "translation": " The person must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְטָהֵֽר׃",
+                "transliteration": "wə·ṭā·hêr",
+                "strong": "2891",
+                "translation": " and be clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:6",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הַמִּסְפַּ֙חַת֙",
+                "transliteration": "ham·mis·pa·ḥaṯ",
+                "strong": "4556",
+                "translation": " the rash "
+            },
+            {
+                "token": "פָּשֹׂ֨ה",
+                "transliteration": "pā·śōh",
+                "strong": "6581",
+                "translation": " spreads "
+            },
+            {
+                "token": "תִפְשֶׂ֤ה",
+                "transliteration": "ṯip̄·śeh",
+                "strong": "6581",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּע֔וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " further on his skin "
+            },
+            {
+                "token": "אַחֲרֵ֧י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "הֵרָאֹת֛וֹ",
+                "transliteration": "hê·rā·’ō·ṯōw",
+                "strong": "7200",
+                "translation": " he has shown himself "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "לְטָהֳרָת֑וֹ",
+                "transliteration": "lə·ṭā·ho·rā·ṯōw",
+                "strong": "2893",
+                "translation": " for his cleansing , "
+            },
+            {
+                "token": "וְנִרְאָ֥ה",
+                "transliteration": "wə·nir·’āh",
+                "strong": "7200",
+                "translation": " he must present himself "
+            },
+            {
+                "token": "שֵׁנִ֖ית",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " again "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:7",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְרָאָה֙",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " will reexamine him , "
+            },
+            {
+                "token": "וְהִנֵּ֛ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַמִּסְפַּ֖חַת",
+                "transliteration": "ham·mis·pa·ḥaṯ",
+                "strong": "4556",
+                "translation": " the rash "
+            },
+            {
+                "token": "פָּשְׂתָ֥ה",
+                "transliteration": "pā·śə·ṯāh",
+                "strong": "6581",
+                "translation": " has spread "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְטִמְּא֥וֹ",
+                "transliteration": "wə·ṭim·mə·’ōw",
+                "strong": "2930",
+                "translation": " must pronounce him unclean ; "
+            },
+            {
+                "token": "הִֽוא׃פ",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "צָרַ֥עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " has a skin disease . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:8",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "בְּאָדָ֑ם",
+                "transliteration": "bə·’ā·ḏām",
+                "strong": "120",
+                "translation": " anyone "
+            },
+            {
+                "token": "תִהְיֶ֖ה",
+                "transliteration": "ṯih·yeh",
+                "strong": "1961",
+                "translation": " develops "
+            },
+            {
+                "token": "נֶ֣גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " a skin disease "
+            },
+            {
+                "token": "צָרַ֔עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " , "
+            },
+            {
+                "token": "וְהוּבָ֖א",
+                "transliteration": "wə·hū·ḇā",
+                "strong": "935",
+                "translation": " he must be brought "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:9",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " will examine him , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "לְבָנָה֙",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " there is a white "
+            },
+            {
+                "token": "שְׂאֵת־",
+                "transliteration": "śə·’êṯ-",
+                "strong": "7613",
+                "translation": " swelling "
+            },
+            {
+                "token": "בָּע֔וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin "
+            },
+            {
+                "token": "וְהִ֕יא",
+                "transliteration": "wə·hî",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "הָפְכָ֖ה",
+                "transliteration": "hā·p̄ə·ḵāh",
+                "strong": "2015",
+                "translation": " has turned "
+            },
+            {
+                "token": "שֵׂעָ֣ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " the hair "
+            },
+            {
+                "token": "לָבָ֑ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "וּמִֽחְיַ֛ת",
+                "transliteration": "ū·miḥ·yaṯ",
+                "strong": "4241",
+                "translation": " . . . "
+            },
+            {
+                "token": "חַ֖י",
+                "transliteration": "ḥay",
+                "strong": "2416",
+                "translation": " and there is raw "
+            },
+            {
+                "token": "בָּשָׂ֥ר",
+                "transliteration": "bā·śār",
+                "strong": "1320",
+                "translation": " flesh "
+            },
+            {
+                "token": "בַּשְׂאֵֽת׃",
+                "transliteration": "baś·’êṯ",
+                "strong": "7613",
+                "translation": " in the swelling , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:10",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הִוא֙",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "נוֹשֶׁ֤נֶת",
+                "transliteration": "nō·wō·še·neṯ",
+                "strong": "3462",
+                "translation": " is a chronic "
+            },
+            {
+                "token": "צָרַ֨עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " skin disease "
+            },
+            {
+                "token": "בְּע֣וֹר",
+                "transliteration": "bə·‘ō·wr",
+                "strong": "5785",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּשָׂר֔וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַכֹּהֵ֑ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "וְטִמְּא֖וֹ",
+                "transliteration": "wə·ṭim·mə·’ōw",
+                "strong": "2930",
+                "translation": " must pronounce him unclean . "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " He need not "
+            },
+            {
+                "token": "יַסְגִּרֶ֔נּוּ",
+                "transliteration": "yas·gi·ren·nū",
+                "strong": "5462",
+                "translation": " isolate him , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "טָמֵ֖א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:11",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הַצָּרַ֙עַת֙",
+                "transliteration": "haṣ·ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " the skin disease "
+            },
+            {
+                "token": "פָּר֨וֹחַ",
+                "transliteration": "pā·rō·w·aḥ",
+                "strong": "6524",
+                "translation": " breaks out "
+            },
+            {
+                "token": "תִּפְרַ֤ח",
+                "transliteration": "tip̄·raḥ",
+                "strong": "6524",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּע֔וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " all over his skin "
+            },
+            {
+                "token": "הַצָּרַ֗עַת",
+                "transliteration": "haṣ·ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " so that it "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְכִסְּתָ֣ה",
+                "transliteration": "wə·ḵis·sə·ṯāh",
+                "strong": "3680",
+                "translation": " covers "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "ע֣וֹר",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin "
+            },
+            {
+                "token": "הַנֶּ֔גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " of the infected person "
+            },
+            {
+                "token": "מֵרֹאשׁ֖וֹ",
+                "transliteration": "mê·rō·šōw",
+                "strong": "7218",
+                "translation": " from head "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "רַגְלָ֑יו",
+                "transliteration": "raḡ·lāw",
+                "strong": "7272",
+                "translation": " foot , "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " as far as the priest "
+            },
+            {
+                "token": "מַרְאֵ֖ה",
+                "transliteration": "mar·’êh",
+                "strong": "4758",
+                "translation": " can see , "
+            },
+            {
+                "token": "עֵינֵ֥י",
+                "transliteration": "‘ê·nê",
+                "strong": "5869",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:12",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " shall examine him , "
+            },
+            {
+                "token": "וְהִנֵּ֨ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַצָּרַ֙עַת֙",
+                "transliteration": "haṣ·ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " the disease "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כִסְּתָ֤ה",
+                "transliteration": "ḵis·sə·ṯāh",
+                "strong": "3680",
+                "translation": " has covered "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " his entire "
+            },
+            {
+                "token": "בְּשָׂר֔וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " body , "
+            },
+            {
+                "token": "הַנָּ֑גַע",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " he is to pronounce the infected person "
+            },
+            {
+                "token": "וְטִהַ֖ר",
+                "transliteration": "wə·ṭi·har",
+                "strong": "2891",
+                "translation": " clean . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָפַ֥ךְ",
+                "transliteration": "hā·p̄aḵ",
+                "strong": "2015",
+                "translation": " Since it has all turned "
+            },
+            {
+                "token": "כֻּלּ֛וֹ",
+                "transliteration": "kul·lōw",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָבָ֖ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "טָה֥וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " is clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:13",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְי֨וֹם",
+                "transliteration": "ū·ḇə·yō·wm",
+                "strong": "3117",
+                "translation": " But whenever "
+            },
+            {
+                "token": "חַ֖י",
+                "transliteration": "ḥay",
+                "strong": "2416",
+                "translation": " raw "
+            },
+            {
+                "token": "בָּשָׂ֥ר",
+                "transliteration": "bā·śār",
+                "strong": "1320",
+                "translation": " flesh "
+            },
+            {
+                "token": "הֵרָא֥וֹת",
+                "transliteration": "hê·rā·’ō·wṯ",
+                "strong": "7200",
+                "translation": " appears "
+            },
+            {
+                "token": "בּ֛וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " on [someone] , "
+            },
+            {
+                "token": "יִטְמָֽא׃",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " he will be unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:14",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " When the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָ֧ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " sees "
+            },
+            {
+                "token": "הַחַ֖י",
+                "transliteration": "ha·ḥay",
+                "strong": "2416",
+                "translation": " the raw "
+            },
+            {
+                "token": "הַבָּשָׂ֥ר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " flesh , "
+            },
+            {
+                "token": "וְטִמְּא֑וֹ",
+                "transliteration": "wə·ṭim·mə·’ōw",
+                "strong": "2930",
+                "translation": " he must pronounce him unclean . "
+            },
+            {
+                "token": "הַחַ֛י",
+                "transliteration": "ha·ḥay",
+                "strong": "2416",
+                "translation": " The raw "
+            },
+            {
+                "token": "הַבָּשָׂ֥ר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " flesh "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֥עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a skin disease . "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:15",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " But "
+            },
+            {
+                "token": "כִ֥י",
+                "transliteration": "ḵî",
+                "strong": "3588",
+                "translation": " if "
+            },
+            {
+                "token": "הַחַ֖י",
+                "transliteration": "ha·ḥay",
+                "strong": "2416",
+                "translation": " the raw "
+            },
+            {
+                "token": "הַבָּשָׂ֥ר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " flesh "
+            },
+            {
+                "token": "יָשׁ֛וּב",
+                "transliteration": "yā·šūḇ",
+                "strong": "7725",
+                "translation": " changes "
+            },
+            {
+                "token": "וְנֶהְפַּ֣ךְ",
+                "transliteration": "wə·neh·paḵ",
+                "strong": "2015",
+                "translation": " and turns "
+            },
+            {
+                "token": "לְלָבָ֑ן",
+                "transliteration": "lə·lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "וּבָ֖א",
+                "transliteration": "ū·ḇā",
+                "strong": "935",
+                "translation": " he must go "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:16",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְרָאָ֙הוּ֙",
+                "transliteration": "wə·rā·’ā·hū",
+                "strong": "7200",
+                "translation": " will reexamine him , "
+            },
+            {
+                "token": "וְהִנֵּ֛ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the infection "
+            },
+            {
+                "token": "נֶהְפַּ֥ךְ",
+                "transliteration": "neh·paḵ",
+                "strong": "2015",
+                "translation": " has turned "
+            },
+            {
+                "token": "לְלָבָ֑ן",
+                "transliteration": "lə·lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " is to pronounce the infected person "
+            },
+            {
+                "token": "וְטִהַ֧ר",
+                "transliteration": "wə·ṭi·har",
+                "strong": "2891",
+                "translation": " clean ; "
+            },
+            {
+                "token": "הֽוּא׃פ",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " then he "
+            },
+            {
+                "token": "טָה֥וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " is clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:17",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "שְׁחִ֑ין",
+                "transliteration": "šə·ḥîn",
+                "strong": "7822",
+                "translation": " a boil "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " appears "
+            },
+            {
+                "token": "בֽוֹ־",
+                "transliteration": "ḇōw-",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "בְעֹר֖וֹ",
+                "transliteration": "ḇə·‘ō·rōw",
+                "strong": "5785",
+                "translation": " on someone’s skin "
+            },
+            {
+                "token": "וּבָשָׂ֕ר",
+                "transliteration": "ū·ḇā·śār",
+                "strong": "1320",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְנִרְפָּֽא׃",
+                "transliteration": "wə·nir·pā",
+                "strong": "7495",
+                "translation": " and it heals , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:18",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְבָנָ֔ה",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " and a white "
+            },
+            {
+                "token": "שְׂאֵ֣ת",
+                "transliteration": "śə·’êṯ",
+                "strong": "7613",
+                "translation": " swelling "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "לְבָנָ֣ה",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " a reddish-white "
+            },
+            {
+                "token": "אֲדַמְדָּ֑מֶת",
+                "transliteration": "’ă·ḏam·dā·meṯ",
+                "strong": "125",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַהֶ֖רֶת",
+                "transliteration": "ḇa·he·reṯ",
+                "strong": "934",
+                "translation": " spot "
+            },
+            {
+                "token": "וְהָיָ֞ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " develops "
+            },
+            {
+                "token": "בִּמְק֤וֹם",
+                "transliteration": "bim·qō·wm",
+                "strong": "4725",
+                "translation": " where "
+            },
+            {
+                "token": "הַשְּׁחִין֙",
+                "transliteration": "haš·šə·ḥîn",
+                "strong": "7822",
+                "translation": " the boil was , "
+            },
+            {
+                "token": "וְנִרְאָ֖ה",
+                "transliteration": "wə·nir·’āh",
+                "strong": "7200",
+                "translation": " he must present himself "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:19",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " shall examine it , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "מַרְאֶ֙הָ֙",
+                "transliteration": "mar·’e·hā",
+                "strong": "4758",
+                "translation": " it appears "
+            },
+            {
+                "token": "שָׁפָ֣ל",
+                "transliteration": "šā·p̄āl",
+                "strong": "8217",
+                "translation": " to be beneath "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin "
+            },
+            {
+                "token": "וּשְׂעָרָ֖הּ",
+                "transliteration": "ū·śə·‘ā·rāh",
+                "strong": "8181",
+                "translation": " and the hair in it "
+            },
+            {
+                "token": "הָפַ֣ךְ",
+                "transliteration": "hā·p̄aḵ",
+                "strong": "2015",
+                "translation": " has turned "
+            },
+            {
+                "token": "לָבָ֑ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "נֶֽגַע־",
+                "transliteration": "ne·ḡa‘-",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְטִמְּא֧וֹ",
+                "transliteration": "wə·ṭim·mə·’ōw",
+                "strong": "2930",
+                "translation": " shall pronounce him unclean ; "
+            },
+            {
+                "token": "הִ֖וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֥עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a diseased infection "
+            },
+            {
+                "token": "פָּרָֽחָה׃",
+                "transliteration": "pā·rā·ḥāh",
+                "strong": "6524",
+                "translation": " that has broken out "
+            },
+            {
+                "token": "בַּשְּׁחִ֥ין",
+                "transliteration": "baš·šə·ḥîn",
+                "strong": "7822",
+                "translation": " in the boil . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:20",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִ֣ם׀",
+                "transliteration": "wə·’im",
+                "strong": "518",
+                "translation": " But when "
+            },
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "יִרְאֶ֣נָּה",
+                "transliteration": "yir·’en·nāh",
+                "strong": "7200",
+                "translation": " examines it , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " if "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " there is no "
+            },
+            {
+                "token": "לָבָ֔ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white "
+            },
+            {
+                "token": "שֵׂעָ֣ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " hair "
+            },
+            {
+                "token": "בָּהּ֙",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " in it , "
+            },
+            {
+                "token": "אֵינֶ֛נָּה",
+                "transliteration": "’ê·nen·nāh",
+                "strong": "369",
+                "translation": " and it is not "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁפָלָ֥ה",
+                "transliteration": "ū·šə·p̄ā·lāh",
+                "strong": "8217",
+                "translation": " beneath "
+            },
+            {
+                "token": "הָע֖וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin "
+            },
+            {
+                "token": "וְהִ֣יא",
+                "transliteration": "wə·hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "כֵהָ֑ה",
+                "transliteration": "ḵê·hāh",
+                "strong": "3544",
+                "translation": " and has faded , "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְהִסְגִּיר֥וֹ",
+                "transliteration": "wə·his·gî·rōw",
+                "strong": "5462",
+                "translation": " shall isolate him "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:21",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "פָּשֹׂ֥ה",
+                "transliteration": "pā·śōh",
+                "strong": "6581",
+                "translation": " it spreads "
+            },
+            {
+                "token": "תִפְשֶׂ֖ה",
+                "transliteration": "ṯip̄·śeh",
+                "strong": "6581",
+                "translation": " any "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " further on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֹת֖וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְטִמֵּ֧א",
+                "transliteration": "wə·ṭim·mê",
+                "strong": "2930",
+                "translation": " must pronounce him unclean ; "
+            },
+            {
+                "token": "הִֽוא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " is an infection . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:22",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הַבַּהֶ֙רֶת֙",
+                "transliteration": "hab·ba·he·reṯ",
+                "strong": "934",
+                "translation": " the spot "
+            },
+            {
+                "token": "תַּעֲמֹ֤ד",
+                "transliteration": "ta·‘ă·mōḏ",
+                "strong": "5975",
+                "translation": " remains "
+            },
+            {
+                "token": "תַּחְתֶּ֜יהָ",
+                "transliteration": "taḥ·te·hā",
+                "strong": "8478",
+                "translation": " unchanged "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and does not "
+            },
+            {
+                "token": "פָשָׂ֔תָה",
+                "transliteration": "p̄ā·śā·ṯāh",
+                "strong": "6581",
+                "translation": " spread , "
+            },
+            {
+                "token": "הִ֑וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרֶ֥בֶת",
+                "transliteration": "ṣā·re·ḇeṯ",
+                "strong": "6867",
+                "translation": " is only the scar "
+            },
+            {
+                "token": "הַשְּׁחִ֖ין",
+                "transliteration": "haš·šə·ḥîn",
+                "strong": "7822",
+                "translation": " from the boil , "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃ס",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "וְטִהֲר֖וֹ",
+                "transliteration": "wə·ṭi·hă·rōw",
+                "strong": "2891",
+                "translation": " shall pronounce him clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:23",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " there is "
+            },
+            {
+                "token": "מִכְוַת־",
+                "transliteration": "miḵ·waṯ-",
+                "strong": "4348",
+                "translation": " a burn "
+            },
+            {
+                "token": "אֵ֑שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְעֹר֖וֹ",
+                "transliteration": "ḇə·‘ō·rōw",
+                "strong": "5785",
+                "translation": " on someone’s skin "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " "
+            },
+            {
+                "token": "בָשָׂ֔ר",
+                "transliteration": "ḇā·śār",
+                "strong": "1320",
+                "translation": " - "
+            },
+            {
+                "token": "מִֽחְיַ֣ת",
+                "transliteration": "miḥ·yaṯ",
+                "strong": "4241",
+                "translation": " and the raw "
+            },
+            {
+                "token": "הַמִּכְוָ֗ה",
+                "transliteration": "ham·miḵ·wāh",
+                "strong": "4348",
+                "translation": " [area] of the burn "
+            },
+            {
+                "token": "בַּהֶ֛רֶת",
+                "transliteration": "ba·he·reṯ",
+                "strong": "934",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְֽהָיְתָ֞ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " becomes "
+            },
+            {
+                "token": "לְבָנָ֥ה",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " reddish-white "
+            },
+            {
+                "token": "אֲדַמְדֶּ֖מֶת",
+                "transliteration": "’ă·ḏam·de·meṯ",
+                "strong": "125",
+                "translation": " . . . "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "לְבָנָֽה׃",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " white , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:24",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֡ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " must examine it . "
+            },
+            {
+                "token": "אֹתָ֣הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִנֵּ֣ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " If "
+            },
+            {
+                "token": "שֵׂעָ֨ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " the hair "
+            },
+            {
+                "token": "בַּבַּהֶ֗רֶת",
+                "transliteration": "bab·ba·he·reṯ",
+                "strong": "934",
+                "translation": " in the spot "
+            },
+            {
+                "token": "נֶהְפַּךְ֩",
+                "transliteration": "neh·paḵ",
+                "strong": "2015",
+                "translation": " has turned "
+            },
+            {
+                "token": "לָבָ֜ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white "
+            },
+            {
+                "token": "וּמַרְאֶ֙הָ֙",
+                "transliteration": "ū·mar·’e·hā",
+                "strong": "4758",
+                "translation": " and the spot appears "
+            },
+            {
+                "token": "עָמֹ֣ק",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin , "
+            },
+            {
+                "token": "הִ֔וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֣עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a disease "
+            },
+            {
+                "token": "פָּרָ֑חָה",
+                "transliteration": "pā·rā·ḥāh",
+                "strong": "6524",
+                "translation": " that has broken out "
+            },
+            {
+                "token": "בַּמִּכְוָ֖ה",
+                "transliteration": "bam·miḵ·wāh",
+                "strong": "4348",
+                "translation": " in the burn . "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְטִמֵּ֤א",
+                "transliteration": "wə·ṭim·mê",
+                "strong": "2930",
+                "translation": " must pronounce him unclean ; "
+            },
+            {
+                "token": "אֹתוֹ֙",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הִֽוא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֖עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a diseased infection . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:25",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִ֣ם׀",
+                "transliteration": "wə·’im",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "יִרְאֶ֣נָּה",
+                "transliteration": "yir·’en·nāh",
+                "strong": "7200",
+                "translation": " examines it "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and there is "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " no "
+            },
+            {
+                "token": "לָבָ֔ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " white "
+            },
+            {
+                "token": "שֵׂעָ֣ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " hair "
+            },
+            {
+                "token": "בַּבֶּהֶ֙רֶת֙",
+                "transliteration": "bab·be·he·reṯ",
+                "strong": "934",
+                "translation": " in the spot , "
+            },
+            {
+                "token": "אֵינֶ֛נָּה",
+                "transliteration": "’ê·nen·nāh",
+                "strong": "369",
+                "translation": " and it is not "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁפָלָ֥ה",
+                "transliteration": "ū·šə·p̄ā·lāh",
+                "strong": "8217",
+                "translation": " beneath "
+            },
+            {
+                "token": "הָע֖וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin "
+            },
+            {
+                "token": "וְהִ֣וא",
+                "transliteration": "wə·hi·w",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "כֵהָ֑ה",
+                "transliteration": "ḵê·hāh",
+                "strong": "3544",
+                "translation": " but has faded , "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְהִסְגִּיר֥וֹ",
+                "transliteration": "wə·his·gî·rōw",
+                "strong": "5462",
+                "translation": " shall isolate him "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:26",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁבִיעִ֑י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " On the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֥הוּ",
+                "transliteration": "wə·rā·’ā·hū",
+                "strong": "7200",
+                "translation": " is to reexamine him , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " and if "
+            },
+            {
+                "token": "פָּשֹׂ֤ה",
+                "transliteration": "pā·śōh",
+                "strong": "6581",
+                "translation": " it has spread "
+            },
+            {
+                "token": "תִפְשֶׂה֙",
+                "transliteration": "ṯip̄·śeh",
+                "strong": "6581",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּע֔וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " further on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " - "
+            },
+            {
+                "token": "וְטִמֵּ֤א",
+                "transliteration": "wə·ṭim·mê",
+                "strong": "2930",
+                "translation": " must pronounce him unclean ; "
+            },
+            {
+                "token": "הִֽוא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֖עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is a diseased infection . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:27",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הַבַּהֶ֜רֶת",
+                "transliteration": "hab·ba·he·reṯ",
+                "strong": "934",
+                "translation": " the spot "
+            },
+            {
+                "token": "תַעֲמֹ֨ד",
+                "transliteration": "ṯa·‘ă·mōḏ",
+                "strong": "5975",
+                "translation": " is unchanged "
+            },
+            {
+                "token": "תַּחְתֶּיהָ֩",
+                "transliteration": "taḥ·te·hā",
+                "strong": "8478",
+                "translation": " . . . "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " and has not "
+            },
+            {
+                "token": "פָשְׂתָ֤ה",
+                "transliteration": "p̄ā·śə·ṯāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "בָעוֹר֙",
+                "transliteration": "ḇā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin "
+            },
+            {
+                "token": "כֵהָ֔ה",
+                "transliteration": "ḵê·hāh",
+                "strong": "3544",
+                "translation": " but has faded , "
+            },
+            {
+                "token": "וְהִ֣וא",
+                "transliteration": "wə·hi·w",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "שְׂאֵ֥ת",
+                "transliteration": "śə·’êṯ",
+                "strong": "7613",
+                "translation": " is a swelling "
+            },
+            {
+                "token": "הַמִּכְוָ֖ה",
+                "transliteration": "ham·miḵ·wāh",
+                "strong": "4348",
+                "translation": " from the burn , "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "וְטִֽהֲרוֹ֙",
+                "transliteration": "wə·ṭi·hă·rōw",
+                "strong": "2891",
+                "translation": " is to pronounce him clean ; "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הִ֑וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרֶ֥בֶת",
+                "transliteration": "ṣā·re·ḇeṯ",
+                "strong": "6867",
+                "translation": " is only the scar "
+            },
+            {
+                "token": "הַמִּכְוָ֖ה",
+                "transliteration": "ham·miḵ·wāh",
+                "strong": "4348",
+                "translation": " from the burn "
+            },
+            {
+                "token": "הִֽוא׃פ",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:28",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "וְאִישׁ֙",
+                "transliteration": "wə·’îš",
+                "strong": "376",
+                "translation": " a man "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אִשָּׁ֔ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " woman "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " has "
+            },
+            {
+                "token": "ב֖וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "נָ֑גַע",
+                "transliteration": "nā·ḡa‘",
+                "strong": "5061",
+                "translation": " an infection "
+            },
+            {
+                "token": "בְּרֹ֖אשׁ",
+                "transliteration": "bə·rōš",
+                "strong": "7218",
+                "translation": " on the head "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְזָקָֽן׃",
+                "transliteration": "ḇə·zā·qān",
+                "strong": "2206",
+                "translation": " chin , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:29",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָ֨ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " shall examine "
+            },
+            {
+                "token": "הַנֶּ֗גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the infection , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "מַרְאֵ֙הוּ֙",
+                "transliteration": "mar·’ê·hū",
+                "strong": "4758",
+                "translation": " it appears "
+            },
+            {
+                "token": "עָמֹ֣ק",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin "
+            },
+            {
+                "token": "וּב֛וֹ",
+                "transliteration": "ū·ḇōw",
+                "strong": "",
+                "translation": " and "
+            },
+            {
+                "token": "שֵׂעָ֥ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " the hair in it "
+            },
+            {
+                "token": "צָהֹ֖ב",
+                "transliteration": "ṣā·hōḇ",
+                "strong": "6669",
+                "translation": " is yellow "
+            },
+            {
+                "token": "דָּ֑ק",
+                "transliteration": "dāq",
+                "strong": "1851",
+                "translation": " and thin , "
+            },
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְטִמֵּ֨א",
+                "transliteration": "wə·ṭim·mê",
+                "strong": "2930",
+                "translation": " must pronounce him unclean "
+            },
+            {
+                "token": "אֹת֤וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - ; "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "נֶ֣תֶק",
+                "transliteration": "ne·ṯeq",
+                "strong": "5424",
+                "translation": " is a scaly outbreak , "
+            },
+            {
+                "token": "צָרַ֧עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " an infectious disease "
+            },
+            {
+                "token": "הָרֹ֛אשׁ",
+                "transliteration": "hā·rōš",
+                "strong": "7218",
+                "translation": " of the head "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "הַזָּקָ֖ן",
+                "transliteration": "haz·zā·qān",
+                "strong": "2206",
+                "translation": " chin "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:30",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִֽי־",
+                "transliteration": "wə·ḵî-",
+                "strong": "3588",
+                "translation": " But if "
+            },
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יִרְאֶ֨ה",
+                "transliteration": "yir·’eh",
+                "strong": "7200",
+                "translation": " examines "
+            },
+            {
+                "token": "הַנֶּ֗תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly "
+            },
+            {
+                "token": "נֶ֣גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " infection "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and "
+            },
+            {
+                "token": "אֵין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " it does not "
+            },
+            {
+                "token": "מַרְאֵ֙הוּ֙",
+                "transliteration": "mar·’ê·hū",
+                "strong": "4758",
+                "translation": " appear "
+            },
+            {
+                "token": "עָמֹ֣ק",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin , "
+            },
+            {
+                "token": "אֵ֣ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "שָׁחֹ֖ר",
+                "transliteration": "šā·ḥōr",
+                "strong": "7838",
+                "translation": " black "
+            },
+            {
+                "token": "וְשֵׂעָ֥ר",
+                "transliteration": "wə·śê·‘ār",
+                "strong": "8181",
+                "translation": " hair "
+            },
+            {
+                "token": "בּ֑וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " in it , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִסְגִּ֧יר",
+                "transliteration": "wə·his·gîr",
+                "strong": "5462",
+                "translation": " shall isolate "
+            },
+            {
+                "token": "הַנֶּ֖תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the infected person "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " . . . "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:31",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁבִיעִי֒",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " On the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַכֹּהֵ֣ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָ֨ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " is to reexamine "
+            },
+            {
+                "token": "הַנֶּגַע֮",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the infection , "
+            },
+            {
+                "token": "וְהִנֵּה֙",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֔תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly outbreak "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "פָשָׂ֣ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "הָ֥יָה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " and there is "
+            },
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "צָהֹ֑ב",
+                "transliteration": "ṣā·hōḇ",
+                "strong": "6669",
+                "translation": " yellow "
+            },
+            {
+                "token": "שֵׂעָ֣ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " hair "
+            },
+            {
+                "token": "ב֖וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " in it , "
+            },
+            {
+                "token": "הַנֶּ֔תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " and it "
+            },
+            {
+                "token": "אֵ֥ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " does not "
+            },
+            {
+                "token": "וּמַרְאֵ֣ה",
+                "transliteration": "ū·mar·’êh",
+                "strong": "4758",
+                "translation": " appear "
+            },
+            {
+                "token": "עָמֹ֖ק",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " to be deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָעֽוֹר׃",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:32",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהִ֨תְגַּלָּ֔ח",
+                "transliteration": "wə·hiṯ·gal·lāḥ",
+                "strong": "1548",
+                "translation": " then the person must shave himself "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " except for "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְגַלֵּ֑חַ",
+                "transliteration": "yə·ḡal·lê·aḥ",
+                "strong": "1548",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֶּ֖תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly area . "
+            },
+            {
+                "token": "הַכֹּהֵ֧ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " Then the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִסְגִּ֨יר",
+                "transliteration": "wə·his·gîr",
+                "strong": "5462",
+                "translation": " shall isolate "
+            },
+            {
+                "token": "הַנֶּ֛תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " [him] "
+            },
+            {
+                "token": "שֵׁנִֽית׃",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " for another "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:33",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁבִיעִ֗י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " On the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַכֹּהֵ֨ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָה֩",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " shall examine "
+            },
+            {
+                "token": "הַנֶּ֜תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly outbreak , "
+            },
+            {
+                "token": "וְ֠הִנֵּה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֙תֶק֙",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " it "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "פָשָׂ֤ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "בָּע֔וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin "
+            },
+            {
+                "token": "אֵינֶ֥נּוּ",
+                "transliteration": "’ê·nen·nū",
+                "strong": "369",
+                "translation": " and does not "
+            },
+            {
+                "token": "וּמַרְאֵ֕הוּ",
+                "transliteration": "ū·mar·’ê·hū",
+                "strong": "4758",
+                "translation": " appear to be "
+            },
+            {
+                "token": "עָמֹ֖ק",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " deeper "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " than "
+            },
+            {
+                "token": "הָע֑וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " the skin , "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְטִהַ֤ר",
+                "transliteration": "wə·ṭi·har",
+                "strong": "2891",
+                "translation": " is to pronounce him clean "
+            },
+            {
+                "token": "אֹתוֹ֙",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - . "
+            },
+            {
+                "token": "וְכִבֶּ֥ס",
+                "transliteration": "wə·ḵib·bes",
+                "strong": "3526",
+                "translation": " He must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes , "
+            },
+            {
+                "token": "וְטָהֵֽר׃",
+                "transliteration": "wə·ṭā·hêr",
+                "strong": "2891",
+                "translation": " and he will be clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:34",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If, however , "
+            },
+            {
+                "token": "הַנֶּ֖תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly outbreak "
+            },
+            {
+                "token": "פָּשֹׂ֥ה",
+                "transliteration": "pā·śōh",
+                "strong": "6581",
+                "translation": " spreads "
+            },
+            {
+                "token": "יִפְשֶׂ֛ה",
+                "transliteration": "yip̄·śeh",
+                "strong": "6581",
+                "translation": " further "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "טָהֳרָתֽוֹ׃",
+                "transliteration": "ṭā·ho·rā·ṯōw",
+                "strong": "2893",
+                "translation": " his cleansing , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:35",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֙הוּ֙",
+                "transliteration": "wə·rā·’ā·hū",
+                "strong": "7200",
+                "translation": " is to examine him , "
+            },
+            {
+                "token": "וְהִנֵּ֛ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֖תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly outbreak "
+            },
+            {
+                "token": "פָּשָׂ֥ה",
+                "transliteration": "pā·śāh",
+                "strong": "6581",
+                "translation": " has spread "
+            },
+            {
+                "token": "בָּע֑וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin , "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " need not "
+            },
+            {
+                "token": "יְבַקֵּ֧ר",
+                "transliteration": "yə·ḇaq·qêr",
+                "strong": "1239",
+                "translation": " look for "
+            },
+            {
+                "token": "הַצָּהֹ֖ב",
+                "transliteration": "haṣ·ṣā·hōḇ",
+                "strong": "6669",
+                "translation": " yellow "
+            },
+            {
+                "token": "לַשֵּׂעָ֥ר",
+                "transliteration": "laś·śê·‘ār",
+                "strong": "8181",
+                "translation": " hair ; "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " the person "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:36",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If, however , "
+            },
+            {
+                "token": "בְּעֵינָיו֩",
+                "transliteration": "bə·‘ê·nāw",
+                "strong": "5869",
+                "translation": " in his sight "
+            },
+            {
+                "token": "הַנֶּ֜תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " the scaly outbreak "
+            },
+            {
+                "token": "עָמַ֨ד",
+                "transliteration": "‘ā·maḏ",
+                "strong": "5975",
+                "translation": " is unchanged "
+            },
+            {
+                "token": "שָׁחֹ֧ר",
+                "transliteration": "šā·ḥōr",
+                "strong": "7838",
+                "translation": " and black "
+            },
+            {
+                "token": "וְשֵׂעָ֨ר",
+                "transliteration": "wə·śê·‘ār",
+                "strong": "8181",
+                "translation": " hair "
+            },
+            {
+                "token": "צָֽמַח־",
+                "transliteration": "ṣā·maḥ-",
+                "strong": "6779",
+                "translation": " has grown "
+            },
+            {
+                "token": "בּ֛וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " in it , "
+            },
+            {
+                "token": "הַנֶּ֖תֶק",
+                "transliteration": "han·ne·ṯeq",
+                "strong": "5424",
+                "translation": " then it "
+            },
+            {
+                "token": "נִרְפָּ֥א",
+                "transliteration": "nir·pā",
+                "strong": "7495",
+                "translation": " has healed . "
+            },
+            {
+                "token": "ה֑וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "טָה֣וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " is clean , "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃ס",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "וְטִהֲר֖וֹ",
+                "transliteration": "wə·ṭi·hă·rōw",
+                "strong": "2891",
+                "translation": " is to pronounce him [clean] . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:37",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאִישׁ֙",
+                "transliteration": "wə·’îš",
+                "strong": "376",
+                "translation": " a man "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אִשָּׁ֔ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " a woman "
+            },
+            {
+                "token": "לְבָנֹֽת׃",
+                "transliteration": "lə·ḇā·nōṯ",
+                "strong": "3836",
+                "translation": " has white "
+            },
+            {
+                "token": "בֶּהָרֹ֑ת",
+                "transliteration": "be·hā·rōṯ",
+                "strong": "934",
+                "translation": " spots "
+            },
+            {
+                "token": "בֶּהָרֹ֖ת",
+                "transliteration": "be·hā·rōṯ",
+                "strong": "934",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְעוֹר־",
+                "transliteration": "ḇə·‘ō·wr-",
+                "strong": "5785",
+                "translation": " on the skin "
+            },
+            {
+                "token": "בְּשָׂרָ֖ם",
+                "transliteration": "bə·śā·rām",
+                "strong": "1320",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:38",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֣ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " shall examine them , "
+            },
+            {
+                "token": "וְהִנֵּ֧ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "בֶּהָרֹ֖ת",
+                "transliteration": "be·hā·rōṯ",
+                "strong": "934",
+                "translation": " the spots "
+            },
+            {
+                "token": "בְעוֹר־",
+                "transliteration": "ḇə·‘ō·wr-",
+                "strong": "5785",
+                "translation": " - "
+            },
+            {
+                "token": "בְּשָׂרָ֛ם",
+                "transliteration": "bə·śā·rām",
+                "strong": "1320",
+                "translation": " - "
+            },
+            {
+                "token": "כֵּה֣וֹת",
+                "transliteration": "kê·hō·wṯ",
+                "strong": "3544",
+                "translation": " are dull "
+            },
+            {
+                "token": "לְבָנֹ֑ת",
+                "transliteration": "lə·ḇā·nōṯ",
+                "strong": "3836",
+                "translation": " white , "
+            },
+            {
+                "token": "ה֛וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "בֹּ֥הַק",
+                "transliteration": "bō·haq",
+                "strong": "933",
+                "translation": " is a harmless rash "
+            },
+            {
+                "token": "פָּרַ֥ח",
+                "transliteration": "pā·raḥ",
+                "strong": "6524",
+                "translation": " that has broken out "
+            },
+            {
+                "token": "בָּע֖וֹר",
+                "transliteration": "bā·‘ō·wr",
+                "strong": "5785",
+                "translation": " on the skin ; "
+            },
+            {
+                "token": "הֽוּא׃ס",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " the person "
+            },
+            {
+                "token": "טָה֥וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " is clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:39",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Now if "
+            },
+            {
+                "token": "וְאִ֕ישׁ",
+                "transliteration": "wə·’îš",
+                "strong": "376",
+                "translation": " a man "
+            },
+            {
+                "token": "יִמָּרֵ֖ט",
+                "transliteration": "yim·mā·rêṭ",
+                "strong": "4803",
+                "translation": " loses his hair "
+            },
+            {
+                "token": "רֹאשׁ֑וֹ",
+                "transliteration": "rō·šōw",
+                "strong": "7218",
+                "translation": " . . . "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "קֵרֵ֥חַ",
+                "transliteration": "qê·rê·aḥ",
+                "strong": "7142",
+                "translation": " [and] is bald , "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he is still "
+            },
+            {
+                "token": "טָה֥וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:40",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם֙",
+                "transliteration": "wə·’im",
+                "strong": "518",
+                "translation": " Or if "
+            },
+            {
+                "token": "רֹאשׁ֑וֹ",
+                "transliteration": "rō·šōw",
+                "strong": "7218",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִפְּאַ֣ת",
+                "transliteration": "mip·pə·’aṯ",
+                "strong": "6285",
+                "translation": " his hairline "
+            },
+            {
+                "token": "פָּנָ֔יו",
+                "transliteration": "pā·nāw",
+                "strong": "6440",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִמָּרֵ֖ט",
+                "transliteration": "yim·mā·rêṭ",
+                "strong": "4803",
+                "translation": " recedes "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " and he "
+            },
+            {
+                "token": "גִּבֵּ֥חַ",
+                "transliteration": "gib·bê·aḥ",
+                "strong": "1371",
+                "translation": " is bald on his forehead , "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he is still "
+            },
+            {
+                "token": "טָה֥וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:41",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִֽי־",
+                "transliteration": "wə·ḵî-",
+                "strong": "3588",
+                "translation": " But if "
+            },
+            {
+                "token": "יִהְיֶ֤ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " there is "
+            },
+            {
+                "token": "לָבָ֣ן",
+                "transliteration": "lā·ḇān",
+                "strong": "3836",
+                "translation": " a reddish-white "
+            },
+            {
+                "token": "אֲדַמְדָּ֑ם",
+                "transliteration": "’ă·ḏam·dām",
+                "strong": "125",
+                "translation": " . . . "
+            },
+            {
+                "token": "נֶ֖גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " sore "
+            },
+            {
+                "token": "בַקָּרַ֙חַת֙",
+                "transliteration": "ḇaq·qā·ra·ḥaṯ",
+                "strong": "7146",
+                "translation": " on the bald head "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בַגַּבַּ֔חַת",
+                "transliteration": "ḇag·gab·ba·ḥaṯ",
+                "strong": "1372",
+                "translation": " forehead , "
+            },
+            {
+                "token": "הִ֔וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "צָרַ֤עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " is an infectious disease "
+            },
+            {
+                "token": "פֹּרַ֙חַת֙",
+                "transliteration": "pō·ra·ḥaṯ",
+                "strong": "6524",
+                "translation": " breaking out "
+            },
+            {
+                "token": "בְּקָרַחְתּ֖וֹ",
+                "transliteration": "bə·qā·raḥ·tōw",
+                "strong": "7146",
+                "translation": " [on it] "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְגַבַּחְתּֽוֹ׃",
+                "transliteration": "ḇə·ḡab·baḥ·tōw",
+                "strong": "1372",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:42",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְרָאָ֨ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " is to examine him , "
+            },
+            {
+                "token": "אֹת֜וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "שְׂאֵת־",
+                "transliteration": "śə·’êṯ-",
+                "strong": "7613",
+                "translation": " the swelling "
+            },
+            {
+                "token": "הַנֶּ֙גַע֙",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " of the infection "
+            },
+            {
+                "token": "בְּקָרַחְתּ֖וֹ",
+                "transliteration": "bə·qā·raḥ·tōw",
+                "strong": "7146",
+                "translation": " on his bald head "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְגַבַּחְתּ֑וֹ",
+                "transliteration": "ḇə·ḡab·baḥ·tōw",
+                "strong": "1372",
+                "translation": " forehead "
+            },
+            {
+                "token": "לְבָנָ֣ה",
+                "transliteration": "lə·ḇā·nāh",
+                "strong": "3836",
+                "translation": " is reddish-white "
+            },
+            {
+                "token": "אֲדַמְדֶּ֔מֶת",
+                "transliteration": "’ă·ḏam·de·meṯ",
+                "strong": "125",
+                "translation": " . . . "
+            },
+            {
+                "token": "כְּמַרְאֵ֥ה",
+                "transliteration": "kə·mar·’êh",
+                "strong": "4758",
+                "translation": " like "
+            },
+            {
+                "token": "ע֥וֹר",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " a skin "
+            },
+            {
+                "token": "צָרַ֖עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " disease "
+            },
+            {
+                "token": "בָּשָֽׂר׃",
+                "transliteration": "bā·śār",
+                "strong": "1320",
+                "translation": " - , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:43",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִישׁ־",
+                "transliteration": "’îš-",
+                "strong": "376",
+                "translation": " the man "
+            },
+            {
+                "token": "צָר֥וּעַ",
+                "transliteration": "ṣā·rū·a‘",
+                "strong": "6879",
+                "translation": " is diseased ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "טָמֵ֣א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            },
+            {
+                "token": "ה֑וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "טַמֵּ֧א",
+                "transliteration": "ṭam·mê",
+                "strong": "2930",
+                "translation": " must pronounce him unclean "
+            },
+            {
+                "token": "יְטַמְּאֶ֛נּוּ",
+                "transliteration": "yə·ṭam·mə·’en·nū",
+                "strong": "2930",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִגְעֽוֹ׃",
+                "transliteration": "niḡ·‘ōw",
+                "strong": "5061",
+                "translation": " because of the infection "
+            },
+            {
+                "token": "בְּרֹאשׁ֥וֹ",
+                "transliteration": "bə·rō·šōw",
+                "strong": "7218",
+                "translation": " on his head . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:44",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַנֶּ֗גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " A diseased person "
+            },
+            {
+                "token": "וְהַצָּר֜וּעַ",
+                "transliteration": "wə·haṣ·ṣā·rū·a‘",
+                "strong": "6879",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בּ֣וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "בְּגָדָ֞יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " must wear torn clothes "
+            },
+            {
+                "token": "יִהְי֤וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "פְרֻמִים֙",
+                "transliteration": "p̄ə·ru·mîm",
+                "strong": "6533",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְרֹאשׁוֹ֙",
+                "transliteration": "wə·rō·šōw",
+                "strong": "7218",
+                "translation": " and let his hair "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "פָר֔וּעַ",
+                "transliteration": "p̄ā·rū·a‘",
+                "strong": "6544",
+                "translation": " hang loose , "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "יַעְטֶ֑ה",
+                "transliteration": "ya‘·ṭeh",
+                "strong": "5844",
+                "translation": " and he must cover "
+            },
+            {
+                "token": "שָׂפָ֖ם",
+                "transliteration": "śā·p̄ām",
+                "strong": "8222",
+                "translation": " his mouth "
+            },
+            {
+                "token": "יִקְרָֽא׃",
+                "transliteration": "yiq·rā",
+                "strong": "7121",
+                "translation": " and cry out , "
+            },
+            {
+                "token": "וְטָמֵ֥א׀",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2931",
+                "translation": " ‘ Unclean , "
+            },
+            {
+                "token": "טָמֵ֖א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " unclean ! ’ "
+            }
+        ],
+        "verse_reference": "Leviticus 13:45",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " As "
+            },
+            {
+                "token": "יְמֵ֞י",
+                "transliteration": "yə·mê",
+                "strong": "3117",
+                "translation": " long as "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֶּ֥גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " he has the infection , "
+            },
+            {
+                "token": "יִטְמָ֖א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " he remains "
+            },
+            {
+                "token": "בּ֛וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "ה֑וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּדָ֣ד",
+                "transliteration": "bā·ḏāḏ",
+                "strong": "910",
+                "translation": " . . . "
+            },
+            {
+                "token": "טָמֵ֣א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " unclean . "
+            },
+            {
+                "token": "יֵשֵׁ֔ב",
+                "transliteration": "yê·šêḇ",
+                "strong": "3427",
+                "translation": " He must live alone "
+            },
+            {
+                "token": "מוֹשָׁבֽוֹ׃ס",
+                "transliteration": "mō·wō·šā·ḇōw",
+                "strong": "4186",
+                "translation": " in a place "
+            },
+            {
+                "token": "מִח֥וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לַֽמַּחֲנֶ֖ה",
+                "transliteration": "lam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:46",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "וְהַבֶּ֕גֶד",
+                "transliteration": "wə·hab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " any fabric "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " is "
+            },
+            {
+                "token": "ב֖וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "נֶ֣גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " contaminated "
+            },
+            {
+                "token": "צָרָ֑עַת",
+                "transliteration": "ṣā·rā·‘aṯ",
+                "strong": "6883",
+                "translation": " with mildew — "
+            },
+            {
+                "token": "צֶ֔מֶר",
+                "transliteration": "ṣe·mer",
+                "strong": "6785",
+                "translation": " any wool "
+            },
+            {
+                "token": "א֖וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְּבֶ֥גֶד",
+                "transliteration": "bə·ḇe·ḡeḏ",
+                "strong": "899",
+                "translation": " . . . "
+            },
+            {
+                "token": "פִּשְׁתִּֽים׃",
+                "transliteration": "piš·tîm",
+                "strong": "6593",
+                "translation": " linen "
+            },
+            {
+                "token": "בְּבֶ֣גֶד",
+                "transliteration": "bə·ḇe·ḡeḏ",
+                "strong": "899",
+                "translation": " garment , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:47",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "47"
+    },
+    {
+        "tokens": [
+            {
+                "token": "א֤וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "בִֽשְׁתִי֙",
+                "transliteration": "ḇiš·ṯî",
+                "strong": "8359",
+                "translation": " any weave "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְעֵ֔רֶב",
+                "transliteration": "ḇə·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit "
+            },
+            {
+                "token": "לַפִּשְׁתִּ֖ים",
+                "transliteration": "lap·piš·tîm",
+                "strong": "6593",
+                "translation": " of linen "
+            },
+            {
+                "token": "וְלַצָּ֑מֶר",
+                "transliteration": "wə·laṣ·ṣā·mer",
+                "strong": "6785",
+                "translation": " or wool , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְע֔וֹר",
+                "transliteration": "ḇə·‘ō·wr",
+                "strong": "5785",
+                "translation": " any article of leather "
+            },
+            {
+                "token": "א֖וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "מְלֶ֥אכֶת",
+                "transliteration": "mə·le·ḵeṯ",
+                "strong": "4399",
+                "translation": " - "
+            },
+            {
+                "token": "עֽוֹר׃",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " - — "
+            }
+        ],
+        "verse_reference": "Leviticus 13:48",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "48"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַנֶּ֜גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " and if the mark "
+            },
+            {
+                "token": "בַּבֶּגֶד֩",
+                "transliteration": "bab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " in the fabric , "
+            },
+            {
+                "token": "א֨וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " "
+            },
+            {
+                "token": "בָע֜וֹר",
+                "transliteration": "ḇā·‘ō·wr",
+                "strong": "5785",
+                "translation": " leather , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "בַשְּׁתִ֤י",
+                "transliteration": "ḇaš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "אוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "בָעֵ֙רֶב֙",
+                "transliteration": "ḇā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְכָל־",
+                "transliteration": "ḇə·ḵāl-",
+                "strong": "3605",
+                "translation": " - "
+            },
+            {
+                "token": "ע֔וֹר",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " article "
+            },
+            {
+                "token": "וְהָיָ֨ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " is "
+            },
+            {
+                "token": "יְרַקְרַ֣ק׀",
+                "transliteration": "yə·raq·raq",
+                "strong": "3422",
+                "translation": " green "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אֲדַמְדָּ֗ם",
+                "transliteration": "’ă·ḏam·dām",
+                "strong": "125",
+                "translation": " red , "
+            },
+            {
+                "token": "ה֑וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " then it is "
+            },
+            {
+                "token": "נֶ֥גַע",
+                "transliteration": "ne·ḡa‘",
+                "strong": "5061",
+                "translation": " contaminated "
+            },
+            {
+                "token": "צָרַ֖עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " with mildew "
+            },
+            {
+                "token": "וְהָרְאָ֖ה",
+                "transliteration": "wə·hā·rə·’āh",
+                "strong": "7200",
+                "translation": " and must be shown "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַכֹּהֵֽן׃",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " to the priest . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:49",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "49"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " And the priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְרָאָ֥ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " is to examine "
+            },
+            {
+                "token": "הַנָּ֑גַע",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " the mildew "
+            },
+            {
+                "token": "וְהִסְגִּ֥יר",
+                "transliteration": "wə·his·gîr",
+                "strong": "5462",
+                "translation": " and isolate "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the contaminated [fabric] "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:50",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "50"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁבִיעִ֗י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " On the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "וְרָאָ֨ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " the priest shall reexamine "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " it , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֜גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the mildew "
+            },
+            {
+                "token": "הַנֶּ֙גַע֙",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " - "
+            },
+            {
+                "token": "פָשָׂ֤ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " has spread "
+            },
+            {
+                "token": "בַּ֠בֶּגֶד",
+                "transliteration": "bab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " in the fabric , "
+            },
+            {
+                "token": "בַשְּׁתִ֤י",
+                "transliteration": "ḇaš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָעֵ֙רֶב֙",
+                "transliteration": "ḇā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בָע֔וֹר",
+                "transliteration": "ḇā·‘ō·wr",
+                "strong": "5785",
+                "translation": " leather , "
+            },
+            {
+                "token": "לְכֹ֛ל",
+                "transliteration": "lə·ḵōl",
+                "strong": "3605",
+                "translation": " then regardless of "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " how "
+            },
+            {
+                "token": "הָע֖וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " it "
+            },
+            {
+                "token": "יֵעָשֶׂ֥ה",
+                "transliteration": "yê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " is used "
+            },
+            {
+                "token": "לִמְלָאכָ֑ה",
+                "transliteration": "lim·lā·ḵāh",
+                "strong": "4399",
+                "translation": " . . . , "
+            },
+            {
+                "token": "הַנֶּ֖גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " [it] "
+            },
+            {
+                "token": "מַמְאֶ֛רֶת",
+                "transliteration": "mam·’e·reṯ",
+                "strong": "3992",
+                "translation": " is a harmful "
+            },
+            {
+                "token": "צָרַ֧עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " mildew ; "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " [the article] "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:51",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "51"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְשָׂרַ֨ף",
+                "transliteration": "wə·śā·rap̄",
+                "strong": "8313",
+                "translation": " He is to burn "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַבֶּ֜גֶד",
+                "transliteration": "hab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " the fabric , "
+            },
+            {
+                "token": "הַשְּׁתִ֣י׀",
+                "transliteration": "haš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָעֵ֗רֶב",
+                "transliteration": "hā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " whether "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " vvv "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " vvv "
+            },
+            {
+                "token": "ב֖וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַנָּ֑גַע",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " the contaminated item [is] "
+            },
+            {
+                "token": "בַּצֶּ֙מֶר֙",
+                "transliteration": "baṣ·ṣe·mer",
+                "strong": "6785",
+                "translation": " wool "
+            },
+            {
+                "token": "בַפִּשְׁתִּ֔ים",
+                "transliteration": "ḇap·piš·tîm",
+                "strong": "6593",
+                "translation": " or linen "
+            },
+            {
+                "token": "א֚וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " - "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִ֣י",
+                "transliteration": "kə·lî",
+                "strong": "3627",
+                "translation": " - . "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " Since "
+            },
+            {
+                "token": "צָרַ֤עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " the mildew "
+            },
+            {
+                "token": "מַמְאֶ֙רֶת֙",
+                "transliteration": "mam·’e·reṯ",
+                "strong": "3992",
+                "translation": " is harmful , "
+            },
+            {
+                "token": "הִ֔וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " [the article] "
+            },
+            {
+                "token": "בָּאֵ֖שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " must be burned up "
+            },
+            {
+                "token": "תִּשָּׂרֵֽף׃",
+                "transliteration": "tiś·śā·rêp̄",
+                "strong": "8313",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:52",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "52"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם֮",
+                "transliteration": "wə·’im",
+                "strong": "518",
+                "translation": " But when "
+            },
+            {
+                "token": "הַכֹּהֵן֒",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "יִרְאֶ֣ה",
+                "transliteration": "yir·’eh",
+                "strong": "7200",
+                "translation": " reexamines it , "
+            },
+            {
+                "token": "וְהִנֵּה֙",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " if "
+            },
+            {
+                "token": "הַנֶּ֔גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the mildew "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "פָשָׂ֣ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread "
+            },
+            {
+                "token": "בַּבֶּ֕גֶד",
+                "transliteration": "bab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " in the fabric , "
+            },
+            {
+                "token": "בַשְּׁתִ֖י",
+                "transliteration": "ḇaš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "בָעֵ֑רֶב",
+                "transliteration": "ḇā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֖וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " - "
+            },
+            {
+                "token": "עֽוֹר׃",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " article , "
+            }
+        ],
+        "verse_reference": "Leviticus 13:53",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "53"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְצִוָּה֙",
+                "transliteration": "wə·ṣiw·wāh",
+                "strong": "6680",
+                "translation": " is to order "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " the "
+            },
+            {
+                "token": "בּ֖וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַנָּ֑גַע",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " contaminated [article] "
+            },
+            {
+                "token": "וְכִ֨בְּס֔וּ",
+                "transliteration": "wə·ḵib·bə·sū",
+                "strong": "3526",
+                "translation": " to be washed "
+            },
+            {
+                "token": "אֵ֥ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִסְגִּיר֥וֹ",
+                "transliteration": "wə·his·gî·rōw",
+                "strong": "5462",
+                "translation": " and isolated "
+            },
+            {
+                "token": "שֵׁנִֽית׃",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " for another "
+            },
+            {
+                "token": "שִׁבְעַת־",
+                "transliteration": "šiḇ·‘aṯ-",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:54",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "54"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַחֲרֵ֣י׀",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " After "
+            },
+            {
+                "token": "הֻכַּבֵּ֣ס",
+                "transliteration": "huk·kab·bês",
+                "strong": "3526",
+                "translation": " it has been washed , "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְרָאָ֨ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " is to reexamine it , "
+            },
+            {
+                "token": "וְ֠הִנֵּה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and if "
+            },
+            {
+                "token": "הַנֶּ֗גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " the mildewed "
+            },
+            {
+                "token": "הַנֶּ֤גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " article "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "הָפַ֨ךְ",
+                "transliteration": "hā·p̄aḵ",
+                "strong": "2015",
+                "translation": " changed "
+            },
+            {
+                "token": "עֵינוֹ֙",
+                "transliteration": "‘ê·nōw",
+                "strong": "5869",
+                "translation": " in appearance , "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "טָמֵ֣א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            },
+            {
+                "token": "וְהַנֶּ֣גַע",
+                "transliteration": "wə·han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " Even though the mildew "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "פָשָׂ֔ה",
+                "transliteration": "p̄ā·śāh",
+                "strong": "6581",
+                "translation": " spread , "
+            },
+            {
+                "token": "תִּשְׂרְפֶ֑נּוּ",
+                "transliteration": "tiś·rə·p̄en·nū",
+                "strong": "8313",
+                "translation": " you must burn it "
+            },
+            {
+                "token": "בָּאֵ֖שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " . . . , "
+            },
+            {
+                "token": "הִ֔וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " whether "
+            },
+            {
+                "token": "פְּחֶ֣תֶת",
+                "transliteration": "pə·ḥe·ṯeṯ",
+                "strong": "6356",
+                "translation": " the rot is "
+            },
+            {
+                "token": "בְגַבַּחְתּֽוֹ׃",
+                "transliteration": "ḇə·ḡab·baḥ·tōw",
+                "strong": "1372",
+                "translation": " on the front "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְּקָרַחְתּ֖וֹ",
+                "transliteration": "bə·qā·raḥ·tōw",
+                "strong": "7146",
+                "translation": " back . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:55",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "55"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם֮",
+                "transliteration": "wə·’im",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "הַכֹּהֵן֒",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְהִנֵּה֙",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " . . . "
+            },
+            {
+                "token": "רָאָ֣ה",
+                "transliteration": "rā·’āh",
+                "strong": "7200",
+                "translation": " examines it "
+            },
+            {
+                "token": "הַנֶּ֔גַע",
+                "transliteration": "han·ne·ḡa‘",
+                "strong": "5061",
+                "translation": " and the mildew "
+            },
+            {
+                "token": "כֵּהָ֣ה",
+                "transliteration": "kê·hāh",
+                "strong": "3543",
+                "translation": " has faded "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "הֻכַּבֵּ֣ס",
+                "transliteration": "huk·kab·bês",
+                "strong": "3526",
+                "translation": " it has been washed , "
+            },
+            {
+                "token": "אֹת֑וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְקָרַ֣ע",
+                "transliteration": "wə·qā·ra‘",
+                "strong": "7167",
+                "translation": " he must cut the contaminated section out "
+            },
+            {
+                "token": "אֹת֗וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַבֶּ֙גֶד֙",
+                "transliteration": "hab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " the fabric , "
+            },
+            {
+                "token": "הָע֔וֹר",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " leather , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " - "
+            },
+            {
+                "token": "הַשְּׁתִ֖י",
+                "transliteration": "haš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָעֵֽרֶב׃",
+                "transliteration": "hā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:56",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "56"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "תֵּרָאֶ֨ה",
+                "transliteration": "tê·rā·’eh",
+                "strong": "7200",
+                "translation": " it reappears "
+            },
+            {
+                "token": "ע֜וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּ֠בֶּגֶד",
+                "transliteration": "bab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " in the fabric , "
+            },
+            {
+                "token": "בַשְּׁתִ֤י",
+                "transliteration": "ḇaš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בָעֵ֙רֶב֙",
+                "transliteration": "ḇā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְכָל־",
+                "transliteration": "ḇə·ḵāl-",
+                "strong": "3605",
+                "translation": " on any "
+            },
+            {
+                "token": "ע֔וֹר",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " article , "
+            },
+            {
+                "token": "הִ֑וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "פֹּרַ֖חַת",
+                "transliteration": "pō·ra·ḥaṯ",
+                "strong": "6524",
+                "translation": " is spreading . "
+            },
+            {
+                "token": "תִּשְׂרְפֶ֔נּוּ",
+                "transliteration": "tiś·rə·p̄en·nū",
+                "strong": "8313",
+                "translation": " You must burn "
+            },
+            {
+                "token": "בָּאֵ֣שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵ֥ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בּ֖וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַנָּֽגַע׃",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " the contaminated "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " article . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:57",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "57"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַנָּ֑גַע",
+                "transliteration": "han·nā·ḡa‘",
+                "strong": "5061",
+                "translation": " If the mildew "
+            },
+            {
+                "token": "וְסָ֥ר",
+                "transliteration": "wə·sār",
+                "strong": "5493",
+                "translation": " disappears "
+            },
+            {
+                "token": "מֵהֶ֖ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " from "
+            },
+            {
+                "token": "וְהַבֶּ֡גֶד",
+                "transliteration": "wə·hab·be·ḡeḏ",
+                "strong": "899",
+                "translation": " the fabric , "
+            },
+            {
+                "token": "הַשְּׁתִ֨י",
+                "transliteration": "haš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "הָעֵ֜רֶב",
+                "transliteration": "hā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "אוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "הָעוֹר֙",
+                "transliteration": "hā·‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִ֤י",
+                "transliteration": "kə·lî",
+                "strong": "3627",
+                "translation": " article "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " after "
+            },
+            {
+                "token": "תְּכַבֵּ֔ס",
+                "transliteration": "tə·ḵab·bês",
+                "strong": "3526",
+                "translation": " washing , "
+            },
+            {
+                "token": "וְכֻבַּ֥ס",
+                "transliteration": "wə·ḵub·bas",
+                "strong": "3526",
+                "translation": " then it is to be washed "
+            },
+            {
+                "token": "שֵׁנִ֖ית",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " again , "
+            },
+            {
+                "token": "וְטָהֵֽר׃",
+                "transliteration": "wə·ṭā·hêr",
+                "strong": "2891",
+                "translation": " and it will be clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 13:58",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "58"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹ֠את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " This "
+            },
+            {
+                "token": "תּוֹרַ֨ת",
+                "transliteration": "tō·w·raṯ",
+                "strong": "8451",
+                "translation": " is the law "
+            },
+            {
+                "token": "צָרַ֜עַת",
+                "transliteration": "ṣā·ra·‘aṯ",
+                "strong": "6883",
+                "translation": " concerning a mildew "
+            },
+            {
+                "token": "נֶֽגַע־",
+                "transliteration": "ne·ḡa‘-",
+                "strong": "5061",
+                "translation": " contamination "
+            },
+            {
+                "token": "הַצֶּ֣מֶר׀",
+                "transliteration": "haṣ·ṣe·mer",
+                "strong": "6785",
+                "translation": " in wool "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "הַפִּשְׁתִּ֗ים",
+                "transliteration": "hap·piš·tîm",
+                "strong": "6593",
+                "translation": " linen "
+            },
+            {
+                "token": "בֶּ֥גֶד",
+                "transliteration": "be·ḡeḏ",
+                "strong": "899",
+                "translation": " fabric , "
+            },
+            {
+                "token": "א֤וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " - "
+            },
+            {
+                "token": "הַשְּׁתִי֙",
+                "transliteration": "haš·šə·ṯî",
+                "strong": "8359",
+                "translation": " weave , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "הָעֵ֔רֶב",
+                "transliteration": "hā·‘ê·reḇ",
+                "strong": "6154",
+                "translation": " knit , "
+            },
+            {
+                "token": "א֖וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "ע֑וֹר",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " leather "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " article , "
+            },
+            {
+                "token": "לְטַהֲר֖וֹ",
+                "transliteration": "lə·ṭa·hă·rōw",
+                "strong": "2891",
+                "translation": " for pronouncing it clean "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "לְטַמְּאֽוֹ׃פ",
+                "transliteration": "lə·ṭam·mə·’ōw",
+                "strong": "2930",
+                "translation": " unclean . ” "
+            }
+        ],
+        "verse_reference": "Leviticus 13:59",
+        "book": "Leviticus",
+        "chapter": "13",
+        "verse": "59"
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "לַמְנַצֵּ֗חַ",
+                "transliteration": "lam·naṣ·ṣê·aḥ",
+                "strong": "5329",
+                "translation": " For the choirmaster . "
+            },
+            {
+                "token": "מִזְמ֥וֹר",
+                "transliteration": "miz·mō·wr",
+                "strong": "4210",
+                "translation": " A Psalm "
+            },
+            {
+                "token": "לְדָוִֽד׃",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " of David . "
+            },
+            {
+                "token": "שְׁמַע־",
+                "transliteration": "šə·ma‘-",
+                "strong": "8085",
+                "translation": " Hear , "
+            },
+            {
+                "token": "אֱלֹהִ֣ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " O God , "
+            },
+            {
+                "token": "קוֹלִ֣י",
+                "transliteration": "qō·w·lî",
+                "strong": "6963",
+                "translation": " my voice "
+            },
+            {
+                "token": "בְשִׂיחִ֑י",
+                "transliteration": "ḇə·śî·ḥî",
+                "strong": "7879",
+                "translation": " of complaint ; "
+            },
+            {
+                "token": "תִּצֹּ֥ר",
+                "transliteration": "tiṣ·ṣōr",
+                "strong": "5341",
+                "translation": " preserve "
+            },
+            {
+                "token": "חַיָּֽי׃",
+                "transliteration": "ḥay·yāy",
+                "strong": "2416",
+                "translation": " my life "
+            },
+            {
+                "token": "מִפַּ֥חַד",
+                "transliteration": "mip·pa·ḥaḏ",
+                "strong": "6343",
+                "translation": " from dread "
+            },
+            {
+                "token": "א֝וֹיֵ֗ב",
+                "transliteration": "’ō·w·yêḇ",
+                "strong": "341",
+                "translation": " of the enemy . "
+            }
+        ],
+        "verse_reference": "Psalm 64:1",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תַּ֭סְתִּירֵנִי",
+                "transliteration": "tas·tî·rê·nî",
+                "strong": "5641",
+                "translation": " Hide me "
+            },
+            {
+                "token": "מִסּ֣וֹד",
+                "transliteration": "mis·sō·wḏ",
+                "strong": "5475",
+                "translation": " from the scheming "
+            },
+            {
+                "token": "מְרֵעִ֑ים",
+                "transliteration": "mə·rê·‘îm",
+                "strong": "7489",
+                "translation": " of the wicked , "
+            },
+            {
+                "token": "מֵ֝רִגְשַׁ֗ת",
+                "transliteration": "mê·riḡ·šaṯ",
+                "strong": "7285",
+                "translation": " from the mob "
+            },
+            {
+                "token": "פֹּ֣עֲלֵי",
+                "transliteration": "pō·‘ă·lê",
+                "strong": "6466",
+                "translation": " of workers "
+            },
+            {
+                "token": "אָֽוֶן׃",
+                "transliteration": "’ā·wen",
+                "strong": "205",
+                "translation": " of iniquity , "
+            }
+        ],
+        "verse_reference": "Psalm 64:2",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "שָׁנְנ֣וּ",
+                "transliteration": "šā·nə·nū",
+                "strong": "8150",
+                "translation": " sharpen "
+            },
+            {
+                "token": "לְשׁוֹנָ֑ם",
+                "transliteration": "lə·šō·w·nām",
+                "strong": "3956",
+                "translation": " their tongues "
+            },
+            {
+                "token": "כַחֶ֣רֶב",
+                "transliteration": "ḵa·ḥe·reḇ",
+                "strong": "2719",
+                "translation": " like swords "
+            },
+            {
+                "token": "דָּרְכ֥וּ",
+                "transliteration": "dā·rə·ḵū",
+                "strong": "1869",
+                "translation": " and aim "
+            },
+            {
+                "token": "מָֽר׃",
+                "transliteration": "mār",
+                "strong": "4751",
+                "translation": " their bitter "
+            },
+            {
+                "token": "דָּבָ֥ר",
+                "transliteration": "dā·ḇār",
+                "strong": "1697",
+                "translation": " words "
+            },
+            {
+                "token": "חִ֝צָּ֗ם",
+                "transliteration": "ḥiṣ·ṣām",
+                "strong": "2671",
+                "translation": " like arrows , "
+            }
+        ],
+        "verse_reference": "Psalm 64:3",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לִיר֣וֹת",
+                "transliteration": "lî·rō·wṯ",
+                "strong": "3384",
+                "translation": " ambushing "
+            },
+            {
+                "token": "תָּ֑ם",
+                "transliteration": "tām",
+                "strong": "8535",
+                "translation": " the innocent "
+            },
+            {
+                "token": "בַּמִּסְתָּרִ֣ים",
+                "transliteration": "bam·mis·tā·rîm",
+                "strong": "4565",
+                "translation": " in seclusion , "
+            },
+            {
+                "token": "יֹ֝רֻ֗הוּ",
+                "transliteration": "yō·ru·hū",
+                "strong": "3384",
+                "translation": " shooting "
+            },
+            {
+                "token": "פִּתְאֹ֥ם",
+                "transliteration": "piṯ·’ōm",
+                "strong": "6597",
+                "translation": " suddenly , "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " without "
+            },
+            {
+                "token": "יִירָֽאוּ׃",
+                "transliteration": "yî·rā·’ū",
+                "strong": "3372",
+                "translation": " fear . "
+            }
+        ],
+        "verse_reference": "Psalm 64:4",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְחַזְּקוּ־",
+                "transliteration": "yə·ḥaz·zə·qū-",
+                "strong": "2388",
+                "translation": " They hold fast "
+            },
+            {
+                "token": "לָ֨מוֹ׀",
+                "transliteration": "lā·mōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "רָ֗ע",
+                "transliteration": "rā‘",
+                "strong": "7451",
+                "translation": " to their evil "
+            },
+            {
+                "token": "דָּ֘בָ֤ר",
+                "transliteration": "dā·ḇār",
+                "strong": "1697",
+                "translation": " purpose ; "
+            },
+            {
+                "token": "יְֽ֭סַפְּרוּ",
+                "transliteration": "yə·sap·pə·rū",
+                "strong": "5608",
+                "translation": " they speak "
+            },
+            {
+                "token": "לִטְמ֣וֹן",
+                "transliteration": "liṭ·mō·wn",
+                "strong": "2934",
+                "translation": " of hiding "
+            },
+            {
+                "token": "מוֹקְשִׁ֑ים",
+                "transliteration": "mō·wq·šîm",
+                "strong": "4170",
+                "translation": " their snares . "
+            },
+            {
+                "token": "מִ֣י",
+                "transliteration": "mî",
+                "strong": "4310",
+                "translation": " “ Who "
+            },
+            {
+                "token": "יִרְאֶה־",
+                "transliteration": "yir·’eh-",
+                "strong": "7200",
+                "translation": " will see "
+            },
+            {
+                "token": "לָּֽמוֹ׃",
+                "transliteration": "lā·mōw",
+                "strong": "",
+                "translation": " them ? ” "
+            },
+            {
+                "token": "אָ֝מְר֗וּ",
+                "transliteration": "’ā·mə·rū",
+                "strong": "559",
+                "translation": " they say . "
+            }
+        ],
+        "verse_reference": "Psalm 64:5",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַֽחְפְּֽשׂוּ־",
+                "transliteration": "yaḥ·pə·śū-",
+                "strong": "2664",
+                "translation": " They devise "
+            },
+            {
+                "token": "עוֹלֹ֗ת",
+                "transliteration": "‘ō·w·lōṯ",
+                "strong": "5766",
+                "translation": " injustice [and say] , "
+            },
+            {
+                "token": "תַּ֭מְנוּ",
+                "transliteration": "tam·nū",
+                "strong": "8552",
+                "translation": " “ We have perfected "
+            },
+            {
+                "token": "חֵ֣פֶשׂ",
+                "transliteration": "ḥê·p̄eś",
+                "strong": "2665",
+                "translation": " a secret "
+            },
+            {
+                "token": "מְחֻפָּ֑שׂ",
+                "transliteration": "mə·ḥup·pāś",
+                "strong": "2664",
+                "translation": " plan . ” "
+            },
+            {
+                "token": "וְקֶ֥רֶב",
+                "transliteration": "wə·qe·reḇ",
+                "strong": "7130",
+                "translation": " For the inner "
+            },
+            {
+                "token": "אִ֝֗ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " man "
+            },
+            {
+                "token": "וְלֵ֣ב",
+                "transliteration": "wə·lêḇ",
+                "strong": "3820",
+                "translation": " and the heart "
+            },
+            {
+                "token": "עָמֹֽק׃",
+                "transliteration": "‘ā·mōq",
+                "strong": "6013",
+                "translation": " are mysterious . "
+            }
+        ],
+        "verse_reference": "Psalm 64:6",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹ֫הִ֥ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " But God "
+            },
+            {
+                "token": "וַיֹּרֵ֗ם",
+                "transliteration": "way·yō·rêm",
+                "strong": "3384",
+                "translation": " will shoot them "
+            },
+            {
+                "token": "חֵ֥ץ",
+                "transliteration": "ḥêṣ",
+                "strong": "2671",
+                "translation": " with arrows ; "
+            },
+            {
+                "token": "פִּתְא֑וֹם",
+                "transliteration": "piṯ·’ō·wm",
+                "strong": "6597",
+                "translation": " suddenly "
+            },
+            {
+                "token": "הָ֝י֗וּ",
+                "transliteration": "hā·yū",
+                "strong": "1961",
+                "translation": " they will be "
+            },
+            {
+                "token": "מַכּוֹתָֽם׃",
+                "transliteration": "mak·kō·w·ṯām",
+                "strong": "4347",
+                "translation": " wounded . "
+            }
+        ],
+        "verse_reference": "Psalm 64:7",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּכְשִׁיל֣וּהוּ",
+                "transliteration": "way·yaḵ·šî·lū·hū",
+                "strong": "3782",
+                "translation": " They will be made to stumble , "
+            },
+            {
+                "token": "לְשׁוֹנָ֑ם",
+                "transliteration": "lə·šō·w·nām",
+                "strong": "3956",
+                "translation": " their own tongues "
+            },
+            {
+                "token": "עָלֵ֣ימוֹ",
+                "transliteration": "‘ā·lê·mōw",
+                "strong": "5921",
+                "translation": " turned against them . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "רֹ֥אֵה",
+                "transliteration": "rō·’êh",
+                "strong": "7200",
+                "translation": " who see "
+            },
+            {
+                "token": "בָֽם׃",
+                "transliteration": "ḇām",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "יִ֝תְנֹדֲד֗וּ",
+                "transliteration": "yiṯ·nō·ḏă·ḏū",
+                "strong": "5074",
+                "translation": " will shake their heads . "
+            }
+        ],
+        "verse_reference": "Psalm 64:8",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Then all "
+            },
+            {
+                "token": "אָ֫דָ֥ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " mankind "
+            },
+            {
+                "token": "וַיִּֽירְא֗וּ",
+                "transliteration": "way·yî·rə·’ū",
+                "strong": "3372",
+                "translation": " will fear "
+            },
+            {
+                "token": "וַ֭יַּגִּידוּ",
+                "transliteration": "way·yag·gî·ḏū",
+                "strong": "5046",
+                "translation": " and proclaim "
+            },
+            {
+                "token": "פֹּ֥עַל",
+                "transliteration": "pō·‘al",
+                "strong": "6467",
+                "translation": " the work "
+            },
+            {
+                "token": "אֱלֹהִ֗ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God ; "
+            },
+            {
+                "token": "הִשְׂכִּֽילוּ׃",
+                "transliteration": "hiś·kî·lū",
+                "strong": "7919",
+                "translation": " so they will ponder "
+            },
+            {
+                "token": "וּֽמַעֲשֵׂ֥הוּ",
+                "transliteration": "ū·ma·‘ă·śê·hū",
+                "strong": "4639",
+                "translation": " what He has done . "
+            }
+        ],
+        "verse_reference": "Psalm 64:9",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "צַדִּ֣יק",
+                "transliteration": "ṣad·dîq",
+                "strong": "6662",
+                "translation": " Let the righteous "
+            },
+            {
+                "token": "יִשְׂמַ֬ח",
+                "transliteration": "yiś·maḥ",
+                "strong": "8055",
+                "translation": " rejoice "
+            },
+            {
+                "token": "בַּ֭יהוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " in the LORD "
+            },
+            {
+                "token": "וְחָ֣סָה",
+                "transliteration": "wə·ḥā·sāh",
+                "strong": "2620",
+                "translation": " and take refuge "
+            },
+            {
+                "token": "ב֑וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " in Him ; "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " let all "
+            },
+            {
+                "token": "יִשְׁרֵי־",
+                "transliteration": "yiš·rê-",
+                "strong": "3477",
+                "translation": " the upright "
+            },
+            {
+                "token": "לֵֽב׃",
+                "transliteration": "lêḇ",
+                "strong": "3820",
+                "translation": " in heart "
+            },
+            {
+                "token": "וְ֝יִתְהַֽלְל֗וּ",
+                "transliteration": "wə·yiṯ·hal·lū",
+                "strong": "1984",
+                "translation": " exult . "
+            }
+        ],
+        "verse_reference": "Psalm 64:10",
+        "book": "Psalm",
+        "chapter": "64",
+        "verse": "10"
+    }
+]

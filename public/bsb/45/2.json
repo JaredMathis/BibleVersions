@@ -1,0 +1,2934 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "εἶ",
+                "transliteration": "ei",
+                "strong": "1510",
+                "translation": " You , "
+            },
+            {
+                "token": "Διὸ",
+                "transliteration": "Dio",
+                "strong": "1352",
+                "translation": " therefore , "
+            },
+            {
+                "token": "ἀναπολόγητος",
+                "transliteration": "anapologētos",
+                "strong": "379",
+                "translation": " have no excuse , "
+            },
+            {
+                "token": "ὦ",
+                "transliteration": "ō",
+                "strong": "5599",
+                "translation": " - "
+            },
+            {
+                "token": "ἄνθρωπε",
+                "transliteration": "anthrōpe",
+                "strong": "444",
+                "translation": " [you] "
+            },
+            {
+                "token": "πᾶς",
+                "transliteration": "pas",
+                "strong": "3956",
+                "translation": " who "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κρίνων",
+                "transliteration": "krinōn",
+                "strong": "2919",
+                "translation": " pass judgment [on another] . "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " on "
+            },
+            {
+                "token": "ᾧ",
+                "transliteration": "hō",
+                "strong": "3739",
+                "translation": " whatever grounds "
+            },
+            {
+                "token": "κρίνεις",
+                "transliteration": "krineis",
+                "strong": "2919",
+                "translation": " you judge "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἕτερον",
+                "transliteration": "heteron",
+                "strong": "2087",
+                "translation": " other , "
+            },
+            {
+                "token": "κατακρίνεις",
+                "transliteration": "katakrineis",
+                "strong": "2632",
+                "translation": " you are condemning "
+            },
+            {
+                "token": "σεαυτὸν",
+                "transliteration": "seauton",
+                "strong": "4572",
+                "translation": " yourself , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " because "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " [you who] "
+            },
+            {
+                "token": "κρίνων",
+                "transliteration": "krinōn",
+                "strong": "2919",
+                "translation": " pass judgment "
+            },
+            {
+                "token": "πράσσεις",
+                "transliteration": "prasseis",
+                "strong": "4238",
+                "translation": " do "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "αὐτὰ",
+                "transliteration": "auta",
+                "strong": "846",
+                "translation": " same things . "
+            }
+        ],
+        "verse_reference": "Romans 2:1",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " And "
+            },
+            {
+                "token": "οἴδαμεν",
+                "transliteration": "oidamen",
+                "strong": "1492",
+                "translation": " we know "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God’s "
+            },
+            {
+                "token": "κρίμα",
+                "transliteration": "krima",
+                "strong": "2917",
+                "translation": " judgment "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " against "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " those who "
+            },
+            {
+                "token": "πράσσοντας",
+                "transliteration": "prassontas",
+                "strong": "4238",
+                "translation": " do "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τοιαῦτα",
+                "transliteration": "toiauta",
+                "strong": "5108",
+                "translation": " such things "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " based on "
+            },
+            {
+                "token": "ἀλήθειαν",
+                "transliteration": "alētheian",
+                "strong": "225",
+                "translation": " truth . "
+            }
+        ],
+        "verse_reference": "Romans 2:2",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [So when] "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " [you] , "
+            },
+            {
+                "token": "ὦ",
+                "transliteration": "ō",
+                "strong": "5599",
+                "translation": " O "
+            },
+            {
+                "token": "ἄνθρωπε",
+                "transliteration": "anthrōpe",
+                "strong": "444",
+                "translation": " man , "
+            },
+            {
+                "token": "κρίνων",
+                "transliteration": "krinōn",
+                "strong": "2919",
+                "translation": " pass judgment on "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " [others] , "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " yet "
+            },
+            {
+                "token": "ποιῶν",
+                "transliteration": "poiōn",
+                "strong": "4160",
+                "translation": " do "
+            },
+            {
+                "token": "αὐτά",
+                "transliteration": "auta",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "τοιαῦτα",
+                "transliteration": "toiauta",
+                "strong": "5108",
+                "translation": " the same things "
+            },
+            {
+                "token": "πράσσοντας",
+                "transliteration": "prassontas",
+                "strong": "4238",
+                "translation": " . . . , "
+            },
+            {
+                "token": "λογίζῃ",
+                "transliteration": "logizē",
+                "strong": "3049",
+                "translation": " do you think "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " - "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "σὺ",
+                "transliteration": "sy",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἐκφεύξῃ",
+                "transliteration": "ekpheuxē",
+                "strong": "1628",
+                "translation": " will escape "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God’s "
+            },
+            {
+                "token": "κρίμα",
+                "transliteration": "krima",
+                "strong": "2917",
+                "translation": " judgment ? "
+            }
+        ],
+        "verse_reference": "Romans 2:3",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " Or "
+            },
+            {
+                "token": "καταφρονεῖς",
+                "transliteration": "kataphroneis",
+                "strong": "2706",
+                "translation": " do you disregard "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλούτου",
+                "transliteration": "ploutou",
+                "strong": "4149",
+                "translation": " riches "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " of "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "χρηστότητος",
+                "transliteration": "chrēstotētos",
+                "strong": "5544",
+                "translation": " kindness , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνοχῆς",
+                "transliteration": "anochēs",
+                "strong": "463",
+                "translation": " tolerance , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μακροθυμίας",
+                "transliteration": "makrothymias",
+                "strong": "3115",
+                "translation": " patience , "
+            },
+            {
+                "token": "ἀγνοῶν",
+                "transliteration": "agnoōn",
+                "strong": "50",
+                "translation": " not realizing "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God’s "
+            },
+            {
+                "token": "χρηστὸν",
+                "transliteration": "chrēston",
+                "strong": "5543",
+                "translation": " kindness "
+            },
+            {
+                "token": "ἄγει",
+                "transliteration": "agei",
+                "strong": "71",
+                "translation": " leads "
+            },
+            {
+                "token": "σε",
+                "transliteration": "se",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " to "
+            },
+            {
+                "token": "μετάνοιάν",
+                "transliteration": "metanoian",
+                "strong": "3341",
+                "translation": " repentance ? "
+            }
+        ],
+        "verse_reference": "Romans 2:4",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "Κατὰ",
+                "transliteration": "Kata",
+                "strong": "2596",
+                "translation": " because of "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "σκληρότητά",
+                "transliteration": "sklērotēta",
+                "strong": "4643",
+                "translation": " hard "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀμετανόητον",
+                "transliteration": "ametanoēton",
+                "strong": "279",
+                "translation": " unrepentant "
+            },
+            {
+                "token": "καρδίαν",
+                "transliteration": "kardian",
+                "strong": "2588",
+                "translation": " heart , "
+            },
+            {
+                "token": "θησαυρίζεις",
+                "transliteration": "thēsaurizeis",
+                "strong": "2343",
+                "translation": " you are storing up "
+            },
+            {
+                "token": "ὀργὴν",
+                "transliteration": "orgēn",
+                "strong": "3709",
+                "translation": " wrath "
+            },
+            {
+                "token": "σεαυτῷ",
+                "transliteration": "seautō",
+                "strong": "4572",
+                "translation": " against yourself "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " for "
+            },
+            {
+                "token": "ἡμέρᾳ",
+                "transliteration": "hēmera",
+                "strong": "2250",
+                "translation": " [the] day "
+            },
+            {
+                "token": "ὀργῆς",
+                "transliteration": "orgēs",
+                "strong": "3709",
+                "translation": " of wrath , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [when] "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God’s "
+            },
+            {
+                "token": "δικαιοκρισίας",
+                "transliteration": "dikaiokrisias",
+                "strong": "1341",
+                "translation": " righteous judgment "
+            },
+            {
+                "token": "ἀποκαλύψεως",
+                "transliteration": "apokalypseōs",
+                "strong": "602",
+                "translation": " will be revealed . "
+            }
+        ],
+        "verse_reference": "Romans 2:5",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " [God] "
+            },
+            {
+                "token": "Ἀποδώσει",
+                "transliteration": "Apodōsei",
+                "strong": "591",
+                "translation": " “ will repay "
+            },
+            {
+                "token": "ἑκάστῳ",
+                "transliteration": "hekastō",
+                "strong": "1538",
+                "translation": " each one "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " according to "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἔργα",
+                "transliteration": "erga",
+                "strong": "2041",
+                "translation": " deeds .” "
+            }
+        ],
+        "verse_reference": "Romans 2:6",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " To those who "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "καθ’",
+                "transliteration": "kath’",
+                "strong": "2596",
+                "translation": " by "
+            },
+            {
+                "token": "ὑπομονὴν",
+                "transliteration": "hypomonēn",
+                "strong": "5281",
+                "translation": " perseverance "
+            },
+            {
+                "token": "ἔργου",
+                "transliteration": "ergou",
+                "strong": "2041",
+                "translation": " in doing "
+            },
+            {
+                "token": "ἀγαθοῦ",
+                "transliteration": "agathou",
+                "strong": "18",
+                "translation": " good "
+            },
+            {
+                "token": "ζητοῦσιν",
+                "transliteration": "zētousin",
+                "strong": "2212",
+                "translation": " seek "
+            },
+            {
+                "token": "δόξαν",
+                "transliteration": "doxan",
+                "strong": "1391",
+                "translation": " glory , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τιμὴν",
+                "transliteration": "timēn",
+                "strong": "5092",
+                "translation": " honor , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀφθαρσίαν",
+                "transliteration": "aphtharsian",
+                "strong": "861",
+                "translation": " immortality , "
+            },
+            {
+                "token": "αἰώνιον",
+                "transliteration": "aiōnion",
+                "strong": "166",
+                "translation": " [He will give] eternal "
+            },
+            {
+                "token": "ζωὴν",
+                "transliteration": "zōēn",
+                "strong": "2222",
+                "translation": " life . "
+            }
+        ],
+        "verse_reference": "Romans 2:7",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " for those who "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐριθείας",
+                "transliteration": "eritheias",
+                "strong": "2052",
+                "translation": " [are] self-seeking "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀπειθοῦσι",
+                "transliteration": "apeithousi",
+                "strong": "544",
+                "translation": " who reject "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀληθείᾳ",
+                "transliteration": "alētheia",
+                "strong": "225",
+                "translation": " truth "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "πειθομένοις",
+                "transliteration": "peithomenois",
+                "strong": "3982",
+                "translation": " follow "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀδικίᾳ",
+                "transliteration": "adikia",
+                "strong": "93",
+                "translation": " wickedness , "
+            },
+            {
+                "token": "ὀργὴ",
+                "transliteration": "orgē",
+                "strong": "3709",
+                "translation": " [there will be] wrath "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "θυμός",
+                "transliteration": "thymos",
+                "strong": "2372",
+                "translation": " anger . "
+            }
+        ],
+        "verse_reference": "Romans 2:8",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "θλῖψις",
+                "transliteration": "thlipsis",
+                "strong": "2347",
+                "translation": " [There will be] trouble "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "στενοχωρία",
+                "transliteration": "stenochōria",
+                "strong": "4730",
+                "translation": " distress "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " for "
+            },
+            {
+                "token": "πᾶσαν",
+                "transliteration": "pasan",
+                "strong": "3956",
+                "translation": " every "
+            },
+            {
+                "token": "ἀνθρώπου",
+                "transliteration": "anthrōpou",
+                "strong": "444",
+                "translation": " human "
+            },
+            {
+                "token": "ψυχὴν",
+                "transliteration": "psychēn",
+                "strong": "5590",
+                "translation": " being "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "κατεργαζομένου",
+                "transliteration": "katergazomenou",
+                "strong": "2716",
+                "translation": " does "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κακόν",
+                "transliteration": "kakon",
+                "strong": "2556",
+                "translation": " evil , "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "πρῶτον",
+                "transliteration": "prōton",
+                "strong": "4412",
+                "translation": " first "
+            },
+            {
+                "token": "Ἰουδαίου",
+                "transliteration": "Ioudaiou",
+                "strong": "2453",
+                "translation": " for the Jew , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " then "
+            },
+            {
+                "token": "Ἕλληνος",
+                "transliteration": "Hellēnos",
+                "strong": "1672",
+                "translation": " for the Greek ; "
+            }
+        ],
+        "verse_reference": "Romans 2:9",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "δόξα",
+                "transliteration": "doxa",
+                "strong": "1391",
+                "translation": " glory , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τιμὴ",
+                "transliteration": "timē",
+                "strong": "5092",
+                "translation": " honor , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "εἰρήνη",
+                "transliteration": "eirēnē",
+                "strong": "1515",
+                "translation": " peace "
+            },
+            {
+                "token": "παντὶ",
+                "transliteration": "panti",
+                "strong": "3956",
+                "translation": " for everyone "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "ἐργαζομένῳ",
+                "transliteration": "ergazomenō",
+                "strong": "2038",
+                "translation": " does "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀγαθόν",
+                "transliteration": "agathon",
+                "strong": "18",
+                "translation": " good , "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰουδαίῳ",
+                "transliteration": "Ioudaiō",
+                "strong": "2453",
+                "translation": " first "
+            },
+            {
+                "token": "πρῶτον",
+                "transliteration": "prōton",
+                "strong": "4412",
+                "translation": " for the Jew , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " then "
+            },
+            {
+                "token": "Ἕλληνι",
+                "transliteration": "Hellēni",
+                "strong": "1672",
+                "translation": " for the Greek . "
+            }
+        ],
+        "verse_reference": "Romans 2:10",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "παρὰ",
+                "transliteration": "para",
+                "strong": "3844",
+                "translation": " - "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " does not show "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " . . . "
+            },
+            {
+                "token": "προσωπολημψία",
+                "transliteration": "prosōpolēmpsia",
+                "strong": "4382",
+                "translation": " favoritism . "
+            }
+        ],
+        "verse_reference": "Romans 2:11",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "Ὅσοι",
+                "transliteration": "Hosoi",
+                "strong": "3745",
+                "translation": " All who "
+            },
+            {
+                "token": "ἥμαρτον",
+                "transliteration": "hēmarton",
+                "strong": "264",
+                "translation": " sin "
+            },
+            {
+                "token": "ἀνόμως",
+                "transliteration": "anomōs",
+                "strong": "460",
+                "translation": " apart from the law "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἀπολοῦνται",
+                "transliteration": "apolountai",
+                "strong": "622",
+                "translation": " will also perish "
+            },
+            {
+                "token": "ἀνόμως",
+                "transliteration": "anomōs",
+                "strong": "460",
+                "translation": " apart from the law , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ὅσοι",
+                "transliteration": "hosoi",
+                "strong": "3745",
+                "translation": " all who "
+            },
+            {
+                "token": "ἥμαρτον",
+                "transliteration": "hēmarton",
+                "strong": "264",
+                "translation": " sin "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " under "
+            },
+            {
+                "token": "νόμῳ",
+                "transliteration": "nomō",
+                "strong": "3551",
+                "translation": " [the] law "
+            },
+            {
+                "token": "κριθήσονται",
+                "transliteration": "krithēsontai",
+                "strong": "2919",
+                "translation": " will be judged "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " by "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " [the] law . "
+            }
+        ],
+        "verse_reference": "Romans 2:12",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For [it is] "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀκροαταὶ",
+                "transliteration": "akroatai",
+                "strong": "202",
+                "translation": " hearers "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " of [the] law "
+            },
+            {
+                "token": "δίκαιοι",
+                "transliteration": "dikaioi",
+                "strong": "1342",
+                "translation": " [who are] righteous "
+            },
+            {
+                "token": "παρὰ",
+                "transliteration": "para",
+                "strong": "3844",
+                "translation": " before "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God , "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but [it is] "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ποιηταὶ",
+                "transliteration": "poiētai",
+                "strong": "4163",
+                "translation": " doers "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " of [the] law "
+            },
+            {
+                "token": "δικαιωθήσονται",
+                "transliteration": "dikaiōthēsontai",
+                "strong": "1344",
+                "translation": " [who] will be declared righteous . "
+            }
+        ],
+        "verse_reference": "Romans 2:13",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " Indeed , "
+            },
+            {
+                "token": "Ὅταν",
+                "transliteration": "Hotan",
+                "strong": "3752",
+                "translation": " when "
+            },
+            {
+                "token": "ἔθνη",
+                "transliteration": "ethnē",
+                "strong": "1484",
+                "translation": " Gentiles , "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἔχοντα",
+                "transliteration": "echonta",
+                "strong": "2192",
+                "translation": " do not have "
+            },
+            {
+                "token": "νόμον",
+                "transliteration": "nomon",
+                "strong": "3551",
+                "translation": " [the] law , "
+            },
+            {
+                "token": "ποιῶσιν",
+                "transliteration": "poiōsin",
+                "strong": "4160",
+                "translation": " do "
+            },
+            {
+                "token": "φύσει",
+                "transliteration": "physei",
+                "strong": "5449",
+                "translation": " by nature "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " what "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " law [requires] , "
+            },
+            {
+                "token": "εἰσιν",
+                "transliteration": "eisin",
+                "strong": "1510",
+                "translation": " they are "
+            },
+            {
+                "token": "νόμος",
+                "transliteration": "nomos",
+                "strong": "3551",
+                "translation": " a law "
+            },
+            {
+                "token": "ἑαυτοῖς",
+                "transliteration": "heautois",
+                "strong": "1438",
+                "translation": " to themselves , "
+            },
+            {
+                "token": "οὗτοι",
+                "transliteration": "houtoi",
+                "strong": "3778",
+                "translation": " [even though] they "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἔχοντες",
+                "transliteration": "echontes",
+                "strong": "2192",
+                "translation": " do not have "
+            },
+            {
+                "token": "νόμον",
+                "transliteration": "nomon",
+                "strong": "3551",
+                "translation": " [the] law . "
+            }
+        ],
+        "verse_reference": "Romans 2:14",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οἵτινες",
+                "transliteration": "hoitines",
+                "strong": "3748",
+                "translation": " [So] they "
+            },
+            {
+                "token": "ἐνδείκνυνται",
+                "transliteration": "endeiknyntai",
+                "strong": "1731",
+                "translation": " show [that] "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἔργον",
+                "transliteration": "ergon",
+                "strong": "2041",
+                "translation": " work "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " law "
+            },
+            {
+                "token": "γραπτὸν",
+                "transliteration": "grapton",
+                "strong": "1123",
+                "translation": " is written "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " on "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "ταῖς",
+                "transliteration": "tais",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καρδίαις",
+                "transliteration": "kardiais",
+                "strong": "2588",
+                "translation": " hearts , "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "συνειδήσεως",
+                "transliteration": "syneidēseōs",
+                "strong": "4893",
+                "translation": " consciences "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " also "
+            },
+            {
+                "token": "συμμαρτυρούσης",
+                "transliteration": "symmartyrousēs",
+                "strong": "4828",
+                "translation": " bearing witness , "
+            },
+            {
+                "token": "ἀλλήλων",
+                "transliteration": "allēlōn",
+                "strong": "240",
+                "translation": " [and] their "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "λογισμῶν",
+                "transliteration": "logismōn",
+                "strong": "3053",
+                "translation": " thoughts "
+            },
+            {
+                "token": "μεταξὺ",
+                "transliteration": "metaxy",
+                "strong": "3342",
+                "translation": " either "
+            },
+            {
+                "token": "κατηγορούντων",
+                "transliteration": "katēgorountōn",
+                "strong": "2723",
+                "translation": " accusing "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " or "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπολογουμένων",
+                "transliteration": "apologoumenōn",
+                "strong": "626",
+                "translation": " defending [them] "
+            }
+        ],
+        "verse_reference": "Romans 2:15",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " on "
+            },
+            {
+                "token": "〈ᾗ〉",
+                "transliteration": "hē",
+                "strong": "3739",
+                "translation": " the "
+            },
+            {
+                "token": "ἡμέρᾳ",
+                "transliteration": "hēmera",
+                "strong": "2250",
+                "translation": " day "
+            },
+            {
+                "token": "‹ὅτε›",
+                "transliteration": "hote",
+                "strong": "3753",
+                "translation": " when "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "κρίνει",
+                "transliteration": "krinei",
+                "strong": "2919",
+                "translation": " will judge "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " men’s "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κρυπτὰ",
+                "transliteration": "krypta",
+                "strong": "2927",
+                "translation": " secrets "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus , "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " as proclaimed by "
+            },
+            {
+                "token": "μου",
+                "transliteration": "mou",
+                "strong": "1473",
+                "translation": " my "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εὐαγγέλιόν",
+                "transliteration": "euangelion",
+                "strong": "2098",
+                "translation": " gospel . "
+            }
+        ],
+        "verse_reference": "Romans 2:16",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Now "
+            },
+            {
+                "token": "σὺ",
+                "transliteration": "sy",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "Εἰ",
+                "transliteration": "Ei",
+                "strong": "1487",
+                "translation": " if "
+            },
+            {
+                "token": "ἐπονομάζῃ",
+                "transliteration": "eponomazē",
+                "strong": "2028",
+                "translation": " you call [yourself] "
+            },
+            {
+                "token": "Ἰουδαῖος",
+                "transliteration": "Ioudaios",
+                "strong": "2453",
+                "translation": " a Jew ; "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [if you] "
+            },
+            {
+                "token": "ἐπαναπαύῃ",
+                "transliteration": "epanapauē",
+                "strong": "1879",
+                "translation": " rely on "
+            },
+            {
+                "token": "νόμῳ",
+                "transliteration": "nomō",
+                "strong": "3551",
+                "translation": " [the] law "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "καυχᾶσαι",
+                "transliteration": "kauchasai",
+                "strong": "2744",
+                "translation": " boast "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God ; "
+            }
+        ],
+        "verse_reference": "Romans 2:17",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [if you] "
+            },
+            {
+                "token": "γινώσκεις",
+                "transliteration": "ginōskeis",
+                "strong": "1097",
+                "translation": " know "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " [His] "
+            },
+            {
+                "token": "θέλημα",
+                "transliteration": "thelēma",
+                "strong": "2307",
+                "translation": " will "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δοκιμάζεις",
+                "transliteration": "dokimazeis",
+                "strong": "1381",
+                "translation": " approve "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " of what "
+            },
+            {
+                "token": "διαφέροντα",
+                "transliteration": "diapheronta",
+                "strong": "1308",
+                "translation": " is superior "
+            },
+            {
+                "token": "κατηχούμενος",
+                "transliteration": "katēchoumenos",
+                "strong": "2727",
+                "translation": " because you are instructed "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " by "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " law ; "
+            }
+        ],
+        "verse_reference": "Romans 2:18",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " [if you] "
+            },
+            {
+                "token": "πέποιθάς",
+                "transliteration": "pepoithas",
+                "strong": "3982",
+                "translation": " are convinced [that] "
+            },
+            {
+                "token": "σεαυτὸν",
+                "transliteration": "seauton",
+                "strong": "4572",
+                "translation": " you "
+            },
+            {
+                "token": "εἶναι",
+                "transliteration": "einai",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "ὁδηγὸν",
+                "transliteration": "hodēgon",
+                "strong": "3595",
+                "translation": " a guide "
+            },
+            {
+                "token": "τυφλῶν",
+                "transliteration": "typhlōn",
+                "strong": "5185",
+                "translation": " for [the] blind , "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " a light "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " for those "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "σκότει",
+                "transliteration": "skotei",
+                "strong": "4655",
+                "translation": " darkness , "
+            }
+        ],
+        "verse_reference": "Romans 2:19",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "παιδευτὴν",
+                "transliteration": "paideutēn",
+                "strong": "3810",
+                "translation": " an instructor "
+            },
+            {
+                "token": "ἀφρόνων",
+                "transliteration": "aphronōn",
+                "strong": "878",
+                "translation": " of [the] foolish , "
+            },
+            {
+                "token": "διδάσκαλον",
+                "transliteration": "didaskalon",
+                "strong": "1320",
+                "translation": " a teacher "
+            },
+            {
+                "token": "νηπίων",
+                "transliteration": "nēpiōn",
+                "strong": "3516",
+                "translation": " of infants , "
+            },
+            {
+                "token": "ἔχοντα",
+                "transliteration": "echonta",
+                "strong": "2192",
+                "translation": " [because] you have "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νόμῳ",
+                "transliteration": "nomō",
+                "strong": "3551",
+                "translation": " law "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μόρφωσιν",
+                "transliteration": "morphōsin",
+                "strong": "3446",
+                "translation": " embodiment "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γνώσεως",
+                "transliteration": "gnōseōs",
+                "strong": "1108",
+                "translation": " of knowledge "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀληθείας",
+                "transliteration": "alētheias",
+                "strong": "225",
+                "translation": " truth — "
+            }
+        ],
+        "verse_reference": "Romans 2:20",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὖν",
+                "transliteration": "oun",
+                "strong": "3767",
+                "translation": " {you,} then , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "διδάσκων",
+                "transliteration": "didaskōn",
+                "strong": "1321",
+                "translation": " teach "
+            },
+            {
+                "token": "ἕτερον",
+                "transliteration": "heteron",
+                "strong": "2087",
+                "translation": " others , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "διδάσκεις",
+                "transliteration": "didaskeis",
+                "strong": "1321",
+                "translation": " do you not teach "
+            },
+            {
+                "token": "σεαυτὸν",
+                "transliteration": "seauton",
+                "strong": "4572",
+                "translation": " yourself ? "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " You who "
+            },
+            {
+                "token": "κηρύσσων",
+                "transliteration": "kēryssōn",
+                "strong": "2784",
+                "translation": " preach "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " against "
+            },
+            {
+                "token": "κλέπτειν",
+                "transliteration": "kleptein",
+                "strong": "2813",
+                "translation": " stealing , "
+            },
+            {
+                "token": "κλέπτεις",
+                "transliteration": "klepteis",
+                "strong": "2813",
+                "translation": " do you steal ? "
+            }
+        ],
+        "verse_reference": "Romans 2:21",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " You who "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " forbid "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "μοιχεύειν",
+                "transliteration": "moicheuein",
+                "strong": "3431",
+                "translation": " adultery , "
+            },
+            {
+                "token": "μοιχεύεις",
+                "transliteration": "moicheueis",
+                "strong": "3431",
+                "translation": " do you commit adultery ? "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " You who "
+            },
+            {
+                "token": "βδελυσσόμενος",
+                "transliteration": "bdelyssomenos",
+                "strong": "948",
+                "translation": " abhor "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἴδωλα",
+                "transliteration": "eidōla",
+                "strong": "1497",
+                "translation": " idols , "
+            },
+            {
+                "token": "ἱεροσυλεῖς",
+                "transliteration": "hierosyleis",
+                "strong": "2416",
+                "translation": " do you rob temples ? "
+            }
+        ],
+        "verse_reference": "Romans 2:22",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " You who "
+            },
+            {
+                "token": "καυχᾶσαι",
+                "transliteration": "kauchasai",
+                "strong": "2744",
+                "translation": " boast "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "νόμῳ",
+                "transliteration": "nomō",
+                "strong": "3551",
+                "translation": " [the] law , "
+            },
+            {
+                "token": "ἀτιμάζεις",
+                "transliteration": "atimazeis",
+                "strong": "818",
+                "translation": " do you dishonor "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸν",
+                "transliteration": "Theon",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " by "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "παραβάσεως",
+                "transliteration": "parabaseōs",
+                "strong": "3847",
+                "translation": " breaking "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " law ? "
+            }
+        ],
+        "verse_reference": "Romans 2:23",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " As "
+            },
+            {
+                "token": "γέγραπται",
+                "transliteration": "gegraptai",
+                "strong": "1125",
+                "translation": " it is written : "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " “ - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God’s "
+            },
+            {
+                "token": "Ὄνομα",
+                "transliteration": "Onoma",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "βλασφημεῖται",
+                "transliteration": "blasphēmeitai",
+                "strong": "987",
+                "translation": " is blasphemed "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " among "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἔθνεσιν",
+                "transliteration": "ethnesin",
+                "strong": "1484",
+                "translation": " Gentiles "
+            },
+            {
+                "token": "δι’",
+                "transliteration": "di’",
+                "strong": "1223",
+                "translation": " because of "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you .” "
+            }
+        ],
+        "verse_reference": "Romans 2:24",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "Περιτομὴ",
+                "transliteration": "Peritomē",
+                "strong": "4061",
+                "translation": " Circumcision "
+            },
+            {
+                "token": "ὠφελεῖ",
+                "transliteration": "ōphelei",
+                "strong": "5623",
+                "translation": " has value "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " if "
+            },
+            {
+                "token": "πράσσῃς",
+                "transliteration": "prassēs",
+                "strong": "4238",
+                "translation": " you observe "
+            },
+            {
+                "token": "νόμον",
+                "transliteration": "nomon",
+                "strong": "3551",
+                "translation": " [the] law , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " if "
+            },
+            {
+                "token": "ᾖς",
+                "transliteration": "ēs",
+                "strong": "1510",
+                "translation": " you "
+            },
+            {
+                "token": "παραβάτης",
+                "transliteration": "parabatēs",
+                "strong": "3848",
+                "translation": " break "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " [the] law , "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "περιτομή",
+                "transliteration": "peritomē",
+                "strong": "4061",
+                "translation": " circumcision "
+            },
+            {
+                "token": "γέγονεν",
+                "transliteration": "gegonen",
+                "strong": "1096",
+                "translation": " has become "
+            },
+            {
+                "token": "ἀκροβυστία",
+                "transliteration": "akrobystia",
+                "strong": "203",
+                "translation": " uncircumcision . "
+            }
+        ],
+        "verse_reference": "Romans 2:25",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὖν",
+                "transliteration": "oun",
+                "strong": "3767",
+                "translation": " - "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " If "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀκροβυστία",
+                "transliteration": "akrobystia",
+                "strong": "203",
+                "translation": " a man who is not circumcised "
+            },
+            {
+                "token": "φυλάσσῃ",
+                "transliteration": "phylassē",
+                "strong": "5442",
+                "translation": " keeps "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "δικαιώματα",
+                "transliteration": "dikaiōmata",
+                "strong": "1345",
+                "translation": " requirements "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " law , "
+            },
+            {
+                "token": "οὐχ",
+                "transliteration": "ouch",
+                "strong": "3756",
+                "translation": " {will} not "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀκροβυστία",
+                "transliteration": "akrobystia",
+                "strong": "203",
+                "translation": " uncircumcision "
+            },
+            {
+                "token": "λογισθήσεται",
+                "transliteration": "logisthēsetai",
+                "strong": "3049",
+                "translation": " be regarded "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " as "
+            },
+            {
+                "token": "περιτομὴν",
+                "transliteration": "peritomēn",
+                "strong": "4061",
+                "translation": " circumcision ? "
+            }
+        ],
+        "verse_reference": "Romans 2:26",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " The [one who is] "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " vvv "
+            },
+            {
+                "token": "φύσεως",
+                "transliteration": "physeōs",
+                "strong": "5449",
+                "translation": " physically "
+            },
+            {
+                "token": "ἀκροβυστία",
+                "transliteration": "akrobystia",
+                "strong": "203",
+                "translation": " uncircumcised "
+            },
+            {
+                "token": "τελοῦσα",
+                "transliteration": "telousa",
+                "strong": "5055",
+                "translation": " [yet] keeps "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "νόμον",
+                "transliteration": "nomon",
+                "strong": "3551",
+                "translation": " law "
+            },
+            {
+                "token": "κρινεῖ",
+                "transliteration": "krinei",
+                "strong": "2919",
+                "translation": " will condemn "
+            },
+            {
+                "token": "σὲ",
+                "transliteration": "se",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " who , "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " [even though you have] "
+            },
+            {
+                "token": "γράμματος",
+                "transliteration": "grammatos",
+                "strong": "1121",
+                "translation": " [the] written code "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "περιτομῆς",
+                "transliteration": "peritomēs",
+                "strong": "4061",
+                "translation": " circumcision , "
+            },
+            {
+                "token": "παραβάτην",
+                "transliteration": "parabatēn",
+                "strong": "3848",
+                "translation": " [are] a lawbreaker "
+            },
+            {
+                "token": "νόμου",
+                "transliteration": "nomou",
+                "strong": "3551",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Romans 2:27",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " A [man] "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "Οὐ",
+                "transliteration": "Ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "Ἰουδαῖός",
+                "transliteration": "Ioudaios",
+                "strong": "2453",
+                "translation": " a Jew "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " [ because he is one ] "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "φανερῷ",
+                "transliteration": "phanerō",
+                "strong": "5318",
+                "translation": " outwardly , "
+            },
+            {
+                "token": "οὐδὲ",
+                "transliteration": "oude",
+                "strong": "3761",
+                "translation": " nor "
+            },
+            {
+                "token": "περιτομή",
+                "transliteration": "peritomē",
+                "strong": "4061",
+                "translation": " [is] circumcision "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " vvv "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "φανερῷ",
+                "transliteration": "phanerō",
+                "strong": "5318",
+                "translation": " [ only ] outward "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " [and] "
+            },
+            {
+                "token": "σαρκὶ",
+                "transliteration": "sarki",
+                "strong": "4561",
+                "translation": " physical . "
+            }
+        ],
+        "verse_reference": "Romans 2:28",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " No , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " a man [is] "
+            },
+            {
+                "token": "Ἰουδαῖος",
+                "transliteration": "Ioudaios",
+                "strong": "2453",
+                "translation": " a Jew "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " [ because he is one ] "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κρυπτῷ",
+                "transliteration": "kryptō",
+                "strong": "2927",
+                "translation": " inwardly , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "περιτομὴ",
+                "transliteration": "peritomē",
+                "strong": "4061",
+                "translation": " circumcision [is a matter] "
+            },
+            {
+                "token": "καρδίας",
+                "transliteration": "kardias",
+                "strong": "2588",
+                "translation": " of the heart , "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " by "
+            },
+            {
+                "token": "πνεύματι",
+                "transliteration": "pneumati",
+                "strong": "4151",
+                "translation": " [the] Spirit , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "γράμματι",
+                "transliteration": "grammati",
+                "strong": "1121",
+                "translation": " by the written code . "
+            },
+            {
+                "token": "οὗ",
+                "transliteration": "hou",
+                "strong": "3739",
+                "translation": " [Such a man’s] "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἔπαινος",
+                "transliteration": "epainos",
+                "strong": "1868",
+                "translation": " praise "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " [does] not [come] "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " men , "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God . "
+            }
+        ],
+        "verse_reference": "Romans 2:29",
+        "book": "Romans",
+        "chapter": "2",
+        "verse": "29"
+    }
+]

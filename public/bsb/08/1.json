@@ -1,0 +1,2128 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "בִּימֵי֙",
+                "transliteration": "bî·mê",
+                "strong": "3117",
+                "translation": " In the days "
+            },
+            {
+                "token": "הַשֹּׁפְטִ֔ים",
+                "transliteration": "haš·šō·p̄ə·ṭîm",
+                "strong": "8199",
+                "translation": " when the judges "
+            },
+            {
+                "token": "שְׁפֹ֣ט",
+                "transliteration": "šə·p̄ōṭ",
+                "strong": "8199",
+                "translation": " ruled , "
+            },
+            {
+                "token": "וַיְהִ֥י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " there was "
+            },
+            {
+                "token": "רָעָ֖ב",
+                "transliteration": "rā·‘āḇ",
+                "strong": "7458",
+                "translation": " a famine "
+            },
+            {
+                "token": "בָּאָ֑רֶץ",
+                "transliteration": "bā·’ā·reṣ",
+                "strong": "776",
+                "translation": " in the land . "
+            },
+            {
+                "token": "אִ֜ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " And a certain man "
+            },
+            {
+                "token": "מִבֵּ֧ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1035",
+                "translation": " from "
+            },
+            {
+                "token": "לֶ֣חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "1035",
+                "translation": " Bethlehem "
+            },
+            {
+                "token": "יְהוּדָ֗ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " in Judah , "
+            },
+            {
+                "token": "וְאִשְׁתּ֖וֹ",
+                "transliteration": "wə·’iš·tōw",
+                "strong": "802",
+                "translation": " with his wife "
+            },
+            {
+                "token": "וּשְׁנֵ֥י",
+                "transliteration": "ū·šə·nê",
+                "strong": "8147",
+                "translation": " and two "
+            },
+            {
+                "token": "בָנָֽיו׃",
+                "transliteration": "ḇā·nāw",
+                "strong": "1121",
+                "translation": " sons , "
+            },
+            {
+                "token": "וַיֵּ֨לֶךְ",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " went "
+            },
+            {
+                "token": "לָגוּר֙",
+                "transliteration": "lā·ḡūr",
+                "strong": "1481",
+                "translation": " to reside "
+            },
+            {
+                "token": "בִּשְׂדֵ֣י",
+                "transliteration": "biś·ḏê",
+                "strong": "7704",
+                "translation": " in the land "
+            },
+            {
+                "token": "מוֹאָ֔ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of Moab . "
+            },
+            {
+                "token": "ה֥וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " - "
+            }
+        ],
+        "verse_reference": "Ruth 1:1",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאִ֣ישׁ",
+                "transliteration": "hā·’îš",
+                "strong": "376",
+                "translation": " The man’s "
+            },
+            {
+                "token": "וְשֵׁ֣ם",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " name "
+            },
+            {
+                "token": "אֱ‍ֽלִימֶ֡לֶךְ",
+                "transliteration": "’ĕlî·me·leḵ",
+                "strong": "458",
+                "translation": " was Elimelech , "
+            },
+            {
+                "token": "אִשְׁתּ֨וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " his wife’s "
+            },
+            {
+                "token": "וְשֵׁם֩",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " name "
+            },
+            {
+                "token": "נָעֳמִ֜י",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " was Naomi , "
+            },
+            {
+                "token": "וְשֵׁ֥ם",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " and the names "
+            },
+            {
+                "token": "שְׁנֵֽי־",
+                "transliteration": "šə·nê-",
+                "strong": "8147",
+                "translation": " of his two "
+            },
+            {
+                "token": "בָנָ֣יו׀",
+                "transliteration": "ḇā·nāw",
+                "strong": "1121",
+                "translation": " sons "
+            },
+            {
+                "token": "מַחְל֤וֹן",
+                "transliteration": "maḥ·lō·wn",
+                "strong": "4248",
+                "translation": " were Mahlon "
+            },
+            {
+                "token": "וְכִלְיוֹן֙",
+                "transliteration": "wə·ḵil·yō·wn",
+                "strong": "3630",
+                "translation": " and Chilion . "
+            },
+            {
+                "token": "אֶפְרָתִ֔ים",
+                "transliteration": "’ep̄·rā·ṯîm",
+                "strong": "673",
+                "translation": " They were Ephrathites "
+            },
+            {
+                "token": "מִבֵּ֥ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1035",
+                "translation": " from "
+            },
+            {
+                "token": "לֶ֖חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "1035",
+                "translation": " Bethlehem "
+            },
+            {
+                "token": "יְהוּדָ֑ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " in Judah , "
+            },
+            {
+                "token": "וַיָּבֹ֥אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " and they entered "
+            },
+            {
+                "token": "שְׂדֵי־",
+                "transliteration": "śə·ḏê-",
+                "strong": "7704",
+                "translation": " the land "
+            },
+            {
+                "token": "מוֹאָ֖ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of Moab "
+            },
+            {
+                "token": "וַיִּֽהְיוּ־",
+                "transliteration": "way·yih·yū-",
+                "strong": "1961",
+                "translation": " and settled "
+            },
+            {
+                "token": "שָֽׁם׃",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there . "
+            }
+        ],
+        "verse_reference": "Ruth 1:2",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָעֳמִ֑י",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " Then Naomi’s "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " husband "
+            },
+            {
+                "token": "אֱלִימֶ֖לֶךְ",
+                "transliteration": "’ĕ·lî·me·leḵ",
+                "strong": "458",
+                "translation": " Elimelech "
+            },
+            {
+                "token": "וַיָּ֥מָת",
+                "transliteration": "way·yā·māṯ",
+                "strong": "4191",
+                "translation": " died , "
+            },
+            {
+                "token": "הִ֖יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " and she "
+            },
+            {
+                "token": "וַתִּשָּׁאֵ֥ר",
+                "transliteration": "wat·tiš·šā·’êr",
+                "strong": "7604",
+                "translation": " was left "
+            },
+            {
+                "token": "וּשְׁנֵ֥י",
+                "transliteration": "ū·šə·nê",
+                "strong": "8147",
+                "translation": " with her two "
+            },
+            {
+                "token": "בָנֶֽיהָ׃",
+                "transliteration": "ḇā·ne·hā",
+                "strong": "1121",
+                "translation": " sons , "
+            }
+        ],
+        "verse_reference": "Ruth 1:3",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּשְׂא֣וּ",
+                "transliteration": "way·yiś·’ū",
+                "strong": "5375",
+                "translation": " who took "
+            },
+            {
+                "token": "לָהֶ֗ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "מֹֽאֲבִיּ֔וֹת",
+                "transliteration": "mō·’ă·ḇî·yō·wṯ",
+                "strong": "4125",
+                "translation": " Moabite "
+            },
+            {
+                "token": "נָשִׁים֙",
+                "transliteration": "nā·šîm",
+                "strong": "802",
+                "translation": " women as their wives , "
+            },
+            {
+                "token": "הָֽאַחַת֙",
+                "transliteration": "hā·’a·ḥaṯ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "שֵׁ֤ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " named "
+            },
+            {
+                "token": "עָרְפָּ֔ה",
+                "transliteration": "‘ā·rə·pāh",
+                "strong": "6204",
+                "translation": " Orpah "
+            },
+            {
+                "token": "הַשֵּׁנִ֖ית",
+                "transliteration": "haš·šê·nîṯ",
+                "strong": "8145",
+                "translation": " and the other "
+            },
+            {
+                "token": "וְשֵׁ֥ם",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " named "
+            },
+            {
+                "token": "ר֑וּת",
+                "transliteration": "rūṯ",
+                "strong": "7327",
+                "translation": " Ruth . "
+            },
+            {
+                "token": "וַיֵּ֥שְׁבוּ",
+                "transliteration": "way·yê·šə·ḇū",
+                "strong": "3427",
+                "translation": " And after they had lived "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " in Moab "
+            },
+            {
+                "token": "כְּעֶ֥שֶׂר",
+                "transliteration": "kə·‘e·śer",
+                "strong": "6235",
+                "translation": " about ten "
+            },
+            {
+                "token": "שָׁנִֽים׃",
+                "transliteration": "šā·nîm",
+                "strong": "8141",
+                "translation": " years , "
+            }
+        ],
+        "verse_reference": "Ruth 1:4",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁנֵיהֶ֖ם",
+                "transliteration": "šə·nê·hem",
+                "strong": "8147",
+                "translation": " both "
+            },
+            {
+                "token": "מַחְל֣וֹן",
+                "transliteration": "maḥ·lō·wn",
+                "strong": "4248",
+                "translation": " Mahlon "
+            },
+            {
+                "token": "וְכִלְי֑וֹן",
+                "transliteration": "wə·ḵil·yō·wn",
+                "strong": "3630",
+                "translation": " and Chilion "
+            },
+            {
+                "token": "גַם־",
+                "transliteration": "ḡam-",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "וַיָּמ֥וּתוּ",
+                "transliteration": "way·yā·mū·ṯū",
+                "strong": "4191",
+                "translation": " died , "
+            },
+            {
+                "token": "הָֽאִשָּׁ֔ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " and Naomi "
+            },
+            {
+                "token": "וַתִּשָּׁאֵר֙",
+                "transliteration": "wat·tiš·šā·’êr",
+                "strong": "7604",
+                "translation": " was left "
+            },
+            {
+                "token": "מִשְּׁנֵ֥י",
+                "transliteration": "miš·šə·nê",
+                "strong": "8147",
+                "translation": " without her two "
+            },
+            {
+                "token": "יְלָדֶ֖יהָ",
+                "transliteration": "yə·lā·ḏe·hā",
+                "strong": "3206",
+                "translation": " sons "
+            },
+            {
+                "token": "וּמֵאִישָֽׁהּ׃",
+                "transliteration": "ū·mê·’î·šāh",
+                "strong": "376",
+                "translation": " and without her husband . "
+            }
+        ],
+        "verse_reference": "Ruth 1:5",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "שָֽׁמְעָה֙",
+                "transliteration": "šā·mə·‘āh",
+                "strong": "8085",
+                "translation": " [Naomi] heard "
+            },
+            {
+                "token": "בִּשְׂדֵ֣ה",
+                "transliteration": "biś·ḏêh",
+                "strong": "7704",
+                "translation": " . . . "
+            },
+            {
+                "token": "מוֹאָ֔ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " in Moab "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "פָקַ֤ד",
+                "transliteration": "p̄ā·qaḏ",
+                "strong": "6485",
+                "translation": " had attended to "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עַמּ֔וֹ",
+                "transliteration": "‘am·mōw",
+                "strong": "5971",
+                "translation": " His people "
+            },
+            {
+                "token": "לָתֵ֥ת",
+                "transliteration": "lā·ṯêṯ",
+                "strong": "5414",
+                "translation": " by providing "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "לָֽחֶם׃",
+                "transliteration": "lā·ḥem",
+                "strong": "3899",
+                "translation": " with food , "
+            },
+            {
+                "token": "הִיא֙",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " she "
+            },
+            {
+                "token": "וְכַלֹּתֶ֔יהָ",
+                "transliteration": "wə·ḵal·lō·ṯe·hā",
+                "strong": "3618",
+                "translation": " and her daughters-in-law "
+            },
+            {
+                "token": "וַתָּ֤קָם",
+                "transliteration": "wat·tā·qām",
+                "strong": "6965",
+                "translation": " prepared "
+            },
+            {
+                "token": "וַתָּ֖שָׁב",
+                "transliteration": "wat·tā·šāḇ",
+                "strong": "7725",
+                "translation": " to leave "
+            },
+            {
+                "token": "מִשְּׂדֵ֣י",
+                "transliteration": "miś·śə·ḏê",
+                "strong": "7704",
+                "translation": " the land "
+            },
+            {
+                "token": "מוֹאָ֑ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of Moab . "
+            }
+        ],
+        "verse_reference": "Ruth 1:6",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עִמָּ֑הּ",
+                "transliteration": "‘im·māh",
+                "strong": "5973",
+                "translation": " Accompanied by "
+            },
+            {
+                "token": "וּשְׁתֵּ֥י",
+                "transliteration": "ū·šə·tê",
+                "strong": "8147",
+                "translation": " her two "
+            },
+            {
+                "token": "כַלֹּתֶ֖יהָ",
+                "transliteration": "ḵal·lō·ṯe·hā",
+                "strong": "3618",
+                "translation": " daughters-in-law , "
+            },
+            {
+                "token": "וַתֵּצֵ֗א",
+                "transliteration": "wat·tê·ṣê",
+                "strong": "3318",
+                "translation": " she left "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַמָּקוֹם֙",
+                "transliteration": "ham·mā·qō·wm",
+                "strong": "4725",
+                "translation": " the place "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "הָיְתָה־",
+                "transliteration": "hā·yə·ṯāh-",
+                "strong": "1961",
+                "translation": " she had been [living] "
+            },
+            {
+                "token": "שָׁ֔מָּה",
+                "transliteration": "šām·māh",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַתֵּלַ֣כְנָה",
+                "transliteration": "wat·tê·laḵ·nāh",
+                "strong": "1980",
+                "translation": " and set out "
+            },
+            {
+                "token": "בַדֶּ֔רֶךְ",
+                "transliteration": "ḇad·de·reḵ",
+                "strong": "1870",
+                "translation": " on the road "
+            },
+            {
+                "token": "לָשׁ֖וּב",
+                "transliteration": "lā·šūḇ",
+                "strong": "7725",
+                "translation": " leading back "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אֶ֥רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "יְהוּדָֽה׃",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah . "
+            }
+        ],
+        "verse_reference": "Ruth 1:7",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָעֳמִי֙",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " Then Naomi "
+            },
+            {
+                "token": "וַתֹּ֤אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "לִשְׁתֵּ֣י",
+                "transliteration": "liš·tê",
+                "strong": "8147",
+                "translation": " to her two "
+            },
+            {
+                "token": "כַלֹּתֶ֔יהָ",
+                "transliteration": "ḵal·lō·ṯe·hā",
+                "strong": "3618",
+                "translation": " daughters-in-law , "
+            },
+            {
+                "token": "לֵ֣כְנָה",
+                "transliteration": "lê·ḵə·nāh",
+                "strong": "1980",
+                "translation": " “ Go "
+            },
+            {
+                "token": "שֹּׁ֔בְנָה",
+                "transliteration": "šō·ḇə·nāh",
+                "strong": "7725",
+                "translation": " back , "
+            },
+            {
+                "token": "אִשָּׁ֖ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " each of you "
+            },
+            {
+                "token": "אִמָּ֑הּ",
+                "transliteration": "’im·māh",
+                "strong": "517",
+                "translation": " to your mother’s "
+            },
+            {
+                "token": "לְבֵ֣ית",
+                "transliteration": "lə·ḇêṯ",
+                "strong": "1004",
+                "translation": " home . "
+            },
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " May the LORD "
+            },
+            {
+                "token": "יַעֲשֶׂה",
+                "transliteration": "ya·ʿă·śɛh",
+                "strong": "6213",
+                "translation": " show "
+            },
+            {
+                "token": "עִמָּכֶם֙",
+                "transliteration": "‘im·mā·ḵem",
+                "strong": "5973",
+                "translation": " you "
+            },
+            {
+                "token": "חֶ֔סֶד",
+                "transliteration": "ḥe·seḏ",
+                "strong": "2617",
+                "translation": " loving devotion , "
+            },
+            {
+                "token": "כַּאֲשֶׁ֧ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " as "
+            },
+            {
+                "token": "עֲשִׂיתֶ֛ם",
+                "transliteration": "‘ă·śî·ṯem",
+                "strong": "6213",
+                "translation": " you have shown "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " to "
+            },
+            {
+                "token": "הַמֵּתִ֖ים",
+                "transliteration": "ham·mê·ṯîm",
+                "strong": "4191",
+                "translation": " your dead "
+            },
+            {
+                "token": "וְעִמָּדִֽי׃",
+                "transliteration": "wə·‘im·mā·ḏî",
+                "strong": "5973",
+                "translation": " and to me . "
+            }
+        ],
+        "verse_reference": "Ruth 1:8",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " May the LORD "
+            },
+            {
+                "token": "יִתֵּ֤ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " enable "
+            },
+            {
+                "token": "אִשָּׁ֖ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " each "
+            },
+            {
+                "token": "לָכֶ֔ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " of you "
+            },
+            {
+                "token": "וּמְצֶ֣אןָ",
+                "transliteration": "ū·mə·ṣe·nā",
+                "strong": "4672",
+                "translation": " to find "
+            },
+            {
+                "token": "מְנוּחָ֔ה",
+                "transliteration": "mə·nū·ḥāh",
+                "strong": "4496",
+                "translation": " rest "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " in the home "
+            },
+            {
+                "token": "אִישָׁ֑הּ",
+                "transliteration": "’î·šāh",
+                "strong": "376",
+                "translation": " of your new husband . ” "
+            },
+            {
+                "token": "וַתִּשַּׁ֣ק",
+                "transliteration": "wat·tiš·šaq",
+                "strong": "5401",
+                "translation": " And she kissed "
+            },
+            {
+                "token": "לָהֶ֔ן",
+                "transliteration": "lā·hen",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "וַתִּבְכֶּֽינָה׃",
+                "transliteration": "wat·tiḇ·ke·nāh",
+                "strong": "1058",
+                "translation": " as they wept "
+            },
+            {
+                "token": "וַתִּשֶּׂ֥אנָה",
+                "transliteration": "wat·tiś·śe·nāh",
+                "strong": "5375",
+                "translation": " aloud "
+            },
+            {
+                "token": "קוֹלָ֖ן",
+                "transliteration": "qō·w·lān",
+                "strong": "6963",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "Ruth 1:9",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַתֹּאמַ֖רְנָה־",
+                "transliteration": "wat·tō·mar·nāh-",
+                "strong": "559",
+                "translation": " and said "
+            },
+            {
+                "token": "לָּ֑הּ",
+                "transliteration": "lāh",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " “ Surely "
+            },
+            {
+                "token": "נָשׁ֖וּב",
+                "transliteration": "nā·šūḇ",
+                "strong": "7725",
+                "translation": " we will return "
+            },
+            {
+                "token": "אִתָּ֥ךְ",
+                "transliteration": "’it·tāḵ",
+                "strong": "854",
+                "translation": " with you "
+            },
+            {
+                "token": "לְעַמֵּֽךְ׃",
+                "transliteration": "lə·‘am·mêḵ",
+                "strong": "5971",
+                "translation": " to your people . ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:10",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָעֳמִי֙",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " But Naomi "
+            },
+            {
+                "token": "וַתֹּ֤אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " replied , "
+            },
+            {
+                "token": "שֹׁ֣בְנָה",
+                "transliteration": "šō·ḇə·nāh",
+                "strong": "7725",
+                "translation": " “ Return home , "
+            },
+            {
+                "token": "בְנֹתַ֔י",
+                "transliteration": "ḇə·nō·ṯay",
+                "strong": "1323",
+                "translation": " my daughters . "
+            },
+            {
+                "token": "לָ֥מָּה",
+                "transliteration": "lām·māh",
+                "strong": "4100",
+                "translation": " Why "
+            },
+            {
+                "token": "תֵלַ֖כְנָה",
+                "transliteration": "ṯê·laḵ·nāh",
+                "strong": "1980",
+                "translation": " would you go "
+            },
+            {
+                "token": "עִמִּ֑י",
+                "transliteration": "‘im·mî",
+                "strong": "5973",
+                "translation": " with me ? "
+            },
+            {
+                "token": "הַֽעֽוֹד־",
+                "transliteration": "ha·‘ō·wḏ-",
+                "strong": "5750",
+                "translation": " [Are] there still "
+            },
+            {
+                "token": "בָנִים֙",
+                "transliteration": "ḇā·nîm",
+                "strong": "1121",
+                "translation": " sons "
+            },
+            {
+                "token": "לִ֤י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "בְּֽמֵעַ֔י",
+                "transliteration": "bə·mê·‘ay",
+                "strong": "4578",
+                "translation": " in my womb "
+            },
+            {
+                "token": "וְהָי֥וּ",
+                "transliteration": "wə·hā·yū",
+                "strong": "1961",
+                "translation": " to become "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " your "
+            },
+            {
+                "token": "לַאֲנָשִֽׁים׃",
+                "transliteration": "la·’ă·nā·šîm",
+                "strong": "582",
+                "translation": " husbands ? "
+            }
+        ],
+        "verse_reference": "Ruth 1:11",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שֹׁ֤בְנָה",
+                "transliteration": "šō·ḇə·nāh",
+                "strong": "7725",
+                "translation": " Return home , "
+            },
+            {
+                "token": "בְנֹתַי֙",
+                "transliteration": "ḇə·nō·ṯay",
+                "strong": "1323",
+                "translation": " my daughters . "
+            },
+            {
+                "token": "לֵ֔כְןָ",
+                "transliteration": "lê·ḵə·nā",
+                "strong": "1980",
+                "translation": " Go on , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "זָקַ֖נְתִּי",
+                "transliteration": "zā·qan·tî",
+                "strong": "2204",
+                "translation": " I am too old "
+            },
+            {
+                "token": "מִהְי֣וֹת",
+                "transliteration": "mih·yō·wṯ",
+                "strong": "1961",
+                "translation": " to have "
+            },
+            {
+                "token": "לְאִ֑ישׁ",
+                "transliteration": "lə·’îš",
+                "strong": "376",
+                "translation": " another husband . "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Even if "
+            },
+            {
+                "token": "אָמַ֙רְתִּי֙",
+                "transliteration": "’ā·mar·tî",
+                "strong": "559",
+                "translation": " I thought "
+            },
+            {
+                "token": "יֶשׁ־",
+                "transliteration": "yeš-",
+                "strong": "3426",
+                "translation": " there was "
+            },
+            {
+                "token": "תִקְוָ֔ה",
+                "transliteration": "ṯiq·wāh",
+                "strong": "8615",
+                "translation": " hope "
+            },
+            {
+                "token": "לִ֣י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " for me "
+            },
+            {
+                "token": "הָיִ֤יתִי",
+                "transliteration": "hā·yî·ṯî",
+                "strong": "1961",
+                "translation": " to have "
+            },
+            {
+                "token": "לְאִ֔ישׁ",
+                "transliteration": "lə·’îš",
+                "strong": "376",
+                "translation": " a husband "
+            },
+            {
+                "token": "וְגַ֖ם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַלַּ֙יְלָה֙",
+                "transliteration": "hal·lay·lāh",
+                "strong": "3915",
+                "translation": " tonight "
+            },
+            {
+                "token": "גַּ֣ם",
+                "transliteration": "gam",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "יָלַ֥דְתִּי",
+                "transliteration": "yā·laḏ·tî",
+                "strong": "3205",
+                "translation": " to bear "
+            },
+            {
+                "token": "בָנִֽים׃",
+                "transliteration": "ḇā·nîm",
+                "strong": "1121",
+                "translation": " sons , "
+            }
+        ],
+        "verse_reference": "Ruth 1:12",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תְּשַׂבֵּ֗רְנָה",
+                "transliteration": "tə·śab·bê·rə·nāh",
+                "strong": "7663",
+                "translation": " would you wait "
+            },
+            {
+                "token": "הֲלָהֵ֣ן׀",
+                "transliteration": "hă·lā·hên",
+                "strong": "3860",
+                "translation": " for them "
+            },
+            {
+                "token": "עַ֚ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יִגְדָּ֔לוּ",
+                "transliteration": "yiḡ·dā·lū",
+                "strong": "1431",
+                "translation": " grow up ? "
+            },
+            {
+                "token": "הֲלָהֵן֙",
+                "transliteration": "hă·lā·hên",
+                "strong": "3860",
+                "translation": " . . . "
+            },
+            {
+                "token": "תֵּֽעָגֵ֔נָה",
+                "transliteration": "tê·‘ā·ḡê·nāh",
+                "strong": "5702",
+                "translation": " Would you refrain "
+            },
+            {
+                "token": "לְבִלְתִּ֖י",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " from "
+            },
+            {
+                "token": "הֱי֣וֹת",
+                "transliteration": "hĕ·yō·wṯ",
+                "strong": "1961",
+                "translation": " having "
+            },
+            {
+                "token": "לְאִ֑ישׁ",
+                "transliteration": "lə·’îš",
+                "strong": "376",
+                "translation": " husbands ? "
+            },
+            {
+                "token": "אַ֣ל",
+                "transliteration": "’al",
+                "strong": "408",
+                "translation": " No , "
+            },
+            {
+                "token": "בְּנֹתַ֗י",
+                "transliteration": "bə·nō·ṯay",
+                "strong": "1323",
+                "translation": " my daughters , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "מַר־",
+                "transliteration": "mar-",
+                "strong": "4843",
+                "translation": " it grieves "
+            },
+            {
+                "token": "לִ֤י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "מְאֹד֙",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " very much "
+            },
+            {
+                "token": "מִכֶּ֔ם",
+                "transliteration": "mik·kem",
+                "strong": "",
+                "translation": " for "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " your sakes that "
+            },
+            {
+                "token": "יַד־",
+                "transliteration": "yaḏ-",
+                "strong": "3027",
+                "translation": " the hand "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "יָצְאָ֥ה",
+                "transliteration": "yā·ṣə·’āh",
+                "strong": "3318",
+                "translation": " has gone out "
+            },
+            {
+                "token": "בִ֖י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " against me . ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:13",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ע֑וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " Again "
+            },
+            {
+                "token": "וַתִּבְכֶּ֖ינָה",
+                "transliteration": "wat·tiḇ·ke·nāh",
+                "strong": "1058",
+                "translation": " they wept "
+            },
+            {
+                "token": "וַתִּשֶּׂ֣נָה",
+                "transliteration": "wat·tiś·śe·nāh",
+                "strong": "5375",
+                "translation": " aloud "
+            },
+            {
+                "token": "קוֹלָ֔ן",
+                "transliteration": "qō·w·lān",
+                "strong": "6963",
+                "translation": " . . . , "
+            },
+            {
+                "token": "עָרְפָּה֙",
+                "transliteration": "‘ā·rə·pāh",
+                "strong": "6204",
+                "translation": " and Orpah "
+            },
+            {
+                "token": "וַתִּשַּׁ֤ק",
+                "transliteration": "wat·tiš·šaq",
+                "strong": "5401",
+                "translation": " kissed "
+            },
+            {
+                "token": "לַחֲמוֹתָ֔הּ",
+                "transliteration": "la·ḥă·mō·w·ṯāh",
+                "strong": "2545",
+                "translation": " her mother-in-law {goodbye} , "
+            },
+            {
+                "token": "וְר֖וּת",
+                "transliteration": "wə·rūṯ",
+                "strong": "7327",
+                "translation": " but Ruth "
+            },
+            {
+                "token": "דָּ֥בְקָה",
+                "transliteration": "dā·ḇə·qāh",
+                "strong": "1692",
+                "translation": " clung "
+            },
+            {
+                "token": "בָּֽהּ׃",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " to her . "
+            }
+        ],
+        "verse_reference": "Ruth 1:14",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הִנֵּה֙",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " “ Look , ” "
+            },
+            {
+                "token": "וַתֹּ֗אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " said Naomi , "
+            },
+            {
+                "token": "יְבִמְתֵּ֔ךְ",
+                "transliteration": "yə·ḇim·têḵ",
+                "strong": "2994",
+                "translation": " “ your sister-in-law "
+            },
+            {
+                "token": "שָׁ֣בָה",
+                "transliteration": "šā·ḇāh",
+                "strong": "7725",
+                "translation": " has gone back "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עַמָּ֖הּ",
+                "transliteration": "‘am·māh",
+                "strong": "5971",
+                "translation": " her people "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " and "
+            },
+            {
+                "token": "אֱלֹהֶ֑יהָ",
+                "transliteration": "’ĕ·lō·he·hā",
+                "strong": "430",
+                "translation": " her gods ; "
+            },
+            {
+                "token": "שׁ֖וּבִי",
+                "transliteration": "šū·ḇî",
+                "strong": "7725",
+                "translation": " follow "
+            },
+            {
+                "token": "אַחֲרֵ֥י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " [her] back home "
+            },
+            {
+                "token": "יְבִמְתֵּֽךְ׃",
+                "transliteration": "yə·ḇim·têḵ",
+                "strong": "2994",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:15",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רוּת֙",
+                "transliteration": "rūṯ",
+                "strong": "7327",
+                "translation": " But Ruth "
+            },
+            {
+                "token": "וַתֹּ֤אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " replied : "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " “ Do not "
+            },
+            {
+                "token": "תִּפְגְּעִי־",
+                "transliteration": "tip̄·gə·‘î-",
+                "strong": "6293",
+                "translation": " urge "
+            },
+            {
+                "token": "בִ֔י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "לְעָזְבֵ֖ךְ",
+                "transliteration": "lə·‘ā·zə·ḇêḵ",
+                "strong": "5800",
+                "translation": " to leave you "
+            },
+            {
+                "token": "לָשׁ֣וּב",
+                "transliteration": "lā·šūḇ",
+                "strong": "7725",
+                "translation": " [or] to turn "
+            },
+            {
+                "token": "מֵאַחֲרָ֑יִךְ",
+                "transliteration": "mê·’a·ḥă·rā·yiḵ",
+                "strong": "310",
+                "translation": " from following you . "
+            },
+            {
+                "token": "כִּ֠י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " wherever "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "תֵּלְכִ֜י",
+                "transliteration": "tê·lə·ḵî",
+                "strong": "1980",
+                "translation": " you go , "
+            },
+            {
+                "token": "אֵלֵ֗ךְ",
+                "transliteration": "’ê·lêḵ",
+                "strong": "1980",
+                "translation": " I will go , "
+            },
+            {
+                "token": "וּבַאֲשֶׁ֤ר",
+                "transliteration": "ū·ḇa·’ă·šer",
+                "strong": "834",
+                "translation": " and wherever "
+            },
+            {
+                "token": "תָּלִ֙ינִי֙",
+                "transliteration": "tā·lî·nî",
+                "strong": "3885",
+                "translation": " you live , "
+            },
+            {
+                "token": "אָלִ֔ין",
+                "transliteration": "’ā·lîn",
+                "strong": "3885",
+                "translation": " I will live ; "
+            },
+            {
+                "token": "עַמֵּ֣ךְ",
+                "transliteration": "‘am·mêḵ",
+                "strong": "5971",
+                "translation": " your people "
+            },
+            {
+                "token": "עַמִּ֔י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " will be my people , "
+            },
+            {
+                "token": "וֵאלֹהַ֖יִךְ",
+                "transliteration": "wê·lō·ha·yiḵ",
+                "strong": "430",
+                "translation": " and your God "
+            },
+            {
+                "token": "אֱלֹהָֽי׃",
+                "transliteration": "’ĕ·lō·hāy",
+                "strong": "430",
+                "translation": " will be my God . "
+            }
+        ],
+        "verse_reference": "Ruth 1:16",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּאֲשֶׁ֤ר",
+                "transliteration": "ba·’ă·šer",
+                "strong": "834",
+                "translation": " Where "
+            },
+            {
+                "token": "תָּמ֙וּתִי֙",
+                "transliteration": "tā·mū·ṯî",
+                "strong": "4191",
+                "translation": " you die , "
+            },
+            {
+                "token": "אָמ֔וּת",
+                "transliteration": "’ā·mūṯ",
+                "strong": "4191",
+                "translation": " I will die , "
+            },
+            {
+                "token": "וְשָׁ֖ם",
+                "transliteration": "wə·šām",
+                "strong": "8033",
+                "translation": " and there "
+            },
+            {
+                "token": "אֶקָּבֵ֑ר",
+                "transliteration": "’eq·qā·ḇêr",
+                "strong": "6912",
+                "translation": " I will be buried . "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " May the LORD "
+            },
+            {
+                "token": "כֹּה֩",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " vvv "
+            },
+            {
+                "token": "יַעֲשֶׂ֨ה",
+                "transliteration": "ya·‘ă·śeh",
+                "strong": "6213",
+                "translation": " punish "
+            },
+            {
+                "token": "לִי֙",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me , "
+            },
+            {
+                "token": "וְכֹ֣ה",
+                "transliteration": "wə·ḵōh",
+                "strong": "3541",
+                "translation": " and ever so "
+            },
+            {
+                "token": "יֹסִ֔יף",
+                "transliteration": "yō·sîp̄",
+                "strong": "3254",
+                "translation": " severely , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " if "
+            },
+            {
+                "token": "הַמָּ֔וֶת",
+                "transliteration": "ham·mā·weṯ",
+                "strong": "4194",
+                "translation": " anything but death "
+            },
+            {
+                "token": "יַפְרִ֖יד",
+                "transliteration": "yap̄·rîḏ",
+                "strong": "6504",
+                "translation": " separates "
+            },
+            {
+                "token": "בֵּינִ֥י",
+                "transliteration": "bê·nî",
+                "strong": "996",
+                "translation": " you "
+            },
+            {
+                "token": "וּבֵינֵֽךְ׃",
+                "transliteration": "ū·ḇê·nêḵ",
+                "strong": "996",
+                "translation": " and me . ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:17",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַתֵּ֕רֶא",
+                "transliteration": "wat·tê·re",
+                "strong": "7200",
+                "translation": " When Naomi saw "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "הִ֖יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " Ruth "
+            },
+            {
+                "token": "מִתְאַמֶּ֥צֶת",
+                "transliteration": "miṯ·’am·me·ṣeṯ",
+                "strong": "553",
+                "translation": " was determined "
+            },
+            {
+                "token": "לָלֶ֣כֶת",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to go "
+            },
+            {
+                "token": "אִתָּ֑הּ",
+                "transliteration": "’it·tāh",
+                "strong": "854",
+                "translation": " with her , "
+            },
+            {
+                "token": "וַתֶּחְדַּ֖ל",
+                "transliteration": "wat·teḥ·dal",
+                "strong": "2308",
+                "translation": " she stopped "
+            },
+            {
+                "token": "לְדַבֵּ֥ר",
+                "transliteration": "lə·ḏab·bêr",
+                "strong": "1696",
+                "translation": " trying to persuade her "
+            },
+            {
+                "token": "אֵלֶֽיהָ׃",
+                "transliteration": "’ê·le·hā",
+                "strong": "413",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Ruth 1:18",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁתֵּיהֶ֔ם",
+                "transliteration": "šə·tê·hem",
+                "strong": "8147",
+                "translation": " So [Naomi and Ruth] "
+            },
+            {
+                "token": "וַתֵּלַ֣כְנָה",
+                "transliteration": "wat·tê·laḵ·nāh",
+                "strong": "1980",
+                "translation": " traveled "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "בֹּאָ֖נָה",
+                "transliteration": "bō·’ā·nāh",
+                "strong": "935",
+                "translation": " they came "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1035",
+                "translation": " to "
+            },
+            {
+                "token": "לָ֑חֶם",
+                "transliteration": "lā·ḥem",
+                "strong": "1035",
+                "translation": " Bethlehem . "
+            },
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " When they "
+            },
+            {
+                "token": "כְּבֹאָ֙נָה֙",
+                "transliteration": "kə·ḇō·’ā·nāh",
+                "strong": "935",
+                "translation": " entered "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1035",
+                "translation": " vvv "
+            },
+            {
+                "token": "לֶ֔חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "1035",
+                "translation": " Bethlehem , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "הָעִיר֙",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " city "
+            },
+            {
+                "token": "וַתֵּהֹ֤ם",
+                "transliteration": "wat·tê·hōm",
+                "strong": "1949",
+                "translation": " was stirred "
+            },
+            {
+                "token": "עֲלֵיהֶ֔ן",
+                "transliteration": "‘ă·lê·hen",
+                "strong": "5921",
+                "translation": " because of them , "
+            },
+            {
+                "token": "וַתֹּאמַ֖רְנָה",
+                "transliteration": "wat·tō·mar·nāh",
+                "strong": "559",
+                "translation": " and the women [of the city] exclaimed , "
+            },
+            {
+                "token": "הֲזֹ֥את",
+                "transliteration": "hă·zōṯ",
+                "strong": "2063",
+                "translation": " “ Can this "
+            },
+            {
+                "token": "נָעֳמִֽי׃",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " be Naomi ? ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:19",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " “ Do not "
+            },
+            {
+                "token": "תִּקְרֶ֥אנָה",
+                "transliteration": "tiq·re·nāh",
+                "strong": "7121",
+                "translation": " call "
+            },
+            {
+                "token": "לִ֖י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "נָעֳמִ֑י",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " Naomi , ” "
+            },
+            {
+                "token": "וַתֹּ֣אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " she replied "
+            },
+            {
+                "token": "אֲלֵיהֶ֔ן",
+                "transliteration": "’ă·lê·hen",
+                "strong": "413",
+                "translation": " . . . . "
+            },
+            {
+                "token": "קְרֶ֤אןָ",
+                "transliteration": "qə·re·nā",
+                "strong": "7121",
+                "translation": " “ Call "
+            },
+            {
+                "token": "לִי֙",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "מָרָ֔א",
+                "transliteration": "mā·rā",
+                "strong": "4755",
+                "translation": " Mara , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "שַׁדַּ֛י",
+                "transliteration": "šad·day",
+                "strong": "7706",
+                "translation": " the Almighty "
+            },
+            {
+                "token": "הֵמַ֥ר",
+                "transliteration": "hê·mar",
+                "strong": "4843",
+                "translation": " has dealt quite bitterly "
+            },
+            {
+                "token": "מְאֹֽד׃",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " . . . "
+            },
+            {
+                "token": "לִ֖י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " with me . "
+            }
+        ],
+        "verse_reference": "Ruth 1:20",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנִי֙",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "הָלַ֔כְתִּי",
+                "transliteration": "hā·laḵ·tî",
+                "strong": "1980",
+                "translation": " went away "
+            },
+            {
+                "token": "מְלֵאָ֣ה",
+                "transliteration": "mə·lê·’āh",
+                "strong": "4392",
+                "translation": " full , "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " but the LORD "
+            },
+            {
+                "token": "הֱשִׁיבַ֣נִי",
+                "transliteration": "hĕ·šî·ḇa·nî",
+                "strong": "7725",
+                "translation": " has brought me back "
+            },
+            {
+                "token": "וְרֵיקָ֖ם",
+                "transliteration": "wə·rê·qām",
+                "strong": "7387",
+                "translation": " empty . "
+            },
+            {
+                "token": "לָ֣מָּה",
+                "transliteration": "lām·māh",
+                "strong": "4100",
+                "translation": " Why "
+            },
+            {
+                "token": "תִקְרֶ֤אנָה",
+                "transliteration": "ṯiq·re·nāh",
+                "strong": "7121",
+                "translation": " call "
+            },
+            {
+                "token": "לִי֙",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "נָעֳמִ֔י",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " Naomi ? "
+            },
+            {
+                "token": "וַֽיהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " After all, the LORD "
+            },
+            {
+                "token": "עָ֣נָה",
+                "transliteration": "‘ā·nāh",
+                "strong": "6030",
+                "translation": " has testified "
+            },
+            {
+                "token": "בִ֔י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " against me , "
+            },
+            {
+                "token": "וְשַׁדַּ֖י",
+                "transliteration": "wə·šad·day",
+                "strong": "7706",
+                "translation": " and the Almighty "
+            },
+            {
+                "token": "הֵ֥רַֽע",
+                "transliteration": "hê·ra‘",
+                "strong": "7489",
+                "translation": " has afflicted "
+            },
+            {
+                "token": "לִֽי׃",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me . ” "
+            }
+        ],
+        "verse_reference": "Ruth 1:21",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָעֳמִ֗י",
+                "transliteration": "nā·‘o·mî",
+                "strong": "5281",
+                "translation": " So Naomi "
+            },
+            {
+                "token": "וַתָּ֣שָׁב",
+                "transliteration": "wat·tā·šāḇ",
+                "strong": "7725",
+                "translation": " returned "
+            },
+            {
+                "token": "מִשְּׂדֵ֣י",
+                "transliteration": "miś·śə·ḏê",
+                "strong": "7704",
+                "translation": " from the land "
+            },
+            {
+                "token": "מוֹאָ֑ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of Moab "
+            },
+            {
+                "token": "עִמָּ֔הּ",
+                "transliteration": "‘im·māh",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "הַשָּׁ֖בָה",
+                "transliteration": "haš·šā·ḇāh",
+                "strong": "7725",
+                "translation": " . . . "
+            },
+            {
+                "token": "כַלָּתָהּ֙",
+                "transliteration": "ḵal·lā·ṯāh",
+                "strong": "3618",
+                "translation": " her daughter-in-law "
+            },
+            {
+                "token": "וְר֨וּת",
+                "transliteration": "wə·rūṯ",
+                "strong": "7327",
+                "translation": " Ruth "
+            },
+            {
+                "token": "הַמּוֹאֲבִיָּ֤ה",
+                "transliteration": "ham·mō·w·’ă·ḇî·yāh",
+                "strong": "4125",
+                "translation": " the Moabitess . "
+            },
+            {
+                "token": "וְהֵ֗מָּה",
+                "transliteration": "wə·hêm·māh",
+                "strong": "1992",
+                "translation": " And they "
+            },
+            {
+                "token": "בָּ֚אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " arrived "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1035",
+                "translation": " vvv "
+            },
+            {
+                "token": "לֶ֔חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "1035",
+                "translation": " in Bethlehem "
+            },
+            {
+                "token": "בִּתְחִלַּ֖ת",
+                "transliteration": "biṯ·ḥil·laṯ",
+                "strong": "8462",
+                "translation": " at the beginning "
+            },
+            {
+                "token": "שְׂעֹרִֽים׃",
+                "transliteration": "śə·‘ō·rîm",
+                "strong": "8184",
+                "translation": " of the barley "
+            },
+            {
+                "token": "קְצִ֥יר",
+                "transliteration": "qə·ṣîr",
+                "strong": "7105",
+                "translation": " harvest . "
+            }
+        ],
+        "verse_reference": "Ruth 1:22",
+        "book": "Ruth",
+        "chapter": "1",
+        "verse": "22"
+    }
+]

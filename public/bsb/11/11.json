@@ -1,0 +1,4486 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "וְהַמֶּ֣לֶךְ",
+                "transliteration": "wə·ham·me·leḵ",
+                "strong": "4428",
+                "translation": " King "
+            },
+            {
+                "token": "שְׁלֹמֹ֗ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon, however , "
+            },
+            {
+                "token": "אָהַ֞ב",
+                "transliteration": "’ā·haḇ",
+                "strong": "157",
+                "translation": " loved "
+            },
+            {
+                "token": "רַבּ֖וֹת",
+                "transliteration": "rab·bō·wṯ",
+                "strong": "7227",
+                "translation": " many "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נָכְרִיּ֛וֹת",
+                "transliteration": "nā·ḵə·rî·yō·wṯ",
+                "strong": "5237",
+                "translation": " foreign "
+            },
+            {
+                "token": "נָשִׁ֧ים",
+                "transliteration": "nā·šîm",
+                "strong": "802",
+                "translation": " women "
+            },
+            {
+                "token": "בַּת־",
+                "transliteration": "baṯ-",
+                "strong": "1323",
+                "translation": " along with the daughter "
+            },
+            {
+                "token": "פַּרְעֹ֑ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " of Pharaoh — "
+            },
+            {
+                "token": "מוֹאֲבִיּ֤וֹת",
+                "transliteration": "mō·w·’ă·ḇî·yō·wṯ",
+                "strong": "4125",
+                "translation": " women of Moab , "
+            },
+            {
+                "token": "עַמֳּנִיּוֹת֙",
+                "transliteration": "‘am·mo·nî·yō·wṯ",
+                "strong": "5984",
+                "translation": " Ammon , "
+            },
+            {
+                "token": "אֲדֹ֣מִיֹּ֔ת",
+                "transliteration": "’ă·ḏō·mî·yōṯ",
+                "strong": "130",
+                "translation": " Edom , "
+            },
+            {
+                "token": "צֵדְנִיֹּ֖ת",
+                "transliteration": "ṣê·ḏə·nî·yōṯ",
+                "strong": "6722",
+                "translation": " and Sidon , "
+            },
+            {
+                "token": "חִתִּיֹּֽת׃",
+                "transliteration": "ḥit·tî·yōṯ",
+                "strong": "2850",
+                "translation": " as well as Hittite women . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:1",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " [These women were] from "
+            },
+            {
+                "token": "הַגּוֹיִ֗ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " the nations "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " about which "
+            },
+            {
+                "token": "יְהוָה֩",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אָֽמַר־",
+                "transliteration": "’ā·mar-",
+                "strong": "559",
+                "translation": " had told "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנֵ֨י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֜ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " “ You must not "
+            },
+            {
+                "token": "תָבֹ֣אוּ",
+                "transliteration": "ṯā·ḇō·’ū",
+                "strong": "935",
+                "translation": " intermarry "
+            },
+            {
+                "token": "בָהֶ֗ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " with them "
+            },
+            {
+                "token": "וְהֵם֙",
+                "transliteration": "wə·hêm",
+                "strong": "1992",
+                "translation": " - "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " - "
+            },
+            {
+                "token": "יָבֹ֣אוּ",
+                "transliteration": "yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " - "
+            },
+            {
+                "token": "בָכֶ֔ם",
+                "transliteration": "ḇā·ḵem",
+                "strong": "",
+                "translation": " - , "
+            },
+            {
+                "token": "אָכֵן֙",
+                "transliteration": "’ā·ḵên",
+                "strong": "403",
+                "translation": " for surely "
+            },
+            {
+                "token": "יַטּ֣וּ",
+                "transliteration": "yaṭ·ṭū",
+                "strong": "5186",
+                "translation": " they will turn "
+            },
+            {
+                "token": "לְבַבְכֶ֔ם",
+                "transliteration": "lə·ḇaḇ·ḵem",
+                "strong": "3824",
+                "translation": " your hearts "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "אֱלֹהֵיהֶ֑ם",
+                "transliteration": "’ĕ·lō·hê·hem",
+                "strong": "430",
+                "translation": " their gods . ” "
+            },
+            {
+                "token": "שְׁלֹמֹ֖ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Yet Solomon "
+            },
+            {
+                "token": "דָּבַ֥ק",
+                "transliteration": "dā·ḇaq",
+                "strong": "1692",
+                "translation": " clung "
+            },
+            {
+                "token": "בָּהֶ֛ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " to these [women] "
+            },
+            {
+                "token": "לְאַהֲבָֽה׃",
+                "transliteration": "lə·’a·hă·ḇāh",
+                "strong": "160",
+                "translation": " in love . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:2",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִי־",
+                "transliteration": "way·hî-",
+                "strong": "1961",
+                "translation": " He had "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "שְׁבַ֣ע",
+                "transliteration": "šə·ḇa‘",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "מֵא֔וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " hundred "
+            },
+            {
+                "token": "נָשִׁ֗ים",
+                "transliteration": "nā·šîm",
+                "strong": "802",
+                "translation": " wives "
+            },
+            {
+                "token": "שָׂרוֹת֙",
+                "transliteration": "śā·rō·wṯ",
+                "strong": "8282",
+                "translation": " of royal birth "
+            },
+            {
+                "token": "שְׁלֹ֣שׁ",
+                "transliteration": "šə·lōš",
+                "strong": "7969",
+                "translation": " and three "
+            },
+            {
+                "token": "מֵא֑וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " hundred "
+            },
+            {
+                "token": "וּפִֽלַגְשִׁ֖ים",
+                "transliteration": "ū·p̄i·laḡ·šîm",
+                "strong": "6370",
+                "translation": " concubines — "
+            },
+            {
+                "token": "נָשָׁ֖יו",
+                "transliteration": "nā·šāw",
+                "strong": "802",
+                "translation": " and his wives "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לִבּֽוֹ׃",
+                "transliteration": "lib·bōw",
+                "strong": "3820",
+                "translation": " turned his heart "
+            },
+            {
+                "token": "וַיַּטּ֥וּ",
+                "transliteration": "way·yaṭ·ṭū",
+                "strong": "5186",
+                "translation": " away . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:3",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְעֵת֙",
+                "transliteration": "lə·‘êṯ",
+                "strong": "6256",
+                "translation": " For when "
+            },
+            {
+                "token": "שְׁלֹמֹ֔ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " grew "
+            },
+            {
+                "token": "זִקְנַ֣ת",
+                "transliteration": "ziq·naṯ",
+                "strong": "2209",
+                "translation": " old , "
+            },
+            {
+                "token": "נָשָׁיו֙",
+                "transliteration": "nā·šāw",
+                "strong": "802",
+                "translation": " his wives "
+            },
+            {
+                "token": "הִטּ֣וּ",
+                "transliteration": "hiṭ·ṭū",
+                "strong": "5186",
+                "translation": " turned "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְבָב֔וֹ",
+                "transliteration": "lə·ḇā·ḇōw",
+                "strong": "3824",
+                "translation": " his heart "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "אֲחֵרִ֑ים",
+                "transliteration": "’ă·ḥê·rîm",
+                "strong": "312",
+                "translation": " other "
+            },
+            {
+                "token": "אֱלֹהִ֣ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " gods , "
+            },
+            {
+                "token": "הָיָ֨ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " and he was "
+            },
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "לְבָב֤וֹ",
+                "transliteration": "lə·ḇā·ḇōw",
+                "strong": "3824",
+                "translation": " wholeheartedly "
+            },
+            {
+                "token": "שָׁלֵם֙",
+                "transliteration": "šā·lêm",
+                "strong": "8003",
+                "translation": " devoted "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " to "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהָ֔יו",
+                "transliteration": "’ĕ·lō·hāw",
+                "strong": "430",
+                "translation": " his God , "
+            },
+            {
+                "token": "כִּלְבַ֖ב",
+                "transliteration": "kil·ḇaḇ",
+                "strong": "3824",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָבִֽיו׃",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " as his father "
+            },
+            {
+                "token": "דָּוִ֥יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " David had been . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:4",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁלֹמֹ֔ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "וַיֵּ֣לֶךְ",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " followed "
+            },
+            {
+                "token": "אַחֲרֵ֣י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַשְׁתֹּ֔רֶת",
+                "transliteration": "‘aš·tō·reṯ",
+                "strong": "6253",
+                "translation": " Ashtoreth "
+            },
+            {
+                "token": "אֱלֹהֵ֖י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the goddess "
+            },
+            {
+                "token": "צִדֹנִ֑ים",
+                "transliteration": "ṣi·ḏō·nîm",
+                "strong": "6722",
+                "translation": " of the Sidonians "
+            },
+            {
+                "token": "וְאַחֲרֵ֣י",
+                "transliteration": "wə·’a·ḥă·rê",
+                "strong": "310",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִלְכֹּ֔ם",
+                "transliteration": "mil·kōm",
+                "strong": "4445",
+                "translation": " and Milcom "
+            },
+            {
+                "token": "שִׁקֻּ֖ץ",
+                "transliteration": "šiq·quṣ",
+                "strong": "8251",
+                "translation": " the abomination "
+            },
+            {
+                "token": "עַמֹּנִֽים׃",
+                "transliteration": "‘am·mō·nîm",
+                "strong": "5984",
+                "translation": " of the Ammonites . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:5",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁלֹמֹ֛ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " So Solomon "
+            },
+            {
+                "token": "וַיַּ֧עַשׂ",
+                "transliteration": "way·ya·‘aś",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "הָרַ֖ע",
+                "transliteration": "hā·ra‘",
+                "strong": "7451",
+                "translation": " evil "
+            },
+            {
+                "token": "בְּעֵינֵ֣י",
+                "transliteration": "bə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the sight "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD ; "
+            },
+            {
+                "token": "אָבִֽיו׃ס",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " unlike his father "
+            },
+            {
+                "token": "כְּדָוִ֥ד",
+                "transliteration": "kə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " David , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " he did not "
+            },
+            {
+                "token": "אַחֲרֵ֥י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " follow "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "מִלֵּ֛א",
+                "transliteration": "mil·lê",
+                "strong": "4390",
+                "translation": " completely . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:6",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָז֩",
+                "transliteration": "’āz",
+                "strong": "227",
+                "translation": " At that time "
+            },
+            {
+                "token": "בָּהָ֕ר",
+                "transliteration": "bā·hār",
+                "strong": "2022",
+                "translation": " on a hill "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " east "
+            },
+            {
+                "token": "פְּנֵ֣י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " of "
+            },
+            {
+                "token": "יְרוּשָׁלִָ֑ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            },
+            {
+                "token": "שְׁלֹמֹ֜ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "יִבְנֶ֨ה",
+                "transliteration": "yiḇ·neh",
+                "strong": "1129",
+                "translation": " built "
+            },
+            {
+                "token": "בָּמָ֗ה",
+                "transliteration": "bā·māh",
+                "strong": "1116",
+                "translation": " a high place "
+            },
+            {
+                "token": "לִכְמוֹשׁ֙",
+                "transliteration": "liḵ·mō·wōš",
+                "strong": "3645",
+                "translation": " for Chemosh "
+            },
+            {
+                "token": "שִׁקֻּ֣ץ",
+                "transliteration": "šiq·quṣ",
+                "strong": "8251",
+                "translation": " the abomination "
+            },
+            {
+                "token": "מוֹאָ֔ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of Moab "
+            },
+            {
+                "token": "וּלְמֹ֕לֶךְ",
+                "transliteration": "ū·lə·mō·leḵ",
+                "strong": "4432",
+                "translation": " and for Molech "
+            },
+            {
+                "token": "שִׁקֻּ֖ץ",
+                "transliteration": "šiq·quṣ",
+                "strong": "8251",
+                "translation": " the abomination "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " of the Ammonites "
+            },
+            {
+                "token": "עַמּֽוֹן׃",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:7",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עָשָׂ֔ה",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " He did "
+            },
+            {
+                "token": "וְכֵ֣ן",
+                "transliteration": "wə·ḵên",
+                "strong": "3651",
+                "translation": " the same "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " for all "
+            },
+            {
+                "token": "הַנָּכְרִיּ֑וֹת",
+                "transliteration": "han·nā·ḵə·rî·yō·wṯ",
+                "strong": "5237",
+                "translation": " his foreign "
+            },
+            {
+                "token": "נָשָׁ֖יו",
+                "transliteration": "nā·šāw",
+                "strong": "802",
+                "translation": " wives , "
+            },
+            {
+                "token": "מַקְטִיר֥וֹת",
+                "transliteration": "maq·ṭî·rō·wṯ",
+                "strong": "6999",
+                "translation": " who burned incense "
+            },
+            {
+                "token": "וּֽמְזַבְּח֖וֹת",
+                "transliteration": "ū·mə·zab·bə·ḥō·wṯ",
+                "strong": "2076",
+                "translation": " and sacrificed "
+            },
+            {
+                "token": "לֵאלֹהֵיהֶֽן׃",
+                "transliteration": "lê·lō·hê·hen",
+                "strong": "430",
+                "translation": " to their gods . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:8",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Now the LORD "
+            },
+            {
+                "token": "וַיִּתְאַנַּ֥ף",
+                "transliteration": "way·yiṯ·’an·nap̄",
+                "strong": "599",
+                "translation": " grew angry "
+            },
+            {
+                "token": "בִּשְׁלֹמֹ֑ה",
+                "transliteration": "biš·lō·mōh",
+                "strong": "8010",
+                "translation": " with Solomon , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "לְבָב֗וֹ",
+                "transliteration": "lə·ḇā·ḇōw",
+                "strong": "3824",
+                "translation": " his heart "
+            },
+            {
+                "token": "נָטָ֣ה",
+                "transliteration": "nā·ṭāh",
+                "strong": "5186",
+                "translation": " had turned away "
+            },
+            {
+                "token": "מֵעִ֤ם",
+                "transliteration": "mê·‘im",
+                "strong": "5973",
+                "translation": " from "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "הַנִּרְאָ֥ה",
+                "transliteration": "han·nir·’āh",
+                "strong": "7200",
+                "translation": " who had appeared "
+            },
+            {
+                "token": "אֵלָ֖יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to him "
+            },
+            {
+                "token": "פַּעֲמָֽיִם׃",
+                "transliteration": "pa·‘ă·mā·yim",
+                "strong": "6471",
+                "translation": " twice . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:9",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְצִוָּ֤ה",
+                "transliteration": "wə·ṣiw·wāh",
+                "strong": "6680",
+                "translation": " Although He had warned [Solomon] "
+            },
+            {
+                "token": "אֵלָיו֙",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " explicitly "
+            },
+            {
+                "token": "הַזֶּ֔ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַדָּבָ֣ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְבִ֨לְתִּי־",
+                "transliteration": "lə·ḇil·tî-",
+                "strong": "1115",
+                "translation": " not "
+            },
+            {
+                "token": "לֶ֔כֶת",
+                "transliteration": "le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to follow "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲחֵרִ֑ים",
+                "transliteration": "’ă·ḥê·rîm",
+                "strong": "312",
+                "translation": " other "
+            },
+            {
+                "token": "אֱלֹהִ֣ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " gods , "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " Solomon did not "
+            },
+            {
+                "token": "שָׁמַ֔ר",
+                "transliteration": "šā·mar",
+                "strong": "8104",
+                "translation": " keep "
+            },
+            {
+                "token": "אֵ֥ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָֽה׃פ",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD’s "
+            },
+            {
+                "token": "צִוָּ֖ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " command . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:10",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "לִשְׁלֹמֹ֗ה",
+                "transliteration": "liš·lō·mōh",
+                "strong": "8010",
+                "translation": " to Solomon , "
+            },
+            {
+                "token": "יַ֚עַן",
+                "transliteration": "ya·‘an",
+                "strong": "3282",
+                "translation": " “ Because "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽיְתָה־",
+                "transliteration": "hā·yə·ṯāh-",
+                "strong": "1961",
+                "translation": " you have done "
+            },
+            {
+                "token": "עִמָּ֔ךְ",
+                "transliteration": "‘im·māḵ",
+                "strong": "5973",
+                "translation": " . . . "
+            },
+            {
+                "token": "זֹּ֣את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and have not "
+            },
+            {
+                "token": "שָׁמַ֙רְתָּ֙",
+                "transliteration": "šā·mar·tā",
+                "strong": "8104",
+                "translation": " kept "
+            },
+            {
+                "token": "בְּרִיתִ֣י",
+                "transliteration": "bə·rî·ṯî",
+                "strong": "1285",
+                "translation": " My covenant "
+            },
+            {
+                "token": "וְחֻקֹּתַ֔י",
+                "transliteration": "wə·ḥuq·qō·ṯay",
+                "strong": "2708",
+                "translation": " and My statutes , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which "
+            },
+            {
+                "token": "צִוִּ֖יתִי",
+                "transliteration": "ṣiw·wî·ṯî",
+                "strong": "6680",
+                "translation": " I have commanded "
+            },
+            {
+                "token": "עָלֶ֑יךָ",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " you , "
+            },
+            {
+                "token": "אֶקְרַ֤ע",
+                "transliteration": "’eq·ra‘",
+                "strong": "7167",
+                "translation": " I will tear "
+            },
+            {
+                "token": "הַמַּמְלָכָה֙",
+                "transliteration": "ham·mam·lā·ḵāh",
+                "strong": "4467",
+                "translation": " the kingdom "
+            },
+            {
+                "token": "קָרֹ֨עַ",
+                "transliteration": "qā·rō·a‘",
+                "strong": "7167",
+                "translation": " away "
+            },
+            {
+                "token": "מֵֽעָלֶ֔יךָ",
+                "transliteration": "mê·‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " from you "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וּנְתַתִּ֖יהָ",
+                "transliteration": "ū·nə·ṯat·tî·hā",
+                "strong": "5414",
+                "translation": " and give it "
+            },
+            {
+                "token": "לְעַבְדֶּֽךָ׃",
+                "transliteration": "lə·‘aḇ·de·ḵā",
+                "strong": "5650",
+                "translation": " to your servant . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:11",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַךְ־",
+                "transliteration": "’aḵ-",
+                "strong": "389",
+                "translation": " Nevertheless , "
+            },
+            {
+                "token": "לְמַ֖עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "אָבִ֑יךָ",
+                "transliteration": "’ā·ḇî·ḵā",
+                "strong": "1",
+                "translation": " of your father "
+            },
+            {
+                "token": "דָּוִ֣ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I will not "
+            },
+            {
+                "token": "אֶעֱשֶׂ֔נָּה",
+                "transliteration": "’e·‘ĕ·śen·nāh",
+                "strong": "6213",
+                "translation": " do "
+            },
+            {
+                "token": "בְּיָמֶ֙יךָ֙",
+                "transliteration": "bə·yā·me·ḵā",
+                "strong": "3117",
+                "translation": " it during your lifetime ; "
+            },
+            {
+                "token": "אֶקְרָעֶֽנָּה׃",
+                "transliteration": "’eq·rā·‘en·nāh",
+                "strong": "7167",
+                "translation": " I will tear it "
+            },
+            {
+                "token": "מִיַּ֥ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " out of the hand "
+            },
+            {
+                "token": "בִּנְךָ֖",
+                "transliteration": "bin·ḵā",
+                "strong": "1121",
+                "translation": " of your son . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:12",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רַ֤ק",
+                "transliteration": "raq",
+                "strong": "7535",
+                "translation": " Yet "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I will not "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " {tear} the whole "
+            },
+            {
+                "token": "הַמַּמְלָכָה֙",
+                "transliteration": "ham·mam·lā·ḵāh",
+                "strong": "4467",
+                "translation": " kingdom "
+            },
+            {
+                "token": "אֶקְרָ֔ע",
+                "transliteration": "’eq·rā‘",
+                "strong": "7167",
+                "translation": " away from him . "
+            },
+            {
+                "token": "אֶתֵּ֣ן",
+                "transliteration": "’et·tên",
+                "strong": "5414",
+                "translation": " I will give "
+            },
+            {
+                "token": "אֶחָ֖ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "שֵׁ֥בֶט",
+                "transliteration": "šê·ḇeṭ",
+                "strong": "7626",
+                "translation": " tribe "
+            },
+            {
+                "token": "לִבְנֶ֑ךָ",
+                "transliteration": "liḇ·ne·ḵā",
+                "strong": "1121",
+                "translation": " to your son "
+            },
+            {
+                "token": "לְמַ֙עַן֙",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "עַבְדִּ֔י",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " of My servant "
+            },
+            {
+                "token": "דָּוִ֣ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "וּלְמַ֥עַן",
+                "transliteration": "ū·lə·ma·‘an",
+                "strong": "4616",
+                "translation": " and for the sake "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֖ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which "
+            },
+            {
+                "token": "בָּחָֽרְתִּי׃",
+                "transliteration": "bā·ḥā·rə·tî",
+                "strong": "977",
+                "translation": " I have chosen . ” "
+            }
+        ],
+        "verse_reference": "1 Kings 11:13",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיָּ֨קֶם",
+                "transliteration": "way·yā·qem",
+                "strong": "6965",
+                "translation": " raised up "
+            },
+            {
+                "token": "לִשְׁלֹמֹ֔ה",
+                "transliteration": "liš·lō·mōh",
+                "strong": "8010",
+                "translation": " against Solomon "
+            },
+            {
+                "token": "שָׂטָן֙",
+                "transliteration": "śā·ṭān",
+                "strong": "7854",
+                "translation": " an adversary , "
+            },
+            {
+                "token": "הֲדַ֣ד",
+                "transliteration": "hă·ḏaḏ",
+                "strong": "1908",
+                "translation": " Hadad "
+            },
+            {
+                "token": "הָאֲדֹמִ֑י",
+                "transliteration": "hā·’ă·ḏō·mî",
+                "strong": "130",
+                "translation": " the Edomite , "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " - "
+            },
+            {
+                "token": "הַמֶּ֛לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " from the royal "
+            },
+            {
+                "token": "מִזֶּ֧רַע",
+                "transliteration": "miz·ze·ra‘",
+                "strong": "2233",
+                "translation": " line "
+            },
+            {
+                "token": "בֶּאֱדֽוֹם׃",
+                "transliteration": "be·’ĕ·ḏō·wm",
+                "strong": "123",
+                "translation": " of Edom . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:14",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " Earlier , "
+            },
+            {
+                "token": "דָּוִד֙",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " when David "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בִּֽהְי֤וֹת",
+                "transliteration": "bih·yō·wṯ",
+                "strong": "1961",
+                "translation": " was "
+            },
+            {
+                "token": "אֱד֔וֹם",
+                "transliteration": "’ĕ·ḏō·wm",
+                "strong": "123",
+                "translation": " in Edom , "
+            },
+            {
+                "token": "יוֹאָב֙",
+                "transliteration": "yō·w·’āḇ",
+                "strong": "3097",
+                "translation": " Joab "
+            },
+            {
+                "token": "שַׂ֣ר",
+                "transliteration": "śar",
+                "strong": "8269",
+                "translation": " the commander "
+            },
+            {
+                "token": "הַצָּבָ֔א",
+                "transliteration": "haṣ·ṣā·ḇā",
+                "strong": "6635",
+                "translation": " of the army "
+            },
+            {
+                "token": "בַּעֲל֗וֹת",
+                "transliteration": "ba·‘ă·lō·wṯ",
+                "strong": "5927",
+                "translation": " had gone "
+            },
+            {
+                "token": "לְקַבֵּ֖ר",
+                "transliteration": "lə·qab·bêr",
+                "strong": "6912",
+                "translation": " to bury "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַחֲלָלִ֑ים",
+                "transliteration": "ha·ḥă·lā·lîm",
+                "strong": "2491",
+                "translation": " the dead "
+            },
+            {
+                "token": "וַיַּ֥ךְ",
+                "transliteration": "way·yaḵ",
+                "strong": "5221",
+                "translation": " and had struck down "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "זָכָ֖ר",
+                "transliteration": "zā·ḵār",
+                "strong": "2145",
+                "translation": " male "
+            },
+            {
+                "token": "בֶּאֱדֽוֹם׃",
+                "transliteration": "be·’ĕ·ḏō·wm",
+                "strong": "123",
+                "translation": " in Edom . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:15",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "יוֹאָ֖ב",
+                "transliteration": "yō·w·’āḇ",
+                "strong": "3097",
+                "translation": " Joab "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "יָֽשַׁב־",
+                "transliteration": "yā·šaḇ-",
+                "strong": "3427",
+                "translation": " had stayed "
+            },
+            {
+                "token": "שָׁ֥ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "שֵׁ֧שֶׁת",
+                "transliteration": "šê·šeṯ",
+                "strong": "8337",
+                "translation": " six "
+            },
+            {
+                "token": "חֳדָשִׁ֛ים",
+                "transliteration": "ḥo·ḏā·šîm",
+                "strong": "2320",
+                "translation": " months , "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הִכְרִ֥ית",
+                "transliteration": "hiḵ·rîṯ",
+                "strong": "3772",
+                "translation": " he had killed "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "זָכָ֖ר",
+                "transliteration": "zā·ḵār",
+                "strong": "2145",
+                "translation": " male "
+            },
+            {
+                "token": "בֶּאֱדֽוֹם׃",
+                "transliteration": "be·’ĕ·ḏō·wm",
+                "strong": "123",
+                "translation": " in Edom . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:16",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲדַ֡ד",
+                "transliteration": "’ă·ḏaḏ",
+                "strong": "111",
+                "translation": " But Hadad , "
+            },
+            {
+                "token": "הוּא֩",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַאֲנָשִׁ֨ים",
+                "transliteration": "wa·’ă·nā·šîm",
+                "strong": "582",
+                "translation": " still just "
+            },
+            {
+                "token": "קָטָֽן׃",
+                "transliteration": "qā·ṭān",
+                "strong": "6996",
+                "translation": " a young "
+            },
+            {
+                "token": "נַ֥עַר",
+                "transliteration": "na·‘ar",
+                "strong": "5288",
+                "translation": " boy , "
+            },
+            {
+                "token": "וַיִּבְרַ֣ח",
+                "transliteration": "way·yiḇ·raḥ",
+                "strong": "1272",
+                "translation": " had fled "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " to Egypt , "
+            },
+            {
+                "token": "וַהֲדַ֖ד",
+                "transliteration": "wa·hă·ḏaḏ",
+                "strong": "1908",
+                "translation": " . . . "
+            },
+            {
+                "token": "אִתּ֖וֹ",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " along with "
+            },
+            {
+                "token": "לָב֣וֹא",
+                "transliteration": "lā·ḇō·w",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲדֹמִיִּ֜ים",
+                "transliteration": "’ă·ḏō·mî·yîm",
+                "strong": "130",
+                "translation": " some Edomites "
+            },
+            {
+                "token": "מֵעַבְדֵ֥י",
+                "transliteration": "mê·‘aḇ·ḏê",
+                "strong": "5650",
+                "translation": " who were servants "
+            },
+            {
+                "token": "אָבִ֛יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " of his father . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:17",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּקֻ֙מוּ֙",
+                "transliteration": "way·yā·qu·mū",
+                "strong": "6965",
+                "translation": " Hadad and his men set out "
+            },
+            {
+                "token": "מִמִּדְיָ֔ן",
+                "transliteration": "mim·miḏ·yān",
+                "strong": "4080",
+                "translation": " from Midian "
+            },
+            {
+                "token": "וַיָּבֹ֖אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " and went "
+            },
+            {
+                "token": "פָּארָ֑ן",
+                "transliteration": "pā·rān",
+                "strong": "6290",
+                "translation": " to Paran . "
+            },
+            {
+                "token": "וַיִּקְחוּ֩",
+                "transliteration": "way·yiq·ḥū",
+                "strong": "3947",
+                "translation": " They took "
+            },
+            {
+                "token": "אֲנָשִׁ֨ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " men "
+            },
+            {
+                "token": "מִפָּארָ֗ן",
+                "transliteration": "mip·pā·rān",
+                "strong": "6290",
+                "translation": " from Paran "
+            },
+            {
+                "token": "עִמָּ֜ם",
+                "transliteration": "‘im·mām",
+                "strong": "5973",
+                "translation": " with them "
+            },
+            {
+                "token": "וַיָּבֹ֤אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " and went "
+            },
+            {
+                "token": "מִצְרַ֙יִם֙",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " to Egypt , "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "פַּרְעֹ֣ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " Pharaoh "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "וַיִּתֶּן־",
+                "transliteration": "way·yit·ten-",
+                "strong": "5414",
+                "translation": " who gave "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " Hadad "
+            },
+            {
+                "token": "בַ֗יִת",
+                "transliteration": "ḇa·yiṯ",
+                "strong": "1004",
+                "translation": " a house "
+            },
+            {
+                "token": "נָ֥תַן",
+                "transliteration": "nā·ṯan",
+                "strong": "5414",
+                "translation": " - "
+            },
+            {
+                "token": "לֽוֹ׃",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "וְאֶ֖רֶץ",
+                "transliteration": "wə·’e·reṣ",
+                "strong": "776",
+                "translation": " and land "
+            },
+            {
+                "token": "אָ֣מַר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " and provided "
+            },
+            {
+                "token": "ל֔וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him "
+            },
+            {
+                "token": "וְלֶ֙חֶם֙",
+                "transliteration": "wə·le·ḥem",
+                "strong": "3899",
+                "translation": " with food . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:18",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲדַ֥ד",
+                "transliteration": "hă·ḏaḏ",
+                "strong": "1908",
+                "translation": " There Hadad "
+            },
+            {
+                "token": "וַיִּמְצָא֙",
+                "transliteration": "way·yim·ṣā",
+                "strong": "4672",
+                "translation": " found "
+            },
+            {
+                "token": "מְאֹ֑ד",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " such great "
+            },
+            {
+                "token": "חֵ֛ן",
+                "transliteration": "ḥên",
+                "strong": "2580",
+                "translation": " favor "
+            },
+            {
+                "token": "בְּעֵינֵ֥י",
+                "transliteration": "bə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the sight "
+            },
+            {
+                "token": "פַרְעֹ֖ה",
+                "transliteration": "p̄ar·‘ōh",
+                "strong": "6547",
+                "translation": " of Pharaoh "
+            },
+            {
+                "token": "וַיִּתֶּן־",
+                "transliteration": "way·yit·ten-",
+                "strong": "5414",
+                "translation": " that he gave "
+            },
+            {
+                "token": "ל֤וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to him "
+            },
+            {
+                "token": "אִשָּׁה֙",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " in marriage "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲח֣וֹת",
+                "transliteration": "’ă·ḥō·wṯ",
+                "strong": "269",
+                "translation": " the sister "
+            },
+            {
+                "token": "אֲח֖וֹת",
+                "transliteration": "’ă·ḥō·wṯ",
+                "strong": "269",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַגְּבִירָֽה׃",
+                "transliteration": "hag·gə·ḇî·rāh",
+                "strong": "1377",
+                "translation": " of Queen "
+            },
+            {
+                "token": "תַּחְפְּנֵ֥יס",
+                "transliteration": "taḥ·pə·nês",
+                "strong": "8472",
+                "translation": " Tahpenes , "
+            },
+            {
+                "token": "אִשְׁתּ֔וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " his own wife . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:19",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲח֣וֹת",
+                "transliteration": "’ă·ḥō·wṯ",
+                "strong": "269",
+                "translation": " And the sister "
+            },
+            {
+                "token": "תַּחְפְּנֵ֗יס",
+                "transliteration": "taḥ·pə·nês",
+                "strong": "8472",
+                "translation": " of Tahpenes "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "וַתֵּ֨לֶד",
+                "transliteration": "wat·tê·leḏ",
+                "strong": "3205",
+                "translation": " bore "
+            },
+            {
+                "token": "ל֜וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " [Hadad] "
+            },
+            {
+                "token": "בְּנ֔וֹ",
+                "transliteration": "bə·nōw",
+                "strong": "1121",
+                "translation": " a son "
+            },
+            {
+                "token": "גְּנֻבַ֣ת",
+                "transliteration": "gə·nu·ḇaṯ",
+                "strong": "1592",
+                "translation": " named Genubath . "
+            },
+            {
+                "token": "תַחְפְּנֵ֔ס",
+                "transliteration": "ṯaḥ·pə·nês",
+                "strong": "8472",
+                "translation": " Tahpenes herself "
+            },
+            {
+                "token": "וַתִּגְמְלֵ֣הוּ",
+                "transliteration": "wat·tiḡ·mə·lê·hū",
+                "strong": "1580",
+                "translation": " weaned him "
+            },
+            {
+                "token": "בְּת֖וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " in "
+            },
+            {
+                "token": "פַּרְעֹ֑ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " Pharaoh’s "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " palace , "
+            },
+            {
+                "token": "גְנֻבַת֙",
+                "transliteration": "ḡə·nu·ḇaṯ",
+                "strong": "1592",
+                "translation": " and Genubath "
+            },
+            {
+                "token": "וַיְהִ֤י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " lived "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " there "
+            },
+            {
+                "token": "פַּרְעֹ֔ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּת֖וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " among "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the sons "
+            },
+            {
+                "token": "פַרְעֹֽה׃",
+                "transliteration": "p̄ar·‘ōh",
+                "strong": "6547",
+                "translation": " of Pharaoh . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:20",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַהֲדַ֞ד",
+                "transliteration": "wa·hă·ḏaḏ",
+                "strong": "1908",
+                "translation": " When Hadad "
+            },
+            {
+                "token": "שָׁמַ֣ע",
+                "transliteration": "šā·ma‘",
+                "strong": "8085",
+                "translation": " heard "
+            },
+            {
+                "token": "בְּמִצְרַ֗יִם",
+                "transliteration": "bə·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " in Egypt "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "דָּוִד֙",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "שָׁכַ֤ב",
+                "transliteration": "šā·ḵaḇ",
+                "strong": "7901",
+                "translation": " had rested "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "אֲבֹתָ֔יו",
+                "transliteration": "’ă·ḇō·ṯāw",
+                "strong": "1",
+                "translation": " his fathers "
+            },
+            {
+                "token": "וְכִי־",
+                "transliteration": "wə·ḵî-",
+                "strong": "3588",
+                "translation": " and that "
+            },
+            {
+                "token": "יוֹאָ֣ב",
+                "transliteration": "yō·w·’āḇ",
+                "strong": "3097",
+                "translation": " Joab , "
+            },
+            {
+                "token": "שַֽׂר־",
+                "transliteration": "śar-",
+                "strong": "8269",
+                "translation": " the commander "
+            },
+            {
+                "token": "הַצָּבָ֑א",
+                "transliteration": "haṣ·ṣā·ḇā",
+                "strong": "6635",
+                "translation": " of the army , "
+            },
+            {
+                "token": "מֵ֖ת",
+                "transliteration": "mêṯ",
+                "strong": "4191",
+                "translation": " was dead , "
+            },
+            {
+                "token": "הֲדַד֙",
+                "transliteration": "hă·ḏaḏ",
+                "strong": "1908",
+                "translation": " he "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "פַּרְעֹ֔ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " Pharaoh , "
+            },
+            {
+                "token": "שַׁלְּחֵ֖נִי",
+                "transliteration": "šal·lə·ḥê·nî",
+                "strong": "7971",
+                "translation": " “ Let me go , "
+            },
+            {
+                "token": "וְאֵלֵ֥ךְ",
+                "transliteration": "wə·’ê·lêḵ",
+                "strong": "1980",
+                "translation": " that I may return "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַרְצִֽי׃",
+                "transliteration": "’ar·ṣî",
+                "strong": "776",
+                "translation": " my own country . ” "
+            }
+        ],
+        "verse_reference": "1 Kings 11:21",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פַרְעֹ֗ה",
+                "transliteration": "p̄ar·‘ōh",
+                "strong": "6547",
+                "translation": " But Pharaoh "
+            },
+            {
+                "token": "וַיֹּ֧אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " asked "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him , "
+            },
+            {
+                "token": "כִּ֠י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " “ - "
+            },
+            {
+                "token": "מָה־",
+                "transliteration": "māh-",
+                "strong": "4100",
+                "translation": " What "
+            },
+            {
+                "token": "אַתָּ֤ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " have you "
+            },
+            {
+                "token": "חָסֵר֙",
+                "transliteration": "ḥā·sêr",
+                "strong": "2638",
+                "translation": " lacked "
+            },
+            {
+                "token": "עִמִּ֔י",
+                "transliteration": "‘im·mî",
+                "strong": "5973",
+                "translation": " here with me "
+            },
+            {
+                "token": "וְהִנְּךָ֥",
+                "transliteration": "wə·hin·nə·ḵā",
+                "strong": "2005",
+                "translation": " that you suddenly "
+            },
+            {
+                "token": "מְבַקֵּ֖שׁ",
+                "transliteration": "mə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " want "
+            },
+            {
+                "token": "לָלֶ֣כֶת",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to go back "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַרְצֶ֑ךָ",
+                "transliteration": "’ar·ṣe·ḵā",
+                "strong": "776",
+                "translation": " your own country ? ” "
+            },
+            {
+                "token": "לֹ֔א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " “ Nothing , ” "
+            },
+            {
+                "token": "וַיֹּ֣אמֶר׀",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " [Hadad] replied , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " “ but "
+            },
+            {
+                "token": "שַׁלֵּ֖חַ",
+                "transliteration": "šal·lê·aḥ",
+                "strong": "7971",
+                "translation": " please let me go "
+            },
+            {
+                "token": "תְּשַׁלְּחֵֽנִי׃",
+                "transliteration": "tə·šal·lə·ḥê·nî",
+                "strong": "7971",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "1 Kings 11:22",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהִ֥ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " And God "
+            },
+            {
+                "token": "וַיָּ֨קֶם",
+                "transliteration": "way·yā·qem",
+                "strong": "6965",
+                "translation": " raised up "
+            },
+            {
+                "token": "לוֹ֙",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " against [Solomon] "
+            },
+            {
+                "token": "שָׂטָ֔ן",
+                "transliteration": "śā·ṭān",
+                "strong": "7854",
+                "translation": " [another] adversary , "
+            },
+            {
+                "token": "רְז֖וֹן",
+                "transliteration": "rə·zō·wn",
+                "strong": "7331",
+                "translation": " Rezon "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " the son "
+            },
+            {
+                "token": "אֶלְיָדָ֑ע",
+                "transliteration": "’el·yā·ḏā‘",
+                "strong": "450",
+                "translation": " of Eliada "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "בָּרַ֗ח",
+                "transliteration": "bā·raḥ",
+                "strong": "1272",
+                "translation": " had fled "
+            },
+            {
+                "token": "מֵאֵ֛ת",
+                "transliteration": "mê·’êṯ",
+                "strong": "854",
+                "translation": " from "
+            },
+            {
+                "token": "אֲדֹנָֽיו׃",
+                "transliteration": "’ă·ḏō·nāw",
+                "strong": "113",
+                "translation": " his master , "
+            },
+            {
+                "token": "הֲדַדְעֶ֥זֶר",
+                "transliteration": "hă·ḏaḏ·‘e·zer",
+                "strong": "1909",
+                "translation": " Hadadezer "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "צוֹבָ֖ה",
+                "transliteration": "ṣō·w·ḇāh",
+                "strong": "6678",
+                "translation": " of Zobah , "
+            }
+        ],
+        "verse_reference": "1 Kings 11:23",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּקְבֹּ֤ץ",
+                "transliteration": "way·yiq·bōṣ",
+                "strong": "6908",
+                "translation": " and had gathered "
+            },
+            {
+                "token": "אֲנָשִׁ֔ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " men "
+            },
+            {
+                "token": "עָלָיו֙",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " to himself . "
+            },
+            {
+                "token": "דָּוִ֖ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " When David "
+            },
+            {
+                "token": "בַּהֲרֹ֥ג",
+                "transliteration": "ba·hă·rōḡ",
+                "strong": "2026",
+                "translation": " killed "
+            },
+            {
+                "token": "אֹתָ֑ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " the Zobaites , "
+            },
+            {
+                "token": "וַיְהִ֣י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " [Rezon] captained "
+            },
+            {
+                "token": "שַׂר־",
+                "transliteration": "śar-",
+                "strong": "8269",
+                "translation": " . . . "
+            },
+            {
+                "token": "גְּד֔וּד",
+                "transliteration": "gə·ḏūḏ",
+                "strong": "1416",
+                "translation": " a band [of raiders] "
+            },
+            {
+                "token": "וַיֵּלְכ֤וּ",
+                "transliteration": "way·yê·lə·ḵū",
+                "strong": "1980",
+                "translation": " and went "
+            },
+            {
+                "token": "דַמֶּ֙שֶׂק֙",
+                "transliteration": "ḏam·me·śeq",
+                "strong": "1834",
+                "translation": " to Damascus , "
+            },
+            {
+                "token": "וַיֵּ֣שְׁבוּ",
+                "transliteration": "way·yê·šə·ḇū",
+                "strong": "3427",
+                "translation": " where they settled "
+            },
+            {
+                "token": "בָ֔הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וַֽיִּמְלְכ֖וּ",
+                "transliteration": "way·yim·lə·ḵū",
+                "strong": "4427",
+                "translation": " and gained control "
+            },
+            {
+                "token": "בְּדַמָּֽשֶׂק׃",
+                "transliteration": "bə·ḏam·mā·śeq",
+                "strong": "1834",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:24",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֨י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " Rezon was "
+            },
+            {
+                "token": "לְיִשְׂרָאֵל֙",
+                "transliteration": "lə·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel’s "
+            },
+            {
+                "token": "שָׂטָ֤ן",
+                "transliteration": "śā·ṭān",
+                "strong": "7854",
+                "translation": " enemy "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " throughout "
+            },
+            {
+                "token": "יְמֵ֣י",
+                "transliteration": "yə·mê",
+                "strong": "3117",
+                "translation": " the days "
+            },
+            {
+                "token": "שְׁלֹמֹ֔ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "854",
+                "translation": " adding to "
+            },
+            {
+                "token": "הָרָעָ֖ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " the trouble "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " [caused by] "
+            },
+            {
+                "token": "הֲדָ֑ד",
+                "transliteration": "hă·ḏāḏ",
+                "strong": "1908",
+                "translation": " Hadad . "
+            },
+            {
+                "token": "וַיִּמְלֹ֖ךְ",
+                "transliteration": "way·yim·lōḵ",
+                "strong": "4427",
+                "translation": " So [Rezon] ruled "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "אֲרָֽם׃פ",
+                "transliteration": "’ă·rām",
+                "strong": "758",
+                "translation": " Aram "
+            },
+            {
+                "token": "וַיָּ֙קָץ֙",
+                "transliteration": "way·yā·qāṣ",
+                "strong": "6973",
+                "translation": " with hostility "
+            },
+            {
+                "token": "בְּיִשְׂרָאֵ֔ל",
+                "transliteration": "bə·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " toward Israel . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:25",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְיָרָבְעָם֩",
+                "transliteration": "wə·yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " Now Jeroboam "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "נְבָ֨ט",
+                "transliteration": "nə·ḇāṭ",
+                "strong": "5028",
+                "translation": " of Nebat "
+            },
+            {
+                "token": "אֶפְרָתִ֜י",
+                "transliteration": "’ep̄·rā·ṯî",
+                "strong": "673",
+                "translation": " [was] an Ephraimite "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַצְּרֵדָ֗ה",
+                "transliteration": "haṣ·ṣə·rê·ḏāh",
+                "strong": "6868",
+                "translation": " Zeredah "
+            },
+            {
+                "token": "אִמּוֹ֙",
+                "transliteration": "’im·mōw",
+                "strong": "517",
+                "translation": " whose mother "
+            },
+            {
+                "token": "אִשָּׁ֣ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַלְמָנָ֔ה",
+                "transliteration": "’al·mā·nāh",
+                "strong": "490",
+                "translation": " [was] a widow "
+            },
+            {
+                "token": "וְשֵׁ֤ם",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " named "
+            },
+            {
+                "token": "צְרוּעָה֙",
+                "transliteration": "ṣə·rū·‘āh",
+                "strong": "6871",
+                "translation": " Zeruah . "
+            },
+            {
+                "token": "עֶ֖בֶד",
+                "transliteration": "‘e·ḇeḏ",
+                "strong": "5650",
+                "translation": " [Jeroboam was] a servant "
+            },
+            {
+                "token": "לִשְׁלֹמֹ֑ה",
+                "transliteration": "liš·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon , "
+            },
+            {
+                "token": "וַיָּ֥רֶם",
+                "transliteration": "way·yā·rem",
+                "strong": "7311",
+                "translation": " but he rebelled "
+            },
+            {
+                "token": "יָ֖ד",
+                "transliteration": "yāḏ",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּמֶּֽלֶךְ׃",
+                "transliteration": "bam·me·leḵ",
+                "strong": "4428",
+                "translation": " against the king , "
+            }
+        ],
+        "verse_reference": "1 Kings 11:26",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְזֶ֣ה",
+                "transliteration": "wə·zeh",
+                "strong": "2088",
+                "translation": " and this "
+            },
+            {
+                "token": "הַדָּבָ֔ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " is the account "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הֵרִ֥ים",
+                "transliteration": "hê·rîm",
+                "strong": "7311",
+                "translation": " of his rebellion "
+            },
+            {
+                "token": "יָ֖ד",
+                "transliteration": "yāḏ",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּמֶּ֑לֶךְ",
+                "transliteration": "bam·me·leḵ",
+                "strong": "4428",
+                "translation": " against the king . "
+            },
+            {
+                "token": "שְׁלֹמֹה֙",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "בָּנָ֣ה",
+                "transliteration": "bā·nāh",
+                "strong": "1129",
+                "translation": " had built "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמִּלּ֔וֹא",
+                "transliteration": "ham·mil·lō·w",
+                "strong": "4407",
+                "translation": " the supporting terraces "
+            },
+            {
+                "token": "סָגַ֕ר",
+                "transliteration": "sā·ḡar",
+                "strong": "5462",
+                "translation": " and repaired "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "פֶּ֕רֶץ",
+                "transliteration": "pe·reṣ",
+                "strong": "6556",
+                "translation": " the gap in the wall "
+            },
+            {
+                "token": "עִ֖יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " of the city "
+            },
+            {
+                "token": "אָבִֽיו׃",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " of his father "
+            },
+            {
+                "token": "דָּוִ֥ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:27",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יָרָבְעָ֖ם",
+                "transliteration": "yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " Now Jeroboam [was] "
+            },
+            {
+                "token": "גִּבּ֣וֹר",
+                "transliteration": "gib·bō·wr",
+                "strong": "1368",
+                "translation": " a mighty "
+            },
+            {
+                "token": "וְהָאִ֥ישׁ",
+                "transliteration": "wə·hā·’îš",
+                "strong": "376",
+                "translation": " man "
+            },
+            {
+                "token": "חָ֑יִל",
+                "transliteration": "ḥā·yil",
+                "strong": "2428",
+                "translation": " of valor . "
+            },
+            {
+                "token": "שְׁלֹמֹ֜ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " So when Solomon "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיַּ֨רְא",
+                "transliteration": "way·yar",
+                "strong": "7200",
+                "translation": " noticed "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "הַנַּ֗עַר",
+                "transliteration": "han·na·‘ar",
+                "strong": "5288",
+                "translation": " the young man "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " was "
+            },
+            {
+                "token": "מְלָאכָה֙",
+                "transliteration": "mə·lā·ḵāh",
+                "strong": "4399",
+                "translation": " industrious "
+            },
+            {
+                "token": "עֹשֵׂ֤ה",
+                "transliteration": "‘ō·śêh",
+                "strong": "6213",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וַיַּפְקֵ֣ד",
+                "transliteration": "way·yap̄·qêḏ",
+                "strong": "6485",
+                "translation": " he put him in charge "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " of the whole "
+            },
+            {
+                "token": "סֵ֖בֶל",
+                "transliteration": "sê·ḇel",
+                "strong": "5447",
+                "translation": " labor force "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "יוֹסֵֽף׃ס",
+                "transliteration": "yō·w·sêp̄",
+                "strong": "3130",
+                "translation": " of Joseph . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:28",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽיְהִי֙",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " During "
+            },
+            {
+                "token": "הַהִ֔יא",
+                "transliteration": "ha·hî",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "בָּעֵ֣ת",
+                "transliteration": "bā·‘êṯ",
+                "strong": "6256",
+                "translation": " time , "
+            },
+            {
+                "token": "הַנָּבִ֜יא",
+                "transliteration": "han·nā·ḇî",
+                "strong": "5030",
+                "translation": " the prophet "
+            },
+            {
+                "token": "אֲחִיָּה֩",
+                "transliteration": "’ă·ḥî·yāh",
+                "strong": "281",
+                "translation": " Ahijah "
+            },
+            {
+                "token": "הַשִּׁילֹנִ֨י",
+                "transliteration": "haš·šî·lō·nî",
+                "strong": "7888",
+                "translation": " the Shilonite "
+            },
+            {
+                "token": "וַיִּמְצָ֣א",
+                "transliteration": "way·yim·ṣā",
+                "strong": "4672",
+                "translation": " met "
+            },
+            {
+                "token": "אֹת֡וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " [Jeroboam] "
+            },
+            {
+                "token": "בַּדֶּ֗רֶךְ",
+                "transliteration": "bad·de·reḵ",
+                "strong": "1870",
+                "translation": " on the road "
+            },
+            {
+                "token": "וְיָֽרָבְעָ֖ם",
+                "transliteration": "wə·yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " as [he] "
+            },
+            {
+                "token": "יָצָ֣א",
+                "transliteration": "yā·ṣā",
+                "strong": "3318",
+                "translation": " was going out "
+            },
+            {
+                "token": "מִירוּשָׁלִָ֑ם",
+                "transliteration": "mî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem . "
+            },
+            {
+                "token": "וְה֤וּא",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " Now Ahijah "
+            },
+            {
+                "token": "מִתְכַּסֶּה֙",
+                "transliteration": "miṯ·kas·seh",
+                "strong": "3680",
+                "translation": " had wrapped himself "
+            },
+            {
+                "token": "חֲדָשָׁ֔ה",
+                "transliteration": "ḥă·ḏā·šāh",
+                "strong": "2319",
+                "translation": " in a new "
+            },
+            {
+                "token": "בְּשַׂלְמָ֣ה",
+                "transliteration": "bə·śal·māh",
+                "strong": "8008",
+                "translation": " cloak , "
+            },
+            {
+                "token": "וּשְׁנֵיהֶ֥ם",
+                "transliteration": "ū·šə·nê·hem",
+                "strong": "8147",
+                "translation": " and the two "
+            },
+            {
+                "token": "לְבַדָּ֖ם",
+                "transliteration": "lə·ḇad·dām",
+                "strong": "905",
+                "translation": " of them were alone "
+            },
+            {
+                "token": "בַּשָּׂדֶֽה׃",
+                "transliteration": "baś·śā·ḏeh",
+                "strong": "7704",
+                "translation": " in the open field . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:29",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲחִיָּ֔ה",
+                "transliteration": "’ă·ḥî·yāh",
+                "strong": "281",
+                "translation": " And Ahijah "
+            },
+            {
+                "token": "וַיִּתְפֹּ֣שׂ",
+                "transliteration": "way·yiṯ·pōś",
+                "strong": "8610",
+                "translation": " took hold "
+            },
+            {
+                "token": "הַחֲדָשָׁ֖ה",
+                "transliteration": "ha·ḥă·ḏā·šāh",
+                "strong": "2319",
+                "translation": " of the new "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בַּשַּׂלְמָ֥ה",
+                "transliteration": "baś·śal·māh",
+                "strong": "8008",
+                "translation": " cloak "
+            },
+            {
+                "token": "עָלָ֑יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " he was wearing , "
+            },
+            {
+                "token": "וַיִּ֨קְרָעֶ֔הָ",
+                "transliteration": "way·yiq·rā·‘e·hā",
+                "strong": "7167",
+                "translation": " tore it "
+            },
+            {
+                "token": "שְׁנֵ֥ים",
+                "transliteration": "šə·nêm",
+                "strong": "8147",
+                "translation": " into twelve "
+            },
+            {
+                "token": "עָשָׂ֖ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "קְרָעִֽים׃",
+                "transliteration": "qə·rā·‘îm",
+                "strong": "7168",
+                "translation": " pieces , "
+            }
+        ],
+        "verse_reference": "1 Kings 11:30",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּ֙אמֶר֙",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and said "
+            },
+            {
+                "token": "לְיָֽרָבְעָ֔ם",
+                "transliteration": "lə·yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " to Jeroboam , "
+            },
+            {
+                "token": "קַח־",
+                "transliteration": "qaḥ-",
+                "strong": "3947",
+                "translation": " “ Take "
+            },
+            {
+                "token": "עֲשָׂרָ֣ה",
+                "transliteration": "‘ă·śā·rāh",
+                "strong": "6235",
+                "translation": " ten "
+            },
+            {
+                "token": "קְרָעִ֑ים",
+                "transliteration": "qə·rā·‘îm",
+                "strong": "7168",
+                "translation": " pieces "
+            },
+            {
+                "token": "לְךָ֖",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " for yourself , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "כֹה֩",
+                "transliteration": "ḵōh",
+                "strong": "3541",
+                "translation": " this is what "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "אָמַ֨ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "הִנְנִ֨י",
+                "transliteration": "hin·nî",
+                "strong": "2005",
+                "translation": " ‘ Behold , "
+            },
+            {
+                "token": "קֹרֵ֤עַ",
+                "transliteration": "qō·rê·a‘",
+                "strong": "7167",
+                "translation": " I will tear "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמַּמְלָכָה֙",
+                "transliteration": "ham·mam·lā·ḵāh",
+                "strong": "4467",
+                "translation": " the kingdom "
+            },
+            {
+                "token": "מִיַּ֣ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " out of the hand "
+            },
+            {
+                "token": "שְׁלֹמֹ֔ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon , "
+            },
+            {
+                "token": "וְנָתַתִּ֣י",
+                "transliteration": "wə·nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " and I will give "
+            },
+            {
+                "token": "לְךָ֔",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עֲשָׂרָ֥ה",
+                "transliteration": "‘ă·śā·rāh",
+                "strong": "6235",
+                "translation": " ten "
+            },
+            {
+                "token": "הַשְּׁבָטִֽים׃",
+                "transliteration": "haš·šə·ḇā·ṭîm",
+                "strong": "7626",
+                "translation": " tribes . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:31",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאֶחָ֖ד",
+                "transliteration": "hā·’e·ḥāḏ",
+                "strong": "259",
+                "translation": " But one "
+            },
+            {
+                "token": "וְהַשֵּׁ֥בֶט",
+                "transliteration": "wə·haš·šê·ḇeṭ",
+                "strong": "7626",
+                "translation": " tribe "
+            },
+            {
+                "token": "יִֽהְיֶה־",
+                "transliteration": "yih·yeh-",
+                "strong": "1961",
+                "translation": " will remain "
+            },
+            {
+                "token": "לּ֑וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "לְמַ֣עַן׀",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "עַבְדִּ֣י",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " of My servant "
+            },
+            {
+                "token": "דָוִ֗ד",
+                "transliteration": "ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "וּלְמַ֙עַן֙",
+                "transliteration": "ū·lə·ma·‘an",
+                "strong": "4616",
+                "translation": " and for the sake "
+            },
+            {
+                "token": "יְר֣וּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem , "
+            },
+            {
+                "token": "הָעִיר֙",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " the city "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בָּחַ֣רְתִּי",
+                "transliteration": "bā·ḥar·tî",
+                "strong": "977",
+                "translation": " I have chosen "
+            },
+            {
+                "token": "בָ֔הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "מִכֹּ֖ל",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " out of all "
+            },
+            {
+                "token": "שִׁבְטֵ֥י",
+                "transliteration": "šiḇ·ṭê",
+                "strong": "7626",
+                "translation": " the tribes "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:32",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַ֣עַן׀",
+                "transliteration": "ya·‘an",
+                "strong": "3282",
+                "translation": " For "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " they have "
+            },
+            {
+                "token": "עֲזָב֗וּנִי",
+                "transliteration": "‘ă·zā·ḇū·nî",
+                "strong": "5800",
+                "translation": " forsaken Me "
+            },
+            {
+                "token": "וַיִּֽשְׁתַּחֲווּ֮",
+                "transliteration": "way·yiš·ta·ḥă·wū",
+                "strong": "7812",
+                "translation": " to worship "
+            },
+            {
+                "token": "לְעַשְׁתֹּרֶת֮",
+                "transliteration": "lə·‘aš·tō·reṯ",
+                "strong": "6253",
+                "translation": " Ashtoreth "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the goddess "
+            },
+            {
+                "token": "צִֽדֹנִין֒",
+                "transliteration": "ṣi·ḏō·nîn",
+                "strong": "6722",
+                "translation": " of the Sidonians , "
+            },
+            {
+                "token": "לִכְמוֹשׁ֙",
+                "transliteration": "liḵ·mō·wōš",
+                "strong": "3645",
+                "translation": " Chemosh "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the god "
+            },
+            {
+                "token": "מוֹאָ֔ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " of the Moabites , "
+            },
+            {
+                "token": "וּלְמִלְכֹּ֖ם",
+                "transliteration": "ū·lə·mil·kōm",
+                "strong": "4445",
+                "translation": " and Milcom "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the god "
+            },
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " of the Ammonites "
+            },
+            {
+                "token": "עַמּ֑וֹן",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " . . . . "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " They have not "
+            },
+            {
+                "token": "הָלְכ֣וּ",
+                "transliteration": "hā·lə·ḵū",
+                "strong": "1980",
+                "translation": " walked "
+            },
+            {
+                "token": "בִדְרָכַ֗י",
+                "transliteration": "ḇiḏ·rā·ḵay",
+                "strong": "1870",
+                "translation": " in My ways , "
+            },
+            {
+                "token": "לַעֲשׂ֨וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " nor done "
+            },
+            {
+                "token": "הַיָּשָׁ֧ר",
+                "transliteration": "hay·yā·šār",
+                "strong": "3477",
+                "translation": " what is right "
+            },
+            {
+                "token": "בְּעֵינַ֛י",
+                "transliteration": "bə·‘ê·nay",
+                "strong": "5869",
+                "translation": " in My eyes , "
+            },
+            {
+                "token": "וְחֻקֹּתַ֥י",
+                "transliteration": "wə·ḥuq·qō·ṯay",
+                "strong": "2708",
+                "translation": " nor [kept] My statutes "
+            },
+            {
+                "token": "וּמִשְׁפָּטַ֖י",
+                "transliteration": "ū·miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " and judgments , "
+            },
+            {
+                "token": "אָבִֽיו׃",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " as Solomon’s father "
+            },
+            {
+                "token": "כְּדָוִ֥ד",
+                "transliteration": "kə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " David did . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:33",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " Nevertheless, I will not "
+            },
+            {
+                "token": "אֶקַּ֥ח",
+                "transliteration": "’eq·qaḥ",
+                "strong": "3947",
+                "translation": " take "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "הַמַּמְלָכָ֖ה",
+                "transliteration": "ham·mam·lā·ḵāh",
+                "strong": "4467",
+                "translation": " kingdom "
+            },
+            {
+                "token": "מִיָּד֑וֹ",
+                "transliteration": "mî·yā·ḏōw",
+                "strong": "3027",
+                "translation": " out of [Solomon’s] hand , "
+            },
+            {
+                "token": "כִּ֣י׀",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "אֲשִׁתֶ֗נּוּ",
+                "transliteration": "’ă·ši·ṯen·nū",
+                "strong": "7896",
+                "translation": " I have made him "
+            },
+            {
+                "token": "נָשִׂ֣יא",
+                "transliteration": "nā·śî",
+                "strong": "5387",
+                "translation": " ruler "
+            },
+            {
+                "token": "כֹּ֚ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יְמֵ֣י",
+                "transliteration": "yə·mê",
+                "strong": "3117",
+                "translation": " the days "
+            },
+            {
+                "token": "חַיָּ֔יו",
+                "transliteration": "ḥay·yāw",
+                "strong": "2416",
+                "translation": " of his life "
+            },
+            {
+                "token": "לְמַ֨עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "דָּוִ֤ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " of David "
+            },
+            {
+                "token": "עַבְדִּי֙",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " My servant , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " whom "
+            },
+            {
+                "token": "בָּחַ֣רְתִּי",
+                "transliteration": "bā·ḥar·tî",
+                "strong": "977",
+                "translation": " I chose "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " because "
+            },
+            {
+                "token": "שָׁמַ֖ר",
+                "transliteration": "šā·mar",
+                "strong": "8104",
+                "translation": " he kept "
+            },
+            {
+                "token": "מִצְוֺתַ֥י",
+                "transliteration": "miṣ·wō·ṯay",
+                "strong": "4687",
+                "translation": " My commandments "
+            },
+            {
+                "token": "וְחֻקֹּתָֽי׃",
+                "transliteration": "wə·ḥuq·qō·ṯāy",
+                "strong": "2708",
+                "translation": " and statutes . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:34",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלָקַחְתִּ֥י",
+                "transliteration": "wə·lā·qaḥ·tî",
+                "strong": "3947",
+                "translation": " But I will take "
+            },
+            {
+                "token": "עֲשֶׂ֥רֶת",
+                "transliteration": "‘ă·śe·reṯ",
+                "strong": "6235",
+                "translation": " ten "
+            },
+            {
+                "token": "הַשְּׁבָטִֽים׃",
+                "transliteration": "haš·šə·ḇā·ṭîm",
+                "strong": "7626",
+                "translation": " tribes "
+            },
+            {
+                "token": "הַמְּלוּכָ֖ה",
+                "transliteration": "ham·mə·lū·ḵāh",
+                "strong": "4410",
+                "translation": " of the kingdom "
+            },
+            {
+                "token": "מִיַּ֣ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " from the hand "
+            },
+            {
+                "token": "בְּנ֑וֹ",
+                "transliteration": "bə·nōw",
+                "strong": "1121",
+                "translation": " of his son "
+            },
+            {
+                "token": "וּנְתַתִּ֣יהָ",
+                "transliteration": "ū·nə·ṯat·tî·hā",
+                "strong": "5414",
+                "translation": " and give them "
+            },
+            {
+                "token": "לְּךָ֔",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " to you . "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            }
+        ],
+        "verse_reference": "1 Kings 11:35",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶתֵּ֣ן",
+                "transliteration": "’et·tên",
+                "strong": "5414",
+                "translation": " I will give "
+            },
+            {
+                "token": "אֶחָ֑ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "שֵֽׁבֶט־",
+                "transliteration": "šê·ḇeṭ-",
+                "strong": "7626",
+                "translation": " tribe "
+            },
+            {
+                "token": "וְלִבְנ֖וֹ",
+                "transliteration": "wə·liḇ·nōw",
+                "strong": "1121",
+                "translation": " to his son , "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " so that "
+            },
+            {
+                "token": "עַ֠בְדִּי",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " My servant "
+            },
+            {
+                "token": "לְדָֽוִיד־",
+                "transliteration": "lə·ḏā·wîḏ-",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "כָּֽל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " will always "
+            },
+            {
+                "token": "הַיָּמִ֤ים׀",
+                "transliteration": "hay·yā·mîm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "הֱיֽוֹת־",
+                "transliteration": "hĕ·yō·wṯ-",
+                "strong": "1961",
+                "translation": " have "
+            },
+            {
+                "token": "נִ֣יר",
+                "transliteration": "nîr",
+                "strong": "5216",
+                "translation": " a lamp "
+            },
+            {
+                "token": "לְפָנַי֙",
+                "transliteration": "lə·p̄ā·nay",
+                "strong": "6440",
+                "translation": " before Me "
+            },
+            {
+                "token": "בִּיר֣וּשָׁלִַ֔ם",
+                "transliteration": "bî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " in Jerusalem , "
+            },
+            {
+                "token": "הָעִיר֙",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " the city "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "בָּחַ֣רְתִּי",
+                "transliteration": "bā·ḥar·tî",
+                "strong": "977",
+                "translation": " I chose "
+            },
+            {
+                "token": "לִ֔י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "לָשׂ֥וּם",
+                "transliteration": "lā·śūm",
+                "strong": "7760",
+                "translation": " to put "
+            },
+            {
+                "token": "שְׁמִ֖י",
+                "transliteration": "šə·mî",
+                "strong": "8034",
+                "translation": " My Name "
+            },
+            {
+                "token": "שָֽׁם׃",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:36",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֹתְךָ֣",
+                "transliteration": "wə·’ō·ṯə·ḵā",
+                "strong": "853",
+                "translation": " But as for you , "
+            },
+            {
+                "token": "אֶקַּ֔ח",
+                "transliteration": "’eq·qaḥ",
+                "strong": "3947",
+                "translation": " I will take you , "
+            },
+            {
+                "token": "וּמָ֣לַכְתָּ֔",
+                "transliteration": "ū·mā·laḵ·tā",
+                "strong": "4427",
+                "translation": " and you shall reign "
+            },
+            {
+                "token": "בְּכֹ֥ל",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " over all "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נַפְשֶׁ֑ךָ",
+                "transliteration": "nap̄·še·ḵā",
+                "strong": "5315",
+                "translation": " your heart "
+            },
+            {
+                "token": "תְּאַוֶּ֖ה",
+                "transliteration": "tə·’aw·weh",
+                "strong": "183",
+                "translation": " desires , "
+            },
+            {
+                "token": "וְהָיִ֥יתָ",
+                "transliteration": "wə·hā·yî·ṯā",
+                "strong": "1961",
+                "translation": " and you will be "
+            },
+            {
+                "token": "מֶּ֖לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:37",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֗ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "תִּשְׁמַע֮",
+                "transliteration": "tiš·ma‘",
+                "strong": "8085",
+                "translation": " you listen to "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֲצַוֶּךָ֒",
+                "transliteration": "’ă·ṣaw·we·ḵā",
+                "strong": "6680",
+                "translation": " I command you , "
+            },
+            {
+                "token": "וְהָלַכְתָּ֣",
+                "transliteration": "wə·hā·laḵ·tā",
+                "strong": "1980",
+                "translation": " walk "
+            },
+            {
+                "token": "בִדְרָכַ֗י",
+                "transliteration": "ḇiḏ·rā·ḵay",
+                "strong": "1870",
+                "translation": " in My ways , "
+            },
+            {
+                "token": "וְעָשִׂ֨יתָ",
+                "transliteration": "wə·‘ā·śî·ṯā",
+                "strong": "6213",
+                "translation": " and do "
+            },
+            {
+                "token": "הַיָּשָׁ֤ר",
+                "transliteration": "hay·yā·šār",
+                "strong": "3477",
+                "translation": " what is right "
+            },
+            {
+                "token": "בְּעֵינַי֙",
+                "transliteration": "bə·‘ê·nay",
+                "strong": "5869",
+                "translation": " in My sight "
+            },
+            {
+                "token": "לִשְׁמ֤וֹר",
+                "transliteration": "liš·mō·wr",
+                "strong": "8104",
+                "translation": " in order to keep "
+            },
+            {
+                "token": "חֻקּוֹתַי֙",
+                "transliteration": "ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " My statutes "
+            },
+            {
+                "token": "וּמִצְוֺתַ֔י",
+                "transliteration": "ū·miṣ·wō·ṯay",
+                "strong": "4687",
+                "translation": " and commandments "
+            },
+            {
+                "token": "כַּאֲשֶׁ֥ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " as "
+            },
+            {
+                "token": "עַבְדִּ֑י",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " My servant "
+            },
+            {
+                "token": "דָּוִ֣ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "עָשָׂ֖ה",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " did , "
+            },
+            {
+                "token": "וְהָיִ֣יתִי",
+                "transliteration": "wə·hā·yî·ṯî",
+                "strong": "1961",
+                "translation": " then I will be "
+            },
+            {
+                "token": "עִמָּ֗ךְ",
+                "transliteration": "‘im·māḵ",
+                "strong": "5973",
+                "translation": " with you . "
+            },
+            {
+                "token": "וּבָנִ֨יתִי",
+                "transliteration": "ū·ḇā·nî·ṯî",
+                "strong": "1129",
+                "translation": " I will build "
+            },
+            {
+                "token": "לְךָ֤",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "נֶאֱמָן֙",
+                "transliteration": "ne·’ĕ·mān",
+                "strong": "539",
+                "translation": " a lasting "
+            },
+            {
+                "token": "בַֽיִת־",
+                "transliteration": "ḇa·yiṯ-",
+                "strong": "1004",
+                "translation": " dynasty "
+            },
+            {
+                "token": "כַּאֲשֶׁ֣ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " just as "
+            },
+            {
+                "token": "בָּנִ֣יתִי",
+                "transliteration": "bā·nî·ṯî",
+                "strong": "1129",
+                "translation": " I built "
+            },
+            {
+                "token": "לְדָוִ֔ד",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " for David , "
+            },
+            {
+                "token": "וְנָתַתִּ֥י",
+                "transliteration": "wə·nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " and I will give "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "לְךָ֖",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " to you "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:38",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " Because "
+            },
+            {
+                "token": "זֹ֑את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " of this , "
+            },
+            {
+                "token": "וַֽאעַנֶּ֛ה",
+                "transliteration": "wa·‘an·neh",
+                "strong": "6031",
+                "translation": " I will humble "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "דָּוִ֖ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David’s "
+            },
+            {
+                "token": "זֶ֥רַע",
+                "transliteration": "ze·ra‘",
+                "strong": "2233",
+                "translation": " descendants — "
+            },
+            {
+                "token": "אַ֖ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " but "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " forever "
+            },
+            {
+                "token": "הַיָּמִֽים׃ס",
+                "transliteration": "hay·yā·mîm",
+                "strong": "3117",
+                "translation": " . . . . ’” "
+            }
+        ],
+        "verse_reference": "1 Kings 11:39",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁלֹמֹ֖ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "וַיְבַקֵּ֥שׁ",
+                "transliteration": "way·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " therefore sought "
+            },
+            {
+                "token": "לְהָמִ֣ית",
+                "transliteration": "lə·hā·mîṯ",
+                "strong": "4191",
+                "translation": " to kill "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָרָבְעָ֑ם",
+                "transliteration": "yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " Jeroboam . "
+            },
+            {
+                "token": "יָרָבְעָ֗ם",
+                "transliteration": "yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " But Jeroboam "
+            },
+            {
+                "token": "וַיָּ֣קָם",
+                "transliteration": "way·yā·qām",
+                "strong": "6965",
+                "translation": " arose "
+            },
+            {
+                "token": "וַיִּבְרַ֤ח",
+                "transliteration": "way·yiḇ·raḥ",
+                "strong": "1272",
+                "translation": " and fled "
+            },
+            {
+                "token": "מִצְרַ֙יִם֙",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " to Egypt , "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "שִׁישַׁ֣ק",
+                "transliteration": "šî·šaq",
+                "strong": "7895",
+                "translation": " Shishak "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "בְמִצְרַ֖יִם",
+                "transliteration": "ḇə·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " where "
+            },
+            {
+                "token": "וַיְהִ֥י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " he remained "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "מ֥וֹת",
+                "transliteration": "mō·wṯ",
+                "strong": "4194",
+                "translation": " the death "
+            },
+            {
+                "token": "שְׁלֹמֹֽה׃",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:40",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְיֶ֨תֶר",
+                "transliteration": "wə·ye·ṯer",
+                "strong": "3499",
+                "translation": " As for the rest "
+            },
+            {
+                "token": "דִּבְרֵ֧י",
+                "transliteration": "diḇ·rê",
+                "strong": "1697",
+                "translation": " of the acts "
+            },
+            {
+                "token": "שְׁלֹמֹ֛ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon — "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "עָשָׂ֖ה",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " he did , "
+            },
+            {
+                "token": "וְחָכְמָת֑וֹ",
+                "transliteration": "wə·ḥā·ḵə·mā·ṯōw",
+                "strong": "2451",
+                "translation": " as well as his wisdom — "
+            },
+            {
+                "token": "הֵ֣ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " [are] they "
+            },
+            {
+                "token": "הֲלֽוֹא־",
+                "transliteration": "hă·lō·w-",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "כְּתֻבִ֔ים",
+                "transliteration": "kə·ṯu·ḇîm",
+                "strong": "3789",
+                "translation": " written "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "סֵ֖פֶר",
+                "transliteration": "sê·p̄er",
+                "strong": "5612",
+                "translation": " the Book "
+            },
+            {
+                "token": "דִּבְרֵ֥י",
+                "transliteration": "diḇ·rê",
+                "strong": "1697",
+                "translation": " of the Acts "
+            },
+            {
+                "token": "שְׁלֹמֹֽה׃",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " of Solomon ? "
+            }
+        ],
+        "verse_reference": "1 Kings 11:41",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַיָּמִ֗ים",
+                "transliteration": "wə·hay·yā·mîm",
+                "strong": "3117",
+                "translation": " Thus the time "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "שְׁלֹמֹ֤ה",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " Solomon "
+            },
+            {
+                "token": "מָלַ֨ךְ",
+                "transliteration": "mā·laḵ",
+                "strong": "4427",
+                "translation": " reigned "
+            },
+            {
+                "token": "בִירוּשָׁלִַ֙ם֙",
+                "transliteration": "ḇî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " in Jerusalem "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "אַרְבָּעִ֖ים",
+                "transliteration": "’ar·bā·‘îm",
+                "strong": "705",
+                "translation": " [was] forty "
+            },
+            {
+                "token": "שָׁנָֽה׃",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:42",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁלֹמֹה֙",
+                "transliteration": "šə·lō·mōh",
+                "strong": "8010",
+                "translation": " And Solomon "
+            },
+            {
+                "token": "וַיִּשְׁכַּ֤ב",
+                "transliteration": "way·yiš·kaḇ",
+                "strong": "7901",
+                "translation": " rested "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "אֲבֹתָ֔יו",
+                "transliteration": "’ă·ḇō·ṯāw",
+                "strong": "1",
+                "translation": " his fathers "
+            },
+            {
+                "token": "וַיִּ֨קָּבֵ֔ר",
+                "transliteration": "way·yiq·qā·ḇêr",
+                "strong": "6912",
+                "translation": " and was buried "
+            },
+            {
+                "token": "בְּעִ֖יר",
+                "transliteration": "bə·‘îr",
+                "strong": "5892",
+                "translation": " in the city "
+            },
+            {
+                "token": "אָבִ֑יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " of his father "
+            },
+            {
+                "token": "דָּוִ֣ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David . "
+            },
+            {
+                "token": "בְּנ֖וֹ",
+                "transliteration": "bə·nōw",
+                "strong": "1121",
+                "translation": " And his son "
+            },
+            {
+                "token": "רְחַבְעָ֥ם",
+                "transliteration": "rə·ḥaḇ·‘ām",
+                "strong": "7346",
+                "translation": " Rehoboam "
+            },
+            {
+                "token": "וַיִּמְלֹ֛ךְ",
+                "transliteration": "way·yim·lōḵ",
+                "strong": "4427",
+                "translation": " reigned "
+            },
+            {
+                "token": "תַּחְתָּֽיו׃ס",
+                "transliteration": "taḥ·tāw",
+                "strong": "8478",
+                "translation": " in his place . "
+            }
+        ],
+        "verse_reference": "1 Kings 11:43",
+        "book": "1 Kings",
+        "chapter": "11",
+        "verse": "43"
+    }
+]

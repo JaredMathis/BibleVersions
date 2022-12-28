@@ -1,0 +1,2682 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֔יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "יְבִֽיאֲךָ֙",
+                "transliteration": "yə·ḇî·’ă·ḵā",
+                "strong": "935",
+                "translation": " brings "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " you into "
+            },
+            {
+                "token": "הָאָ֕רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אַתָּ֥ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "בָא־",
+                "transliteration": "ḇā-",
+                "strong": "935",
+                "translation": " are entering "
+            },
+            {
+                "token": "שָׁ֖מָּה",
+                "transliteration": "šām·māh",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְרִשְׁתָּ֑הּ",
+                "transliteration": "lə·riš·tāh",
+                "strong": "3423",
+                "translation": " to possess , "
+            },
+            {
+                "token": "וְנָשַׁ֣ל",
+                "transliteration": "wə·nā·šal",
+                "strong": "5394",
+                "translation": " and He drives out "
+            },
+            {
+                "token": "מִפָּנֶ֡יךָ",
+                "transliteration": "mip·pā·ne·ḵā",
+                "strong": "6440",
+                "translation": " before you "
+            },
+            {
+                "token": "רַבִּ֣ים׀",
+                "transliteration": "rab·bîm",
+                "strong": "7227",
+                "translation": " many "
+            },
+            {
+                "token": "גּֽוֹיִם־",
+                "transliteration": "gō·w·yim-",
+                "strong": "1471",
+                "translation": " nations — "
+            },
+            {
+                "token": "הַֽחִתִּי֩",
+                "transliteration": "ha·ḥit·tî",
+                "strong": "2850",
+                "translation": " the Hittites , "
+            },
+            {
+                "token": "וְהַגִּרְגָּשִׁ֨י",
+                "transliteration": "wə·hag·gir·gā·šî",
+                "strong": "1622",
+                "translation": " Girgashites , "
+            },
+            {
+                "token": "וְהָאֱמֹרִ֜י",
+                "transliteration": "wə·hā·’ĕ·mō·rî",
+                "strong": "567",
+                "translation": " Amorites , "
+            },
+            {
+                "token": "וְהַכְּנַעֲנִ֣י",
+                "transliteration": "wə·hak·kə·na·‘ă·nî",
+                "strong": "3669",
+                "translation": " Canaanites , "
+            },
+            {
+                "token": "וְהַפְּרִזִּ֗י",
+                "transliteration": "wə·hap·pə·riz·zî",
+                "strong": "6522",
+                "translation": " Perizzites , "
+            },
+            {
+                "token": "וְהַֽחִוִּי֙",
+                "transliteration": "wə·ha·ḥiw·wî",
+                "strong": "2340",
+                "translation": " Hivites , "
+            },
+            {
+                "token": "וְהַיְבוּסִ֔י",
+                "transliteration": "wə·hay·ḇū·sî",
+                "strong": "2983",
+                "translation": " and Jebusites , "
+            },
+            {
+                "token": "שִׁבְעָ֣ה",
+                "transliteration": "šiḇ·‘āh",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "גוֹיִ֔ם",
+                "transliteration": "ḡō·w·yim",
+                "strong": "1471",
+                "translation": " nations "
+            },
+            {
+                "token": "רַבִּ֥ים",
+                "transliteration": "rab·bîm",
+                "strong": "7227",
+                "translation": " larger "
+            },
+            {
+                "token": "וַעֲצוּמִ֖ים",
+                "transliteration": "wa·‘ă·ṣū·mîm",
+                "strong": "6099",
+                "translation": " and stronger "
+            },
+            {
+                "token": "מִמֶּֽךָּ׃",
+                "transliteration": "mim·me·kā",
+                "strong": "4480",
+                "translation": " than you — "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:1",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֧ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " and when the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֛יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "וּנְתָנָ֞ם",
+                "transliteration": "ū·nə·ṯā·nām",
+                "strong": "5414",
+                "translation": " has delivered them over "
+            },
+            {
+                "token": "לְפָנֶ֖יךָ",
+                "transliteration": "lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " to you "
+            },
+            {
+                "token": "וְהִכִּיתָ֑ם",
+                "transliteration": "wə·hik·kî·ṯām",
+                "strong": "5221",
+                "translation": " to defeat them , "
+            },
+            {
+                "token": "הַחֲרֵ֤ם",
+                "transliteration": "ha·ḥă·rêm",
+                "strong": "2763",
+                "translation": " then you must devote them to complete destruction "
+            },
+            {
+                "token": "תַּחֲרִים֙",
+                "transliteration": "ta·ḥă·rîm",
+                "strong": "2763",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֹתָ֔ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " - . "
+            },
+            {
+                "token": "תִכְרֹ֥ת",
+                "transliteration": "ṯiḵ·rōṯ",
+                "strong": "3772",
+                "translation": " Make "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "בְּרִ֖ית",
+                "transliteration": "bə·rîṯ",
+                "strong": "1285",
+                "translation": " treaty "
+            },
+            {
+                "token": "לָהֶ֛ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " with them "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and show them no "
+            },
+            {
+                "token": "תְחָנֵּֽם׃",
+                "transliteration": "ṯə·ḥān·nêm",
+                "strong": "2603",
+                "translation": " mercy . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:2",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תִתְחַתֵּ֖ן",
+                "transliteration": "ṯiṯ·ḥat·tên",
+                "strong": "2859",
+                "translation": " intermarry "
+            },
+            {
+                "token": "בָּ֑ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " with them . "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תִתֵּ֣ן",
+                "transliteration": "ṯit·tên",
+                "strong": "5414",
+                "translation": " give "
+            },
+            {
+                "token": "בִּתְּךָ֙",
+                "transliteration": "bit·tə·ḵā",
+                "strong": "1323",
+                "translation": " your daughters "
+            },
+            {
+                "token": "לִבְנ֔וֹ",
+                "transliteration": "liḇ·nōw",
+                "strong": "1121",
+                "translation": " to their sons "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " or "
+            },
+            {
+                "token": "תִקַּ֥ח",
+                "transliteration": "ṯiq·qaḥ",
+                "strong": "3947",
+                "translation": " take "
+            },
+            {
+                "token": "וּבִתּ֖וֹ",
+                "transliteration": "ū·ḇit·tōw",
+                "strong": "1323",
+                "translation": " their daughters "
+            },
+            {
+                "token": "לִבְנֶֽךָ׃",
+                "transliteration": "liḇ·ne·ḵā",
+                "strong": "1121",
+                "translation": " for your sons , "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:3",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "בִּנְךָ֙",
+                "transliteration": "bin·ḵā",
+                "strong": "1121",
+                "translation": " they will turn your sons "
+            },
+            {
+                "token": "יָסִ֤יר",
+                "transliteration": "yā·sîr",
+                "strong": "5493",
+                "translation": " away "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵֽאַחֲרַ֔י",
+                "transliteration": "mê·’a·ḥă·ray",
+                "strong": "310",
+                "translation": " from following Me "
+            },
+            {
+                "token": "וְעָבְד֖וּ",
+                "transliteration": "wə·‘ā·ḇə·ḏū",
+                "strong": "5647",
+                "translation": " to serve "
+            },
+            {
+                "token": "אֲחֵרִ֑ים",
+                "transliteration": "’ă·ḥê·rîm",
+                "strong": "312",
+                "translation": " other "
+            },
+            {
+                "token": "אֱלֹהִ֣ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " gods . "
+            },
+            {
+                "token": "אַף־",
+                "transliteration": "’ap̄-",
+                "strong": "639",
+                "translation": " Then the anger "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וְחָרָ֤ה",
+                "transliteration": "wə·ḥā·rāh",
+                "strong": "2734",
+                "translation": " will burn "
+            },
+            {
+                "token": "בָּכֶ֔ם",
+                "transliteration": "bā·ḵem",
+                "strong": "",
+                "translation": " against you , "
+            },
+            {
+                "token": "מַהֵֽר׃",
+                "transliteration": "ma·hêr",
+                "strong": "4118",
+                "translation": " and He will swiftly "
+            },
+            {
+                "token": "וְהִשְׁמִידְךָ֖",
+                "transliteration": "wə·hiš·mî·ḏə·ḵā",
+                "strong": "8045",
+                "translation": " destroy you . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:4",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " Instead "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " . . . , "
+            },
+            {
+                "token": "כֹּ֤ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " this is what "
+            },
+            {
+                "token": "תַעֲשׂוּ֙",
+                "transliteration": "ṯa·‘ă·śū",
+                "strong": "6213",
+                "translation": " you are to do to them : "
+            },
+            {
+                "token": "לָהֶ֔ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִּתֹּ֔צוּ",
+                "transliteration": "tit·tō·ṣū",
+                "strong": "5422",
+                "translation": " tear down "
+            },
+            {
+                "token": "מִזְבְּחֹתֵיהֶ֣ם",
+                "transliteration": "miz·bə·ḥō·ṯê·hem",
+                "strong": "4196",
+                "translation": " their altars , "
+            },
+            {
+                "token": "תְּשַׁבֵּ֑רוּ",
+                "transliteration": "tə·šab·bê·rū",
+                "strong": "7665",
+                "translation": " smash "
+            },
+            {
+                "token": "וּמַצֵּבֹתָ֖ם",
+                "transliteration": "ū·maṣ·ṣê·ḇō·ṯām",
+                "strong": "4676",
+                "translation": " their sacred pillars , "
+            },
+            {
+                "token": "תְּגַדֵּע֔וּן",
+                "transliteration": "tə·ḡad·dê·‘ūn",
+                "strong": "1438",
+                "translation": " cut down "
+            },
+            {
+                "token": "וַאֲשֵֽׁירֵהֶם֙",
+                "transliteration": "wa·’ă·šê·rê·hem",
+                "strong": "842",
+                "translation": " their Asherah poles , "
+            },
+            {
+                "token": "תִּשְׂרְפ֥וּן",
+                "transliteration": "tiś·rə·p̄ūn",
+                "strong": "8313",
+                "translation": " and burn "
+            },
+            {
+                "token": "וּפְסִילֵיהֶ֖ם",
+                "transliteration": "ū·p̄ə·sî·lê·hem",
+                "strong": "6456",
+                "translation": " their idols "
+            },
+            {
+                "token": "בָּאֵֽשׁ׃",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " in the fire . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:5",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אַתָּ֔ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "עַ֤ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " are a people "
+            },
+            {
+                "token": "קָדוֹשׁ֙",
+                "transliteration": "qā·ḏō·wōš",
+                "strong": "6918",
+                "translation": " holy "
+            },
+            {
+                "token": "לַיהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֑יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "בְּךָ֞",
+                "transliteration": "bə·ḵā",
+                "strong": "",
+                "translation": " . "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֗יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "בָּחַ֣ר׀",
+                "transliteration": "bā·ḥar",
+                "strong": "977",
+                "translation": " has chosen you "
+            },
+            {
+                "token": "לִהְי֥וֹת",
+                "transliteration": "lih·yō·wṯ",
+                "strong": "1961",
+                "translation": " to be "
+            },
+            {
+                "token": "לְעַ֣ם",
+                "transliteration": "lə·‘am",
+                "strong": "5971",
+                "translation": " a people "
+            },
+            {
+                "token": "לוֹ֙",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " for His "
+            },
+            {
+                "token": "סְגֻלָּ֔ה",
+                "transliteration": "sə·ḡul·lāh",
+                "strong": "5459",
+                "translation": " prized possession "
+            },
+            {
+                "token": "מִכֹּל֙",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " out of all "
+            },
+            {
+                "token": "הָֽעַמִּ֔ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " peoples "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "פְּנֵ֥י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " the face "
+            },
+            {
+                "token": "הָאֲדָמָֽה׃ס",
+                "transliteration": "hā·’ă·ḏā·māh",
+                "strong": "127",
+                "translation": " of the earth . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:6",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " did not "
+            },
+            {
+                "token": "חָשַׁ֧ק",
+                "transliteration": "ḥā·šaq",
+                "strong": "2836",
+                "translation": " set His affection "
+            },
+            {
+                "token": "בָּכֶ֖ם",
+                "transliteration": "bā·ḵem",
+                "strong": "",
+                "translation": " on you "
+            },
+            {
+                "token": "וַיִּבְחַ֣ר",
+                "transliteration": "way·yiḇ·ḥar",
+                "strong": "977",
+                "translation": " [and] choose "
+            },
+            {
+                "token": "בָּכֶ֑ם",
+                "transliteration": "bā·ḵem",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "מֵֽרֻבְּכֶ֞ם",
+                "transliteration": "mê·rub·bə·ḵem",
+                "strong": "7231",
+                "translation": " because you were more numerous "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " than the other "
+            },
+            {
+                "token": "הָֽעַמִּ֗ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " peoples , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אַתֶּ֥ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "הַמְעַ֖ט",
+                "transliteration": "ham·‘aṭ",
+                "strong": "4592",
+                "translation": " were the fewest "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " of all "
+            },
+            {
+                "token": "הָעַמִּֽים׃",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " peoples . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:7",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּי֩",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " But "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " because the LORD "
+            },
+            {
+                "token": "מֵֽאַהֲבַ֨ת",
+                "transliteration": "mê·’a·hă·ḇaṯ",
+                "strong": "160",
+                "translation": " loved "
+            },
+            {
+                "token": "אֶתְכֶ֗ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "וּמִשָּׁמְר֤וּ",
+                "transliteration": "ū·miš·šå̄·mə·rū",
+                "strong": "8104",
+                "translation": " and kept "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשְּׁבֻעָה֙",
+                "transliteration": "haš·šə·ḇu·‘āh",
+                "strong": "7621",
+                "translation": " the oath "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "נִשְׁבַּע֙",
+                "transliteration": "niš·ba‘",
+                "strong": "7650",
+                "translation": " He swore "
+            },
+            {
+                "token": "לַאֲבֹ֣תֵיכֶ֔ם",
+                "transliteration": "la·’ă·ḇō·ṯê·ḵem",
+                "strong": "1",
+                "translation": " to your fathers , "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " He "
+            },
+            {
+                "token": "אֶתְכֶ֖ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הוֹצִ֧יא",
+                "transliteration": "hō·w·ṣî",
+                "strong": "3318",
+                "translation": " brought you out "
+            },
+            {
+                "token": "חֲזָקָ֑ה",
+                "transliteration": "ḥă·zā·qāh",
+                "strong": "2389",
+                "translation": " with a mighty "
+            },
+            {
+                "token": "בְּיָ֣ד",
+                "transliteration": "bə·yāḏ",
+                "strong": "3027",
+                "translation": " hand "
+            },
+            {
+                "token": "וַֽיִּפְדְּךָ֙",
+                "transliteration": "way·yip̄·də·ḵā",
+                "strong": "6299",
+                "translation": " and redeemed you "
+            },
+            {
+                "token": "מִבֵּ֣ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1004",
+                "translation": " from the house "
+            },
+            {
+                "token": "עֲבָדִ֔ים",
+                "transliteration": "‘ă·ḇā·ḏîm",
+                "strong": "5650",
+                "translation": " of slavery , "
+            },
+            {
+                "token": "מִיַּ֖ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " from the hand "
+            },
+            {
+                "token": "פַּרְעֹ֥ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " of Pharaoh "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:8",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְיָ֣דַעְתָּ֔",
+                "transliteration": "wə·yā·ḏa‘·tā",
+                "strong": "3045",
+                "translation": " Know therefore "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֖יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "ה֣וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָֽאֱלֹהִ֑ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " is God , "
+            },
+            {
+                "token": "הַֽנֶּאֱמָ֔ן",
+                "transliteration": "han·ne·’ĕ·mān",
+                "strong": "539",
+                "translation": " the faithful "
+            },
+            {
+                "token": "הָאֵל֙",
+                "transliteration": "hā·’êl",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "שֹׁמֵ֧ר",
+                "transliteration": "šō·mêr",
+                "strong": "8104",
+                "translation": " who keeps "
+            },
+            {
+                "token": "הַבְּרִ֣ית",
+                "transliteration": "hab·bə·rîṯ",
+                "strong": "1285",
+                "translation": " His covenant "
+            },
+            {
+                "token": "וְהַחֶ֗סֶד",
+                "transliteration": "wə·ha·ḥe·seḏ",
+                "strong": "2617",
+                "translation": " of loving devotion "
+            },
+            {
+                "token": "לְאֶ֥לֶף",
+                "transliteration": "lə·’e·lep̄",
+                "strong": "505",
+                "translation": " for a thousand "
+            },
+            {
+                "token": "דּֽוֹר׃",
+                "transliteration": "dō·wr",
+                "strong": "1755",
+                "translation": " generations "
+            },
+            {
+                "token": "לְאֹהֲבָ֛יו",
+                "transliteration": "lə·’ō·hă·ḇāw",
+                "strong": "157",
+                "translation": " of those who love Him "
+            },
+            {
+                "token": "וּלְשֹׁמְרֵ֥י",
+                "transliteration": "ū·lə·šō·mə·rê",
+                "strong": "8104",
+                "translation": " and keep "
+            },
+            {
+                "token": "מִצְוֹתוֹ",
+                "transliteration": "miṣ·wō·ṯō",
+                "strong": "4687",
+                "translation": " His commandments . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:9",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְשֹׂנְאָ֛יו",
+                "transliteration": "lə·śō·nə·’āw",
+                "strong": "8130",
+                "translation": " But those who hate Him "
+            },
+            {
+                "token": "וּמְשַׁלֵּ֧ם",
+                "transliteration": "ū·mə·šal·lêm",
+                "strong": "7999",
+                "translation": " He repays "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "פָּנָ֖יו",
+                "transliteration": "pā·nāw",
+                "strong": "6440",
+                "translation": " their faces "
+            },
+            {
+                "token": "לְהַאֲבִיד֑וֹ",
+                "transliteration": "lə·ha·’ă·ḇî·ḏōw",
+                "strong": "6",
+                "translation": " with destruction ; "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " He will not "
+            },
+            {
+                "token": "יְאַחֵר֙",
+                "transliteration": "yə·’a·ḥêr",
+                "strong": "309",
+                "translation": " hesitate "
+            },
+            {
+                "token": "יְשַׁלֶּם־",
+                "transliteration": "yə·šal·lem-",
+                "strong": "7999",
+                "translation": " to repay "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "פָּנָ֖יו",
+                "transliteration": "pā·nāw",
+                "strong": "6440",
+                "translation": " his face "
+            },
+            {
+                "token": "לֽוֹ׃",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "לְשֹׂ֣נְא֔וֹ",
+                "transliteration": "lə·śō·nə·’ōw",
+                "strong": "8130",
+                "translation": " the one who hates Him . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:10",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְשָׁמַרְתָּ֨",
+                "transliteration": "wə·šā·mar·tā",
+                "strong": "8104",
+                "translation": " So keep "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמִּצְוָ֜ה",
+                "transliteration": "ham·miṣ·wāh",
+                "strong": "4687",
+                "translation": " the commandments "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "הַֽחֻקִּ֣ים",
+                "transliteration": "ha·ḥuq·qîm",
+                "strong": "2706",
+                "translation": " statutes "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "הַמִּשְׁפָּטִ֗ים",
+                "transliteration": "ham·miš·pā·ṭîm",
+                "strong": "4941",
+                "translation": " ordinances "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אָנֹכִ֧י",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " I "
+            },
+            {
+                "token": "מְצַוְּךָ֛",
+                "transliteration": "mə·ṣaw·wə·ḵā",
+                "strong": "6680",
+                "translation": " am giving you "
+            },
+            {
+                "token": "לַעֲשׂוֹתָֽם׃פ",
+                "transliteration": "la·‘ă·śō·w·ṯām",
+                "strong": "6213",
+                "translation": " to follow "
+            },
+            {
+                "token": "הַיּ֖וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " this day . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:11",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֣ה׀",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "עֵ֣קֶב",
+                "transliteration": "‘ê·qeḇ",
+                "strong": "6118",
+                "translation": " If "
+            },
+            {
+                "token": "תִּשְׁמְע֗וּן",
+                "transliteration": "tiš·mə·‘ūn",
+                "strong": "8085",
+                "translation": " you listen to "
+            },
+            {
+                "token": "אֵ֤ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאֵ֔לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " these "
+            },
+            {
+                "token": "הַמִּשְׁפָּטִים֙",
+                "transliteration": "ham·miš·pā·ṭîm",
+                "strong": "4941",
+                "translation": " ordinances "
+            },
+            {
+                "token": "וּשְׁמַרְתֶּ֥ם",
+                "transliteration": "ū·šə·mar·tem",
+                "strong": "8104",
+                "translation": " and keep them carefully "
+            },
+            {
+                "token": "וַעֲשִׂיתֶ֖ם",
+                "transliteration": "wa·‘ă·śî·ṯem",
+                "strong": "6213",
+                "translation": " "
+            },
+            {
+                "token": "אֹתָ֑ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " , "
+            },
+            {
+                "token": "יְהוָ֨ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " then the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֜יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "לְךָ֗",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְשָׁמַר֩",
+                "transliteration": "wə·šā·mar",
+                "strong": "8104",
+                "translation": " will keep "
+            },
+            {
+                "token": "הַבְּרִית֙",
+                "transliteration": "hab·bə·rîṯ",
+                "strong": "1285",
+                "translation": " His covenant "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "הַחֶ֔סֶד",
+                "transliteration": "ha·ḥe·seḏ",
+                "strong": "2617",
+                "translation": " the loving devotion "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נִשְׁבַּ֖ע",
+                "transliteration": "niš·ba‘",
+                "strong": "7650",
+                "translation": " He swore "
+            },
+            {
+                "token": "לַאֲבֹתֶֽיךָ׃",
+                "transliteration": "la·’ă·ḇō·ṯe·ḵā",
+                "strong": "1",
+                "translation": " to your fathers . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:12",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַאֲהֵ֣בְךָ֔",
+                "transliteration": "wa·’ă·hê·ḇə·ḵā",
+                "strong": "157",
+                "translation": " He will love you "
+            },
+            {
+                "token": "וּבֵרַכְךָ֖",
+                "transliteration": "ū·ḇê·raḵ·ḵā",
+                "strong": "1288",
+                "translation": " and bless you "
+            },
+            {
+                "token": "וְהִרְבֶּ֑ךָ",
+                "transliteration": "wə·hir·be·ḵā",
+                "strong": "7235",
+                "translation": " and multiply you . "
+            },
+            {
+                "token": "וּבֵרַ֣ךְ",
+                "transliteration": "ū·ḇê·raḵ",
+                "strong": "1288",
+                "translation": " He will bless "
+            },
+            {
+                "token": "פְּרִֽי־",
+                "transliteration": "pə·rî-",
+                "strong": "6529",
+                "translation": " the fruit "
+            },
+            {
+                "token": "בִטְנְךָ֣",
+                "transliteration": "ḇiṭ·nə·ḵā",
+                "strong": "990",
+                "translation": " of your womb "
+            },
+            {
+                "token": "וּפְרִֽי־",
+                "transliteration": "ū·p̄ə·rî-",
+                "strong": "6529",
+                "translation": " and the produce "
+            },
+            {
+                "token": "אַ֠דְמָתֶךָ",
+                "transliteration": "’aḏ·mā·ṯe·ḵā",
+                "strong": "127",
+                "translation": " of your land — "
+            },
+            {
+                "token": "דְּגָ֨נְךָ֜",
+                "transliteration": "də·ḡā·nə·ḵā",
+                "strong": "1715",
+                "translation": " your grain , "
+            },
+            {
+                "token": "וְתִֽירֹשְׁךָ֣",
+                "transliteration": "wə·ṯî·rō·šə·ḵā",
+                "strong": "8492",
+                "translation": " new wine , "
+            },
+            {
+                "token": "וְיִצְהָרֶ֗ךָ",
+                "transliteration": "wə·yiṣ·hā·re·ḵā",
+                "strong": "3323",
+                "translation": " and oil , "
+            },
+            {
+                "token": "שְׁגַר־",
+                "transliteration": "šə·ḡar-",
+                "strong": "7698",
+                "translation": " the young "
+            },
+            {
+                "token": "אֲלָפֶ֙יךָ֙",
+                "transliteration": "’ă·lā·p̄e·ḵā",
+                "strong": "504",
+                "translation": " of your herds "
+            },
+            {
+                "token": "וְעַשְׁתְּרֹ֣ת",
+                "transliteration": "wə·‘aš·tə·rōṯ",
+                "strong": "6251",
+                "translation": " and the lambs "
+            },
+            {
+                "token": "צֹאנֶ֔ךָ",
+                "transliteration": "ṣō·ne·ḵā",
+                "strong": "6629",
+                "translation": " of your flocks — "
+            },
+            {
+                "token": "עַ֚ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "הָֽאֲדָמָ֔ה",
+                "transliteration": "hā·’ă·ḏā·māh",
+                "strong": "127",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נִשְׁבַּ֥ע",
+                "transliteration": "niš·ba‘",
+                "strong": "7650",
+                "translation": " He swore "
+            },
+            {
+                "token": "לַאֲבֹתֶ֖יךָ",
+                "transliteration": "la·’ă·ḇō·ṯe·ḵā",
+                "strong": "1",
+                "translation": " to your fathers "
+            },
+            {
+                "token": "לָ֥תֶת",
+                "transliteration": "lā·ṯeṯ",
+                "strong": "5414",
+                "translation": " to give "
+            },
+            {
+                "token": "לָֽךְ׃",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " you . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:13",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תִּֽהְיֶ֖ה",
+                "transliteration": "tih·yeh",
+                "strong": "1961",
+                "translation": " You will be "
+            },
+            {
+                "token": "בָּר֥וּךְ",
+                "transliteration": "bā·rūḵ",
+                "strong": "1288",
+                "translation": " blessed "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " above all "
+            },
+            {
+                "token": "הָעַמִּ֑ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " peoples ; "
+            },
+            {
+                "token": "בְךָ֛",
+                "transliteration": "ḇə·ḵā",
+                "strong": "",
+                "translation": " among you "
+            },
+            {
+                "token": "יִהְיֶ֥ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " there will be "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "עָקָ֥ר",
+                "transliteration": "‘ā·qār",
+                "strong": "6135",
+                "translation": " barren man "
+            },
+            {
+                "token": "וַֽעֲקָרָ֖ה",
+                "transliteration": "wa·‘ă·qā·rāh",
+                "strong": "6135",
+                "translation": " or woman "
+            },
+            {
+                "token": "וּבִבְהֶמְתֶּֽךָ׃",
+                "transliteration": "ū·ḇiḇ·hem·te·ḵā",
+                "strong": "929",
+                "translation": " or livestock . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:14",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " And the LORD "
+            },
+            {
+                "token": "וְהֵסִ֧יר",
+                "transliteration": "wə·hê·sîr",
+                "strong": "5493",
+                "translation": " will remove "
+            },
+            {
+                "token": "מִמְּךָ֖",
+                "transliteration": "mim·mə·ḵā",
+                "strong": "4480",
+                "translation": " from you "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "חֹ֑לִי",
+                "transliteration": "ḥō·lî",
+                "strong": "2483",
+                "translation": " sickness . "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " He will not "
+            },
+            {
+                "token": "יְשִׂימָם֙",
+                "transliteration": "yə·śî·mām",
+                "strong": "7760",
+                "translation": " lay "
+            },
+            {
+                "token": "בָּ֔ךְ",
+                "transliteration": "bāḵ",
+                "strong": "",
+                "translation": " upon you "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "הָרָעִ֜ים",
+                "transliteration": "hā·rā·‘îm",
+                "strong": "7451",
+                "translation": " of the terrible "
+            },
+            {
+                "token": "מַדְוֵי֩",
+                "transliteration": "maḏ·wê",
+                "strong": "4064",
+                "translation": " diseases "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יָדַ֗עְתָּ",
+                "transliteration": "yā·ḏa‘·tā",
+                "strong": "3045",
+                "translation": " you knew "
+            },
+            {
+                "token": "מִצְרַ֨יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " in Egypt , "
+            },
+            {
+                "token": "וּנְתָנָ֖ם",
+                "transliteration": "ū·nə·ṯā·nām",
+                "strong": "5414",
+                "translation": " but He will inflict them "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " on all "
+            },
+            {
+                "token": "שֹׂנְאֶֽיךָ׃",
+                "transliteration": "śō·nə·’e·ḵā",
+                "strong": "8130",
+                "translation": " who hate you . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:15",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָכַלְתָּ֣",
+                "transliteration": "wə·’ā·ḵal·tā",
+                "strong": "398",
+                "translation": " You must destroy "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הָֽעַמִּ֗ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֙יךָ֙",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "נֹתֵ֣ן",
+                "transliteration": "nō·ṯên",
+                "strong": "5414",
+                "translation": " will deliver "
+            },
+            {
+                "token": "לָ֔ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " to you . "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "עֵֽינְךָ֖",
+                "transliteration": "‘ê·nə·ḵā",
+                "strong": "5869",
+                "translation": " look "
+            },
+            {
+                "token": "עֲלֵיהֶ֑ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " on them "
+            },
+            {
+                "token": "תָחֹ֥ס",
+                "transliteration": "ṯā·ḥōs",
+                "strong": "2347",
+                "translation": " with pity . "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תַעֲבֹד֙",
+                "transliteration": "ṯa·‘ă·ḇōḏ",
+                "strong": "5647",
+                "translation": " worship "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֱלֹ֣הֵיהֶ֔ם",
+                "transliteration": "’ĕ·lō·hê·hem",
+                "strong": "430",
+                "translation": " their gods , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "מוֹקֵ֥שׁ",
+                "transliteration": "mō·w·qêš",
+                "strong": "4170",
+                "translation": " will be a snare "
+            },
+            {
+                "token": "לָֽךְ׃ס",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " to you . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:16",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "תֹאמַר֙",
+                "transliteration": "ṯō·mar",
+                "strong": "559",
+                "translation": " You may say "
+            },
+            {
+                "token": "בִּלְבָ֣בְךָ֔",
+                "transliteration": "bil·ḇā·ḇə·ḵā",
+                "strong": "3824",
+                "translation": " in your heart , "
+            },
+            {
+                "token": "הָאֵ֖לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " “ These "
+            },
+            {
+                "token": "הַגּוֹיִ֥ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " nations "
+            },
+            {
+                "token": "רַבִּ֛ים",
+                "transliteration": "rab·bîm",
+                "strong": "7227",
+                "translation": " are greater "
+            },
+            {
+                "token": "מִמֶּ֑נִּי",
+                "transliteration": "mim·men·nî",
+                "strong": "4480",
+                "translation": " than we are ; "
+            },
+            {
+                "token": "אֵיכָ֥ה",
+                "transliteration": "’ê·ḵāh",
+                "strong": "349",
+                "translation": " how "
+            },
+            {
+                "token": "אוּכַ֖ל",
+                "transliteration": "’ū·ḵal",
+                "strong": "3201",
+                "translation": " can "
+            },
+            {
+                "token": "לְהוֹרִישָֽׁם׃",
+                "transliteration": "lə·hō·w·rî·šām",
+                "strong": "3423",
+                "translation": " we drive them out ? ” "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:17",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " But do not "
+            },
+            {
+                "token": "תִירָ֖א",
+                "transliteration": "ṯî·rā",
+                "strong": "3372",
+                "translation": " be afraid "
+            },
+            {
+                "token": "מֵהֶ֑ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " of them . "
+            },
+            {
+                "token": "זָכֹ֣ר",
+                "transliteration": "zā·ḵōr",
+                "strong": "2142",
+                "translation": " Be sure to remember "
+            },
+            {
+                "token": "תִּזְכֹּ֗ר",
+                "transliteration": "tiz·kōr",
+                "strong": "2142",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵ֤ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֔יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "עָשָׂה֙",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "לְפַרְעֹ֖ה",
+                "transliteration": "lə·p̄ar·‘ōh",
+                "strong": "6547",
+                "translation": " to Pharaoh "
+            },
+            {
+                "token": "וּלְכָל־",
+                "transliteration": "ū·lə·ḵāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " Egypt : "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:18",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַגְּדֹלֹ֜ת",
+                "transliteration": "hag·gə·ḏō·lōṯ",
+                "strong": "1419",
+                "translation": " the great "
+            },
+            {
+                "token": "הַמַּסֹּ֨ת",
+                "transliteration": "ham·mas·sōṯ",
+                "strong": "4531",
+                "translation": " trials "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "עֵינֶ֗יךָ",
+                "transliteration": "‘ê·ne·ḵā",
+                "strong": "5869",
+                "translation": " you "
+            },
+            {
+                "token": "רָא֣וּ",
+                "transliteration": "rā·’ū",
+                "strong": "7200",
+                "translation": " saw , "
+            },
+            {
+                "token": "וְהָאֹתֹ֤ת",
+                "transliteration": "wə·hā·’ō·ṯōṯ",
+                "strong": "226",
+                "translation": " the signs "
+            },
+            {
+                "token": "וְהַמֹּֽפְתִים֙",
+                "transliteration": "wə·ham·mō·p̄ə·ṯîm",
+                "strong": "4159",
+                "translation": " and wonders , "
+            },
+            {
+                "token": "הַחֲזָקָה֙",
+                "transliteration": "ha·ḥă·zā·qāh",
+                "strong": "2389",
+                "translation": " and the mighty "
+            },
+            {
+                "token": "וְהַיָּ֤ד",
+                "transliteration": "wə·hay·yāḏ",
+                "strong": "3027",
+                "translation": " hand "
+            },
+            {
+                "token": "הַנְּטוּיָ֔ה",
+                "transliteration": "han·nə·ṭū·yāh",
+                "strong": "5186",
+                "translation": " and outstretched "
+            },
+            {
+                "token": "וְהַזְּרֹ֣עַ",
+                "transliteration": "wə·haz·zə·rō·a‘",
+                "strong": "2220",
+                "translation": " arm "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " by which "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֑יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "הוֹצִֽאֲךָ֖",
+                "transliteration": "hō·w·ṣi·’ă·ḵā",
+                "strong": "3318",
+                "translation": " brought you out . "
+            },
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֙יךָ֙",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "יַעֲשֶׂ֞ה",
+                "transliteration": "ya·‘ă·śeh",
+                "strong": "6213",
+                "translation": " will do "
+            },
+            {
+                "token": "כֵּֽן־",
+                "transliteration": "kên-",
+                "strong": "3651",
+                "translation": " the same "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " to all "
+            },
+            {
+                "token": "הָ֣עַמִּ֔ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "אַתָּ֥ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "יָרֵ֖א",
+                "transliteration": "yā·rê",
+                "strong": "3373",
+                "translation": " now fear "
+            },
+            {
+                "token": "מִפְּנֵיהֶֽם׃",
+                "transliteration": "mip·pə·nê·hem",
+                "strong": "6440",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:19",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְגַם֙",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " Moreover , "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֖יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "יְשַׁלַּ֛ח",
+                "transliteration": "yə·šal·laḥ",
+                "strong": "7971",
+                "translation": " will send "
+            },
+            {
+                "token": "הַצִּרְעָ֔ה",
+                "transliteration": "haṣ·ṣir·‘āh",
+                "strong": "6880",
+                "translation": " the hornet "
+            },
+            {
+                "token": "בָּ֑ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " against them "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הַנִּשְׁאָרִ֛ים",
+                "transliteration": "han·niš·’ā·rîm",
+                "strong": "7604",
+                "translation": " even the survivors "
+            },
+            {
+                "token": "וְהַנִּסְתָּרִ֖ים",
+                "transliteration": "wə·han·nis·tā·rîm",
+                "strong": "5641",
+                "translation": " hiding "
+            },
+            {
+                "token": "מִפָּנֶֽיךָ׃",
+                "transliteration": "mip·pā·ne·ḵā",
+                "strong": "6440",
+                "translation": " from you "
+            },
+            {
+                "token": "אֲבֹ֗ד",
+                "transliteration": "’ă·ḇōḏ",
+                "strong": "6",
+                "translation": " have perished . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:20",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תַעֲרֹ֖ץ",
+                "transliteration": "ṯa·‘ă·rōṣ",
+                "strong": "6206",
+                "translation": " be terrified "
+            },
+            {
+                "token": "מִפְּנֵיהֶ֑ם",
+                "transliteration": "mip·pə·nê·hem",
+                "strong": "6440",
+                "translation": " by them , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֙יךָ֙",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God , "
+            },
+            {
+                "token": "בְּקִרְבֶּ֔ךָ",
+                "transliteration": "bə·qir·be·ḵā",
+                "strong": "7130",
+                "translation": " who [is] among you , "
+            },
+            {
+                "token": "גָּד֖וֹל",
+                "transliteration": "gā·ḏō·wl",
+                "strong": "1419",
+                "translation": " [is] a great "
+            },
+            {
+                "token": "וְנוֹרָֽא׃",
+                "transliteration": "wə·nō·w·rā",
+                "strong": "3372",
+                "translation": " and awesome "
+            },
+            {
+                "token": "אֵ֥ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:21",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֨ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֜יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְנָשַׁל֩",
+                "transliteration": "wə·nā·šal",
+                "strong": "5394",
+                "translation": " will drive out "
+            },
+            {
+                "token": "הָאֵ֛ל",
+                "transliteration": "hā·’êl",
+                "strong": "411",
+                "translation": " these "
+            },
+            {
+                "token": "הַגּוֹיִ֥ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " nations "
+            },
+            {
+                "token": "מִפָּנֶ֖יךָ",
+                "transliteration": "mip·pā·ne·ḵā",
+                "strong": "6440",
+                "translation": " before you "
+            },
+            {
+                "token": "מְעַ֣ט",
+                "transliteration": "mə·‘aṭ",
+                "strong": "4592",
+                "translation": " little "
+            },
+            {
+                "token": "מְעָ֑ט",
+                "transliteration": "mə·‘āṭ",
+                "strong": "4592",
+                "translation": " by little . "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " You will not "
+            },
+            {
+                "token": "תוּכַל֙",
+                "transliteration": "ṯū·ḵal",
+                "strong": "3201",
+                "translation": " be enabled "
+            },
+            {
+                "token": "כַּלֹּתָ֣ם",
+                "transliteration": "kal·lō·ṯām",
+                "strong": "3615",
+                "translation": " to eliminate them "
+            },
+            {
+                "token": "מַהֵ֔ר",
+                "transliteration": "ma·hêr",
+                "strong": "4118",
+                "translation": " all at once , "
+            },
+            {
+                "token": "פֶּן־",
+                "transliteration": "pen-",
+                "strong": "6435",
+                "translation": " or "
+            },
+            {
+                "token": "הַשָּׂדֶֽה׃",
+                "transliteration": "haś·śā·ḏeh",
+                "strong": "7704",
+                "translation": " the wild "
+            },
+            {
+                "token": "חַיַּ֥ת",
+                "transliteration": "ḥay·yaṯ",
+                "strong": "2416",
+                "translation": " animals "
+            },
+            {
+                "token": "תִּרְבֶּ֥ה",
+                "transliteration": "tir·beh",
+                "strong": "7235",
+                "translation": " would multiply "
+            },
+            {
+                "token": "עָלֶ֖יךָ",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " around you . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:22",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " But the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֖יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God "
+            },
+            {
+                "token": "וּנְתָנָ֛ם",
+                "transliteration": "ū·nə·ṯā·nām",
+                "strong": "5414",
+                "translation": " will give them over "
+            },
+            {
+                "token": "לְפָנֶ֑יךָ",
+                "transliteration": "lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " to you "
+            },
+            {
+                "token": "וְהָמָם֙",
+                "transliteration": "wə·hā·mām",
+                "strong": "2000",
+                "translation": " and throw them "
+            },
+            {
+                "token": "גְדֹלָ֔ה",
+                "transliteration": "ḡə·ḏō·lāh",
+                "strong": "1419",
+                "translation": " into great "
+            },
+            {
+                "token": "מְהוּמָ֣ה",
+                "transliteration": "mə·hū·māh",
+                "strong": "4103",
+                "translation": " confusion , "
+            },
+            {
+                "token": "עַ֖ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הִשָּׁמְדָֽם׃",
+                "transliteration": "hiš·šā·mə·ḏām",
+                "strong": "8045",
+                "translation": " they are destroyed . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:23",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַלְכֵיהֶם֙",
+                "transliteration": "mal·ḵê·hem",
+                "strong": "4428",
+                "translation": " He will hand their kings "
+            },
+            {
+                "token": "וְנָתַ֤ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " over to "
+            },
+            {
+                "token": "בְּיָדֶ֔ךָ",
+                "transliteration": "bə·yā·ḏe·ḵā",
+                "strong": "3027",
+                "translation": " you , "
+            },
+            {
+                "token": "וְהַאֲבַדְתָּ֣",
+                "transliteration": "wə·ha·’ă·ḇaḏ·tā",
+                "strong": "6",
+                "translation": " and you will wipe out "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁמָ֔ם",
+                "transliteration": "šə·mām",
+                "strong": "8034",
+                "translation": " their names "
+            },
+            {
+                "token": "מִתַּ֖חַת",
+                "transliteration": "mit·ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " from under "
+            },
+            {
+                "token": "הַשָּׁמָ֑יִם",
+                "transliteration": "haš·šā·mā·yim",
+                "strong": "8064",
+                "translation": " heaven . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " No "
+            },
+            {
+                "token": "אִישׁ֙",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " one "
+            },
+            {
+                "token": "יִתְיַצֵּ֥ב",
+                "transliteration": "yiṯ·yaṣ·ṣêḇ",
+                "strong": "3320",
+                "translation": " will be able to stand "
+            },
+            {
+                "token": "בְּפָנֶ֔יךָ",
+                "transliteration": "bə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " against you "
+            },
+            {
+                "token": "עַ֥ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "הִשְׁמִֽדְךָ֖",
+                "transliteration": "hiš·miḏ·ḵā",
+                "strong": "8045",
+                "translation": " you will annihilate them "
+            },
+            {
+                "token": "אֹתָֽם׃",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:24",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תִּשְׂרְפ֣וּן",
+                "transliteration": "tiś·rə·p̄ūn",
+                "strong": "8313",
+                "translation": " You must burn up "
+            },
+            {
+                "token": "בָּאֵ֑שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " . . . "
+            },
+            {
+                "token": "פְּסִילֵ֥י",
+                "transliteration": "pə·sî·lê",
+                "strong": "6456",
+                "translation": " the images "
+            },
+            {
+                "token": "אֱלֹהֵיהֶ֖ם",
+                "transliteration": "’ĕ·lō·hê·hem",
+                "strong": "430",
+                "translation": " of their gods ; "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " do not "
+            },
+            {
+                "token": "תַחְמֹד֩",
+                "transliteration": "ṯaḥ·mōḏ",
+                "strong": "2530",
+                "translation": " covet "
+            },
+            {
+                "token": "כֶּ֨סֶף",
+                "transliteration": "ke·sep̄",
+                "strong": "3701",
+                "translation": " the silver "
+            },
+            {
+                "token": "וְזָהָ֤ב",
+                "transliteration": "wə·zā·hāḇ",
+                "strong": "2091",
+                "translation": " and gold "
+            },
+            {
+                "token": "עֲלֵיהֶם֙",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " [that is] on them "
+            },
+            {
+                "token": "וְלָקַחְתָּ֣",
+                "transliteration": "wə·lā·qaḥ·tā",
+                "strong": "3947",
+                "translation": " or take it "
+            },
+            {
+                "token": "לָ֔ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " for yourselves , "
+            },
+            {
+                "token": "פֶּ֚ן",
+                "transliteration": "pen",
+                "strong": "6435",
+                "translation": " or "
+            },
+            {
+                "token": "תִּוָּקֵ֣שׁ",
+                "transliteration": "tiw·wā·qêš",
+                "strong": "3369",
+                "translation": " you will be ensnared "
+            },
+            {
+                "token": "בּ֔וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " by it ; "
+            },
+            {
+                "token": "כִּ֧י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "תוֹעֲבַ֛ת",
+                "transliteration": "ṯō·w·‘ă·ḇaṯ",
+                "strong": "8441",
+                "translation": " is detestable "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "אֱלֹהֶ֖יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:25",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " And you must not "
+            },
+            {
+                "token": "תָבִ֤יא",
+                "transliteration": "ṯā·ḇî",
+                "strong": "935",
+                "translation": " bring "
+            },
+            {
+                "token": "תֽוֹעֵבָה֙",
+                "transliteration": "ṯō·w·‘ê·ḇāh",
+                "strong": "8441",
+                "translation": " any detestable thing "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "בֵּיתֶ֔ךָ",
+                "transliteration": "bê·ṯe·ḵā",
+                "strong": "1004",
+                "translation": " your house , "
+            },
+            {
+                "token": "וְהָיִ֥יתָ",
+                "transliteration": "wə·hā·yî·ṯā",
+                "strong": "1961",
+                "translation": " or you, "
+            },
+            {
+                "token": "כָּמֹ֑הוּ",
+                "transliteration": "kā·mō·hū",
+                "strong": "3644",
+                "translation": " like it, "
+            },
+            {
+                "token": "חֵ֖רֶם",
+                "transliteration": "ḥê·rem",
+                "strong": "2764",
+                "translation": " will be set apart for destruction . "
+            },
+            {
+                "token": "שַׁקֵּ֧ץ׀",
+                "transliteration": "šaq·qêṣ",
+                "strong": "8262",
+                "translation": " You are to utterly detest "
+            },
+            {
+                "token": "תְּשַׁקְּצֶ֛נּוּ",
+                "transliteration": "tə·šaq·qə·ṣen·nū",
+                "strong": "8262",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְתַעֵ֥ב׀",
+                "transliteration": "wə·ṯa·‘êḇ",
+                "strong": "8581",
+                "translation": " and abhor it , "
+            },
+            {
+                "token": "תְּֽתַעֲבֶ֖נּוּ",
+                "transliteration": "tə·ṯa·‘ă·ḇen·nū",
+                "strong": "8581",
+                "translation": " . . . "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "הֽוּא׃פ",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "חֵ֥רֶם",
+                "transliteration": "ḥê·rem",
+                "strong": "2764",
+                "translation": " is set apart for destruction . "
+            }
+        ],
+        "verse_reference": "Deuteronomy 7:26",
+        "book": "Deuteronomy",
+        "chapter": "7",
+        "verse": "26"
+    }
+]

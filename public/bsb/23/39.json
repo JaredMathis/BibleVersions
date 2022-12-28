@@ -1,0 +1,942 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַהִ֡וא",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " At that "
+            },
+            {
+                "token": "בָּעֵ֣ת",
+                "transliteration": "bā·‘êṯ",
+                "strong": "6256",
+                "translation": " time "
+            },
+            {
+                "token": "בַּ֠לְאֲדָן",
+                "transliteration": "bal·’ă·ḏān",
+                "strong": "4757",
+                "translation": " Merodach-baladan "
+            },
+            {
+                "token": "בֶּֽן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "בַּלְאֲדָ֧ן",
+                "transliteration": "bal·’ă·ḏān",
+                "strong": "1081",
+                "translation": " of Baladan "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "בָּבֶ֛ל",
+                "transliteration": "bā·ḇel",
+                "strong": "894",
+                "translation": " of Babylon "
+            },
+            {
+                "token": "שָׁלַ֡ח",
+                "transliteration": "šā·laḥ",
+                "strong": "7971",
+                "translation": " sent "
+            },
+            {
+                "token": "מְרֹדַ֣ךְ",
+                "transliteration": "mə·rō·ḏaḵ",
+                "strong": "4757",
+                "translation": " "
+            },
+            {
+                "token": "סְפָרִ֥ים",
+                "transliteration": "sə·p̄ā·rîm",
+                "strong": "5612",
+                "translation": " letters "
+            },
+            {
+                "token": "וּמִנְחָ֖ה",
+                "transliteration": "ū·min·ḥāh",
+                "strong": "4503",
+                "translation": " and a gift "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "חִזְקִיָּ֑הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah , "
+            },
+            {
+                "token": "וַיִּשְׁמַ֕ע",
+                "transliteration": "way·yiš·ma‘",
+                "strong": "8085",
+                "translation": " for he had heard "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " about "
+            },
+            {
+                "token": "חָלָ֖ה",
+                "transliteration": "ḥā·lāh",
+                "strong": "2470",
+                "translation": " [Hezekiah’s] illness "
+            },
+            {
+                "token": "וַֽיֶּחֱזָֽק׃",
+                "transliteration": "way·ye·ḥĕ·zāq",
+                "strong": "2388",
+                "translation": " and recovery . "
+            }
+        ],
+        "verse_reference": "Isaiah 39:1",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חִזְקִיָּהוּ֒",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " And Hezekiah "
+            },
+            {
+                "token": "וַיִּשְׂמַ֣ח",
+                "transliteration": "way·yiś·maḥ",
+                "strong": "8055",
+                "translation": " welcomed "
+            },
+            {
+                "token": "עֲלֵיהֶם֮",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " [the envoys] {gladly} "
+            },
+            {
+                "token": "וַיַּרְאֵ֣ם",
+                "transliteration": "way·yar·’êm",
+                "strong": "7200",
+                "translation": " and showed them "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נְכֹתָה",
+                "transliteration": "nə·ḵō·ṯå̄h",
+                "strong": "5238",
+                "translation": " what was in his treasure "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " house — "
+            },
+            {
+                "token": "הַכֶּסֶף֩",
+                "transliteration": "hak·ke·sep̄",
+                "strong": "3701",
+                "translation": " the silver , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַזָּהָ֨ב",
+                "transliteration": "haz·zā·hāḇ",
+                "strong": "2091",
+                "translation": " the gold , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַבְּשָׂמִ֜ים",
+                "transliteration": "hab·bə·śā·mîm",
+                "strong": "1314",
+                "translation": " the spices , "
+            },
+            {
+                "token": "וְאֵ֣ת׀",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַטּ֗וֹב",
+                "transliteration": "haṭ·ṭō·wḇ",
+                "strong": "2896",
+                "translation": " and the precious "
+            },
+            {
+                "token": "וְאֵת֙",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשֶּׁ֣מֶן",
+                "transliteration": "haš·še·men",
+                "strong": "8081",
+                "translation": " oil , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " as well as his entire "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " armory "
+            },
+            {
+                "token": "כֵּלָ֔יו",
+                "transliteration": "kê·lāw",
+                "strong": "3627",
+                "translation": " . . . — "
+            },
+            {
+                "token": "וְאֵ֛ת",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נִמְצָ֖א",
+                "transliteration": "nim·ṣā",
+                "strong": "4672",
+                "translation": " was found "
+            },
+            {
+                "token": "בְּאֹֽצְרֹתָ֑יו",
+                "transliteration": "bə·’ō·ṣə·rō·ṯāw",
+                "strong": "214",
+                "translation": " in his storehouses . "
+            },
+            {
+                "token": "הָיָ֣ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " There was "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " nothing "
+            },
+            {
+                "token": "דָבָ֗ר",
+                "transliteration": "ḏā·ḇār",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּבֵית֖וֹ",
+                "transliteration": "bə·ḇê·ṯōw",
+                "strong": "1004",
+                "translation": " in his palace "
+            },
+            {
+                "token": "וּבְכָל־",
+                "transliteration": "ū·ḇə·ḵāl",
+                "strong": "3605",
+                "translation": " or in all "
+            },
+            {
+                "token": "מֶמְשַׁלְתּֽוֹ׃",
+                "transliteration": "mem·šal·tōw",
+                "strong": "4475",
+                "translation": " his dominion "
+            },
+            {
+                "token": "אֲ֠שֶׁר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "חִזְקִיָּ֛הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " did not "
+            },
+            {
+                "token": "הֶרְאָ֧ם",
+                "transliteration": "her·’ām",
+                "strong": "7200",
+                "translation": " show them . "
+            }
+        ],
+        "verse_reference": "Isaiah 39:2",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַנָּבִ֔יא",
+                "transliteration": "han·nā·ḇî",
+                "strong": "5030",
+                "translation": " Then the prophet "
+            },
+            {
+                "token": "יְשַׁעְיָ֣הוּ",
+                "transliteration": "yə·ša‘·yā·hū",
+                "strong": "3470",
+                "translation": " Isaiah "
+            },
+            {
+                "token": "וַיָּבֹא֙",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " went "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַמֶּ֖לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " King "
+            },
+            {
+                "token": "חִזְקִיָּ֑הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and asked , "
+            },
+            {
+                "token": "וּמֵאַ֙יִן֙",
+                "transliteration": "ū·mê·’a·yin",
+                "strong": "370",
+                "translation": " “ Where "
+            },
+            {
+                "token": "הָאֵ֗לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " did those [men] "
+            },
+            {
+                "token": "יָבֹ֣אוּ",
+                "transliteration": "yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " come from , "
+            },
+            {
+                "token": "מָ֥ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " and what "
+            },
+            {
+                "token": "אָמְר֣וּ׀",
+                "transliteration": "’ā·mə·rū",
+                "strong": "559",
+                "translation": " did they say "
+            },
+            {
+                "token": "הָאֲנָשִׁ֣ים",
+                "transliteration": "hā·’ă·nā·šîm",
+                "strong": "582",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵלָ֜יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to you ? ” "
+            },
+            {
+                "token": "בָּ֥אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " “ They came "
+            },
+            {
+                "token": "אֵלַ֖י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to me "
+            },
+            {
+                "token": "אֵלֶ֔יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " from "
+            },
+            {
+                "token": "רְחוֹקָ֛ה",
+                "transliteration": "rə·ḥō·w·qāh",
+                "strong": "7350",
+                "translation": " a distant "
+            },
+            {
+                "token": "מֵאֶ֧רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " land , ” "
+            },
+            {
+                "token": "חִזְקִיָּ֔הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah "
+            },
+            {
+                "token": "וַיֹּ֙אמֶר֙",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " replied , "
+            },
+            {
+                "token": "מִבָּבֶֽל׃",
+                "transliteration": "mib·bā·ḇel",
+                "strong": "894",
+                "translation": " “ from Babylon . ” "
+            }
+        ],
+        "verse_reference": "Isaiah 39:3",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מָ֥ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " “ What "
+            },
+            {
+                "token": "רָא֖וּ",
+                "transliteration": "rā·’ū",
+                "strong": "7200",
+                "translation": " have they seen "
+            },
+            {
+                "token": "בְּבֵיתֶ֑ךָ",
+                "transliteration": "bə·ḇê·ṯe·ḵā",
+                "strong": "1004",
+                "translation": " in your palace ? ” "
+            },
+            {
+                "token": "וַיֹּ֕אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " Isaiah asked . "
+            },
+            {
+                "token": "רָא֔וּ",
+                "transliteration": "rā·’ū",
+                "strong": "7200",
+                "translation": " “ They have seen "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " everything "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " "
+            },
+            {
+                "token": "בְּבֵיתִי֙",
+                "transliteration": "bə·ḇê·ṯî",
+                "strong": "1004",
+                "translation": " in my palace , ” "
+            },
+            {
+                "token": "וַיֹּ֣אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " answered "
+            },
+            {
+                "token": "חִזְקִיָּ֗הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah . "
+            },
+            {
+                "token": "אֵ֣ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " “ There is nothing "
+            },
+            {
+                "token": "הָיָ֥ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "דָבָ֛ר",
+                "transliteration": "ḏā·ḇār",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּאוֹצְרֹתָֽי׃",
+                "transliteration": "bə·’ō·wṣ·rō·ṯāy",
+                "strong": "214",
+                "translation": " among my treasures "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " I did not "
+            },
+            {
+                "token": "הִרְאִיתִ֖ים",
+                "transliteration": "hir·’î·ṯîm",
+                "strong": "7200",
+                "translation": " show them . ” "
+            }
+        ],
+        "verse_reference": "Isaiah 39:4",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְשַׁעְיָ֖הוּ",
+                "transliteration": "yə·ša‘·yā·hū",
+                "strong": "3470",
+                "translation": " Then Isaiah "
+            },
+            {
+                "token": "וַיֹּ֥אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "חִזְקִיָּ֑הוּ",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " Hezekiah , "
+            },
+            {
+                "token": "שְׁמַ֖ע",
+                "transliteration": "šə·ma‘",
+                "strong": "8085",
+                "translation": " “ Hear "
+            },
+            {
+                "token": "דְּבַר־",
+                "transliteration": "də·ḇar-",
+                "strong": "1697",
+                "translation": " the word "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "צְבָאֽוֹת׃",
+                "transliteration": "ṣə·ḇā·’ō·wṯ",
+                "strong": "6635",
+                "translation": " of Hosts : "
+            }
+        ],
+        "verse_reference": "Isaiah 39:5",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יָמִ֣ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " The time "
+            },
+            {
+                "token": "הִנֵּה֮",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " will surely "
+            },
+            {
+                "token": "בָּאִים֒",
+                "transliteration": "bā·’îm",
+                "strong": "935",
+                "translation": " come "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " when everything "
+            },
+            {
+                "token": "בְּבֵיתֶ֗ךָ",
+                "transliteration": "bə·ḇê·ṯe·ḵā",
+                "strong": "1004",
+                "translation": " in your palace "
+            },
+            {
+                "token": "וַאֲשֶׁ֨ר",
+                "transliteration": "wa·’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " and all that "
+            },
+            {
+                "token": "אֲבֹתֶ֛יךָ",
+                "transliteration": "’ă·ḇō·ṯe·ḵā",
+                "strong": "1",
+                "translation": " your fathers "
+            },
+            {
+                "token": "אָצְר֧וּ",
+                "transliteration": "’ā·ṣə·rū",
+                "strong": "686",
+                "translation": " have stored up "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הַזֶּ֖ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַיּ֥וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "וְנִשָּׂ֣א׀",
+                "transliteration": "wə·niś·śā",
+                "strong": "5375",
+                "translation": " will be carried off "
+            },
+            {
+                "token": "בָּבֶ֑ל",
+                "transliteration": "bā·ḇel",
+                "strong": "894",
+                "translation": " to Babylon . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " Nothing "
+            },
+            {
+                "token": "דָּבָ֖ר",
+                "transliteration": "dā·ḇār",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִוָּתֵ֥ר",
+                "transliteration": "yiw·wā·ṯêr",
+                "strong": "3498",
+                "translation": " will be left , "
+            },
+            {
+                "token": "אָמַ֥ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Isaiah 39:6",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמִבָּנֶ֜יךָ",
+                "transliteration": "ū·mib·bā·ne·ḵā",
+                "strong": "1121",
+                "translation": " And some of your descendants "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יֵצְא֧וּ",
+                "transliteration": "yê·ṣə·’ū",
+                "strong": "3318",
+                "translation": " - , "
+            },
+            {
+                "token": "מִמְּךָ֛",
+                "transliteration": "mim·mə·ḵā",
+                "strong": "4480",
+                "translation": " your "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "תּוֹלִ֖יד",
+                "transliteration": "tō·w·lîḏ",
+                "strong": "3205",
+                "translation": " own flesh and blood , "
+            },
+            {
+                "token": "יִקָּ֑חוּ",
+                "transliteration": "yiq·qā·ḥū",
+                "strong": "3947",
+                "translation": " will be taken away "
+            },
+            {
+                "token": "וְהָיוּ֙",
+                "transliteration": "wə·hā·yū",
+                "strong": "1961",
+                "translation": " to be "
+            },
+            {
+                "token": "סָרִיסִ֔ים",
+                "transliteration": "sā·rî·sîm",
+                "strong": "5631",
+                "translation": " eunuchs "
+            },
+            {
+                "token": "בְּהֵיכַ֖ל",
+                "transliteration": "bə·hê·ḵal",
+                "strong": "1964",
+                "translation": " in the palace "
+            },
+            {
+                "token": "מֶ֥לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " of the king "
+            },
+            {
+                "token": "בָּבֶֽל׃",
+                "transliteration": "bā·ḇel",
+                "strong": "894",
+                "translation": " of Babylon . ” "
+            }
+        ],
+        "verse_reference": "Isaiah 39:7",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חִזְקִיָּ֙הוּ֙",
+                "transliteration": "ḥiz·qî·yā·hū",
+                "strong": "2396",
+                "translation": " But Hezekiah "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יְשַׁעְיָ֔הוּ",
+                "transliteration": "yə·ša‘·yā·hū",
+                "strong": "3470",
+                "translation": " Isaiah , "
+            },
+            {
+                "token": "דְּבַר־",
+                "transliteration": "də·ḇar-",
+                "strong": "1697",
+                "translation": " “ The word "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "דִּבַּ֑רְתָּ",
+                "transliteration": "dib·bar·tā",
+                "strong": "1696",
+                "translation": " you have spoken "
+            },
+            {
+                "token": "ט֥וֹב",
+                "transliteration": "ṭō·wḇ",
+                "strong": "2896",
+                "translation": " is good . ” "
+            },
+            {
+                "token": "וַיֹּ֕אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " For he thought , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " “ At least "
+            },
+            {
+                "token": "יִהְיֶ֛ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " there will be "
+            },
+            {
+                "token": "שָׁל֥וֹם",
+                "transliteration": "šā·lō·wm",
+                "strong": "7965",
+                "translation": " peace "
+            },
+            {
+                "token": "וֶאֱמֶ֖ת",
+                "transliteration": "we·’ĕ·meṯ",
+                "strong": "571",
+                "translation": " and security "
+            },
+            {
+                "token": "בְּיָמָֽי׃פ",
+                "transliteration": "bə·yā·māy",
+                "strong": "3117",
+                "translation": " in my lifetime . ” "
+            }
+        ],
+        "verse_reference": "Isaiah 39:8",
+        "book": "Isaiah",
+        "chapter": "39",
+        "verse": "8"
+    }
+]

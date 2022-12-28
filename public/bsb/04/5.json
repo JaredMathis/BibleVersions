@@ -1,0 +1,3022 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֥ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "לֵּאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Numbers 5:1",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "צַ֚ו",
+                "transliteration": "ṣaw",
+                "strong": "6680",
+                "translation": " “ Command "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וִֽישַׁלְּחוּ֙",
+                "transliteration": "wî·šal·lə·ḥū",
+                "strong": "7971",
+                "translation": " to send away "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַֽמַּחֲנֶ֔ה",
+                "transliteration": "ham·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " anyone "
+            },
+            {
+                "token": "צָר֖וּעַ",
+                "transliteration": "ṣā·rū·a‘",
+                "strong": "6879",
+                "translation": " with a skin disease , "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " anyone "
+            },
+            {
+                "token": "זָ֑ב",
+                "transliteration": "zāḇ",
+                "strong": "2100",
+                "translation": " who has a bodily discharge , "
+            },
+            {
+                "token": "וְכֹ֖ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " and anyone "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " who is defiled "
+            },
+            {
+                "token": "לָנָֽפֶשׁ׃",
+                "transliteration": "lā·nā·p̄eš",
+                "strong": "5315",
+                "translation": " by a dead body . "
+            }
+        ],
+        "verse_reference": "Numbers 5:2",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תְּשַׁלֵּ֔חוּ",
+                "transliteration": "tə·šal·lê·ḥū",
+                "strong": "7971",
+                "translation": " You must send away "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִזָּכָ֤ר",
+                "transliteration": "miz·zā·ḵār",
+                "strong": "2145",
+                "translation": " male "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " and "
+            },
+            {
+                "token": "נְקֵבָה֙",
+                "transliteration": "nə·qê·ḇāh",
+                "strong": "5347",
+                "translation": " female alike ; "
+            },
+            {
+                "token": "תְּשַׁלְּח֑וּם",
+                "transliteration": "tə·šal·lə·ḥūm",
+                "strong": "7971",
+                "translation": " send them "
+            },
+            {
+                "token": "מִח֥וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לַֽמַּחֲנֶ֖ה",
+                "transliteration": "lam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " so they will not "
+            },
+            {
+                "token": "יְטַמְּאוּ֙",
+                "transliteration": "yə·ṭam·mə·’ū",
+                "strong": "2930",
+                "translation": " defile "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מַ֣חֲנֵיהֶ֔ם",
+                "transliteration": "ma·ḥă·nê·hem",
+                "strong": "4264",
+                "translation": " their camp , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "אֲנִ֖י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "שֹׁכֵ֥ן",
+                "transliteration": "šō·ḵên",
+                "strong": "7931",
+                "translation": " dwell "
+            },
+            {
+                "token": "בְּתוֹכָֽם׃",
+                "transliteration": "bə·ṯō·w·ḵām",
+                "strong": "8432",
+                "translation": " among them . ” "
+            }
+        ],
+        "verse_reference": "Numbers 5:3",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " So the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיַּֽעֲשׂוּ־",
+                "transliteration": "way·ya·‘ă·śū-",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "כֵן֙",
+                "transliteration": "ḵên",
+                "strong": "3651",
+                "translation": " this , "
+            },
+            {
+                "token": "וַיְשַׁלְּח֣וּ",
+                "transliteration": "way·šal·lə·ḥū",
+                "strong": "7971",
+                "translation": " sending "
+            },
+            {
+                "token": "אוֹתָ֔ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " [such people] "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " vvv "
+            },
+            {
+                "token": "מִח֖וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לַֽמַּחֲנֶ֑ה",
+                "transliteration": "lam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp . "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " [They] "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃פ",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָשׂ֖וּ",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "כַּאֲשֶׁ֨ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " just as "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "דִּבֶּ֤ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " had instructed "
+            },
+            {
+                "token": "מֹשֶׁ֔ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses . "
+            },
+            {
+                "token": "כֵּ֥ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "Numbers 5:4",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " And the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֥ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "לֵּאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Numbers 5:5",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דַּבֵּר֮",
+                "transliteration": "dab·bêr",
+                "strong": "1696",
+                "translation": " “ Tell "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites that "
+            },
+            {
+                "token": "יִשְׂרָאֵל֒",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " when "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " a man "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אִשָּׁ֗ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " woman "
+            },
+            {
+                "token": "לִמְעֹ֥ל",
+                "transliteration": "lim·‘ōl",
+                "strong": "4603",
+                "translation": " acts "
+            },
+            {
+                "token": "מַ֖עַל",
+                "transliteration": "ma·‘al",
+                "strong": "4604",
+                "translation": " unfaithfully "
+            },
+            {
+                "token": "בַּיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " against the LORD "
+            },
+            {
+                "token": "יַעֲשׂוּ֙",
+                "transliteration": "ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " by committing "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "חַטֹּ֣את",
+                "transliteration": "ḥaṭ·ṭōṯ",
+                "strong": "2403",
+                "translation": " sin "
+            },
+            {
+                "token": "הָֽאָדָ֔ם",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " against another , "
+            },
+            {
+                "token": "הַהִֽוא׃",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "הַנֶּ֥פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " person "
+            },
+            {
+                "token": "וְאָֽשְׁמָ֖ה",
+                "transliteration": "wə·’ā·šə·māh",
+                "strong": "816",
+                "translation": " is guilty "
+            }
+        ],
+        "verse_reference": "Numbers 5:6",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהִתְוַדּ֗וּ",
+                "transliteration": "wə·hiṯ·wad·dū",
+                "strong": "3034",
+                "translation": " and must confess "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "חַטָּאתָם֮",
+                "transliteration": "ḥaṭ·ṭā·ṯām",
+                "strong": "2403",
+                "translation": " the sin "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עָשׂוּ֒",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " he has committed . "
+            },
+            {
+                "token": "וְהֵשִׁ֤יב",
+                "transliteration": "wə·hê·šîḇ",
+                "strong": "7725",
+                "translation": " He must make full restitution , "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשָׁמוֹ֙",
+                "transliteration": "’ă·šā·mōw",
+                "strong": "817",
+                "translation": " - "
+            },
+            {
+                "token": "בְּרֹאשׁ֔וֹ",
+                "transliteration": "bə·rō·šōw",
+                "strong": "7218",
+                "translation": " . . . "
+            },
+            {
+                "token": "יֹסֵ֣ף",
+                "transliteration": "yō·sêp̄",
+                "strong": "3254",
+                "translation": " add "
+            },
+            {
+                "token": "וַחֲמִישִׁת֖וֹ",
+                "transliteration": "wa·ḥă·mî·ši·ṯōw",
+                "strong": "2549",
+                "translation": " a fifth "
+            },
+            {
+                "token": "עָלָ֑יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " to its value , "
+            },
+            {
+                "token": "וְנָתַ֕ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " and give all this "
+            },
+            {
+                "token": "לַאֲשֶׁ֖ר",
+                "transliteration": "la·’ă·šer",
+                "strong": "834",
+                "translation": " to the one "
+            },
+            {
+                "token": "אָשַׁ֥ם",
+                "transliteration": "’ā·šam",
+                "strong": "816",
+                "translation": " he has wronged "
+            },
+            {
+                "token": "לֽוֹ׃",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Numbers 5:7",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "לָאִ֜ישׁ",
+                "transliteration": "lā·’îš",
+                "strong": "376",
+                "translation": " the man "
+            },
+            {
+                "token": "אֵ֨ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " has no "
+            },
+            {
+                "token": "גֹּאֵ֗ל",
+                "transliteration": "gō·’êl",
+                "strong": "1350",
+                "translation": " relative "
+            },
+            {
+                "token": "לְהָשִׁ֤יב",
+                "transliteration": "lə·hā·šîḇ",
+                "strong": "7725",
+                "translation": " to whom restitution can be made for "
+            },
+            {
+                "token": "הָאָשָׁם֙",
+                "transliteration": "hā·’ā·šām",
+                "strong": "817",
+                "translation": " the wrong "
+            },
+            {
+                "token": "אֵלָ֔יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " . . . , "
+            },
+            {
+                "token": "הָאָשָׁ֛ם",
+                "transliteration": "hā·’ā·šām",
+                "strong": "817",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַמּוּשָׁ֥ב",
+                "transliteration": "ham·mū·šāḇ",
+                "strong": "7725",
+                "translation": " the restitution "
+            },
+            {
+                "token": "לַיהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " belongs to the LORD "
+            },
+            {
+                "token": "לַכֹּהֵ֑ן",
+                "transliteration": "lak·kō·hên",
+                "strong": "3548",
+                "translation": " and must be given to the priest "
+            },
+            {
+                "token": "מִלְּבַ֗ד",
+                "transliteration": "mil·lə·ḇaḏ",
+                "strong": "905",
+                "translation": " along with "
+            },
+            {
+                "token": "אֵ֚יל",
+                "transliteration": "’êl",
+                "strong": "352",
+                "translation": " the ram "
+            },
+            {
+                "token": "הַכִּפֻּרִ֔ים",
+                "transliteration": "hak·kip·pu·rîm",
+                "strong": "3725",
+                "translation": " of atonement , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " by which "
+            },
+            {
+                "token": "יְכַפֶּר־",
+                "transliteration": "yə·ḵap·per-",
+                "strong": "3722",
+                "translation": " the atonement is made "
+            },
+            {
+                "token": "בּ֖וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " for "
+            },
+            {
+                "token": "עָלָֽיו׃",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " him . "
+            }
+        ],
+        "verse_reference": "Numbers 5:8",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " Every "
+            },
+            {
+                "token": "קָדְשֵׁ֧י",
+                "transliteration": "qā·ḏə·šê",
+                "strong": "6944",
+                "translation": " sacred "
+            },
+            {
+                "token": "תְּרוּמָ֞ה",
+                "transliteration": "tə·rū·māh",
+                "strong": "8641",
+                "translation": " contribution "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְנֵי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֛ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יַקְרִ֥יבוּ",
+                "transliteration": "yaq·rî·ḇū",
+                "strong": "7126",
+                "translation": " bring "
+            },
+            {
+                "token": "לַכֹּהֵ֖ן",
+                "transliteration": "lak·kō·hên",
+                "strong": "3548",
+                "translation": " to the priest "
+            },
+            {
+                "token": "יִהְיֶֽה׃",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " shall belong "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to him . "
+            }
+        ],
+        "verse_reference": "Numbers 5:9",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִ֥ישׁ",
+                "transliteration": "wə·’îš",
+                "strong": "376",
+                "translation": " Each man’s "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "קֳדָשָׁ֖יו",
+                "transliteration": "qo·ḏā·šāw",
+                "strong": "6944",
+                "translation": " sacred gifts "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " are his own , "
+            },
+            {
+                "token": "יִהְי֑וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " [but] whatever "
+            },
+            {
+                "token": "אִ֛ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " [he] "
+            },
+            {
+                "token": "יִתֵּ֥ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " gives "
+            },
+            {
+                "token": "לַכֹּהֵ֖ן",
+                "transliteration": "lak·kō·hên",
+                "strong": "3548",
+                "translation": " to the priest "
+            },
+            {
+                "token": "יִהְיֶֽה׃פ",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " will belong to "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " [the priest] . ” "
+            }
+        ],
+        "verse_reference": "Numbers 5:10",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֥ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "לֵּאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Numbers 5:11",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דַּבֵּר֙",
+                "transliteration": "dab·bêr",
+                "strong": "1696",
+                "translation": " “ Speak "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאָמַרְתָּ֖",
+                "transliteration": "wə·’ā·mar·tā",
+                "strong": "559",
+                "translation": " and tell them that "
+            },
+            {
+                "token": "אֲלֵהֶ֑ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " if "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " any man’s "
+            },
+            {
+                "token": "אִישׁ֙",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " . . . "
+            },
+            {
+                "token": "אִשְׁתּ֔וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " wife "
+            },
+            {
+                "token": "תִשְׂטֶ֣ה",
+                "transliteration": "ṯiś·ṭeh",
+                "strong": "7847",
+                "translation": " goes astray "
+            },
+            {
+                "token": "וּמָעֲלָ֥ה",
+                "transliteration": "ū·mā·‘ă·lāh",
+                "strong": "4603",
+                "translation": " and is unfaithful "
+            },
+            {
+                "token": "ב֖וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " to him "
+            },
+            {
+                "token": "מָֽעַל׃",
+                "transliteration": "mā·‘al",
+                "strong": "4604",
+                "translation": " "
+            }
+        ],
+        "verse_reference": "Numbers 5:12",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְשָׁכַ֨ב",
+                "transliteration": "wə·šā·ḵaḇ",
+                "strong": "7901",
+                "translation": " by sleeping with "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " another man "
+            },
+            {
+                "token": "אֹתָהּ֮",
+                "transliteration": "’ō·ṯāh",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "שִׁכְבַת־",
+                "transliteration": "šiḵ·ḇaṯ-",
+                "strong": "7902",
+                "translation": " . . . "
+            },
+            {
+                "token": "זֶרַע֒",
+                "transliteration": "ze·ra‘",
+                "strong": "2233",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְנֶעְלַם֙",
+                "transliteration": "wə·ne‘·lam",
+                "strong": "5956",
+                "translation": " and it is concealed "
+            },
+            {
+                "token": "מֵעֵינֵ֣י",
+                "transliteration": "mê·‘ê·nê",
+                "strong": "5869",
+                "translation": " from "
+            },
+            {
+                "token": "אִישָׁ֔הּ",
+                "transliteration": "’î·šāh",
+                "strong": "376",
+                "translation": " her husband "
+            },
+            {
+                "token": "וְהִ֣יא",
+                "transliteration": "wə·hî",
+                "strong": "1931",
+                "translation": " and her "
+            },
+            {
+                "token": "נִטְמָ֑אָה",
+                "transliteration": "niṭ·mā·’āh",
+                "strong": "2930",
+                "translation": " impurity "
+            },
+            {
+                "token": "וְנִסְתְּרָ֖ה",
+                "transliteration": "wə·nis·tə·rāh",
+                "strong": "5641",
+                "translation": " is undetected "
+            },
+            {
+                "token": "אֵ֣ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " ( since there is no "
+            },
+            {
+                "token": "וְעֵד֙",
+                "transliteration": "wə·‘êḏ",
+                "strong": "5707",
+                "translation": " witness against her "
+            },
+            {
+                "token": "בָּ֔הּ",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִ֖וא",
+                "transliteration": "wə·hi·w",
+                "strong": "1931",
+                "translation": " and she "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " was not "
+            },
+            {
+                "token": "נִתְפָּֽשָׂה׃",
+                "transliteration": "niṯ·pā·śāh",
+                "strong": "8610",
+                "translation": " caught in the act ), "
+            }
+        ],
+        "verse_reference": "Numbers 5:13",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רֽוּחַ־",
+                "transliteration": "rū·aḥ-",
+                "strong": "7307",
+                "translation": " and if a feeling "
+            },
+            {
+                "token": "קִנְאָ֛ה",
+                "transliteration": "qin·’āh",
+                "strong": "7068",
+                "translation": " of jealousy "
+            },
+            {
+                "token": "וְעָבַ֨ר",
+                "transliteration": "wə·‘ā·ḇar",
+                "strong": "5674",
+                "translation": " comes over "
+            },
+            {
+                "token": "עָלָ֧יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " [her husband] "
+            },
+            {
+                "token": "וְקִנֵּ֥א",
+                "transliteration": "wə·qin·nê",
+                "strong": "7065",
+                "translation": " and he suspects "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אִשְׁתּ֖וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " his wife "
+            },
+            {
+                "token": "וְהִ֣וא",
+                "transliteration": "wə·hi·w",
+                "strong": "1931",
+                "translation": " who "
+            },
+            {
+                "token": "נִטְמָ֑אָה",
+                "transliteration": "niṭ·mā·’āh",
+                "strong": "2930",
+                "translation": " has defiled herself — "
+            },
+            {
+                "token": "אוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "רֽוּחַ־",
+                "transliteration": "rū·aḥ-",
+                "strong": "7307",
+                "translation": " if a feeling "
+            },
+            {
+                "token": "קִנְאָה֙",
+                "transliteration": "qin·’āh",
+                "strong": "7068",
+                "translation": " of jealousy "
+            },
+            {
+                "token": "עָבַ֨ר",
+                "transliteration": "‘ā·ḇar",
+                "strong": "5674",
+                "translation": " comes over "
+            },
+            {
+                "token": "עָלָ֤יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " him "
+            },
+            {
+                "token": "וְקִנֵּ֣א",
+                "transliteration": "wə·qin·nê",
+                "strong": "7065",
+                "translation": " and he suspects "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אִשְׁתּ֔וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " her "
+            },
+            {
+                "token": "וְהִ֖יא",
+                "transliteration": "wə·hî",
+                "strong": "1931",
+                "translation": " even though she "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "נִטְמָֽאָה׃",
+                "transliteration": "niṭ·mā·’āh",
+                "strong": "2930",
+                "translation": " defiled herself — "
+            }
+        ],
+        "verse_reference": "Numbers 5:14",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאִ֣ישׁ",
+                "transliteration": "hā·’îš",
+                "strong": "376",
+                "translation": " then [he] "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהֵבִ֨יא",
+                "transliteration": "wə·hê·ḇî",
+                "strong": "935",
+                "translation": " is to bring "
+            },
+            {
+                "token": "אִשְׁתּוֹ֮",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " his wife "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵן֒",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest . "
+            },
+            {
+                "token": "וְהֵבִ֤יא",
+                "transliteration": "wə·hê·ḇî",
+                "strong": "935",
+                "translation": " He must also bring "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עָלֶ֔יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " for her "
+            },
+            {
+                "token": "קָרְבָּנָהּ֙",
+                "transliteration": "qā·rə·bā·nāh",
+                "strong": "7133",
+                "translation": " an offering "
+            },
+            {
+                "token": "עֲשִׂירִ֥ת",
+                "transliteration": "‘ă·śî·riṯ",
+                "strong": "6224",
+                "translation": " of a tenth "
+            },
+            {
+                "token": "הָאֵיפָ֖ה",
+                "transliteration": "hā·’ê·p̄āh",
+                "strong": "374",
+                "translation": " of an ephah "
+            },
+            {
+                "token": "שְׂעֹרִ֑ים",
+                "transliteration": "śə·‘ō·rîm",
+                "strong": "8184",
+                "translation": " of barley "
+            },
+            {
+                "token": "קֶ֣מַח",
+                "transliteration": "qe·maḥ",
+                "strong": "7058",
+                "translation": " flour . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " He is not "
+            },
+            {
+                "token": "יִצֹ֨ק",
+                "transliteration": "yi·ṣōq",
+                "strong": "3332",
+                "translation": " to pour "
+            },
+            {
+                "token": "שֶׁ֗מֶן",
+                "transliteration": "še·men",
+                "strong": "8081",
+                "translation": " oil "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָלָ֜יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "יִתֵּ֤ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " it or put "
+            },
+            {
+                "token": "לְבֹנָ֔ה",
+                "transliteration": "lə·ḇō·nāh",
+                "strong": "3828",
+                "translation": " frankincense "
+            },
+            {
+                "token": "עָלָיו֙",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on it , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מִנְחַ֤ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " is a grain offering "
+            },
+            {
+                "token": "קְנָאֹת֙",
+                "transliteration": "qə·nā·’ōṯ",
+                "strong": "7068",
+                "translation": " for jealousy , "
+            },
+            {
+                "token": "מִנְחַ֥ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " an offering "
+            },
+            {
+                "token": "זִכָּר֖וֹן",
+                "transliteration": "zik·kā·rō·wn",
+                "strong": "2146",
+                "translation": " of memorial "
+            },
+            {
+                "token": "מַזְכֶּ֥רֶת",
+                "transliteration": "maz·ke·reṯ",
+                "strong": "2142",
+                "translation": " as a reminder "
+            },
+            {
+                "token": "עָוֺֽן׃",
+                "transliteration": "‘ā·wōn",
+                "strong": "5771",
+                "translation": " of iniquity . "
+            }
+        ],
+        "verse_reference": "Numbers 5:15",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֑ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְהִקְרִ֥יב",
+                "transliteration": "wə·hiq·rîḇ",
+                "strong": "7126",
+                "translation": " is to bring [the wife] forward "
+            },
+            {
+                "token": "אֹתָ֖הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהֶֽעֱמִדָ֖הּ",
+                "transliteration": "wə·he·‘ĕ·mi·ḏāh",
+                "strong": "5975",
+                "translation": " and have her stand "
+            },
+            {
+                "token": "לִפְנֵ֥י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Numbers 5:16",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " Then [he] "
+            },
+            {
+                "token": "וְלָקַ֧ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " is to take "
+            },
+            {
+                "token": "קְדֹשִׁ֖ים",
+                "transliteration": "qə·ḏō·šîm",
+                "strong": "6918",
+                "translation": " [some] holy "
+            },
+            {
+                "token": "מַ֥יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "חָ֑רֶשׂ",
+                "transliteration": "ḥā·reś",
+                "strong": "2789",
+                "translation": " in a clay "
+            },
+            {
+                "token": "בִּכְלִי־",
+                "transliteration": "biḵ·lî-",
+                "strong": "3627",
+                "translation": " jar "
+            },
+            {
+                "token": "יִקַּ֥ח",
+                "transliteration": "yiq·qaḥ",
+                "strong": "3947",
+                "translation": " - "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " - "
+            },
+            {
+                "token": "וְנָתַ֥ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " and put "
+            },
+            {
+                "token": "וּמִן־",
+                "transliteration": "ū·min-",
+                "strong": "4480",
+                "translation": " some of "
+            },
+            {
+                "token": "הֶֽעָפָ֗ר",
+                "transliteration": "he·‘ā·p̄ār",
+                "strong": "6083",
+                "translation": " the dust "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יִהְיֶה֙",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "הַמִּשְׁכָּ֔ן",
+                "transliteration": "ham·miš·kān",
+                "strong": "4908",
+                "translation": " from the tabernacle "
+            },
+            {
+                "token": "בְּקַרְקַ֣ע",
+                "transliteration": "bə·qar·qa‘",
+                "strong": "7172",
+                "translation": " floor "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הַמָּֽיִם׃",
+                "transliteration": "ham·mā·yim",
+                "strong": "4325",
+                "translation": " the water . "
+            }
+        ],
+        "verse_reference": "Numbers 5:17",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֥ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " After the priest "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאִשָּׁה֮",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " has the woman "
+            },
+            {
+                "token": "וְהֶעֱמִ֨יד",
+                "transliteration": "wə·he·‘ĕ·mîḏ",
+                "strong": "5975",
+                "translation": " stand "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָה֒",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "וּפָרַע֙",
+                "transliteration": "ū·p̄ā·ra‘",
+                "strong": "6544",
+                "translation": " he is to let down "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽאִשָּׁ֔ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " her "
+            },
+            {
+                "token": "רֹ֣אשׁ",
+                "transliteration": "rōš",
+                "strong": "7218",
+                "translation": " hair "
+            },
+            {
+                "token": "וְנָתַ֣ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " and place "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "כַּפֶּ֗יהָ",
+                "transliteration": "kap·pe·hā",
+                "strong": "3709",
+                "translation": " her hands "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִנְחַ֣ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "הַזִּכָּר֔וֹן",
+                "transliteration": "haz·zik·kā·rō·wn",
+                "strong": "2146",
+                "translation": " of memorial , "
+            },
+            {
+                "token": "הִ֑וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " which "
+            },
+            {
+                "token": "מִנְחַ֥ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " is the grain offering "
+            },
+            {
+                "token": "קְנָאֹ֖ת",
+                "transliteration": "qə·nā·’ōṯ",
+                "strong": "7068",
+                "translation": " for jealousy . "
+            },
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "יִהְי֔וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " is "
+            },
+            {
+                "token": "וּבְיַ֤ד",
+                "transliteration": "ū·ḇə·yaḏ",
+                "strong": "3027",
+                "translation": " to hold "
+            },
+            {
+                "token": "הַמָּרִ֖ים",
+                "transliteration": "ham·mā·rîm",
+                "strong": "4751",
+                "translation": " the bitter "
+            },
+            {
+                "token": "מֵ֥י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "הַמְאָֽרֲרִֽים׃",
+                "transliteration": "ham·’ā·ră·rîm",
+                "strong": "779",
+                "translation": " that brings a curse . "
+            }
+        ],
+        "verse_reference": "Numbers 5:18",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " And [he] "
+            },
+            {
+                "token": "וְהִשְׁבִּ֨יעַ",
+                "transliteration": "wə·hiš·bî·a‘",
+                "strong": "7650",
+                "translation": " is to put the woman under oath "
+            },
+            {
+                "token": "אֹתָ֜הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְאָמַ֤ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " and say "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הָֽאִשָּׁה֙",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " her , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " ‘ If "
+            },
+            {
+                "token": "לֹ֨א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " no other "
+            },
+            {
+                "token": "אִישׁ֙",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " man "
+            },
+            {
+                "token": "אֹתָ֔ךְ",
+                "transliteration": "’ō·ṯāḵ",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁכַ֥ב",
+                "transliteration": "šā·ḵaḇ",
+                "strong": "7901",
+                "translation": " has slept with you "
+            },
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " and "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " you have not "
+            },
+            {
+                "token": "שָׂטִ֛ית",
+                "transliteration": "śā·ṭîṯ",
+                "strong": "7847",
+                "translation": " gone astray "
+            },
+            {
+                "token": "טֻמְאָ֖ה",
+                "transliteration": "ṭum·’āh",
+                "strong": "2932",
+                "translation": " and become defiled "
+            },
+            {
+                "token": "תַּ֣חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " while under "
+            },
+            {
+                "token": "אִישֵׁ֑ךְ",
+                "transliteration": "’î·šêḵ",
+                "strong": "376",
+                "translation": " your husband’s authority , "
+            },
+            {
+                "token": "הִנָּקִ֕י",
+                "transliteration": "hin·nā·qî",
+                "strong": "5352",
+                "translation": " may you be immune "
+            },
+            {
+                "token": "הָאֵֽלֶּה׃",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " to this "
+            },
+            {
+                "token": "הַמָּרִ֥ים",
+                "transliteration": "ham·mā·rîm",
+                "strong": "4751",
+                "translation": " bitter "
+            },
+            {
+                "token": "מִמֵּ֛י",
+                "transliteration": "mim·mê",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "הַֽמְאָרֲרִ֖ים",
+                "transliteration": "ham·’ā·ră·rîm",
+                "strong": "779",
+                "translation": " that brings a curse . "
+            }
+        ],
+        "verse_reference": "Numbers 5:19",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " But if "
+            },
+            {
+                "token": "וְאַ֗תְּ",
+                "transliteration": "wə·’at",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "שָׂטִ֛ית",
+                "transliteration": "śā·ṭîṯ",
+                "strong": "7847",
+                "translation": " have gone astray "
+            },
+            {
+                "token": "תַּ֥חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " while under "
+            },
+            {
+                "token": "אִישֵׁ֖ךְ",
+                "transliteration": "’î·šêḵ",
+                "strong": "376",
+                "translation": " your husband’s authority "
+            },
+            {
+                "token": "וְכִ֣י",
+                "transliteration": "wə·ḵî",
+                "strong": "3588",
+                "translation": " and "
+            },
+            {
+                "token": "נִטְמֵ֑את",
+                "transliteration": "niṭ·mêṯ",
+                "strong": "2930",
+                "translation": " have defiled yourself "
+            },
+            {
+                "token": "וַיִּתֵּ֨ן",
+                "transliteration": "way·yit·tên",
+                "strong": "5414",
+                "translation": " and lain "
+            },
+            {
+                "token": "שְׁכָבְתּ֔וֹ",
+                "transliteration": "šə·ḵā·ḇə·tōw",
+                "strong": "7903",
+                "translation": " carnally "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " with a man "
+            },
+            {
+                "token": "בָּךְ֙",
+                "transliteration": "bāḵ",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִֽבַּלְעֲדֵ֖י",
+                "transliteration": "mib·bal·‘ă·ḏê",
+                "strong": "1107",
+                "translation": " other than "
+            },
+            {
+                "token": "אִישֵֽׁךְ׃",
+                "transliteration": "’î·šêḵ",
+                "strong": "376",
+                "translation": " your husband ’— "
+            }
+        ],
+        "verse_reference": "Numbers 5:20",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֥ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "הָֽאִשָּׁה֮",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " shall have the woman "
+            },
+            {
+                "token": "וְהִשְׁבִּ֨יעַ",
+                "transliteration": "wə·hiš·bî·a‘",
+                "strong": "7650",
+                "translation": " swear "
+            },
+            {
+                "token": "בִּשְׁבֻעַ֣ת",
+                "transliteration": "biš·ḇu·‘aṯ",
+                "strong": "7621",
+                "translation": " under the oath "
+            },
+            {
+                "token": "הָאָלָה֒",
+                "transliteration": "hā·’ā·lāh",
+                "strong": "423",
+                "translation": " of the curse "
+            },
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " - "
+            },
+            {
+                "token": "וְאָמַ֤ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " - "
+            },
+            {
+                "token": "לָֽאִשָּׁ֔ה",
+                "transliteration": "lā·’iš·šāh",
+                "strong": "802",
+                "translation": " - — "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " ‘ then may the LORD "
+            },
+            {
+                "token": "יִתֵּ֨ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " make "
+            },
+            {
+                "token": "אוֹתָ֛ךְ",
+                "transliteration": "’ō·w·ṯāḵ",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "לְאָלָ֥ה",
+                "transliteration": "lə·’ā·lāh",
+                "strong": "423",
+                "translation": " an attested "
+            },
+            {
+                "token": "וְלִשְׁבֻעָ֖ה",
+                "transliteration": "wə·liš·ḇu·‘āh",
+                "strong": "7621",
+                "translation": " curse "
+            },
+            {
+                "token": "בְּת֣וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " among "
+            },
+            {
+                "token": "עַמֵּ֑ךְ",
+                "transliteration": "‘am·mêḵ",
+                "strong": "5971",
+                "translation": " your people "
+            },
+            {
+                "token": "יְהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " - "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "בְּתֵ֨ת",
+                "transliteration": "bə·ṯêṯ",
+                "strong": "5414",
+                "translation": " by making "
+            },
+            {
+                "token": "יְרֵכֵךְ֙",
+                "transliteration": "yə·rê·ḵêḵ",
+                "strong": "3409",
+                "translation": " your thigh "
+            },
+            {
+                "token": "נֹפֶ֔לֶת",
+                "transliteration": "nō·p̄e·leṯ",
+                "strong": "5307",
+                "translation": " shrivel "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בִּטְנֵ֖ךְ",
+                "transliteration": "biṭ·nêḵ",
+                "strong": "990",
+                "translation": " and your belly "
+            },
+            {
+                "token": "צָבָֽה׃",
+                "transliteration": "ṣā·ḇāh",
+                "strong": "6639",
+                "translation": " swell . "
+            }
+        ],
+        "verse_reference": "Numbers 5:21",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאֵ֙לֶּה֙",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " May this "
+            },
+            {
+                "token": "הַמַּ֨יִם",
+                "transliteration": "ham·ma·yim",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "הַמְאָרְרִ֤ים",
+                "transliteration": "ham·’ā·rə·rîm",
+                "strong": "779",
+                "translation": " that brings a curse "
+            },
+            {
+                "token": "וּ֠בָאוּ",
+                "transliteration": "ū·ḇā·’ū",
+                "strong": "935",
+                "translation": " enter "
+            },
+            {
+                "token": "בְּֽמֵעַ֔יִךְ",
+                "transliteration": "bə·mê·‘a·yiḵ",
+                "strong": "4578",
+                "translation": " your stomach "
+            },
+            {
+                "token": "בֶּ֖טֶן",
+                "transliteration": "be·ṭen",
+                "strong": "990",
+                "translation": " and cause your belly "
+            },
+            {
+                "token": "לַצְבּ֥וֹת",
+                "transliteration": "laṣ·bō·wṯ",
+                "strong": "6638",
+                "translation": " to swell "
+            },
+            {
+                "token": "יָרֵ֑ךְ",
+                "transliteration": "yā·rêḵ",
+                "strong": "3409",
+                "translation": " and your thigh "
+            },
+            {
+                "token": "וְלַנְפִּ֣ל",
+                "transliteration": "wə·lan·pil",
+                "strong": "5307",
+                "translation": " to shrivel . ’ "
+            },
+            {
+                "token": "הָאִשָּׁ֖ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " Then the woman "
+            },
+            {
+                "token": "וְאָמְרָ֥ה",
+                "transliteration": "wə·’ā·mə·rāh",
+                "strong": "559",
+                "translation": " is to say , "
+            },
+            {
+                "token": "אָמֵ֥ן׀",
+                "transliteration": "’ā·mên",
+                "strong": "543",
+                "translation": " ‘ Amen , "
+            },
+            {
+                "token": "אָמֵֽן׃",
+                "transliteration": "’ā·mên",
+                "strong": "543",
+                "translation": " Amen . ’ "
+            }
+        ],
+        "verse_reference": "Numbers 5:22",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " And the priest "
+            },
+            {
+                "token": "וְ֠כָתַב",
+                "transliteration": "wə·ḵā·ṯaḇ",
+                "strong": "3789",
+                "translation": " shall write "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאֵ֛לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " these "
+            },
+            {
+                "token": "הָאָלֹ֥ת",
+                "transliteration": "hā·’ā·lōṯ",
+                "strong": "423",
+                "translation": " curses "
+            },
+            {
+                "token": "בַּסֵּ֑פֶר",
+                "transliteration": "bas·sê·p̄er",
+                "strong": "5612",
+                "translation": " on a scroll "
+            },
+            {
+                "token": "וּמָחָ֖ה",
+                "transliteration": "ū·mā·ḥāh",
+                "strong": "4229",
+                "translation": " and wash them off "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הַמָּרִֽים׃",
+                "transliteration": "ham·mā·rîm",
+                "strong": "4751",
+                "translation": " the bitter "
+            },
+            {
+                "token": "מֵ֥י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " water . "
+            }
+        ],
+        "verse_reference": "Numbers 5:23",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָ֣אִשָּׁ֔ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " He is to have the woman "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִשְׁקָה֙",
+                "transliteration": "wə·hiš·qāh",
+                "strong": "8248",
+                "translation": " drink "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמָּרִ֖ים",
+                "transliteration": "ham·mā·rîm",
+                "strong": "4751",
+                "translation": " the bitter "
+            },
+            {
+                "token": "מֵ֥י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "הַמְאָֽרֲרִ֑ים",
+                "transliteration": "ham·’ā·ră·rîm",
+                "strong": "779",
+                "translation": " that brings a curse , "
+            },
+            {
+                "token": "הַמַּ֥יִם",
+                "transliteration": "ham·ma·yim",
+                "strong": "4325",
+                "translation": " and it "
+            },
+            {
+                "token": "וּבָ֥אוּ",
+                "transliteration": "ū·ḇā·’ū",
+                "strong": "935",
+                "translation": " will enter "
+            },
+            {
+                "token": "בָ֛הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " her "
+            },
+            {
+                "token": "לְמָרִֽים׃",
+                "transliteration": "lə·mā·rîm",
+                "strong": "4751",
+                "translation": " and cause her bitter "
+            },
+            {
+                "token": "הַֽמְאָרֲרִ֖ים",
+                "transliteration": "ham·’ā·ră·rîm",
+                "strong": "779",
+                "translation": " suffering . "
+            }
+        ],
+        "verse_reference": "Numbers 5:24",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵן֙",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְלָקַ֤ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " shall take "
+            },
+            {
+                "token": "הָֽאִשָּׁ֔ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " from [her] "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִיַּ֣ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " hand "
+            },
+            {
+                "token": "מִנְחַ֣ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "הַקְּנָאֹ֑ת",
+                "transliteration": "haq·qə·nā·’ōṯ",
+                "strong": "7068",
+                "translation": " for jealousy , "
+            },
+            {
+                "token": "וְהֵנִ֤יף",
+                "transliteration": "wə·hê·nîp̄",
+                "strong": "5130",
+                "translation": " wave "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמִּנְחָה֙",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " [it] "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "וְהִקְרִ֥יב",
+                "transliteration": "wə·hiq·rîḇ",
+                "strong": "7126",
+                "translation": " and bring "
+            },
+            {
+                "token": "אֹתָ֖הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " it to "
+            },
+            {
+                "token": "הַמִּזְבֵּֽחַ׃",
+                "transliteration": "ham·miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " the altar . "
+            }
+        ],
+        "verse_reference": "Numbers 5:25",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֤ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " Then the priest "
+            },
+            {
+                "token": "וְקָמַ֨ץ",
+                "transliteration": "wə·qā·maṣ",
+                "strong": "7061",
+                "translation": " is to take a handful "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַמִּנְחָה֙",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אַזְכָּ֣רָתָ֔הּ",
+                "transliteration": "’az·kā·rā·ṯāh",
+                "strong": "234",
+                "translation": " as a memorial portion "
+            },
+            {
+                "token": "וְהִקְטִ֖יר",
+                "transliteration": "wə·hiq·ṭîr",
+                "strong": "6999",
+                "translation": " and burn "
+            },
+            {
+                "token": "הַמִּזְבֵּ֑חָה",
+                "transliteration": "ham·miz·bê·ḥāh",
+                "strong": "4196",
+                "translation": " it on the altar ; "
+            },
+            {
+                "token": "וְאַחַ֛ר",
+                "transliteration": "wə·’a·ḥar",
+                "strong": "310",
+                "translation": " after that "
+            },
+            {
+                "token": "הָאִשָּׁ֖ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " he is to have the woman "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יַשְׁקֶ֥ה",
+                "transliteration": "yaš·qeh",
+                "strong": "8248",
+                "translation": " drink "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמָּֽיִם׃",
+                "transliteration": "ham·mā·yim",
+                "strong": "4325",
+                "translation": " the water . "
+            }
+        ],
+        "verse_reference": "Numbers 5:26",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהִשְׁקָ֣הּ",
+                "transliteration": "wə·hiš·qāh",
+                "strong": "8248",
+                "translation": " When he has made her drink "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמַּ֗יִם",
+                "transliteration": "ham·ma·yim",
+                "strong": "4325",
+                "translation": " the water , "
+            },
+            {
+                "token": "וְהָיְתָ֣ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " "
+            },
+            {
+                "token": "אִֽם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " if "
+            },
+            {
+                "token": "נִטְמְאָה֮",
+                "transliteration": "niṭ·mə·’āh",
+                "strong": "2930",
+                "translation": " she has defiled herself "
+            },
+            {
+                "token": "וַתִּמְעֹ֣ל",
+                "transliteration": "wat·tim·‘ōl",
+                "strong": "4603",
+                "translation": " and been unfaithful "
+            },
+            {
+                "token": "מַ֣עַל",
+                "transliteration": "ma·‘al",
+                "strong": "4604",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּאִישָׁהּ֒",
+                "transliteration": "bə·’î·šāh",
+                "strong": "376",
+                "translation": " to her husband , "
+            },
+            {
+                "token": "הַמַּ֤יִם",
+                "transliteration": "ham·ma·yim",
+                "strong": "4325",
+                "translation": " then the water "
+            },
+            {
+                "token": "הַמְאָֽרֲרִים֙",
+                "transliteration": "ham·’ā·ră·rîm",
+                "strong": "779",
+                "translation": " that brings a curse "
+            },
+            {
+                "token": "וּבָ֨אוּ",
+                "transliteration": "ū·ḇā·’ū",
+                "strong": "935",
+                "translation": " will enter "
+            },
+            {
+                "token": "בָ֜הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " her "
+            },
+            {
+                "token": "לְמָרִ֔ים",
+                "transliteration": "lə·mā·rîm",
+                "strong": "4751",
+                "translation": " and cause bitter suffering ; "
+            },
+            {
+                "token": "בִטְנָ֔הּ",
+                "transliteration": "ḇiṭ·nāh",
+                "strong": "990",
+                "translation": " her belly "
+            },
+            {
+                "token": "וְצָבְתָ֣ה",
+                "transliteration": "wə·ṣā·ḇə·ṯāh",
+                "strong": "6638",
+                "translation": " will swell , "
+            },
+            {
+                "token": "יְרֵכָ֑הּ",
+                "transliteration": "yə·rê·ḵāh",
+                "strong": "3409",
+                "translation": " her thigh "
+            },
+            {
+                "token": "וְנָפְלָ֖ה",
+                "transliteration": "wə·nā·p̄ə·lāh",
+                "strong": "5307",
+                "translation": " will shrivel , "
+            },
+            {
+                "token": "וְהָיְתָ֧ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " and she will become "
+            },
+            {
+                "token": "הָאִשָּׁ֛ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְאָלָ֖ה",
+                "transliteration": "lə·’ā·lāh",
+                "strong": "423",
+                "translation": " accursed "
+            },
+            {
+                "token": "בְּקֶ֥רֶב",
+                "transliteration": "bə·qe·reḇ",
+                "strong": "7130",
+                "translation": " among "
+            },
+            {
+                "token": "עַמָּֽהּ׃",
+                "transliteration": "‘am·māh",
+                "strong": "5971",
+                "translation": " her people . "
+            }
+        ],
+        "verse_reference": "Numbers 5:27",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "הָֽאִשָּׁ֔ה",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " the woman "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "נִטְמְאָה֙",
+                "transliteration": "niṭ·mə·’āh",
+                "strong": "2930",
+                "translation": " defiled herself "
+            },
+            {
+                "token": "וּטְהֹרָ֖ה",
+                "transliteration": "ū·ṭə·hō·rāh",
+                "strong": "2889",
+                "translation": " and is clean , "
+            },
+            {
+                "token": "הִ֑וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " she "
+            },
+            {
+                "token": "וְנִקְּתָ֖ה",
+                "transliteration": "wə·niq·qə·ṯāh",
+                "strong": "5352",
+                "translation": " will be unaffected "
+            },
+            {
+                "token": "וְנִזְרְעָ֥ה",
+                "transliteration": "wə·niz·rə·‘āh",
+                "strong": "2232",
+                "translation": " and able to conceive "
+            },
+            {
+                "token": "זָֽרַע׃",
+                "transliteration": "zā·ra‘",
+                "strong": "2233",
+                "translation": " children . "
+            }
+        ],
+        "verse_reference": "Numbers 5:28",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹ֥את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " This "
+            },
+            {
+                "token": "תּוֹרַ֖ת",
+                "transliteration": "tō·w·raṯ",
+                "strong": "8451",
+                "translation": " is the law "
+            },
+            {
+                "token": "הַקְּנָאֹ֑ת",
+                "transliteration": "haq·qə·nā·’ōṯ",
+                "strong": "7068",
+                "translation": " of jealousy "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " when "
+            },
+            {
+                "token": "אִשָּׁ֛ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " a wife "
+            },
+            {
+                "token": "תִּשְׂטֶ֥ה",
+                "transliteration": "tiś·ṭeh",
+                "strong": "7847",
+                "translation": " goes astray "
+            },
+            {
+                "token": "וְנִטְמָֽאָה׃",
+                "transliteration": "wə·niṭ·mā·’āh",
+                "strong": "2930",
+                "translation": " and defiles herself "
+            },
+            {
+                "token": "תַּ֥חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " while under "
+            },
+            {
+                "token": "אִישָׁ֖הּ",
+                "transliteration": "’î·šāh",
+                "strong": "376",
+                "translation": " her husband’s authority , "
+            }
+        ],
+        "verse_reference": "Numbers 5:29",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " when "
+            },
+            {
+                "token": "ר֥וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " a feeling "
+            },
+            {
+                "token": "קִנְאָ֖ה",
+                "transliteration": "qin·’āh",
+                "strong": "7068",
+                "translation": " of jealousy "
+            },
+            {
+                "token": "תַּעֲבֹ֥ר",
+                "transliteration": "ta·‘ă·ḇōr",
+                "strong": "5674",
+                "translation": " comes over "
+            },
+            {
+                "token": "עָלָ֛יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "אִ֗ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " a husband "
+            },
+            {
+                "token": "וְקִנֵּ֣א",
+                "transliteration": "wə·qin·nê",
+                "strong": "7065",
+                "translation": " and he suspects "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אִשְׁתּ֑וֹ",
+                "transliteration": "’iš·tōw",
+                "strong": "802",
+                "translation": " his wife . "
+            },
+            {
+                "token": "הָֽאִשָּׁה֙",
+                "transliteration": "hā·’iš·šāh",
+                "strong": "802",
+                "translation": " He is to have the woman "
+            },
+            {
+                "token": "וְהֶעֱמִ֤יד",
+                "transliteration": "wə·he·‘ĕ·mîḏ",
+                "strong": "5975",
+                "translation": " stand "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " and the priest "
+            },
+            {
+                "token": "אֵ֥ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְעָ֤שָׂה",
+                "transliteration": "wə·‘ā·śāh",
+                "strong": "6213",
+                "translation": " is to apply "
+            },
+            {
+                "token": "לָהּ֙",
+                "transliteration": "lāh",
+                "strong": "",
+                "translation": " to her "
+            },
+            {
+                "token": "הַזֹּֽאת׃",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " entire "
+            },
+            {
+                "token": "הַתּוֹרָ֖ה",
+                "transliteration": "hat·tō·w·rāh",
+                "strong": "8451",
+                "translation": " law . "
+            }
+        ],
+        "verse_reference": "Numbers 5:30",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאִ֖ישׁ",
+                "transliteration": "hā·’îš",
+                "strong": "376",
+                "translation": " The husband "
+            },
+            {
+                "token": "וְנִקָּ֥ה",
+                "transliteration": "wə·niq·qāh",
+                "strong": "5352",
+                "translation": " will be free "
+            },
+            {
+                "token": "מֵעָוֺ֑ן",
+                "transliteration": "mê·‘ā·wōn",
+                "strong": "5771",
+                "translation": " from guilt , "
+            },
+            {
+                "token": "הַהִ֔וא",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " but the "
+            },
+            {
+                "token": "וְהָאִשָּׁ֣ה",
+                "transliteration": "wə·hā·’iš·šāh",
+                "strong": "802",
+                "translation": " woman "
+            },
+            {
+                "token": "תִּשָּׂ֖א",
+                "transliteration": "tiś·śā",
+                "strong": "5375",
+                "translation": " shall bear "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " her "
+            },
+            {
+                "token": "עֲוֺנָֽהּ׃פ",
+                "transliteration": "‘ă·wō·nāh",
+                "strong": "5771",
+                "translation": " iniquity . ” "
+            }
+        ],
+        "verse_reference": "Numbers 5:31",
+        "book": "Numbers",
+        "chapter": "5",
+        "verse": "31"
+    }
+]

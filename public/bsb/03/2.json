@@ -1,0 +1,1330 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " [“] When "
+            },
+            {
+                "token": "וְנֶ֗פֶשׁ",
+                "transliteration": "wə·ne·p̄eš",
+                "strong": "5315",
+                "translation": " anyone "
+            },
+            {
+                "token": "תַקְרִ֞יב",
+                "transliteration": "ṯaq·rîḇ",
+                "strong": "7126",
+                "translation": " brings "
+            },
+            {
+                "token": "קָרְבַּ֤ן",
+                "transliteration": "qā·rə·ban",
+                "strong": "7133",
+                "translation": " a grain offering "
+            },
+            {
+                "token": "מִנְחָה֙",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " . . . "
+            },
+            {
+                "token": "לַֽיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "קָרְבָּנ֑וֹ",
+                "transliteration": "qā·rə·bā·nōw",
+                "strong": "7133",
+                "translation": " his offering "
+            },
+            {
+                "token": "סֹ֖לֶת",
+                "transliteration": "sō·leṯ",
+                "strong": "5560",
+                "translation": " must consist of fine flour . "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְיָצַ֤ק",
+                "transliteration": "wə·yā·ṣaq",
+                "strong": "3332",
+                "translation": " He is to pour "
+            },
+            {
+                "token": "שֶׁ֔מֶן",
+                "transliteration": "še·men",
+                "strong": "8081",
+                "translation": " olive oil "
+            },
+            {
+                "token": "עָלֶ֙יהָ֙",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " on it , "
+            },
+            {
+                "token": "וְנָתַ֥ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " put "
+            },
+            {
+                "token": "לְבֹנָֽה׃",
+                "transliteration": "lə·ḇō·nāh",
+                "strong": "3828",
+                "translation": " frankincense "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " on it , "
+            }
+        ],
+        "verse_reference": "Leviticus 2:1",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וֶֽהֱבִיאָ֗הּ",
+                "transliteration": "we·hĕ·ḇî·’āh",
+                "strong": "935",
+                "translation": " and bring "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " it to "
+            },
+            {
+                "token": "אַהֲרֹן֮",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " Aaron’s "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " sons "
+            },
+            {
+                "token": "הַכֹּהֲנִים֒",
+                "transliteration": "hak·kō·hă·nîm",
+                "strong": "3548",
+                "translation": " the priests . "
+            },
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְקָמַ֨ץ",
+                "transliteration": "wə·qā·maṣ",
+                "strong": "7061",
+                "translation": " shall take a handful "
+            },
+            {
+                "token": "מִשָּׁ֜ם",
+                "transliteration": "miš·šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "מְלֹ֣א",
+                "transliteration": "mə·lō",
+                "strong": "4393",
+                "translation": " . . . "
+            },
+            {
+                "token": "קֻמְצ֗וֹ",
+                "transliteration": "qum·ṣōw",
+                "strong": "7062",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִסָּלְתָּהּ֙",
+                "transliteration": "mis·sā·lə·tāh",
+                "strong": "5560",
+                "translation": " of the flour "
+            },
+            {
+                "token": "וּמִשַּׁמְנָ֔הּ",
+                "transliteration": "ū·miš·šam·nāh",
+                "strong": "8081",
+                "translation": " and oil , "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " together with "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "לְבֹנָתָ֑הּ",
+                "transliteration": "lə·ḇō·nā·ṯāh",
+                "strong": "3828",
+                "translation": " the frankincense , "
+            },
+            {
+                "token": "וְהִקְטִ֨יר",
+                "transliteration": "wə·hiq·ṭîr",
+                "strong": "6999",
+                "translation": " and burn this "
+            },
+            {
+                "token": "אַזְכָּרָתָהּ֙",
+                "transliteration": "’az·kā·rā·ṯāh",
+                "strong": "234",
+                "translation": " as a memorial portion "
+            },
+            {
+                "token": "הַמִּזְבֵּ֔חָה",
+                "transliteration": "ham·miz·bê·ḥāh",
+                "strong": "4196",
+                "translation": " on the altar , "
+            },
+            {
+                "token": "אִשֵּׁ֛ה",
+                "transliteration": "’iš·šêh",
+                "strong": "801",
+                "translation": " an offering made by fire , "
+            },
+            {
+                "token": "נִיחֹ֖חַ",
+                "transliteration": "nî·ḥō·aḥ",
+                "strong": "5207",
+                "translation": " a pleasing "
+            },
+            {
+                "token": "רֵ֥יחַ",
+                "transliteration": "rê·aḥ",
+                "strong": "7381",
+                "translation": " aroma "
+            },
+            {
+                "token": "לַיהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:2",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַנּוֹתֶ֙רֶת֙",
+                "transliteration": "wə·han·nō·w·ṯe·reṯ",
+                "strong": "3498",
+                "translation": " The remainder "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַמִּנְחָ֔ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "לְאַהֲרֹ֖ן",
+                "transliteration": "lə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " shall belong to Aaron "
+            },
+            {
+                "token": "וּלְבָנָ֑יו",
+                "transliteration": "ū·lə·ḇā·nāw",
+                "strong": "1121",
+                "translation": " and his sons ; "
+            },
+            {
+                "token": "קֹ֥דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " it is a most "
+            },
+            {
+                "token": "קָֽדָשִׁ֖ים",
+                "transliteration": "qā·ḏā·šîm",
+                "strong": "6944",
+                "translation": " holy part "
+            },
+            {
+                "token": "מֵאִשֵּׁ֥י",
+                "transliteration": "mê·’iš·šê",
+                "strong": "801",
+                "translation": " of the offerings made by fire "
+            },
+            {
+                "token": "יְהוָֽה׃ס",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:3",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִ֥י",
+                "transliteration": "wə·ḵî",
+                "strong": "3588",
+                "translation": " Now if "
+            },
+            {
+                "token": "תַקְרִ֛ב",
+                "transliteration": "ṯaq·riḇ",
+                "strong": "7126",
+                "translation": " you bring "
+            },
+            {
+                "token": "קָרְבַּ֥ן",
+                "transliteration": "qā·rə·ban",
+                "strong": "7133",
+                "translation": " an offering of grain "
+            },
+            {
+                "token": "מִנְחָ֖ה",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַאֲפֵ֣ה",
+                "transliteration": "ma·’ă·p̄êh",
+                "strong": "3989",
+                "translation": " baked "
+            },
+            {
+                "token": "תַנּ֑וּר",
+                "transliteration": "ṯan·nūr",
+                "strong": "8574",
+                "translation": " in an oven , "
+            },
+            {
+                "token": "סֹ֣לֶת",
+                "transliteration": "sō·leṯ",
+                "strong": "5560",
+                "translation": " it must consist of fine flour , "
+            },
+            {
+                "token": "מַצֹּת֙",
+                "transliteration": "maṣ·ṣōṯ",
+                "strong": "4682",
+                "translation": " either unleavened "
+            },
+            {
+                "token": "חַלּ֤וֹת",
+                "transliteration": "ḥal·lō·wṯ",
+                "strong": "2471",
+                "translation": " cakes "
+            },
+            {
+                "token": "בְּלוּלֹ֣ת",
+                "transliteration": "bə·lū·lōṯ",
+                "strong": "1101",
+                "translation": " mixed "
+            },
+            {
+                "token": "בַּשֶּׁ֔מֶן",
+                "transliteration": "baš·še·men",
+                "strong": "8081",
+                "translation": " with oil "
+            },
+            {
+                "token": "מַצּ֖וֹת",
+                "transliteration": "maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " or unleavened "
+            },
+            {
+                "token": "וּרְקִיקֵ֥י",
+                "transliteration": "ū·rə·qî·qê",
+                "strong": "7550",
+                "translation": " wafers "
+            },
+            {
+                "token": "מְשֻׁחִ֥ים",
+                "transliteration": "mə·šu·ḥîm",
+                "strong": "4886",
+                "translation": " coated "
+            },
+            {
+                "token": "בַּשָּֽׁמֶן׃ס",
+                "transliteration": "baš·šā·men",
+                "strong": "8081",
+                "translation": " with oil . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:4",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "קָרְבָּנֶ֑ךָ",
+                "transliteration": "qā·rə·bā·ne·ḵā",
+                "strong": "7133",
+                "translation": " your offering "
+            },
+            {
+                "token": "מִנְחָ֥ה",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " is a grain offering "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " prepared on "
+            },
+            {
+                "token": "הַֽמַּחֲבַ֖ת",
+                "transliteration": "ham·ma·ḥă·ḇaṯ",
+                "strong": "4227",
+                "translation": " a griddle , "
+            },
+            {
+                "token": "תִהְיֶֽה׃",
+                "transliteration": "ṯih·yeh",
+                "strong": "1961",
+                "translation": " it must be "
+            },
+            {
+                "token": "מַצָּ֥ה",
+                "transliteration": "maṣ·ṣāh",
+                "strong": "4682",
+                "translation": " unleavened bread "
+            },
+            {
+                "token": "סֹ֛לֶת",
+                "transliteration": "sō·leṯ",
+                "strong": "5560",
+                "translation": " made of fine flour "
+            },
+            {
+                "token": "בְּלוּלָ֥ה",
+                "transliteration": "bə·lū·lāh",
+                "strong": "1101",
+                "translation": " mixed "
+            },
+            {
+                "token": "בַשֶּׁ֖מֶן",
+                "transliteration": "ḇaš·še·men",
+                "strong": "8081",
+                "translation": " with oil . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:5",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פָּת֤וֹת",
+                "transliteration": "pā·ṯō·wṯ",
+                "strong": "6626",
+                "translation": " Crumble it "
+            },
+            {
+                "token": "אֹתָהּ֙",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "פִּתִּ֔ים",
+                "transliteration": "pit·tîm",
+                "strong": "6595",
+                "translation": " - "
+            },
+            {
+                "token": "וְיָצַקְתָּ֥",
+                "transliteration": "wə·yā·ṣaq·tā",
+                "strong": "3332",
+                "translation": " and pour "
+            },
+            {
+                "token": "שָׁ֑מֶן",
+                "transliteration": "šā·men",
+                "strong": "8081",
+                "translation": " oil "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " on it ; "
+            },
+            {
+                "token": "הִֽוא׃ס",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מִנְחָ֖ה",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " is a grain offering . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:6",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "קָרְבָּנֶ֑ךָ",
+                "transliteration": "qā·rə·bā·ne·ḵā",
+                "strong": "7133",
+                "translation": " your offering "
+            },
+            {
+                "token": "מִנְחַ֥ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " is a grain offering "
+            },
+            {
+                "token": "מַרְחֶ֖שֶׁת",
+                "transliteration": "mar·ḥe·šeṯ",
+                "strong": "4802",
+                "translation": " [cooked] in a pan , "
+            },
+            {
+                "token": "תֵּעָשֶֽׂה׃",
+                "transliteration": "tê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " it must consist "
+            },
+            {
+                "token": "סֹ֥לֶת",
+                "transliteration": "sō·leṯ",
+                "strong": "5560",
+                "translation": " of fine flour "
+            },
+            {
+                "token": "בַּשֶּׁ֖מֶן",
+                "transliteration": "baš·še·men",
+                "strong": "8081",
+                "translation": " with oil . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:7",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהֵבֵאתָ֣",
+                "transliteration": "wə·hê·ḇê·ṯā",
+                "strong": "935",
+                "translation": " When you bring "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "הַמִּנְחָ֗ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "אֲשֶׁ֧ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יֵעָשֶׂ֛ה",
+                "transliteration": "yê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " made "
+            },
+            {
+                "token": "מֵאֵ֖לֶּה",
+                "transliteration": "mê·’êl·leh",
+                "strong": "428",
+                "translation": " in any of these ways , "
+            },
+            {
+                "token": "וְהִקְרִיבָהּ֙",
+                "transliteration": "wə·hiq·rî·ḇāh",
+                "strong": "7126",
+                "translation": " it is to be presented "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַכֹּהֵ֔ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest , "
+            },
+            {
+                "token": "וְהִגִּישָׁ֖הּ",
+                "transliteration": "wə·hig·gî·šāh",
+                "strong": "5066",
+                "translation": " and he shall take "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " it to "
+            },
+            {
+                "token": "הַמִּזְבֵּֽחַ׃",
+                "transliteration": "ham·miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " the altar . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:8",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֤ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְהֵרִ֨ים",
+                "transliteration": "wə·hê·rîm",
+                "strong": "7311",
+                "translation": " is to remove "
+            },
+            {
+                "token": "אַזְכָּ֣רָתָ֔הּ",
+                "transliteration": "’az·kā·rā·ṯāh",
+                "strong": "234",
+                "translation": " the memorial portion "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַמִּנְחָה֙",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִקְטִ֖יר",
+                "transliteration": "wə·hiq·ṭîr",
+                "strong": "6999",
+                "translation": " and burn "
+            },
+            {
+                "token": "הַמִּזְבֵּ֑חָה",
+                "transliteration": "ham·miz·bê·ḥāh",
+                "strong": "4196",
+                "translation": " it on the altar "
+            },
+            {
+                "token": "אִשֵּׁ֛ה",
+                "transliteration": "’iš·šêh",
+                "strong": "801",
+                "translation": " as an offering made by fire , "
+            },
+            {
+                "token": "נִיחֹ֖חַ",
+                "transliteration": "nî·ḥō·aḥ",
+                "strong": "5207",
+                "translation": " a pleasing "
+            },
+            {
+                "token": "רֵ֥יחַ",
+                "transliteration": "rê·aḥ",
+                "strong": "7381",
+                "translation": " aroma "
+            },
+            {
+                "token": "לַיהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:9",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַנּוֹתֶ֙רֶת֙",
+                "transliteration": "wə·han·nō·w·ṯe·reṯ",
+                "strong": "3498",
+                "translation": " But the remainder "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " of "
+            },
+            {
+                "token": "הַמִּנְחָ֔ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " the grain offering "
+            },
+            {
+                "token": "לְאַהֲרֹ֖ן",
+                "transliteration": "lə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " shall belong to Aaron "
+            },
+            {
+                "token": "וּלְבָנָ֑יו",
+                "transliteration": "ū·lə·ḇā·nāw",
+                "strong": "1121",
+                "translation": " and his sons ; "
+            },
+            {
+                "token": "קֹ֥דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " it is a most "
+            },
+            {
+                "token": "קָֽדָשִׁ֖ים",
+                "transliteration": "qā·ḏā·šîm",
+                "strong": "6944",
+                "translation": " holy "
+            },
+            {
+                "token": "מֵאִשֵּׁ֥י",
+                "transliteration": "mê·’iš·šê",
+                "strong": "801",
+                "translation": " part of the offerings made by fire "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:10",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " No "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַמִּנְחָ֗ה",
+                "transliteration": "ham·min·ḥāh",
+                "strong": "4503",
+                "translation": " grain offering "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "תַּקְרִ֙יבוּ֙",
+                "transliteration": "taq·rî·ḇū",
+                "strong": "7126",
+                "translation": " you present "
+            },
+            {
+                "token": "לַיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "תֵעָשֶׂ֖ה",
+                "transliteration": "ṯê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " may be made "
+            },
+            {
+                "token": "חָמֵ֑ץ",
+                "transliteration": "ḥā·mêṣ",
+                "strong": "2557",
+                "translation": " with leaven , "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " you are not "
+            },
+            {
+                "token": "תַקְטִ֧ירוּ",
+                "transliteration": "ṯaq·ṭî·rū",
+                "strong": "6999",
+                "translation": " to burn "
+            },
+            {
+                "token": "מִמֶּ֛נּוּ",
+                "transliteration": "mim·men·nū",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "שְׂאֹר֙",
+                "transliteration": "śə·’ōr",
+                "strong": "7603",
+                "translation": " leaven "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "דְּבַ֔שׁ",
+                "transliteration": "də·ḇaš",
+                "strong": "1706",
+                "translation": " or honey "
+            },
+            {
+                "token": "אִשֶּׁ֖ה",
+                "transliteration": "’iš·šeh",
+                "strong": "801",
+                "translation": " as an offering made by fire "
+            },
+            {
+                "token": "לַֽיהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:11",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תַּקְרִ֥יבוּ",
+                "transliteration": "taq·rî·ḇū",
+                "strong": "7126",
+                "translation": " You may bring "
+            },
+            {
+                "token": "אֹתָ֖ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "קָרְבַּ֥ן",
+                "transliteration": "qā·rə·ban",
+                "strong": "7133",
+                "translation": " as an offering "
+            },
+            {
+                "token": "רֵאשִׁ֛ית",
+                "transliteration": "rê·šîṯ",
+                "strong": "7225",
+                "translation": " of firstfruits , "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " but they are not "
+            },
+            {
+                "token": "יַעֲל֖וּ",
+                "transliteration": "ya·‘ă·lū",
+                "strong": "5927",
+                "translation": " to be offered "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " on "
+            },
+            {
+                "token": "הַמִּזְבֵּ֥חַ",
+                "transliteration": "ham·miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " the altar "
+            },
+            {
+                "token": "נִיחֹֽחַ׃",
+                "transliteration": "nî·ḥō·aḥ",
+                "strong": "5207",
+                "translation": " as a pleasing "
+            },
+            {
+                "token": "לְרֵ֥יחַ",
+                "transliteration": "lə·rê·aḥ",
+                "strong": "7381",
+                "translation": " aroma . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:12",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תִּמְלָח֒",
+                "transliteration": "tim·lāḥ",
+                "strong": "4414",
+                "translation": " And you shall season "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " each "
+            },
+            {
+                "token": "קָרְבַּ֣ן",
+                "transliteration": "qā·rə·ban",
+                "strong": "7133",
+                "translation": " of your grain offerings "
+            },
+            {
+                "token": "מִנְחָתְךָ֮",
+                "transliteration": "min·ḥā·ṯə·ḵā",
+                "strong": "4503",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּמֶּ֣לַח",
+                "transliteration": "bam·me·laḥ",
+                "strong": "4417",
+                "translation": " with salt . "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " You must not "
+            },
+            {
+                "token": "תַשְׁבִּ֗ית",
+                "transliteration": "ṯaš·bîṯ",
+                "strong": "7673",
+                "translation": " leave "
+            },
+            {
+                "token": "מֶ֚לַח",
+                "transliteration": "me·laḥ",
+                "strong": "4417",
+                "translation": " the salt "
+            },
+            {
+                "token": "בְּרִ֣ית",
+                "transliteration": "bə·rîṯ",
+                "strong": "1285",
+                "translation": " of the covenant "
+            },
+            {
+                "token": "אֱלֹהֶ֔יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " of your God "
+            },
+            {
+                "token": "מֵעַ֖ל",
+                "transliteration": "mê·‘al",
+                "strong": "5921",
+                "translation": " out of "
+            },
+            {
+                "token": "מִנְחָתֶ֑ךָ",
+                "transliteration": "min·ḥā·ṯe·ḵā",
+                "strong": "4503",
+                "translation": " your grain offering ; "
+            },
+            {
+                "token": "תַּקְרִ֥יב",
+                "transliteration": "taq·rîḇ",
+                "strong": "7126",
+                "translation": " you are to add "
+            },
+            {
+                "token": "מֶֽלַח׃ס",
+                "transliteration": "me·laḥ",
+                "strong": "4417",
+                "translation": " salt "
+            },
+            {
+                "token": "עַ֥ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " to "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " each "
+            },
+            {
+                "token": "קָרְבָּנְךָ֖",
+                "transliteration": "qā·rə·bā·nə·ḵā",
+                "strong": "7133",
+                "translation": " of your offerings . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:13",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "תַּקְרִ֛יב",
+                "transliteration": "taq·rîḇ",
+                "strong": "7126",
+                "translation": " you bring "
+            },
+            {
+                "token": "מִנְחַ֥ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " a grain offering "
+            },
+            {
+                "token": "בִּכּוּרִ֖ים",
+                "transliteration": "bik·kū·rîm",
+                "strong": "1061",
+                "translation": " of firstfruits "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "תַּקְרִ֕יב",
+                "transliteration": "taq·rîḇ",
+                "strong": "7126",
+                "translation": " you shall offer "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "גֶּ֣רֶשׂ",
+                "transliteration": "ge·reś",
+                "strong": "1643",
+                "translation": " crushed "
+            },
+            {
+                "token": "אָבִ֞יב",
+                "transliteration": "’ā·ḇîḇ",
+                "strong": "24",
+                "translation": " heads of new grain "
+            },
+            {
+                "token": "כַּרְמֶ֔ל",
+                "transliteration": "kar·mel",
+                "strong": "3759",
+                "translation": " . . . "
+            },
+            {
+                "token": "קָל֤וּי",
+                "transliteration": "qā·lui",
+                "strong": "7033",
+                "translation": " roasted "
+            },
+            {
+                "token": "בָּאֵשׁ֙",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " on the fire "
+            },
+            {
+                "token": "מִנְחַ֥ת",
+                "transliteration": "min·ḥaṯ",
+                "strong": "4503",
+                "translation": " - "
+            },
+            {
+                "token": "בִּכּוּרֶֽיךָ׃",
+                "transliteration": "bik·kū·re·ḵā",
+                "strong": "1061",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:14",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנָתַתָּ֤",
+                "transliteration": "wə·nā·ṯa·tā",
+                "strong": "5414",
+                "translation": " And you are to put "
+            },
+            {
+                "token": "שֶׁ֔מֶן",
+                "transliteration": "še·men",
+                "strong": "8081",
+                "translation": " oil "
+            },
+            {
+                "token": "וְשַׂמְתָּ֥",
+                "transliteration": "wə·śam·tā",
+                "strong": "7760",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְבֹנָ֑ה",
+                "transliteration": "lə·ḇō·nāh",
+                "strong": "3828",
+                "translation": " and frankincense "
+            },
+            {
+                "token": "עָלֶ֙יהָ֙",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " on it ; "
+            },
+            {
+                "token": "הִֽוא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מִנְחָ֖ה",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " is a grain offering . "
+            }
+        ],
+        "verse_reference": "Leviticus 2:15",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֜ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְהִקְטִ֨יר",
+                "transliteration": "wə·hiq·ṭîr",
+                "strong": "6999",
+                "translation": " shall then burn "
+            },
+            {
+                "token": "אַזְכָּרָתָ֗הּ",
+                "transliteration": "’az·kā·rā·ṯāh",
+                "strong": "234",
+                "translation": " the memorial portion "
+            },
+            {
+                "token": "מִגִּרְשָׂהּ֙",
+                "transliteration": "mig·gir·śāh",
+                "strong": "1643",
+                "translation": " of the crushed grain "
+            },
+            {
+                "token": "וּמִשַּׁמְנָ֔הּ",
+                "transliteration": "ū·miš·šam·nāh",
+                "strong": "8081",
+                "translation": " and the oil , "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " together with "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "לְבֹנָתָ֑הּ",
+                "transliteration": "lə·ḇō·nā·ṯāh",
+                "strong": "3828",
+                "translation": " its frankincense , "
+            },
+            {
+                "token": "אִשֶּׁ֖ה",
+                "transliteration": "’iš·šeh",
+                "strong": "801",
+                "translation": " as an offering made by fire "
+            },
+            {
+                "token": "לַיהוָֽה׃פ",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD . [’’] "
+            }
+        ],
+        "verse_reference": "Leviticus 2:16",
+        "book": "Leviticus",
+        "chapter": "2",
+        "verse": "16"
+    }
+]

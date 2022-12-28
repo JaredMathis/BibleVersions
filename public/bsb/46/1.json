@@ -1,0 +1,3250 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " Paul , "
+            },
+            {
+                "token": "κλητὸς",
+                "transliteration": "klētos",
+                "strong": "2822",
+                "translation": " called [to be] "
+            },
+            {
+                "token": "ἀπόστολος",
+                "transliteration": "apostolos",
+                "strong": "652",
+                "translation": " an apostle "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " of Christ "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " by "
+            },
+            {
+                "token": "θελήματος",
+                "transliteration": "thelēmatos",
+                "strong": "2307",
+                "translation": " [the] will "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " [our] "
+            },
+            {
+                "token": "ἀδελφὸς",
+                "transliteration": "adelphos",
+                "strong": "80",
+                "translation": " brother "
+            },
+            {
+                "token": "Σωσθένης",
+                "transliteration": "Sōsthenēs",
+                "strong": "4988",
+                "translation": " Sosthenes , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:1",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Τῇ",
+                "transliteration": "Tē",
+                "strong": "3588",
+                "translation": " To the "
+            },
+            {
+                "token": "ἐκκλησίᾳ",
+                "transliteration": "ekklēsia",
+                "strong": "1577",
+                "translation": " church "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "«τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οὔσῃ",
+                "transliteration": "ousē",
+                "strong": "1510",
+                "translation": " - "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Κορίνθῳ»",
+                "transliteration": "Korinthō",
+                "strong": "2882",
+                "translation": " Corinth , "
+            },
+            {
+                "token": "«ἡγιασμένοις",
+                "transliteration": "hēgiasmenois",
+                "strong": "37",
+                "translation": " [to those] sanctified "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Χριστῷ",
+                "transliteration": "Christō",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "Ἰησοῦ»",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "κλητοῖς",
+                "transliteration": "klētois",
+                "strong": "2822",
+                "translation": " [and] called "
+            },
+            {
+                "token": "ἁγίοις",
+                "transliteration": "hagiois",
+                "strong": "40",
+                "translation": " [to be] holy , "
+            },
+            {
+                "token": "σὺν",
+                "transliteration": "syn",
+                "strong": "4862",
+                "translation": " together with "
+            },
+            {
+                "token": "πᾶσιν",
+                "transliteration": "pasin",
+                "strong": "3956",
+                "translation": " all "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " those "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " vvv "
+            },
+            {
+                "token": "παντὶ",
+                "transliteration": "panti",
+                "strong": "3956",
+                "translation": " vvv "
+            },
+            {
+                "token": "τόπῳ",
+                "transliteration": "topō",
+                "strong": "5117",
+                "translation": " everywhere "
+            },
+            {
+                "token": "ἐπικαλουμένοις",
+                "transliteration": "epikaloumenois",
+                "strong": "1941",
+                "translation": " [who] call on "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " of our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ , "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their [Lord] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " ours : "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:2",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Χάρις",
+                "transliteration": "Charis",
+                "strong": "5485",
+                "translation": " Grace "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "εἰρήνη",
+                "transliteration": "eirēnē",
+                "strong": "1515",
+                "translation": " peace "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " to you "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "Πατρὸς",
+                "transliteration": "Patros",
+                "strong": "3962",
+                "translation": " Father "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " [the] Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:3",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Εὐχαριστῶ",
+                "transliteration": "Eucharistō",
+                "strong": "2168",
+                "translation": " I always thank "
+            },
+            {
+                "token": "πάντοτε",
+                "transliteration": "pantote",
+                "strong": "3842",
+                "translation": " . . . "
+            },
+            {
+                "token": "‹μου›",
+                "transliteration": "mou",
+                "strong": "1473",
+                "translation": " my "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "περὶ",
+                "transliteration": "peri",
+                "strong": "4012",
+                "translation": " for "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " because of "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "χάριτι",
+                "transliteration": "chariti",
+                "strong": "5485",
+                "translation": " grace "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " [He] "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "δοθείσῃ",
+                "transliteration": "dotheisē",
+                "strong": "1325",
+                "translation": " has given "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Χριστῷ",
+                "transliteration": "Christō",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:4",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " For "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "ἐπλουτίσθητε",
+                "transliteration": "eploutisthēte",
+                "strong": "4148",
+                "translation": " you have been enriched "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "παντὶ",
+                "transliteration": "panti",
+                "strong": "3956",
+                "translation": " every way , "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "παντὶ",
+                "transliteration": "panti",
+                "strong": "3956",
+                "translation": " all "
+            },
+            {
+                "token": "λόγῳ",
+                "transliteration": "logō",
+                "strong": "3056",
+                "translation": " speech "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πάσῃ",
+                "transliteration": "pasē",
+                "strong": "3956",
+                "translation": " all "
+            },
+            {
+                "token": "γνώσει",
+                "transliteration": "gnōsei",
+                "strong": "1108",
+                "translation": " knowledge , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:5",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " because "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " [our] "
+            },
+            {
+                "token": "μαρτύριον",
+                "transliteration": "martyrion",
+                "strong": "3142",
+                "translation": " testimony "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " about "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "ἐβεβαιώθη",
+                "transliteration": "ebebaiōthē",
+                "strong": "950",
+                "translation": " was confirmed "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:6",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὥστε",
+                "transliteration": "hōste",
+                "strong": "5620",
+                "translation": " Therefore "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὑστερεῖσθαι",
+                "transliteration": "hystereisthai",
+                "strong": "5302",
+                "translation": " do not lack "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "μηδενὶ",
+                "transliteration": "mēdeni",
+                "strong": "3367",
+                "translation": " [any] "
+            },
+            {
+                "token": "χαρίσματι",
+                "transliteration": "charismati",
+                "strong": "5486",
+                "translation": " spiritual gift "
+            },
+            {
+                "token": "ἀπεκδεχομένους",
+                "transliteration": "apekdechomenous",
+                "strong": "553",
+                "translation": " as you eagerly await "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀποκάλυψιν",
+                "transliteration": "apokalypsin",
+                "strong": "602",
+                "translation": " revelation "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " of our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:7",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " [He] "
+            },
+            {
+                "token": "βεβαιώσει",
+                "transliteration": "bebaiōsei",
+                "strong": "950",
+                "translation": " will sustain "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἕως",
+                "transliteration": "heōs",
+                "strong": "2193",
+                "translation": " to "
+            },
+            {
+                "token": "τέλους",
+                "transliteration": "telous",
+                "strong": "5056",
+                "translation": " [the] end , "
+            },
+            {
+                "token": "ἀνεγκλήτους",
+                "transliteration": "anenklētous",
+                "strong": "410",
+                "translation": " [so that you will be] blameless "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " on "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἡμέρᾳ",
+                "transliteration": "hēmera",
+                "strong": "2250",
+                "translation": " day "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " of our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:8",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God , "
+            },
+            {
+                "token": "δι’",
+                "transliteration": "di’",
+                "strong": "1223",
+                "translation": " - "
+            },
+            {
+                "token": "οὗ",
+                "transliteration": "hou",
+                "strong": "3739",
+                "translation": " who "
+            },
+            {
+                "token": "ἐκλήθητε",
+                "transliteration": "eklēthēte",
+                "strong": "2564",
+                "translation": " has called you "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "κοινωνίαν",
+                "transliteration": "koinōnian",
+                "strong": "2842",
+                "translation": " fellowship "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " with His "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Υἱοῦ",
+                "transliteration": "Huiou",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord , "
+            },
+            {
+                "token": "πιστὸς",
+                "transliteration": "pistos",
+                "strong": "4103",
+                "translation": " [is] faithful . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:9",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Παρακαλῶ",
+                "transliteration": "Parakalō",
+                "strong": "3870",
+                "translation": " I appeal "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " to you , "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " brothers , "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " in "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὀνόματος",
+                "transliteration": "onomatos",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " of our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ , "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " that "
+            },
+            {
+                "token": "πάντες",
+                "transliteration": "pantes",
+                "strong": "3956",
+                "translation": " all of "
+            },
+            {
+                "token": "λέγητε",
+                "transliteration": "legēte",
+                "strong": "3004",
+                "translation": " you agree together "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτὸ",
+                "transliteration": "auto",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [so that] "
+            },
+            {
+                "token": "ᾖ",
+                "transliteration": "ē",
+                "strong": "1510",
+                "translation": " there may be "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " no "
+            },
+            {
+                "token": "σχίσματα",
+                "transliteration": "schismata",
+                "strong": "4978",
+                "translation": " divisions "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " among "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and [that] "
+            },
+            {
+                "token": "ἦτε",
+                "transliteration": "ēte",
+                "strong": "1510",
+                "translation": " you may be "
+            },
+            {
+                "token": "κατηρτισμένοι",
+                "transliteration": "katērtismenoi",
+                "strong": "2675",
+                "translation": " united "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "νοῒ",
+                "transliteration": "noi",
+                "strong": "3563",
+                "translation": " mind "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " - "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτῇ",
+                "transliteration": "autē",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "γνώμῃ",
+                "transliteration": "gnōmē",
+                "strong": "1106",
+                "translation": " conviction . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:10",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "μου",
+                "transliteration": "mou",
+                "strong": "1473",
+                "translation": " My "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " brothers , "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " - "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " some "
+            },
+            {
+                "token": "Χλόης",
+                "transliteration": "Chloēs",
+                "strong": "5514",
+                "translation": " from Chloe’s household "
+            },
+            {
+                "token": "ἐδηλώθη",
+                "transliteration": "edēlōthē",
+                "strong": "1213",
+                "translation": " have informed "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " me "
+            },
+            {
+                "token": "περὶ",
+                "transliteration": "peri",
+                "strong": "4012",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " - "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "εἰσιν",
+                "transliteration": "eisin",
+                "strong": "1510",
+                "translation": " there are "
+            },
+            {
+                "token": "ἔριδες",
+                "transliteration": "erides",
+                "strong": "2054",
+                "translation": " quarrels "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " among "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:11",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "λέγω",
+                "transliteration": "legō",
+                "strong": "3004",
+                "translation": " What I mean "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " [is] this : "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "ἕκαστος",
+                "transliteration": "hekastos",
+                "strong": "1538",
+                "translation": " Individuals "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " among you "
+            },
+            {
+                "token": "λέγει",
+                "transliteration": "legei",
+                "strong": "3004",
+                "translation": " are saying , "
+            },
+            {
+                "token": "Ἐγὼ",
+                "transliteration": "Egō",
+                "strong": "1473",
+                "translation": " “ I "
+            },
+            {
+                "token": "μέν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "εἰμι",
+                "transliteration": "eimi",
+                "strong": "1510",
+                "translation": " [follow] "
+            },
+            {
+                "token": "Παύλου",
+                "transliteration": "Paulou",
+                "strong": "3972",
+                "translation": " Paul , ” "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐγὼ",
+                "transliteration": "Egō",
+                "strong": "1473",
+                "translation": " “ I "
+            },
+            {
+                "token": "Ἀπολλῶ",
+                "transliteration": "Apollō",
+                "strong": "625",
+                "translation": " [follow] Apollos , ” "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐγὼ",
+                "transliteration": "Egō",
+                "strong": "1473",
+                "translation": " “ I "
+            },
+            {
+                "token": "Κηφᾶ",
+                "transliteration": "Kēpha",
+                "strong": "2786",
+                "translation": " [follow] Cephas ,” "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [or] "
+            },
+            {
+                "token": "Ἐγὼ",
+                "transliteration": "Egō",
+                "strong": "1473",
+                "translation": " “ I "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " [follow] Christ . ” "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:12",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Χριστός",
+                "transliteration": "Christos",
+                "strong": "5547",
+                "translation": " {Is} Christ "
+            },
+            {
+                "token": "Μεμέρισται",
+                "transliteration": "Memeristai",
+                "strong": "3307",
+                "translation": " divided ? "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " {Was} Paul "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐσταυρώθη",
+                "transliteration": "estaurōthē",
+                "strong": "4717",
+                "translation": " crucified "
+            },
+            {
+                "token": "ὑπὲρ",
+                "transliteration": "hyper",
+                "strong": "5228",
+                "translation": " for "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you ? "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " - "
+            },
+            {
+                "token": "ἐβαπτίσθητε",
+                "transliteration": "ebaptisthēte",
+                "strong": "907",
+                "translation": " Were you baptized "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "Παύλου",
+                "transliteration": "Paulou",
+                "strong": "3972",
+                "translation": " of Paul ? "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:13",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "εὐχαριστῶ",
+                "transliteration": "eucharistō",
+                "strong": "2168",
+                "translation": " I thank "
+            },
+            {
+                "token": "[τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "θεῷ]",
+                "transliteration": "theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ἐβάπτισα",
+                "transliteration": "ebaptisa",
+                "strong": "907",
+                "translation": " I did not baptize any "
+            },
+            {
+                "token": "οὐδένα",
+                "transliteration": "oudena",
+                "strong": "3762",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " of you "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " except "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "Κρίσπον",
+                "transliteration": "Krispon",
+                "strong": "2921",
+                "translation": " Crispus "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Γάϊον",
+                "transliteration": "Gaion",
+                "strong": "1050",
+                "translation": " Gaius , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:14",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " so "
+            },
+            {
+                "token": "μή",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " no "
+            },
+            {
+                "token": "τις",
+                "transliteration": "tis",
+                "strong": "5100",
+                "translation": " one "
+            },
+            {
+                "token": "εἴπῃ",
+                "transliteration": "eipē",
+                "strong": "2036",
+                "translation": " can say "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ἐβαπτίσθητε",
+                "transliteration": "ebaptisthēte",
+                "strong": "907",
+                "translation": " you were baptized "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "ἐμὸν",
+                "transliteration": "emon",
+                "strong": "1699",
+                "translation": " my "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " name . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:15",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Yes , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐβάπτισα",
+                "transliteration": "ebaptisa",
+                "strong": "907",
+                "translation": " I also baptized "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "οἶκον",
+                "transliteration": "oikon",
+                "strong": "3624",
+                "translation": " household "
+            },
+            {
+                "token": "Στεφανᾶ",
+                "transliteration": "Stephana",
+                "strong": "4734",
+                "translation": " of Stephanas ; "
+            },
+            {
+                "token": "λοιπὸν",
+                "transliteration": "loipon",
+                "strong": "3063",
+                "translation": " beyond that "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "οἶδα",
+                "transliteration": "oida",
+                "strong": "1492",
+                "translation": " I do not remember "
+            },
+            {
+                "token": "εἴ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " if "
+            },
+            {
+                "token": "ἐβάπτισα",
+                "transliteration": "ebaptisa",
+                "strong": "907",
+                "translation": " I baptized "
+            },
+            {
+                "token": "τινα",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " anyone "
+            },
+            {
+                "token": "ἄλλον",
+                "transliteration": "allon",
+                "strong": "243",
+                "translation": " else . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:16",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "Χριστὸς",
+                "transliteration": "Christos",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " {did} not "
+            },
+            {
+                "token": "ἀπέστειλέν",
+                "transliteration": "apesteilen",
+                "strong": "649",
+                "translation": " send "
+            },
+            {
+                "token": "με",
+                "transliteration": "me",
+                "strong": "1473",
+                "translation": " me "
+            },
+            {
+                "token": "βαπτίζειν",
+                "transliteration": "baptizein",
+                "strong": "907",
+                "translation": " to baptize , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "εὐαγγελίζεσθαι",
+                "transliteration": "euangelizesthai",
+                "strong": "2097",
+                "translation": " to preach the gospel , "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " with "
+            },
+            {
+                "token": "λόγου",
+                "transliteration": "logou",
+                "strong": "3056",
+                "translation": " words "
+            },
+            {
+                "token": "σοφίᾳ",
+                "transliteration": "sophia",
+                "strong": "4678",
+                "translation": " of wisdom , "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " lest "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σταυρὸς",
+                "transliteration": "stauros",
+                "strong": "4716",
+                "translation": " cross "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "κενωθῇ",
+                "transliteration": "kenōthē",
+                "strong": "2758",
+                "translation": " be emptied of [its] power . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:17",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λόγος",
+                "transliteration": "logos",
+                "strong": "3056",
+                "translation": " message "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "σταυροῦ",
+                "transliteration": "staurou",
+                "strong": "4716",
+                "translation": " cross "
+            },
+            {
+                "token": "ἐστίν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "μωρία",
+                "transliteration": "mōria",
+                "strong": "3472",
+                "translation": " foolishness "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " to those who "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπολλυμένοις",
+                "transliteration": "apollymenois",
+                "strong": "622",
+                "translation": " are perishing , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "ἡμῖν",
+                "transliteration": "hēmin",
+                "strong": "1473",
+                "translation": " to us who "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "σῳζομένοις",
+                "transliteration": "sōzomenois",
+                "strong": "4982",
+                "translation": " are being saved "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " it is "
+            },
+            {
+                "token": "δύναμις",
+                "transliteration": "dynamis",
+                "strong": "1411",
+                "translation": " [the] power "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:18",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "γέγραπται",
+                "transliteration": "gegraptai",
+                "strong": "1125",
+                "translation": " it is written : "
+            },
+            {
+                "token": "Ἀπολῶ",
+                "transliteration": "Apolō",
+                "strong": "622",
+                "translation": " “ I will destroy "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σοφίαν",
+                "transliteration": "sophian",
+                "strong": "4678",
+                "translation": " wisdom "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "σοφῶν",
+                "transliteration": "sophōn",
+                "strong": "4680",
+                "translation": " wise ; "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σύνεσιν",
+                "transliteration": "synesin",
+                "strong": "4907",
+                "translation": " intelligence "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "συνετῶν",
+                "transliteration": "synetōn",
+                "strong": "4908",
+                "translation": " intelligent "
+            },
+            {
+                "token": "ἀθετήσω",
+                "transliteration": "athetēsō",
+                "strong": "114",
+                "translation": " I will frustrate .” "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:19",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ποῦ",
+                "transliteration": "Pou",
+                "strong": "4226",
+                "translation": " Where [is the] "
+            },
+            {
+                "token": "σοφός",
+                "transliteration": "sophos",
+                "strong": "4680",
+                "translation": " wise [man] ? "
+            },
+            {
+                "token": "ποῦ",
+                "transliteration": "pou",
+                "strong": "4226",
+                "translation": " Where [is] "
+            },
+            {
+                "token": "γραμματεύς",
+                "transliteration": "grammateus",
+                "strong": "1122",
+                "translation": " [the] scribe ? "
+            },
+            {
+                "token": "ποῦ",
+                "transliteration": "pou",
+                "strong": "4226",
+                "translation": " Where [is] "
+            },
+            {
+                "token": "συζητητὴς",
+                "transliteration": "syzētētēs",
+                "strong": "4804",
+                "translation": " [the] philosopher "
+            },
+            {
+                "token": "τούτου",
+                "transliteration": "toutou",
+                "strong": "3778",
+                "translation": " of this "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αἰῶνος",
+                "transliteration": "aiōnos",
+                "strong": "165",
+                "translation": " age ? "
+            },
+            {
+                "token": "οὐχὶ",
+                "transliteration": "ouchi",
+                "strong": "3780",
+                "translation": " {Has} not "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἐμώρανεν",
+                "transliteration": "emōranen",
+                "strong": "3471",
+                "translation": " made foolish "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σοφίαν",
+                "transliteration": "sophian",
+                "strong": "4678",
+                "translation": " wisdom "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "κόσμου",
+                "transliteration": "kosmou",
+                "strong": "2889",
+                "translation": " world ? "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:20",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ἐπειδὴ",
+                "transliteration": "epeidē",
+                "strong": "1894",
+                "translation": " since "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σοφίᾳ",
+                "transliteration": "sophia",
+                "strong": "4678",
+                "translation": " wisdom "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμος",
+                "transliteration": "kosmos",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " [its] "
+            },
+            {
+                "token": "σοφίας",
+                "transliteration": "sophias",
+                "strong": "4678",
+                "translation": " wisdom "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " {did} not "
+            },
+            {
+                "token": "ἔγνω",
+                "transliteration": "egnō",
+                "strong": "1097",
+                "translation": " know "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεόν",
+                "transliteration": "Theon",
+                "strong": "2316",
+                "translation": " [Him] , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "εὐδόκησεν",
+                "transliteration": "eudokēsen",
+                "strong": "2106",
+                "translation": " was pleased "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μωρίας",
+                "transliteration": "mōrias",
+                "strong": "3472",
+                "translation": " foolishness "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of what "
+            },
+            {
+                "token": "κηρύγματος",
+                "transliteration": "kērygmatos",
+                "strong": "2782",
+                "translation": " was preached "
+            },
+            {
+                "token": "σῶσαι",
+                "transliteration": "sōsai",
+                "strong": "4982",
+                "translation": " to save "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " those who "
+            },
+            {
+                "token": "πιστεύοντας",
+                "transliteration": "pisteuontas",
+                "strong": "4100",
+                "translation": " believe . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:21",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἐπειδὴ",
+                "transliteration": "Epeidē",
+                "strong": "1894",
+                "translation": " - "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰουδαῖοι",
+                "transliteration": "Ioudaioi",
+                "strong": "2453",
+                "translation": " Jews "
+            },
+            {
+                "token": "αἰτοῦσιν",
+                "transliteration": "aitousin",
+                "strong": "154",
+                "translation": " demand "
+            },
+            {
+                "token": "σημεῖα",
+                "transliteration": "sēmeia",
+                "strong": "4592",
+                "translation": " signs "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Ἕλληνες",
+                "transliteration": "Hellēnes",
+                "strong": "1672",
+                "translation": " Greeks "
+            },
+            {
+                "token": "ζητοῦσιν",
+                "transliteration": "zētousin",
+                "strong": "2212",
+                "translation": " search for "
+            },
+            {
+                "token": "σοφίαν",
+                "transliteration": "sophian",
+                "strong": "4678",
+                "translation": " wisdom , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:22",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "ἡμεῖς",
+                "transliteration": "hēmeis",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "κηρύσσομεν",
+                "transliteration": "kēryssomen",
+                "strong": "2784",
+                "translation": " preach "
+            },
+            {
+                "token": "Χριστὸν",
+                "transliteration": "Christon",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "ἐσταυρωμένον",
+                "transliteration": "estaurōmenon",
+                "strong": "4717",
+                "translation": " crucified , "
+            },
+            {
+                "token": "σκάνδαλον",
+                "transliteration": "skandalon",
+                "strong": "4625",
+                "translation": " a stumbling block "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰουδαίοις",
+                "transliteration": "Ioudaiois",
+                "strong": "2453",
+                "translation": " to Jews "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "μωρίαν",
+                "transliteration": "mōrian",
+                "strong": "3472",
+                "translation": " foolishness "
+            },
+            {
+                "token": "ἔθνεσιν",
+                "transliteration": "ethnesin",
+                "strong": "1484",
+                "translation": " to Gentiles , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:23",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "αὐτοῖς",
+                "transliteration": "autois",
+                "strong": "846",
+                "translation": " to those "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "κλητοῖς",
+                "transliteration": "klētois",
+                "strong": "2822",
+                "translation": " are called , "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " both "
+            },
+            {
+                "token": "Ἰουδαίοις",
+                "transliteration": "Ioudaiois",
+                "strong": "2453",
+                "translation": " Jews "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Ἕλλησιν",
+                "transliteration": "Hellēsin",
+                "strong": "1672",
+                "translation": " Greeks , "
+            },
+            {
+                "token": "Χριστὸν",
+                "transliteration": "Christon",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "δύναμιν",
+                "transliteration": "dynamin",
+                "strong": "1411",
+                "translation": " [the] power "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "σοφίαν",
+                "transliteration": "sophian",
+                "strong": "4678",
+                "translation": " [the] wisdom "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:24",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ὅτι",
+                "transliteration": "Hoti",
+                "strong": "3754",
+                "translation": " For "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μωρὸν",
+                "transliteration": "mōron",
+                "strong": "3474",
+                "translation": " foolishness "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἐστίν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "σοφώτερον",
+                "transliteration": "sophōteron",
+                "strong": "4680",
+                "translation": " wiser "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " than man’s [wisdom] , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀσθενὲς",
+                "transliteration": "asthenes",
+                "strong": "772",
+                "translation": " weakness "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἰσχυρότερον",
+                "transliteration": "ischyroteron",
+                "strong": "2478",
+                "translation": " [is] stronger "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " than man’s [strength] . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:25",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " Brothers , "
+            },
+            {
+                "token": "Βλέπετε",
+                "transliteration": "Blepete",
+                "strong": "991",
+                "translation": " consider "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " [ the time of ] your "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κλῆσιν",
+                "transliteration": "klēsin",
+                "strong": "2821",
+                "translation": " calling : "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " Not "
+            },
+            {
+                "token": "πολλοὶ",
+                "transliteration": "polloi",
+                "strong": "4183",
+                "translation": " many [of you] "
+            },
+            {
+                "token": "σοφοὶ",
+                "transliteration": "sophoi",
+                "strong": "4680",
+                "translation": " [were] wise "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " by human standards "
+            },
+            {
+                "token": "σάρκα",
+                "transliteration": "sarka",
+                "strong": "4561",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "πολλοὶ",
+                "transliteration": "polloi",
+                "strong": "4183",
+                "translation": " many [were] "
+            },
+            {
+                "token": "δυνατοί",
+                "transliteration": "dynatoi",
+                "strong": "1415",
+                "translation": " powerful ; "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "πολλοὶ",
+                "transliteration": "polloi",
+                "strong": "4183",
+                "translation": " many [were] "
+            },
+            {
+                "token": "εὐγενεῖς",
+                "transliteration": "eugeneis",
+                "strong": "2104",
+                "translation": " of noble birth . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:26",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " But "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἐξελέξατο",
+                "transliteration": "exelexato",
+                "strong": "1586",
+                "translation": " chose "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μωρὰ",
+                "transliteration": "mōra",
+                "strong": "3474",
+                "translation": " foolish things "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "κόσμου",
+                "transliteration": "kosmou",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "καταισχύνῃ",
+                "transliteration": "kataischynē",
+                "strong": "2617",
+                "translation": " shame "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σοφούς",
+                "transliteration": "sophous",
+                "strong": "4680",
+                "translation": " wise ; "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἐξελέξατο",
+                "transliteration": "exelexato",
+                "strong": "1586",
+                "translation": " chose "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀσθενῆ",
+                "transliteration": "asthenē",
+                "strong": "772",
+                "translation": " weak things "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "κόσμου",
+                "transliteration": "kosmou",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "καταισχύνῃ",
+                "transliteration": "kataischynē",
+                "strong": "2617",
+                "translation": " shame "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἰσχυρά",
+                "transliteration": "ischyra",
+                "strong": "2478",
+                "translation": " strong . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:27",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " [He] "
+            },
+            {
+                "token": "ἐξελέξατο",
+                "transliteration": "exelexato",
+                "strong": "1586",
+                "translation": " chose "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀγενῆ",
+                "transliteration": "agenē",
+                "strong": "36",
+                "translation": " lowly "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐξουθενημένα",
+                "transliteration": "exouthenēmena",
+                "strong": "1848",
+                "translation": " despised "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " things "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "κόσμου",
+                "transliteration": "kosmou",
+                "strong": "2889",
+                "translation": " world , "
+            },
+            {
+                "token": "(καὶ)",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the things that "
+            },
+            {
+                "token": "ὄντα",
+                "transliteration": "onta",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " not , "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "καταργήσῃ",
+                "transliteration": "katargēsē",
+                "strong": "2673",
+                "translation": " nullify "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the things that "
+            },
+            {
+                "token": "ὄντα",
+                "transliteration": "onta",
+                "strong": "1510",
+                "translation": " are , "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:28",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὅπως",
+                "transliteration": "hopōs",
+                "strong": "3704",
+                "translation": " so that "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " no "
+            },
+            {
+                "token": "πᾶσα",
+                "transliteration": "pasa",
+                "strong": "3956",
+                "translation": " vvv "
+            },
+            {
+                "token": "σὰρξ",
+                "transliteration": "sarx",
+                "strong": "4561",
+                "translation": " [one] "
+            },
+            {
+                "token": "καυχήσηται",
+                "transliteration": "kauchēsētai",
+                "strong": "2744",
+                "translation": " may boast "
+            },
+            {
+                "token": "ἐνώπιον",
+                "transliteration": "enōpion",
+                "strong": "1799",
+                "translation": " in [His] presence "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:29",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [It is] "
+            },
+            {
+                "token": "Ἐξ",
+                "transliteration": "Ex",
+                "strong": "1537",
+                "translation": " because of "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " Him [that] "
+            },
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἐστε",
+                "transliteration": "este",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Χριστῷ",
+                "transliteration": "Christō",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus , "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " who "
+            },
+            {
+                "token": "ἐγενήθη",
+                "transliteration": "egenēthē",
+                "strong": "1096",
+                "translation": " has become "
+            },
+            {
+                "token": "ἡμῖν",
+                "transliteration": "hēmin",
+                "strong": "1473",
+                "translation": " for us "
+            },
+            {
+                "token": "σοφία",
+                "transliteration": "sophia",
+                "strong": "4678",
+                "translation": " wisdom "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God : "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "δικαιοσύνη",
+                "transliteration": "dikaiosynē",
+                "strong": "1343",
+                "translation": " [our] righteousness , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἁγιασμὸς",
+                "transliteration": "hagiasmos",
+                "strong": "38",
+                "translation": " holiness , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀπολύτρωσις",
+                "transliteration": "apolytrōsis",
+                "strong": "629",
+                "translation": " redemption . "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:30",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " Therefore , "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " as "
+            },
+            {
+                "token": "γέγραπται",
+                "transliteration": "gegraptai",
+                "strong": "1125",
+                "translation": " it is written : "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " “ {Let} him who "
+            },
+            {
+                "token": "καυχώμενος",
+                "transliteration": "kauchōmenos",
+                "strong": "2744",
+                "translation": " boasts "
+            },
+            {
+                "token": "καυχάσθω",
+                "transliteration": "kauchasthō",
+                "strong": "2744",
+                "translation": " boast "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Κυρίῳ",
+                "transliteration": "Kyriō",
+                "strong": "2962",
+                "translation": " [the] Lord .” "
+            }
+        ],
+        "verse_reference": "1 Corinthians 1:31",
+        "book": "1 Corinthians",
+        "chapter": "1",
+        "verse": "31"
+    }
+]

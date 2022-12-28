@@ -1,0 +1,1402 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "דְּבַר־",
+                "transliteration": "də·ḇar-",
+                "strong": "1697",
+                "translation": " [This is] the word "
+            },
+            {
+                "token": "יְהוָ֣ה׀",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "הָיָ֗ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מִיכָה֙",
+                "transliteration": "mî·ḵāh",
+                "strong": "4318",
+                "translation": " Micah "
+            },
+            {
+                "token": "הַמֹּ֣רַשְׁתִּ֔י",
+                "transliteration": "ham·mō·raš·tî",
+                "strong": "4183",
+                "translation": " the Moreshite "
+            },
+            {
+                "token": "בִּימֵ֥י",
+                "transliteration": "bî·mê",
+                "strong": "3117",
+                "translation": " in the days "
+            },
+            {
+                "token": "יוֹתָ֛ם",
+                "transliteration": "yō·w·ṯām",
+                "strong": "3147",
+                "translation": " of Jotham , "
+            },
+            {
+                "token": "אָחָ֥ז",
+                "transliteration": "’ā·ḥāz",
+                "strong": "271",
+                "translation": " Ahaz , "
+            },
+            {
+                "token": "יְחִזְקִיָּ֖ה",
+                "transliteration": "yə·ḥiz·qî·yāh",
+                "strong": "3169",
+                "translation": " and Hezekiah , "
+            },
+            {
+                "token": "מַלְכֵ֣י",
+                "transliteration": "mal·ḵê",
+                "strong": "4428",
+                "translation": " kings "
+            },
+            {
+                "token": "יְהוּדָ֑ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah — "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "חָזָ֥ה",
+                "transliteration": "ḥā·zāh",
+                "strong": "2372",
+                "translation": " he saw "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " regarding "
+            },
+            {
+                "token": "שֹׁמְר֖וֹן",
+                "transliteration": "šō·mə·rō·wn",
+                "strong": "8111",
+                "translation": " Samaria "
+            },
+            {
+                "token": "וִירֽוּשָׁלִָֽם׃",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem : "
+            }
+        ],
+        "verse_reference": "Micah 1:1",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁמְעוּ֙",
+                "transliteration": "šim·‘ū",
+                "strong": "8085",
+                "translation": " Hear , "
+            },
+            {
+                "token": "עַמִּ֣ים",
+                "transliteration": "‘am·mîm",
+                "strong": "5971",
+                "translation": " O peoples , "
+            },
+            {
+                "token": "כֻּלָּ֔ם",
+                "transliteration": "kul·lām",
+                "strong": "3605",
+                "translation": " all of you ; "
+            },
+            {
+                "token": "הַקְשִׁ֖יבִי",
+                "transliteration": "haq·šî·ḇî",
+                "strong": "7181",
+                "translation": " listen , "
+            },
+            {
+                "token": "אֶ֣רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " O earth , "
+            },
+            {
+                "token": "וּמְלֹאָ֑הּ",
+                "transliteration": "ū·mə·lō·’āh",
+                "strong": "4393",
+                "translation": " and everyone in it ! "
+            },
+            {
+                "token": "אֲדֹנָ֨י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " May the Lord "
+            },
+            {
+                "token": "יְהוִ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "וִיהִי֩",
+                "transliteration": "wî·hî",
+                "strong": "1961",
+                "translation": " bear "
+            },
+            {
+                "token": "לְעֵ֔ד",
+                "transliteration": "lə·‘êḏ",
+                "strong": "5707",
+                "translation": " witness "
+            },
+            {
+                "token": "בָּכֶם֙",
+                "transliteration": "bā·ḵem",
+                "strong": "",
+                "translation": " against you , "
+            },
+            {
+                "token": "אֲדֹנָ֖י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "קָדְשֽׁוֹ׃",
+                "transliteration": "qā·ḏə·šōw",
+                "strong": "6944",
+                "translation": " from His holy "
+            },
+            {
+                "token": "מֵהֵיכַ֥ל",
+                "transliteration": "mê·hê·ḵal",
+                "strong": "1964",
+                "translation": " temple . "
+            }
+        ],
+        "verse_reference": "Micah 1:2",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "הִנֵּ֥ה",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " behold , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "יֹצֵ֣א",
+                "transliteration": "yō·ṣê",
+                "strong": "3318",
+                "translation": " comes forth "
+            },
+            {
+                "token": "מִמְּקוֹמ֑וֹ",
+                "transliteration": "mim·mə·qō·w·mōw",
+                "strong": "4725",
+                "translation": " from His dwelling place ; "
+            },
+            {
+                "token": "וְיָרַ֥ד",
+                "transliteration": "wə·yā·raḏ",
+                "strong": "3381",
+                "translation": " He will come down "
+            },
+            {
+                "token": "וְדָרַ֖ךְ",
+                "transliteration": "wə·ḏā·raḵ",
+                "strong": "1869",
+                "translation": " and tread "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "בָּמוֹתֵי",
+                "transliteration": "bå̄·mō·ṯē",
+                "strong": "1116",
+                "translation": " the high places "
+            },
+            {
+                "token": "אָֽרֶץ׃",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth . "
+            }
+        ],
+        "verse_reference": "Micah 1:3",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֶֽהָרִים֙",
+                "transliteration": "he·hā·rîm",
+                "strong": "2022",
+                "translation": " The mountains "
+            },
+            {
+                "token": "וְנָמַ֤סּוּ",
+                "transliteration": "wə·nā·mas·sū",
+                "strong": "4549",
+                "translation": " will melt "
+            },
+            {
+                "token": "תַּחְתָּ֔יו",
+                "transliteration": "taḥ·tāw",
+                "strong": "8478",
+                "translation": " beneath Him , "
+            },
+            {
+                "token": "וְהָעֲמָקִ֖ים",
+                "transliteration": "wə·hā·‘ă·mā·qîm",
+                "strong": "6010",
+                "translation": " and the valleys "
+            },
+            {
+                "token": "יִתְבַּקָּ֑עוּ",
+                "transliteration": "yiṯ·baq·qā·‘ū",
+                "strong": "1234",
+                "translation": " will split apart , "
+            },
+            {
+                "token": "כַּדּוֹנַג֙",
+                "transliteration": "kad·dō·w·naḡ",
+                "strong": "1749",
+                "translation": " like wax "
+            },
+            {
+                "token": "מִפְּנֵ֣י",
+                "transliteration": "mip·pə·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הָאֵ֔שׁ",
+                "transliteration": "hā·’êš",
+                "strong": "784",
+                "translation": " the fire , "
+            },
+            {
+                "token": "כְּמַ֖יִם",
+                "transliteration": "kə·ma·yim",
+                "strong": "4325",
+                "translation": " like water "
+            },
+            {
+                "token": "מֻגָּרִ֥ים",
+                "transliteration": "mug·gā·rîm",
+                "strong": "5064",
+                "translation": " rushing down "
+            },
+            {
+                "token": "בְּמוֹרָֽד׃",
+                "transliteration": "bə·mō·w·rāḏ",
+                "strong": "4174",
+                "translation": " a slope . "
+            }
+        ],
+        "verse_reference": "Micah 1:4",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "זֹ֔את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this [is] "
+            },
+            {
+                "token": "בְּפֶ֤שַׁע",
+                "transliteration": "bə·p̄e·ša‘",
+                "strong": "6588",
+                "translation": " for the transgression "
+            },
+            {
+                "token": "יַֽעֲקֹב֙",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob "
+            },
+            {
+                "token": "וּבְחַטֹּ֖אות",
+                "transliteration": "ū·ḇə·ḥaṭ·ṭō·wṯ",
+                "strong": "2403",
+                "translation": " and the sins "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            },
+            {
+                "token": "מִֽי־",
+                "transliteration": "mî-",
+                "strong": "4310",
+                "translation": " What "
+            },
+            {
+                "token": "פֶ֣שַׁע",
+                "transliteration": "p̄e·ša‘",
+                "strong": "6588",
+                "translation": " [is] the transgression "
+            },
+            {
+                "token": "יַעֲקֹ֗ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob ? "
+            },
+            {
+                "token": "הֲלוֹא֙",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " Is it not "
+            },
+            {
+                "token": "שֹֽׁמְר֔וֹן",
+                "transliteration": "šō·mə·rō·wn",
+                "strong": "8111",
+                "translation": " Samaria ? "
+            },
+            {
+                "token": "וּמִי֙",
+                "transliteration": "ū·mî",
+                "strong": "4310",
+                "translation": " And what "
+            },
+            {
+                "token": "בָּמ֣וֹת",
+                "transliteration": "bā·mō·wṯ",
+                "strong": "1116",
+                "translation": " is the high place "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah ? "
+            },
+            {
+                "token": "הֲל֖וֹא",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " Is it not "
+            },
+            {
+                "token": "יְרוּשָׁלִָֽם׃",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem ? "
+            }
+        ],
+        "verse_reference": "Micah 1:5",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְשַׂמְתִּ֥י",
+                "transliteration": "wə·śam·tî",
+                "strong": "7760",
+                "translation": " Therefore I will make "
+            },
+            {
+                "token": "שֹׁמְר֛וֹן",
+                "transliteration": "šō·mə·rō·wn",
+                "strong": "8111",
+                "translation": " Samaria "
+            },
+            {
+                "token": "לְעִ֥י",
+                "transliteration": "lə·‘î",
+                "strong": "5856",
+                "translation": " a heap of rubble "
+            },
+            {
+                "token": "הַשָּׂדֶ֖ה",
+                "transliteration": "haś·śā·ḏeh",
+                "strong": "7704",
+                "translation": " in the open field , "
+            },
+            {
+                "token": "לְמַטָּ֣עֵי",
+                "transliteration": "lə·maṭ·ṭā·‘ê",
+                "strong": "4302",
+                "translation": " a planting area "
+            },
+            {
+                "token": "כָ֑רֶם",
+                "transliteration": "ḵā·rem",
+                "strong": "3754",
+                "translation": " for a vineyard . "
+            },
+            {
+                "token": "וְהִגַּרְתִּ֤י",
+                "transliteration": "wə·hig·gar·tî",
+                "strong": "5064",
+                "translation": " I will pour "
+            },
+            {
+                "token": "אֲבָנֶ֔יהָ",
+                "transliteration": "’ă·ḇā·ne·hā",
+                "strong": "68",
+                "translation": " her stones "
+            },
+            {
+                "token": "לַגַּי֙",
+                "transliteration": "lag·gay",
+                "strong": "1516",
+                "translation": " into the valley "
+            },
+            {
+                "token": "אֲגַלֶּֽה׃",
+                "transliteration": "’ă·ḡal·leh",
+                "strong": "1540",
+                "translation": " and expose "
+            },
+            {
+                "token": "וִיסֹדֶ֖יהָ",
+                "transliteration": "wî·sō·ḏe·hā",
+                "strong": "3247",
+                "translation": " her foundations . "
+            }
+        ],
+        "verse_reference": "Micah 1:6",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "פְּסִילֶ֣יהָ",
+                "transliteration": "pə·sî·le·hā",
+                "strong": "6456",
+                "translation": " her carved images "
+            },
+            {
+                "token": "יֻכַּ֗תּוּ",
+                "transliteration": "yuk·kat·tū",
+                "strong": "3807",
+                "translation": " will be smashed to pieces ; "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֶתְנַנֶּ֙יהָ֙",
+                "transliteration": "’eṯ·nan·ne·hā",
+                "strong": "868",
+                "translation": " her wages "
+            },
+            {
+                "token": "יִשָּׂרְפ֣וּ",
+                "transliteration": "yiś·śā·rə·p̄ū",
+                "strong": "8313",
+                "translation": " will be burned "
+            },
+            {
+                "token": "בָאֵ֔שׁ",
+                "transliteration": "ḇā·’êš",
+                "strong": "784",
+                "translation": " in the fire , "
+            },
+            {
+                "token": "אָשִׂ֣ים",
+                "transliteration": "’ā·śîm",
+                "strong": "7760",
+                "translation": " and I will destroy "
+            },
+            {
+                "token": "שְׁמָמָ֑ה",
+                "transliteration": "šə·mā·māh",
+                "strong": "8077",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "עֲצַבֶּ֖יהָ",
+                "transliteration": "‘ă·ṣab·be·hā",
+                "strong": "6091",
+                "translation": " her idols . "
+            },
+            {
+                "token": "כִּ֠י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Since "
+            },
+            {
+                "token": "קִבָּ֔צָה",
+                "transliteration": "qib·bā·ṣāh",
+                "strong": "6908",
+                "translation": " she collected "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֶתְנַ֤ן",
+                "transliteration": "mê·’eṯ·nan",
+                "strong": "868",
+                "translation": " the wages "
+            },
+            {
+                "token": "זוֹנָה֙",
+                "transliteration": "zō·w·nāh",
+                "strong": "2181",
+                "translation": " of a prostitute , "
+            },
+            {
+                "token": "אֶתְנַ֥ן",
+                "transliteration": "’eṯ·nan",
+                "strong": "868",
+                "translation": " they "
+            },
+            {
+                "token": "יָשֽׁוּבוּ׃",
+                "transliteration": "yā·šū·ḇū",
+                "strong": "7725",
+                "translation": " will be used again "
+            },
+            {
+                "token": "זוֹנָ֖ה",
+                "transliteration": "zō·w·nāh",
+                "strong": "2181",
+                "translation": " on a prostitute . "
+            }
+        ],
+        "verse_reference": "Micah 1:7",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " Because of "
+            },
+            {
+                "token": "זֹאת֙",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "אֶסְפְּדָ֣ה",
+                "transliteration": "’es·pə·ḏāh",
+                "strong": "5594",
+                "translation": " I will lament "
+            },
+            {
+                "token": "וְאֵילִ֔ילָה",
+                "transliteration": "wə·’ê·lî·lāh",
+                "strong": "3213",
+                "translation": " and wail ; "
+            },
+            {
+                "token": "אֵילְכָ֥ה",
+                "transliteration": "’ê·lə·ḵāh",
+                "strong": "1980",
+                "translation": " I will walk "
+            },
+            {
+                "token": "שֵׁילָל",
+                "transliteration": "šē·lå̄l",
+                "strong": "7758",
+                "translation": " barefoot "
+            },
+            {
+                "token": "וְעָר֑וֹם",
+                "transliteration": "wə·‘ā·rō·wm",
+                "strong": "6174",
+                "translation": " and naked . "
+            },
+            {
+                "token": "אֶעֱשֶׂ֤ה",
+                "transliteration": "’e·‘ĕ·śeh",
+                "strong": "6213",
+                "translation": " I will howl "
+            },
+            {
+                "token": "מִסְפֵּד֙",
+                "transliteration": "mis·pêḏ",
+                "strong": "4553",
+                "translation": " . . . "
+            },
+            {
+                "token": "כַּתַּנִּ֔ים",
+                "transliteration": "kat·tan·nîm",
+                "strong": "8577",
+                "translation": " like a jackal "
+            },
+            {
+                "token": "וְאֵ֖בֶל",
+                "transliteration": "wə·’ê·ḇel",
+                "strong": "60",
+                "translation": " and mourn "
+            },
+            {
+                "token": "כִּבְנ֥וֹת",
+                "transliteration": "kiḇ·nō·wṯ",
+                "strong": "1323",
+                "translation": " like "
+            },
+            {
+                "token": "יַעֲנָֽה׃",
+                "transliteration": "ya·‘ă·nāh",
+                "strong": "3284",
+                "translation": " an ostrich . "
+            }
+        ],
+        "verse_reference": "Micah 1:8",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "מַכּוֹתֶ֑יהָ",
+                "transliteration": "mak·kō·w·ṯe·hā",
+                "strong": "4347",
+                "translation": " her wound "
+            },
+            {
+                "token": "אֲנוּשָׁ֖ה",
+                "transliteration": "’ă·nū·šāh",
+                "strong": "605",
+                "translation": " is incurable ; "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "בָ֙אָה֙",
+                "transliteration": "ḇā·’āh",
+                "strong": "935",
+                "translation": " it has reached "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " even Judah ; "
+            },
+            {
+                "token": "נָגַ֛ע",
+                "transliteration": "nā·ḡa‘",
+                "strong": "5060",
+                "translation": " it has approached "
+            },
+            {
+                "token": "שַׁ֥עַר",
+                "transliteration": "ša·‘ar",
+                "strong": "8179",
+                "translation": " the gate "
+            },
+            {
+                "token": "עַמִּ֖י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " of my people , "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " as far as "
+            },
+            {
+                "token": "יְרוּשָׁלִָֽם׃",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem itself . "
+            }
+        ],
+        "verse_reference": "Micah 1:9",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Do not "
+            },
+            {
+                "token": "תַּגִּ֔ידוּ",
+                "transliteration": "tag·gî·ḏū",
+                "strong": "5046",
+                "translation": " tell it "
+            },
+            {
+                "token": "בְּגַת֙",
+                "transliteration": "bə·ḡaṯ",
+                "strong": "1661",
+                "translation": " in Gath ; "
+            },
+            {
+                "token": "בָּכ֖וֹ",
+                "transliteration": "bā·ḵōw",
+                "strong": "1058",
+                "translation": " do not weep "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִּבְכּ֑וּ",
+                "transliteration": "tiḇ·kū",
+                "strong": "1058",
+                "translation": " at all . "
+            },
+            {
+                "token": "הִתְפַּלָּשְׁתִּי׃",
+                "transliteration": "hiṯ·pal·lå̄·šə·tī",
+                "strong": "6428",
+                "translation": " Roll "
+            },
+            {
+                "token": "עָפָ֖ר",
+                "transliteration": "‘ā·p̄ār",
+                "strong": "6083",
+                "translation": " in the dust "
+            },
+            {
+                "token": "בְּבֵ֣ית",
+                "transliteration": "bə·ḇêṯ",
+                "strong": "1036",
+                "translation": " "
+            },
+            {
+                "token": "לְעַפְרָ֔ה",
+                "transliteration": "lə·‘ap̄·rāh",
+                "strong": "1036",
+                "translation": " in Beth-leaphrah . "
+            }
+        ],
+        "verse_reference": "Micah 1:10",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עִבְרִ֥י",
+                "transliteration": "‘iḇ·rî",
+                "strong": "5674",
+                "translation": " Depart "
+            },
+            {
+                "token": "לָכֶ֛ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "בֹ֑שֶׁת",
+                "transliteration": "ḇō·šeṯ",
+                "strong": "1322",
+                "translation": " in shameful "
+            },
+            {
+                "token": "עֶרְיָה־",
+                "transliteration": "‘er·yāh-",
+                "strong": "6181",
+                "translation": " nakedness , "
+            },
+            {
+                "token": "יוֹשֶׁ֥בֶת",
+                "transliteration": "yō·wō·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " O dwellers "
+            },
+            {
+                "token": "שָׁפִ֖יר",
+                "transliteration": "šā·p̄îr",
+                "strong": "8208",
+                "translation": " of Shaphir . "
+            },
+            {
+                "token": "יוֹשֶׁ֣בֶת",
+                "transliteration": "yō·wō·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " The dwellers "
+            },
+            {
+                "token": "צַֽאֲנָ֔ן",
+                "transliteration": "ṣa·’ă·nān",
+                "strong": "6630",
+                "translation": " of Zaanan "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " will not "
+            },
+            {
+                "token": "יָֽצְאָה֙",
+                "transliteration": "yā·ṣə·’āh",
+                "strong": "3318",
+                "translation": " come out . "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1018",
+                "translation": " vvv "
+            },
+            {
+                "token": "הָאֵ֔צֶל",
+                "transliteration": "hā·’ê·ṣel",
+                "strong": "1018",
+                "translation": " Beth-ezel "
+            },
+            {
+                "token": "מִסְפַּד֙",
+                "transliteration": "mis·paḏ",
+                "strong": "4553",
+                "translation": " is in mourning ; "
+            },
+            {
+                "token": "עֶמְדָּתֽוֹ׃",
+                "transliteration": "‘em·dā·ṯōw",
+                "strong": "5979",
+                "translation": " its support "
+            },
+            {
+                "token": "יִקַּ֥ח",
+                "transliteration": "yiq·qaḥ",
+                "strong": "3947",
+                "translation": " is taken "
+            },
+            {
+                "token": "מִכֶּ֖ם",
+                "transliteration": "mik·kem",
+                "strong": "",
+                "translation": " from you . "
+            }
+        ],
+        "verse_reference": "Micah 1:11",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "יוֹשֶׁ֣בֶת",
+                "transliteration": "yō·wō·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " the dwellers "
+            },
+            {
+                "token": "מָר֑וֹת",
+                "transliteration": "mā·rō·wṯ",
+                "strong": "4796",
+                "translation": " of Maroth "
+            },
+            {
+                "token": "חָ֥לָֽה",
+                "transliteration": "ḥā·lāh",
+                "strong": "2342",
+                "translation": " pined "
+            },
+            {
+                "token": "לְט֖וֹב",
+                "transliteration": "lə·ṭō·wḇ",
+                "strong": "2896",
+                "translation": " for good , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "רָע֙",
+                "transliteration": "rā‘",
+                "strong": "7451",
+                "translation": " calamity "
+            },
+            {
+                "token": "יָ֤רַד",
+                "transliteration": "yā·raḏ",
+                "strong": "3381",
+                "translation": " came down "
+            },
+            {
+                "token": "מֵאֵ֣ת",
+                "transliteration": "mê·’êṯ",
+                "strong": "854",
+                "translation": " from "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "לְשַׁ֖עַר",
+                "transliteration": "lə·ša·‘ar",
+                "strong": "8179",
+                "translation": " even to the gate "
+            },
+            {
+                "token": "יְרוּשָׁלִָֽם׃",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem . "
+            }
+        ],
+        "verse_reference": "Micah 1:12",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רְתֹ֧ם",
+                "transliteration": "rə·ṯōm",
+                "strong": "7573",
+                "translation": " Harness "
+            },
+            {
+                "token": "הַמֶּרְכָּבָ֛ה",
+                "transliteration": "ham·mer·kā·ḇāh",
+                "strong": "4818",
+                "translation": " your chariot "
+            },
+            {
+                "token": "לָרֶ֖כֶשׁ",
+                "transliteration": "lā·re·ḵeš",
+                "strong": "7409",
+                "translation": " horses , "
+            },
+            {
+                "token": "יוֹשֶׁ֣בֶת",
+                "transliteration": "yō·wō·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " O dweller "
+            },
+            {
+                "token": "לָכִ֑ישׁ",
+                "transliteration": "lā·ḵîš",
+                "strong": "3923",
+                "translation": " of Lachish . "
+            },
+            {
+                "token": "הִיא֙",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " You were "
+            },
+            {
+                "token": "רֵאשִׁ֨ית",
+                "transliteration": "rê·šîṯ",
+                "strong": "7225",
+                "translation": " the beginning "
+            },
+            {
+                "token": "חַטָּ֥את",
+                "transliteration": "ḥaṭ·ṭāṯ",
+                "strong": "2403",
+                "translation": " of sin "
+            },
+            {
+                "token": "לְבַת־",
+                "transliteration": "lə·ḇaṯ-",
+                "strong": "1323",
+                "translation": " to the Daughter "
+            },
+            {
+                "token": "צִיּ֔וֹן",
+                "transliteration": "ṣî·yō·wn",
+                "strong": "6726",
+                "translation": " of Zion , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "פִּשְׁעֵ֥י",
+                "transliteration": "piš·‘ê",
+                "strong": "6588",
+                "translation": " the transgressions "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "נִמְצְא֖וּ",
+                "transliteration": "nim·ṣə·’ū",
+                "strong": "4672",
+                "translation": " were found "
+            },
+            {
+                "token": "בָ֥ךְ",
+                "transliteration": "ḇāḵ",
+                "strong": "",
+                "translation": " in you . "
+            }
+        ],
+        "verse_reference": "Micah 1:13",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֵן֙",
+                "transliteration": "lā·ḵên",
+                "strong": "3651",
+                "translation": " Therefore , "
+            },
+            {
+                "token": "תִּתְּנִ֣י",
+                "transliteration": "tit·tə·nî",
+                "strong": "5414",
+                "translation": " send "
+            },
+            {
+                "token": "שִׁלּוּחִ֔ים",
+                "transliteration": "šil·lū·ḥîm",
+                "strong": "7964",
+                "translation": " farewell gifts "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " to "
+            },
+            {
+                "token": "מוֹרֶ֣שֶׁת",
+                "transliteration": "mō·w·re·šeṯ",
+                "strong": "4182",
+                "translation": " vvv "
+            },
+            {
+                "token": "גַּ֑ת",
+                "transliteration": "gaṯ",
+                "strong": "4182",
+                "translation": " Moresheth-gath ; "
+            },
+            {
+                "token": "בָּתֵּ֤י",
+                "transliteration": "bāt·tê",
+                "strong": "1004",
+                "translation": " the houses "
+            },
+            {
+                "token": "אַכְזִיב֙",
+                "transliteration": "’aḵ·zîḇ",
+                "strong": "392",
+                "translation": " of Achzib "
+            },
+            {
+                "token": "לְאַכְזָ֔ב",
+                "transliteration": "lə·’aḵ·zāḇ",
+                "strong": "391",
+                "translation": " [will] prove deceptive "
+            },
+            {
+                "token": "לְמַלְכֵ֖י",
+                "transliteration": "lə·mal·ḵê",
+                "strong": "4428",
+                "translation": " to the kings "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "Micah 1:14",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עֹ֗ד",
+                "transliteration": "‘ōḏ",
+                "strong": "5750",
+                "translation": " I will again "
+            },
+            {
+                "token": "אָ֣בִי",
+                "transliteration": "’ā·ḇî",
+                "strong": "935",
+                "translation": " bring "
+            },
+            {
+                "token": "הַיֹּרֵשׁ֙",
+                "transliteration": "hay·yō·rêš",
+                "strong": "3423",
+                "translation": " a conqueror "
+            },
+            {
+                "token": "לָ֔ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " against you , "
+            },
+            {
+                "token": "יוֹשֶׁ֖בֶת",
+                "transliteration": "yō·wō·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " O dweller "
+            },
+            {
+                "token": "מָֽרֵשָׁ֑ה",
+                "transliteration": "mā·rê·šāh",
+                "strong": "4762",
+                "translation": " of Mareshah . "
+            },
+            {
+                "token": "כְּב֥וֹד",
+                "transliteration": "kə·ḇō·wḏ",
+                "strong": "3519",
+                "translation": " The glory "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "יָב֖וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " will come "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "עֲדֻּלָּ֥ם",
+                "transliteration": "ʿăd·dul·lå̄m",
+                "strong": "5725",
+                "translation": " Adullam . "
+            }
+        ],
+        "verse_reference": "Micah 1:15",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קָרְחִ֣י",
+                "transliteration": "qā·rə·ḥî",
+                "strong": "7139",
+                "translation": " Shave yourselves bald "
+            },
+            {
+                "token": "וָגֹ֔זִּי",
+                "transliteration": "wā·ḡōz·zî",
+                "strong": "1494",
+                "translation": " and cut off your hair "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in mourning for "
+            },
+            {
+                "token": "תַּעֲנוּגָ֑יִךְ",
+                "transliteration": "ta·‘ă·nū·ḡā·yiḵ",
+                "strong": "8588",
+                "translation": " your precious "
+            },
+            {
+                "token": "בְּנֵ֖י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " children ; "
+            },
+            {
+                "token": "הַרְחִ֤בִי",
+                "transliteration": "har·ḥi·ḇî",
+                "strong": "7337",
+                "translation": " make yourselves "
+            },
+            {
+                "token": "קָרְחָתֵךְ֙",
+                "transliteration": "qā·rə·ḥā·ṯêḵ",
+                "strong": "7144",
+                "translation": " as bald "
+            },
+            {
+                "token": "כַּנֶּ֔שֶׁר",
+                "transliteration": "kan·ne·šer",
+                "strong": "5404",
+                "translation": " as an eagle , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "מִמֵּֽךְ׃ס",
+                "transliteration": "mim·mêḵ",
+                "strong": "4480",
+                "translation": " they will go from you "
+            },
+            {
+                "token": "גָל֖וּ",
+                "transliteration": "ḡā·lū",
+                "strong": "1540",
+                "translation": " into exile . "
+            }
+        ],
+        "verse_reference": "Micah 1:16",
+        "book": "Micah",
+        "chapter": "1",
+        "verse": "16"
+    }
+]

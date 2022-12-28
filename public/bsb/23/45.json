@@ -1,0 +1,2362 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "כֹּה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " This is what "
+            },
+            {
+                "token": "יְהוָה֮",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אָמַ֣ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "לְכ֣וֹרֶשׁ",
+                "transliteration": "lə·ḵō·w·reš",
+                "strong": "3566",
+                "translation": " to Cyrus "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "לִמְשִׁיחוֹ֮",
+                "transliteration": "lim·šî·ḥōw",
+                "strong": "4899",
+                "translation": " His anointed , "
+            },
+            {
+                "token": "בִֽימִינ֗וֹ",
+                "transliteration": "ḇî·mî·nōw",
+                "strong": "3225",
+                "translation": " whose right hand "
+            },
+            {
+                "token": "הֶחֱזַ֣קְתִּי",
+                "transliteration": "he·ḥĕ·zaq·tî",
+                "strong": "2388",
+                "translation": " I have grasped "
+            },
+            {
+                "token": "לְרַד־",
+                "transliteration": "lə·raḏ-",
+                "strong": "7286",
+                "translation": " to subdue "
+            },
+            {
+                "token": "גּוֹיִ֔ם",
+                "transliteration": "gō·w·yim",
+                "strong": "1471",
+                "translation": " nations "
+            },
+            {
+                "token": "וּמָתְנֵ֥י",
+                "transliteration": "ū·mā·ṯə·nê",
+                "strong": "4975",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְפָנָיו֙",
+                "transliteration": "lə·p̄ā·nāw",
+                "strong": "6440",
+                "translation": " before him , "
+            },
+            {
+                "token": "אֲפַתֵּ֑חַ",
+                "transliteration": "’ă·p̄at·tê·aḥ",
+                "strong": "6605",
+                "translation": " to disarm "
+            },
+            {
+                "token": "מְלָכִ֖ים",
+                "transliteration": "mə·lā·ḵîm",
+                "strong": "4428",
+                "translation": " kings , "
+            },
+            {
+                "token": "לִפְתֹּ֤חַ",
+                "transliteration": "lip̄·tō·aḥ",
+                "strong": "6605",
+                "translation": " to open "
+            },
+            {
+                "token": "דְּלָתַ֔יִם",
+                "transliteration": "də·lā·ṯa·yim",
+                "strong": "1817",
+                "translation": " the doors "
+            },
+            {
+                "token": "לְפָנָיו֙",
+                "transliteration": "lə·p̄ā·nāw",
+                "strong": "6440",
+                "translation": " before him , "
+            },
+            {
+                "token": "וּשְׁעָרִ֖ים",
+                "transliteration": "ū·šə·‘ā·rîm",
+                "strong": "8179",
+                "translation": " so that the gates "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " will not "
+            },
+            {
+                "token": "יִסָּגֵֽרוּ׃",
+                "transliteration": "yis·sā·ḡê·rū",
+                "strong": "5462",
+                "translation": " be shut : "
+            }
+        ],
+        "verse_reference": "Isaiah 45:1",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנִי֙",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " “ I "
+            },
+            {
+                "token": "אֵלֵ֔ךְ",
+                "transliteration": "’ê·lêḵ",
+                "strong": "1980",
+                "translation": " will go "
+            },
+            {
+                "token": "לְפָנֶ֣יךָ",
+                "transliteration": "lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " before you "
+            },
+            {
+                "token": "אוֹשִׁר",
+                "transliteration": "ʾō·šir",
+                "strong": "3474",
+                "translation": " and level "
+            },
+            {
+                "token": "וַהֲדוּרִ֖ים",
+                "transliteration": "wa·hă·ḏū·rîm",
+                "strong": "1921",
+                "translation": " the mountains ; "
+            },
+            {
+                "token": "אֲשַׁבֵּ֔ר",
+                "transliteration": "’ă·šab·bêr",
+                "strong": "7665",
+                "translation": " I will break down "
+            },
+            {
+                "token": "דַּלְת֤וֹת",
+                "transliteration": "dal·ṯō·wṯ",
+                "strong": "1817",
+                "translation": " the gates "
+            },
+            {
+                "token": "נְחוּשָׁה֙",
+                "transliteration": "nə·ḥū·šāh",
+                "strong": "5154",
+                "translation": " of bronze "
+            },
+            {
+                "token": "אֲגַדֵּֽעַ׃",
+                "transliteration": "’ă·ḡad·dê·a‘",
+                "strong": "1438",
+                "translation": " and cut through "
+            },
+            {
+                "token": "וּבְרִיחֵ֥י",
+                "transliteration": "ū·ḇə·rî·ḥê",
+                "strong": "1280",
+                "translation": " the bars "
+            },
+            {
+                "token": "בַרְזֶ֖ל",
+                "transliteration": "ḇar·zel",
+                "strong": "1270",
+                "translation": " of iron . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:2",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנָתַתִּ֤י",
+                "transliteration": "wə·nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " I will give "
+            },
+            {
+                "token": "לְךָ֙",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "אוֹצְר֣וֹת",
+                "transliteration": "’ō·wṣ·rō·wṯ",
+                "strong": "214",
+                "translation": " the treasures "
+            },
+            {
+                "token": "חֹ֔שֶׁךְ",
+                "transliteration": "ḥō·šeḵ",
+                "strong": "2822",
+                "translation": " of darkness "
+            },
+            {
+                "token": "וּמַטְמֻנֵ֖י",
+                "transliteration": "ū·maṭ·mu·nê",
+                "strong": "4301",
+                "translation": " and the riches hidden "
+            },
+            {
+                "token": "מִסְתָּרִ֑ים",
+                "transliteration": "mis·tā·rîm",
+                "strong": "4565",
+                "translation": " in secret places , "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " so that "
+            },
+            {
+                "token": "תֵּדַ֗ע",
+                "transliteration": "tê·ḏa‘",
+                "strong": "3045",
+                "translation": " you may know "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֧י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I [am] "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֥י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "הַקּוֹרֵ֥א",
+                "transliteration": "haq·qō·w·rê",
+                "strong": "7121",
+                "translation": " who calls "
+            },
+            {
+                "token": "בְשִׁמְךָ֖",
+                "transliteration": "ḇə·šim·ḵā",
+                "strong": "8034",
+                "translation": " you by name . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:3",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְמַ֙עַן֙",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " For the sake "
+            },
+            {
+                "token": "יַעֲקֹ֔ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob "
+            },
+            {
+                "token": "עַבְדִּ֣י",
+                "transliteration": "‘aḇ·dî",
+                "strong": "5650",
+                "translation": " My servant "
+            },
+            {
+                "token": "וְיִשְׂרָאֵ֖ל",
+                "transliteration": "wə·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " and Israel "
+            },
+            {
+                "token": "בְּחִירִ֑י",
+                "transliteration": "bə·ḥî·rî",
+                "strong": "972",
+                "translation": " My chosen one , "
+            },
+            {
+                "token": "וָאֶקְרָ֤א",
+                "transliteration": "wā·’eq·rā",
+                "strong": "7121",
+                "translation": " I call "
+            },
+            {
+                "token": "לְךָ֙",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "בִּשְׁמֶ֔ךָ",
+                "transliteration": "biš·me·ḵā",
+                "strong": "8034",
+                "translation": " by name ; "
+            },
+            {
+                "token": "אֲכַנְּךָ֖",
+                "transliteration": "’ă·ḵan·nə·ḵā",
+                "strong": "3655",
+                "translation": " I have given you a title of honor , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " though you have not "
+            },
+            {
+                "token": "יְדַעְתָּֽנִי׃",
+                "transliteration": "yə·ḏa‘·tā·nî",
+                "strong": "3045",
+                "translation": " known Me . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:4",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנִ֤י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "וְאֵ֣ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "ע֔וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other ; "
+            },
+            {
+                "token": "אֵ֣ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " there is no "
+            },
+            {
+                "token": "אֱלֹהִ֑ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "זוּלָתִ֖י",
+                "transliteration": "zū·lā·ṯî",
+                "strong": "2108",
+                "translation": " but Me . "
+            },
+            {
+                "token": "אֲאַזֶּרְךָ֖",
+                "transliteration": "’ă·’az·zer·ḵā",
+                "strong": "247",
+                "translation": " I will equip you for battle , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " though you have not "
+            },
+            {
+                "token": "יְדַעְתָּֽנִי׃",
+                "transliteration": "yə·ḏa‘·tā·nî",
+                "strong": "3045",
+                "translation": " known Me , "
+            }
+        ],
+        "verse_reference": "Isaiah 45:5",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " so that "
+            },
+            {
+                "token": "יֵדְע֗וּ",
+                "transliteration": "yê·ḏə·‘ū",
+                "strong": "3045",
+                "translation": " all may know , "
+            },
+            {
+                "token": "מִמִּזְרַח־",
+                "transliteration": "mim·miz·raḥ-",
+                "strong": "4217",
+                "translation": " from where the sun rises "
+            },
+            {
+                "token": "שֶׁ֙מֶשׁ֙",
+                "transliteration": "še·meš",
+                "strong": "8121",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּמִמַּ֣עֲרָבָ֔הּ",
+                "transliteration": "ū·mim·ma·‘ă·rā·ḇāh",
+                "strong": "4628",
+                "translation": " to where it sets , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֶ֖פֶס",
+                "transliteration": "’e·p̄es",
+                "strong": "657",
+                "translation": " there is none "
+            },
+            {
+                "token": "בִּלְעָדָ֑י",
+                "transliteration": "bil·‘ā·ḏāy",
+                "strong": "1107",
+                "translation": " but Me ; "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "עֽוֹד׃",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:6",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יוֹצֵ֥ר",
+                "transliteration": "yō·w·ṣêr",
+                "strong": "3335",
+                "translation": " I form "
+            },
+            {
+                "token": "אוֹר֙",
+                "transliteration": "’ō·wr",
+                "strong": "216",
+                "translation": " the light "
+            },
+            {
+                "token": "וּבוֹרֵ֣א",
+                "transliteration": "ū·ḇō·w·rê",
+                "strong": "1254",
+                "translation": " and create "
+            },
+            {
+                "token": "חֹ֔שֶׁךְ",
+                "transliteration": "ḥō·šeḵ",
+                "strong": "2822",
+                "translation": " the darkness ; "
+            },
+            {
+                "token": "עֹשֶׂ֥ה",
+                "transliteration": "‘ō·śeh",
+                "strong": "6213",
+                "translation": " I bring "
+            },
+            {
+                "token": "שָׁל֖וֹם",
+                "transliteration": "šā·lō·wm",
+                "strong": "7965",
+                "translation": " prosperity "
+            },
+            {
+                "token": "וּב֣וֹרֵא",
+                "transliteration": "ū·ḇō·w·rê",
+                "strong": "1254",
+                "translation": " and create "
+            },
+            {
+                "token": "רָ֑ע",
+                "transliteration": "rā‘",
+                "strong": "7451",
+                "translation": " calamity . "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "עֹשֶׂ֥ה",
+                "transliteration": "‘ō·śeh",
+                "strong": "6213",
+                "translation": " do "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֵֽלֶּה׃ס",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " these things . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:7",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַרְעִ֤יפוּ",
+                "transliteration": "har·‘î·p̄ū",
+                "strong": "7491",
+                "translation": " Drip down , "
+            },
+            {
+                "token": "שָׁמַ֙יִם֙",
+                "transliteration": "šā·ma·yim",
+                "strong": "8064",
+                "translation": " O heavens , "
+            },
+            {
+                "token": "מִמַּ֔עַל",
+                "transliteration": "mim·ma·‘al",
+                "strong": "4605",
+                "translation": " from above , "
+            },
+            {
+                "token": "וּשְׁחָקִ֖ים",
+                "transliteration": "ū·šə·ḥā·qîm",
+                "strong": "7834",
+                "translation": " and let the skies "
+            },
+            {
+                "token": "יִזְּלוּ־",
+                "transliteration": "yiz·zə·lū-",
+                "strong": "5140",
+                "translation": " pour down "
+            },
+            {
+                "token": "צֶ֑דֶק",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " righteousness . "
+            },
+            {
+                "token": "אֶ֣רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " Let the earth "
+            },
+            {
+                "token": "תִּפְתַּח־",
+                "transliteration": "tip̄·taḥ-",
+                "strong": "6605",
+                "translation": " open up "
+            },
+            {
+                "token": "יֶ֗שַׁע",
+                "transliteration": "ye·ša‘",
+                "strong": "3468",
+                "translation": " that salvation "
+            },
+            {
+                "token": "וְיִפְרוּ־",
+                "transliteration": "wə·yip̄·rū-",
+                "strong": "6509",
+                "translation": " may sprout "
+            },
+            {
+                "token": "וּצְדָקָ֤ה",
+                "transliteration": "ū·ṣə·ḏā·qāh",
+                "strong": "6666",
+                "translation": " and righteousness "
+            },
+            {
+                "token": "תַצְמִ֙יחַ֙",
+                "transliteration": "ṯaṣ·mî·aḥ",
+                "strong": "6779",
+                "translation": " spring up "
+            },
+            {
+                "token": "יַ֔חַד",
+                "transliteration": "ya·ḥaḏ",
+                "strong": "3162",
+                "translation": " with it ; "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "בְּרָאתִֽיו׃ס",
+                "transliteration": "bə·rā·ṯîw",
+                "strong": "1254",
+                "translation": " have created it . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:8",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ה֗וֹי",
+                "transliteration": "hō·w",
+                "strong": "1945",
+                "translation": " Woe "
+            },
+            {
+                "token": "רָ֚ב",
+                "transliteration": "rāḇ",
+                "strong": "7378",
+                "translation": " to him who quarrels "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " - "
+            },
+            {
+                "token": "יֹ֣צְר֔וֹ",
+                "transliteration": "yō·ṣə·rōw",
+                "strong": "3335",
+                "translation": " with his Maker — "
+            },
+            {
+                "token": "חֶ֖רֶשׂ",
+                "transliteration": "ḥe·reś",
+                "strong": "2789",
+                "translation": " one clay pot "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "חַרְשֵׂ֣י",
+                "transliteration": "ḥar·śê",
+                "strong": "2789",
+                "translation": " among many "
+            },
+            {
+                "token": "אֲדָמָ֑ה",
+                "transliteration": "’ă·ḏā·māh",
+                "strong": "127",
+                "translation": " . . . . "
+            },
+            {
+                "token": "חֹ֤מֶר",
+                "transliteration": "ḥō·mer",
+                "strong": "2563",
+                "translation": " Does the clay "
+            },
+            {
+                "token": "הֲיֹאמַ֨ר",
+                "transliteration": "hă·yō·mar",
+                "strong": "559",
+                "translation": " ask "
+            },
+            {
+                "token": "לְיֹֽצְרוֹ֙",
+                "transliteration": "lə·yō·ṣə·rōw",
+                "strong": "3335",
+                "translation": " the potter , "
+            },
+            {
+                "token": "מַֽה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "תַּעֲשֶׂ֔ה",
+                "transliteration": "ta·‘ă·śeh",
+                "strong": "6213",
+                "translation": " are you making ? ’ "
+            },
+            {
+                "token": "וּפָעָלְךָ֖",
+                "transliteration": "ū·p̄ā·‘ā·lə·ḵā",
+                "strong": "6467",
+                "translation": " Does your work say , "
+            },
+            {
+                "token": "אֵין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " ‘ He has no "
+            },
+            {
+                "token": "יָדַ֥יִם",
+                "transliteration": "yā·ḏa·yim",
+                "strong": "3027",
+                "translation": " hands "
+            },
+            {
+                "token": "לֽוֹ׃ס",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " ’? "
+            }
+        ],
+        "verse_reference": "Isaiah 45:9",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ה֛וֹי",
+                "transliteration": "hō·w",
+                "strong": "1945",
+                "translation": " Woe "
+            },
+            {
+                "token": "אֹמֵ֥ר",
+                "transliteration": "’ō·mêr",
+                "strong": "559",
+                "translation": " to him who says "
+            },
+            {
+                "token": "לְאָ֖ב",
+                "transliteration": "lə·’āḇ",
+                "strong": "1",
+                "translation": " to his father , "
+            },
+            {
+                "token": "מַה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "תּוֹלִ֑יד",
+                "transliteration": "tō·w·lîḏ",
+                "strong": "3205",
+                "translation": " have you begotten ? ’ "
+            },
+            {
+                "token": "וּלְאִשָּׁ֖ה",
+                "transliteration": "ū·lə·’iš·šāh",
+                "strong": "802",
+                "translation": " or to his mother , "
+            },
+            {
+                "token": "מַה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "תְּחִילִֽין׃ס",
+                "transliteration": "tə·ḥî·lîn",
+                "strong": "2342",
+                "translation": " have you brought forth ? ’” "
+            }
+        ],
+        "verse_reference": "Isaiah 45:10",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " Thus "
+            },
+            {
+                "token": "אָמַ֧ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "קְד֥וֹשׁ",
+                "transliteration": "qə·ḏō·wōš",
+                "strong": "6918",
+                "translation": " the Holy "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " One of Israel , "
+            },
+            {
+                "token": "וְיֹצְר֑וֹ",
+                "transliteration": "wə·yō·ṣə·rōw",
+                "strong": "3335",
+                "translation": " and its Maker : "
+            },
+            {
+                "token": "הָאֹתִיּ֣וֹת",
+                "transliteration": "hā·’ō·ṯî·yō·wṯ",
+                "strong": "857",
+                "translation": " “ How dare you "
+            },
+            {
+                "token": "שְׁאָל֔וּנִי",
+                "transliteration": "šə·’ā·lū·nî",
+                "strong": "7592",
+                "translation": " question Me "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " about "
+            },
+            {
+                "token": "בָּנַ֛י",
+                "transliteration": "bā·nay",
+                "strong": "1121",
+                "translation": " My sons , "
+            },
+            {
+                "token": "תְּצַוֻּֽנִי׃",
+                "transliteration": "tə·ṣaw·wu·nî",
+                "strong": "6680",
+                "translation": " or instruct Me "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "פֹּ֥עַל",
+                "transliteration": "pō·‘al",
+                "strong": "6467",
+                "translation": " the work "
+            },
+            {
+                "token": "יָדַ֖י",
+                "transliteration": "yā·ḏay",
+                "strong": "3027",
+                "translation": " of My hands ? "
+            }
+        ],
+        "verse_reference": "Isaiah 45:11",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָֽנֹכִי֙",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " It is I "
+            },
+            {
+                "token": "עָשִׂ֣יתִי",
+                "transliteration": "‘ā·śî·ṯî",
+                "strong": "6213",
+                "translation": " who made "
+            },
+            {
+                "token": "אֶ֔רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " the earth "
+            },
+            {
+                "token": "בָרָ֑אתִי",
+                "transliteration": "ḇā·rā·ṯî",
+                "strong": "1254",
+                "translation": " and created "
+            },
+            {
+                "token": "אֲנִ֗י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאָדָ֖ם",
+                "transliteration": "wə·’ā·ḏām",
+                "strong": "120",
+                "translation": " man "
+            },
+            {
+                "token": "עָלֶ֣יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " upon it . "
+            },
+            {
+                "token": "יָדַי֙",
+                "transliteration": "yā·ḏay",
+                "strong": "3027",
+                "translation": " It was My hands "
+            },
+            {
+                "token": "נָט֣וּ",
+                "transliteration": "nā·ṭū",
+                "strong": "5186",
+                "translation": " that stretched out "
+            },
+            {
+                "token": "שָׁמַ֔יִם",
+                "transliteration": "šā·ma·yim",
+                "strong": "8064",
+                "translation": " the heavens , "
+            },
+            {
+                "token": "צִוֵּֽיתִי׃",
+                "transliteration": "ṣiw·wê·ṯî",
+                "strong": "6680",
+                "translation": " and I ordained "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "צְבָאָ֖ם",
+                "transliteration": "ṣə·ḇā·’ām",
+                "strong": "6635",
+                "translation": " their host . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:12",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָנֹכִי֙",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " I "
+            },
+            {
+                "token": "הַעִירֹתִ֣הֽוּ",
+                "transliteration": "ha·‘î·rō·ṯi·hū",
+                "strong": "5782",
+                "translation": " will raise up [Cyrus] "
+            },
+            {
+                "token": "בְצֶ֔דֶק",
+                "transliteration": "ḇə·ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " in righteousness , "
+            },
+            {
+                "token": "אֲיַשֵּׁ֑ר",
+                "transliteration": "’ă·yaš·šêr",
+                "strong": "3474",
+                "translation": " and I will make "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "דְּרָכָ֖יו",
+                "transliteration": "də·rā·ḵāw",
+                "strong": "1870",
+                "translation": " his ways [straight] . "
+            },
+            {
+                "token": "הֽוּא־",
+                "transliteration": "hū-",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "יִבְנֶ֤ה",
+                "transliteration": "yiḇ·neh",
+                "strong": "1129",
+                "translation": " will rebuild "
+            },
+            {
+                "token": "עִירִי֙",
+                "transliteration": "‘î·rî",
+                "strong": "5892",
+                "translation": " My city "
+            },
+            {
+                "token": "וְגָלוּתִ֣י",
+                "transliteration": "wə·ḡā·lū·ṯî",
+                "strong": "1546",
+                "translation": " and set My exiles "
+            },
+            {
+                "token": "יְשַׁלֵּ֔חַ",
+                "transliteration": "yə·šal·lê·aḥ",
+                "strong": "7971",
+                "translation": " free , "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " but not "
+            },
+            {
+                "token": "בִמְחִיר֙",
+                "transliteration": "ḇim·ḥîr",
+                "strong": "4242",
+                "translation": " for payment "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " [or] "
+            },
+            {
+                "token": "בְשֹׁ֔חַד",
+                "transliteration": "ḇə·šō·ḥaḏ",
+                "strong": "7810",
+                "translation": " reward , "
+            },
+            {
+                "token": "אָמַ֖ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "צְבָאֽוֹת׃פ",
+                "transliteration": "ṣə·ḇā·’ō·wṯ",
+                "strong": "6635",
+                "translation": " of Hosts . ” "
+            }
+        ],
+        "verse_reference": "Isaiah 45:13",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּ֣ה׀",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " This is what "
+            },
+            {
+                "token": "יְהוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אָמַ֣ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "יְגִ֨יעַ",
+                "transliteration": "yə·ḡî·a‘",
+                "strong": "3018",
+                "translation": " “ The products "
+            },
+            {
+                "token": "מִצְרַ֥יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "וּֽסְחַר־",
+                "transliteration": "ū·sə·ḥar-",
+                "strong": "5504",
+                "translation": " and the merchandise "
+            },
+            {
+                "token": "כּוּשׁ֮",
+                "transliteration": "kūš",
+                "strong": "3568",
+                "translation": " of Cush , "
+            },
+            {
+                "token": "וּסְבָאִים֮",
+                "transliteration": "ū·sə·ḇā·’îm",
+                "strong": "5436",
+                "translation": " along with the Sabeans , "
+            },
+            {
+                "token": "אַנְשֵׁ֣י",
+                "transliteration": "’an·šê",
+                "strong": "582",
+                "translation": " men "
+            },
+            {
+                "token": "מִדָּה֒",
+                "transliteration": "mid·dāh",
+                "strong": "4060",
+                "translation": " of stature , "
+            },
+            {
+                "token": "יַעֲבֹ֙רוּ֙",
+                "transliteration": "ya·‘ă·ḇō·rū",
+                "strong": "5674",
+                "translation": " will come over "
+            },
+            {
+                "token": "עָלַ֤יִךְ",
+                "transliteration": "‘ā·la·yiḵ",
+                "strong": "5921",
+                "translation": " to you "
+            },
+            {
+                "token": "יִֽהְי֔וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " and will be "
+            },
+            {
+                "token": "וְלָ֣ךְ",
+                "transliteration": "wə·lāḵ",
+                "strong": "",
+                "translation": " yours ; "
+            },
+            {
+                "token": "אַחֲרַ֣יִךְ",
+                "transliteration": "’a·ḥă·ra·yiḵ",
+                "strong": "310",
+                "translation": " they will trudge behind "
+            },
+            {
+                "token": "יֵלֵ֔כוּ",
+                "transliteration": "yê·lê·ḵū",
+                "strong": "1980",
+                "translation": " you ; "
+            },
+            {
+                "token": "יַעֲבֹ֑רוּ",
+                "transliteration": "ya·‘ă·ḇō·rū",
+                "strong": "5674",
+                "translation": " they will come over "
+            },
+            {
+                "token": "בַּזִּקִּ֖ים",
+                "transliteration": "baz·ziq·qîm",
+                "strong": "2131",
+                "translation": " in chains "
+            },
+            {
+                "token": "יִֽשְׁתַּחֲוּוּ֙",
+                "transliteration": "yiš·ta·ḥăw·wū",
+                "strong": "7812",
+                "translation": " and bow down "
+            },
+            {
+                "token": "וְאֵלַ֤יִךְ",
+                "transliteration": "wə·’ê·la·yiḵ",
+                "strong": "413",
+                "translation": " to you . "
+            },
+            {
+                "token": "יִתְפַּלָּ֔לוּ",
+                "transliteration": "yiṯ·pal·lā·lū",
+                "strong": "6419",
+                "translation": " They will confess "
+            },
+            {
+                "token": "אֵלַ֣יִךְ",
+                "transliteration": "’ê·la·yiḵ",
+                "strong": "413",
+                "translation": " to you : "
+            },
+            {
+                "token": "אֵ֛ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " ‘ God "
+            },
+            {
+                "token": "אַ֣ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " is indeed "
+            },
+            {
+                "token": "בָּ֥ךְ",
+                "transliteration": "bāḵ",
+                "strong": "",
+                "translation": " with you , "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "ע֖וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other ; "
+            },
+            {
+                "token": "אֶ֥פֶס",
+                "transliteration": "’e·p̄es",
+                "strong": "657",
+                "translation": " there is no "
+            },
+            {
+                "token": "אֱלֹהִֽים׃",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " other God . ’” "
+            }
+        ],
+        "verse_reference": "Isaiah 45:14",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָכֵ֕ן",
+                "transliteration": "’ā·ḵên",
+                "strong": "403",
+                "translation": " Truly "
+            },
+            {
+                "token": "אַתָּ֖ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " You "
+            },
+            {
+                "token": "אֵ֣ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " are a God "
+            },
+            {
+                "token": "מִסְתַּתֵּ֑ר",
+                "transliteration": "mis·tat·têr",
+                "strong": "5641",
+                "translation": " who hides Himself , "
+            },
+            {
+                "token": "אֱלֹהֵ֥י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " O God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "מוֹשִֽׁיעַ׃",
+                "transliteration": "mō·wō·šî·a‘",
+                "strong": "3467",
+                "translation": " the Savior . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:15",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֻּלָּ֑ם",
+                "transliteration": "kul·lām",
+                "strong": "3605",
+                "translation": " They will all "
+            },
+            {
+                "token": "בּ֥וֹשׁוּ",
+                "transliteration": "bō·wō·šū",
+                "strong": "954",
+                "translation": " be put to shame "
+            },
+            {
+                "token": "וְגַֽם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "נִכְלְמ֖וּ",
+                "transliteration": "niḵ·lə·mū",
+                "strong": "3637",
+                "translation": " humiliated ; "
+            },
+            {
+                "token": "חָרָשֵׁ֖י",
+                "transliteration": "ḥā·rā·šê",
+                "strong": "2796",
+                "translation": " the makers "
+            },
+            {
+                "token": "צִירִֽים׃",
+                "transliteration": "ṣî·rîm",
+                "strong": "6736",
+                "translation": " of idols "
+            },
+            {
+                "token": "הָלְכ֣וּ",
+                "transliteration": "hā·lə·ḵū",
+                "strong": "1980",
+                "translation": " will depart "
+            },
+            {
+                "token": "יַחְדָּו֙",
+                "transliteration": "yaḥ·dāw",
+                "strong": "3162",
+                "translation": " together "
+            },
+            {
+                "token": "בַכְּלִמָּ֔ה",
+                "transliteration": "ḇak·kə·lim·māh",
+                "strong": "3639",
+                "translation": " in disgrace . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:16",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " [But] Israel "
+            },
+            {
+                "token": "נוֹשַׁ֣ע",
+                "transliteration": "nō·wō·ša‘",
+                "strong": "3467",
+                "translation": " will be saved "
+            },
+            {
+                "token": "בַּיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " by the LORD "
+            },
+            {
+                "token": "עוֹלָמִ֑ים",
+                "transliteration": "‘ō·w·lā·mîm",
+                "strong": "5769",
+                "translation": " with an everlasting "
+            },
+            {
+                "token": "תְּשׁוּעַ֖ת",
+                "transliteration": "tə·šū·‘aṯ",
+                "strong": "8668",
+                "translation": " salvation ; "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " you will not "
+            },
+            {
+                "token": "תֵבֹ֥שׁוּ",
+                "transliteration": "ṯê·ḇō·šū",
+                "strong": "954",
+                "translation": " be put to shame "
+            },
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִכָּלְמ֖וּ",
+                "transliteration": "ṯik·kā·lə·mū",
+                "strong": "3637",
+                "translation": " or humiliated , "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "ע֥וֹלְמֵי",
+                "transliteration": "‘ō·wl·mê",
+                "strong": "5769",
+                "translation": " ages "
+            },
+            {
+                "token": "עַֽד׃פ",
+                "transliteration": "‘aḏ",
+                "strong": "5703",
+                "translation": " everlasting . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:17",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "כֹ֣ה",
+                "transliteration": "ḵōh",
+                "strong": "3541",
+                "translation": " thus "
+            },
+            {
+                "token": "אָֽמַר־",
+                "transliteration": "’ā·mar-",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "יְ֠הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "בּוֹרֵ֨א",
+                "transliteration": "bō·w·rê",
+                "strong": "1254",
+                "translation": " who created "
+            },
+            {
+                "token": "הַשָּׁמַ֜יִם",
+                "transliteration": "haš·šā·ma·yim",
+                "strong": "8064",
+                "translation": " the heavens — "
+            },
+            {
+                "token": "ה֣וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "הָאֱלֹהִ֗ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " [is] God ; "
+            },
+            {
+                "token": "יֹצֵ֨ר",
+                "transliteration": "yō·ṣêr",
+                "strong": "3335",
+                "translation": " He formed "
+            },
+            {
+                "token": "הָאָ֤רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the earth "
+            },
+            {
+                "token": "וְעֹשָׂהּ֙",
+                "transliteration": "wə·‘ō·śāh",
+                "strong": "6213",
+                "translation": " and fashioned it ; "
+            },
+            {
+                "token": "ה֣וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "כֽוֹנְנָ֔הּ",
+                "transliteration": "ḵō·wn·nāh",
+                "strong": "3559",
+                "translation": " established it ; "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " He did not "
+            },
+            {
+                "token": "בְרָאָ֖הּ",
+                "transliteration": "ḇə·rā·’āh",
+                "strong": "1254",
+                "translation": " create "
+            },
+            {
+                "token": "תֹ֥הוּ",
+                "transliteration": "ṯō·hū",
+                "strong": "8414",
+                "translation": " it to be empty , "
+            },
+            {
+                "token": "יְצָרָ֑הּ",
+                "transliteration": "yə·ṣā·rāh",
+                "strong": "3335",
+                "translation": " but formed "
+            },
+            {
+                "token": "לָשֶׁ֣בֶת",
+                "transliteration": "lā·še·ḇeṯ",
+                "strong": "3427",
+                "translation": " it to be inhabited : "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " “ I "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "עֽוֹד׃",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:18",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֧א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I have not "
+            },
+            {
+                "token": "דִּבַּ֗רְתִּי",
+                "transliteration": "dib·bar·tî",
+                "strong": "1696",
+                "translation": " spoken "
+            },
+            {
+                "token": "בַסֵּ֣תֶר",
+                "transliteration": "ḇas·sê·ṯer",
+                "strong": "5643",
+                "translation": " in secret , "
+            },
+            {
+                "token": "בִּמְקוֹם֙",
+                "transliteration": "bim·qō·wm",
+                "strong": "4725",
+                "translation": " from a place "
+            },
+            {
+                "token": "אֶ֣רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " in a land "
+            },
+            {
+                "token": "חֹ֔שֶׁךְ",
+                "transliteration": "ḥō·šeḵ",
+                "strong": "2822",
+                "translation": " of darkness . "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I did not "
+            },
+            {
+                "token": "אָמַ֛רְתִּי",
+                "transliteration": "’ā·mar·tî",
+                "strong": "559",
+                "translation": " say "
+            },
+            {
+                "token": "לְזֶ֥רַע",
+                "transliteration": "lə·ze·ra‘",
+                "strong": "2233",
+                "translation": " to the descendants "
+            },
+            {
+                "token": "יַעֲקֹ֖ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob , "
+            },
+            {
+                "token": "בַקְּשׁ֑וּנִי",
+                "transliteration": "ḇaq·qə·šū·nî",
+                "strong": "1245",
+                "translation": " ‘ Seek Me "
+            },
+            {
+                "token": "תֹּ֣הוּ",
+                "transliteration": "tō·hū",
+                "strong": "8414",
+                "translation": " in a wasteland . ’ "
+            },
+            {
+                "token": "אֲנִ֤י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "דֹּבֵ֣ר",
+                "transliteration": "dō·ḇêr",
+                "strong": "1696",
+                "translation": " speak "
+            },
+            {
+                "token": "צֶ֔דֶק",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " the truth ; "
+            },
+            {
+                "token": "מַגִּ֖יד",
+                "transliteration": "mag·gîḏ",
+                "strong": "5046",
+                "translation": " I say "
+            },
+            {
+                "token": "מֵישָׁרִֽים׃",
+                "transliteration": "mê·šā·rîm",
+                "strong": "4339",
+                "translation": " what is right . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:19",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָבֹ֛אוּ",
+                "transliteration": "wā·ḇō·’ū",
+                "strong": "935",
+                "translation": " Come , "
+            },
+            {
+                "token": "הִקָּבְצ֥וּ",
+                "transliteration": "hiq·qā·ḇə·ṣū",
+                "strong": "6908",
+                "translation": " gather together , "
+            },
+            {
+                "token": "הִֽתְנַגְּשׁ֥וּ",
+                "transliteration": "hiṯ·nag·gə·šū",
+                "strong": "5066",
+                "translation": " and draw near "
+            },
+            {
+                "token": "יַחְדָּ֖ו",
+                "transliteration": "yaḥ·dāw",
+                "strong": "3162",
+                "translation": " . . . , "
+            },
+            {
+                "token": "פְּלִיטֵ֣י",
+                "transliteration": "pə·lî·ṭê",
+                "strong": "6412",
+                "translation": " you fugitives "
+            },
+            {
+                "token": "הַגּוֹיִ֑ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " from the nations . "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " vvv "
+            },
+            {
+                "token": "יָדְע֗וּ",
+                "transliteration": "yā·ḏə·‘ū",
+                "strong": "3045",
+                "translation": " Ignorant [are] "
+            },
+            {
+                "token": "הַנֹּֽשְׂאִים֙",
+                "transliteration": "han·nō·śə·’îm",
+                "strong": "5375",
+                "translation": " those who carry "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "פִּסְלָ֔ם",
+                "transliteration": "pis·lām",
+                "strong": "6459",
+                "translation": " idols "
+            },
+            {
+                "token": "עֵ֣ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " of wood "
+            },
+            {
+                "token": "וּמִתְפַּלְלִ֔ים",
+                "transliteration": "ū·miṯ·pal·lîm",
+                "strong": "6419",
+                "translation": " and pray "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אֵ֖ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " a god "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " that cannot "
+            },
+            {
+                "token": "יוֹשִֽׁיעַ׃",
+                "transliteration": "yō·wō·šî·a‘",
+                "strong": "3467",
+                "translation": " save . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:20",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַגִּ֣ידוּ",
+                "transliteration": "hag·gî·ḏū",
+                "strong": "5046",
+                "translation": " Speak up "
+            },
+            {
+                "token": "וְהַגִּ֔ישׁוּ",
+                "transliteration": "wə·hag·gî·šū",
+                "strong": "5066",
+                "translation": " and present your case — "
+            },
+            {
+                "token": "אַ֥ף",
+                "transliteration": "’ap̄",
+                "strong": "637",
+                "translation": " yes , "
+            },
+            {
+                "token": "יִֽוָּעֲצ֖וּ",
+                "transliteration": "yiw·wā·‘ă·ṣū",
+                "strong": "3289",
+                "translation": " let them take counsel "
+            },
+            {
+                "token": "יַחְדָּ֑ו",
+                "transliteration": "yaḥ·dāw",
+                "strong": "3162",
+                "translation": " together . "
+            },
+            {
+                "token": "מִ֣י",
+                "transliteration": "mî",
+                "strong": "4310",
+                "translation": " Who "
+            },
+            {
+                "token": "הִשְׁמִיעַ֩",
+                "transliteration": "hiš·mî·a‘",
+                "strong": "8085",
+                "translation": " foretold "
+            },
+            {
+                "token": "זֹ֨את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "מִקֶּ֜דֶם",
+                "transliteration": "miq·qe·ḏem",
+                "strong": "6924",
+                "translation": " long ago ? "
+            },
+            {
+                "token": "הִגִּידָ֗הּ",
+                "transliteration": "hig·gî·ḏāh",
+                "strong": "5046",
+                "translation": " Who announced it "
+            },
+            {
+                "token": "מֵאָ֣ז",
+                "transliteration": "mê·’āz",
+                "strong": "227",
+                "translation": " from ancient times ? "
+            },
+            {
+                "token": "הֲל֨וֹא",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " Was it not "
+            },
+            {
+                "token": "אֲנִ֤י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD ? "
+            },
+            {
+                "token": "וְאֵֽין־",
+                "transliteration": "wə·’ên-",
+                "strong": "369",
+                "translation": " There is no "
+            },
+            {
+                "token": "ע֤וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other "
+            },
+            {
+                "token": "אֱלֹהִים֙",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "מִבַּלְעָדַ֔י",
+                "transliteration": "mib·bal·‘ā·ḏay",
+                "strong": "1107",
+                "translation": " but Me , "
+            },
+            {
+                "token": "צַדִּ֣יק",
+                "transliteration": "ṣad·dîq",
+                "strong": "6662",
+                "translation": " a righteous "
+            },
+            {
+                "token": "אֵֽל־",
+                "transliteration": "’êl-",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "וּמוֹשִׁ֔יעַ",
+                "transliteration": "ū·mō·wō·šî·a‘",
+                "strong": "3467",
+                "translation": " and Savior ; "
+            },
+            {
+                "token": "אַ֖יִן",
+                "transliteration": "’a·yin",
+                "strong": "369",
+                "translation": " there is none "
+            },
+            {
+                "token": "זוּלָתִֽי׃",
+                "transliteration": "zū·lā·ṯî",
+                "strong": "2108",
+                "translation": " but Me . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:21",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פְּנוּ־",
+                "transliteration": "pə·nū-",
+                "strong": "6437",
+                "translation": " Turn "
+            },
+            {
+                "token": "אֵלַ֥י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to Me "
+            },
+            {
+                "token": "וְהִוָּשְׁע֖וּ",
+                "transliteration": "wə·hiw·wā·šə·‘ū",
+                "strong": "3467",
+                "translation": " and be saved , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אַפְסֵי־",
+                "transliteration": "’ap̄·sê-",
+                "strong": "657",
+                "translation": " the ends "
+            },
+            {
+                "token": "אָ֑רֶץ",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth ; "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אֲנִי־",
+                "transliteration": "’ă·nî-",
+                "strong": "589",
+                "translation": " I [am] "
+            },
+            {
+                "token": "אֵ֖ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God , "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and there is no "
+            },
+            {
+                "token": "עֽוֹד׃",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " other . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:22",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בִּ֣י",
+                "transliteration": "bî",
+                "strong": "",
+                "translation": " By Myself "
+            },
+            {
+                "token": "נִשְׁבַּ֔עְתִּי",
+                "transliteration": "niš·ba‘·tî",
+                "strong": "7650",
+                "translation": " I have sworn ; "
+            },
+            {
+                "token": "צְדָקָ֛ה",
+                "transliteration": "ṣə·ḏā·qāh",
+                "strong": "6666",
+                "translation": " truth "
+            },
+            {
+                "token": "יָצָ֨א",
+                "transliteration": "yā·ṣā",
+                "strong": "3318",
+                "translation": " has gone out "
+            },
+            {
+                "token": "מִפִּ֧י",
+                "transliteration": "mip·pî",
+                "strong": "6310",
+                "translation": " from My mouth , "
+            },
+            {
+                "token": "דָּבָ֖ר",
+                "transliteration": "dā·ḇār",
+                "strong": "1697",
+                "translation": " a word "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " that will not "
+            },
+            {
+                "token": "יָשׁ֑וּב",
+                "transliteration": "yā·šūḇ",
+                "strong": "7725",
+                "translation": " be revoked "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " . . . : "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Every "
+            },
+            {
+                "token": "בֶּ֔רֶךְ",
+                "transliteration": "be·reḵ",
+                "strong": "1290",
+                "translation": " knee "
+            },
+            {
+                "token": "תִּכְרַ֣ע",
+                "transliteration": "tiḵ·ra‘",
+                "strong": "3766",
+                "translation": " will bow "
+            },
+            {
+                "token": "לִי֙",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " before Me , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "לָשֽׁוֹן׃",
+                "transliteration": "lā·šō·wn",
+                "strong": "3956",
+                "translation": " tongue "
+            },
+            {
+                "token": "תִּשָּׁבַ֖ע",
+                "transliteration": "tiš·šā·ḇa‘",
+                "strong": "7650",
+                "translation": " will swear [allegiance] . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:23",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֧ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " Surely "
+            },
+            {
+                "token": "אָמַ֖ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " they will say of Me , "
+            },
+            {
+                "token": "בַּיהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " ‘ In the LORD "
+            },
+            {
+                "token": "לִ֥י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " alone "
+            },
+            {
+                "token": "צְדָק֣וֹת",
+                "transliteration": "ṣə·ḏā·qō·wṯ",
+                "strong": "6666",
+                "translation": " [are] righteousness "
+            },
+            {
+                "token": "וָעֹ֑ז",
+                "transliteration": "wā·‘ōz",
+                "strong": "5797",
+                "translation": " and strength . ’” "
+            },
+            {
+                "token": "כֹּ֖ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "הַנֶּחֱרִ֥ים",
+                "transliteration": "han·ne·ḥĕ·rîm",
+                "strong": "2734",
+                "translation": " who rage "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " against Him "
+            },
+            {
+                "token": "יָב֣וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " will come "
+            },
+            {
+                "token": "עָדָיו֙",
+                "transliteration": "‘ā·ḏāw",
+                "strong": "5704",
+                "translation": " to Him "
+            },
+            {
+                "token": "וְיֵבֹ֔שׁוּ",
+                "transliteration": "wə·yê·ḇō·šū",
+                "strong": "954",
+                "translation": " and be put to shame . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:24",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּיהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " In the LORD "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "זֶ֥רַע",
+                "transliteration": "ze·ra‘",
+                "strong": "2233",
+                "translation": " descendants "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "יִצְדְּק֥וּ",
+                "transliteration": "yiṣ·də·qū",
+                "strong": "6663",
+                "translation": " will be justified "
+            },
+            {
+                "token": "וְיִֽתְהַלְל֖וּ",
+                "transliteration": "wə·yiṯ·hal·lū",
+                "strong": "1984",
+                "translation": " and will exult . "
+            }
+        ],
+        "verse_reference": "Isaiah 45:25",
+        "book": "Isaiah",
+        "chapter": "45",
+        "verse": "25"
+    }
+]

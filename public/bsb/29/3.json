@@ -1,0 +1,1790 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "כִּ֗י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " [“] Yes , "
+            },
+            {
+                "token": "הִנֵּ֛ה",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָהֵ֖מָּה",
+                "transliteration": "hā·hêm·māh",
+                "strong": "1992",
+                "translation": " in those "
+            },
+            {
+                "token": "בַּיָּמִ֥ים",
+                "transliteration": "bay·yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "הַהִ֑יא",
+                "transliteration": "ha·hî",
+                "strong": "1931",
+                "translation": " and at that "
+            },
+            {
+                "token": "וּבָעֵ֣ת",
+                "transliteration": "ū·ḇā·‘êṯ",
+                "strong": "6256",
+                "translation": " time , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " when "
+            },
+            {
+                "token": "אָשׁוּב",
+                "transliteration": "ʾå̄·šūḇ",
+                "strong": "7725",
+                "translation": " I restore "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוּדָ֖ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah "
+            },
+            {
+                "token": "וִירוּשָׁלִָֽם׃",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem "
+            },
+            {
+                "token": "שְׁב֥וּת",
+                "transliteration": "šə·ḇūṯ",
+                "strong": "7622",
+                "translation": " from captivity , "
+            }
+        ],
+        "verse_reference": "Joel 3:1",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְקִבַּצְתִּי֙",
+                "transliteration": "wə·qib·baṣ·tî",
+                "strong": "6908",
+                "translation": " I will gather "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַגּוֹיִ֔ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " the nations "
+            },
+            {
+                "token": "וְה֣וֹרַדְתִּ֔ים",
+                "transliteration": "wə·hō·w·raḏ·tîm",
+                "strong": "3381",
+                "translation": " and bring them down "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עֵ֖מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " the Valley "
+            },
+            {
+                "token": "יְהֽוֹשָׁפָ֑ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " of Jehoshaphat . "
+            },
+            {
+                "token": "שָׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " There "
+            },
+            {
+                "token": "וְנִשְׁפַּטְתִּ֨י",
+                "transliteration": "wə·niš·paṭ·tî",
+                "strong": "8199",
+                "translation": " I will enter into judgment "
+            },
+            {
+                "token": "עִמָּ֜ם",
+                "transliteration": "‘im·mām",
+                "strong": "5973",
+                "translation": " against them "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " concerning "
+            },
+            {
+                "token": "עַמִּ֨י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " My people , "
+            },
+            {
+                "token": "וְנַחֲלָתִ֤י",
+                "transliteration": "wə·na·ḥă·lā·ṯî",
+                "strong": "5159",
+                "translation": " My inheritance , "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " whom "
+            },
+            {
+                "token": "פִּזְּר֣וּ",
+                "transliteration": "piz·zə·rū",
+                "strong": "6340",
+                "translation": " they have scattered "
+            },
+            {
+                "token": "בַגּוֹיִ֔ם",
+                "transliteration": "ḇag·gō·w·yim",
+                "strong": "1471",
+                "translation": " among the nations "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " as "
+            },
+            {
+                "token": "חִלֵּֽקוּ׃",
+                "transliteration": "ḥil·lê·qū",
+                "strong": "2505",
+                "translation": " they divided up "
+            },
+            {
+                "token": "אַרְצִ֖י",
+                "transliteration": "’ar·ṣî",
+                "strong": "776",
+                "translation": " My land . "
+            }
+        ],
+        "verse_reference": "Joel 3:2",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַדּ֣וּ",
+                "transliteration": "yad·dū",
+                "strong": "3032",
+                "translation": " They cast "
+            },
+            {
+                "token": "גוֹרָ֑ל",
+                "transliteration": "ḡō·w·rāl",
+                "strong": "1486",
+                "translation": " lots "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " for "
+            },
+            {
+                "token": "עַמִּ֖י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " My people ; "
+            },
+            {
+                "token": "וַיִּתְּנ֤וּ",
+                "transliteration": "way·yit·tə·nū",
+                "strong": "5414",
+                "translation": " they bartered "
+            },
+            {
+                "token": "הַיֶּ֙לֶד֙",
+                "transliteration": "hay·ye·leḏ",
+                "strong": "3206",
+                "translation": " a boy "
+            },
+            {
+                "token": "בַּזּוֹנָ֔ה",
+                "transliteration": "baz·zō·w·nāh",
+                "strong": "2181",
+                "translation": " for a prostitute "
+            },
+            {
+                "token": "מָכְר֥וּ",
+                "transliteration": "mā·ḵə·rū",
+                "strong": "4376",
+                "translation": " and sold "
+            },
+            {
+                "token": "וְהַיַּלְדָּ֛ה",
+                "transliteration": "wə·hay·yal·dāh",
+                "strong": "3207",
+                "translation": " a girl "
+            },
+            {
+                "token": "בַיַּ֖יִן",
+                "transliteration": "ḇay·ya·yin",
+                "strong": "3196",
+                "translation": " for wine "
+            },
+            {
+                "token": "וַיִּשְׁתּֽוּ׃",
+                "transliteration": "way·yiš·tū",
+                "strong": "8354",
+                "translation": " to drink . "
+            }
+        ],
+        "verse_reference": "Joel 3:3",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְ֠גַם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " Now "
+            },
+            {
+                "token": "מָה־",
+                "transliteration": "māh-",
+                "strong": "4100",
+                "translation": " what "
+            },
+            {
+                "token": "אַתֶּ֥ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " do you have "
+            },
+            {
+                "token": "לִי֙",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " against Me , "
+            },
+            {
+                "token": "צֹ֣ר",
+                "transliteration": "ṣōr",
+                "strong": "6865",
+                "translation": " O Tyre , "
+            },
+            {
+                "token": "וְצִיד֔וֹן",
+                "transliteration": "wə·ṣî·ḏō·wn",
+                "strong": "6721",
+                "translation": " Sidon , "
+            },
+            {
+                "token": "וְכֹ֖ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "גְּלִיל֣וֹת",
+                "transliteration": "gə·lî·lō·wṯ",
+                "strong": "1552",
+                "translation": " the regions "
+            },
+            {
+                "token": "פְּלָ֑שֶׁת",
+                "transliteration": "pə·lā·šeṯ",
+                "strong": "6429",
+                "translation": " of Philistia ? "
+            },
+            {
+                "token": "אַתֶּם֙",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " Are you "
+            },
+            {
+                "token": "מְשַׁלְּמִ֣ים",
+                "transliteration": "mə·šal·lə·mîm",
+                "strong": "7999",
+                "translation": " rendering "
+            },
+            {
+                "token": "עָלָ֔י",
+                "transliteration": "‘ā·lāy",
+                "strong": "5921",
+                "translation": " against Me "
+            },
+            {
+                "token": "הַגְּמ֗וּל",
+                "transliteration": "hag·gə·mūl",
+                "strong": "1576",
+                "translation": " a recompense ? "
+            },
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "אַתֶּם֙",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "גֹּמְלִ֤ים",
+                "transliteration": "gō·mə·lîm",
+                "strong": "1580",
+                "translation": " retaliate "
+            },
+            {
+                "token": "עָלַ֔י",
+                "transliteration": "‘ā·lay",
+                "strong": "5921",
+                "translation": " against Me , "
+            },
+            {
+                "token": "קַ֣ל",
+                "transliteration": "qal",
+                "strong": "7031",
+                "translation": " I will swiftly "
+            },
+            {
+                "token": "מְהֵרָ֔ה",
+                "transliteration": "mə·hê·rāh",
+                "strong": "4120",
+                "translation": " and speedily "
+            },
+            {
+                "token": "אָשִׁ֥יב",
+                "transliteration": "’ā·šîḇ",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "גְּמֻלְכֶ֖ם",
+                "transliteration": "gə·mul·ḵem",
+                "strong": "1576",
+                "translation": " your recompense "
+            },
+            {
+                "token": "בְּרֹאשְׁכֶֽם׃",
+                "transliteration": "bə·rō·šə·ḵem",
+                "strong": "7218",
+                "translation": " upon your heads . "
+            }
+        ],
+        "verse_reference": "Joel 3:4",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " For "
+            },
+            {
+                "token": "לְקַחְתֶּ֑ם",
+                "transliteration": "lə·qaḥ·tem",
+                "strong": "3947",
+                "translation": " you took "
+            },
+            {
+                "token": "כַּסְפִּ֥י",
+                "transliteration": "kas·pî",
+                "strong": "3701",
+                "translation": " My silver "
+            },
+            {
+                "token": "וּזְהָבִ֖י",
+                "transliteration": "ū·zə·hā·ḇî",
+                "strong": "2091",
+                "translation": " and gold "
+            },
+            {
+                "token": "הֲבֵאתֶ֖ם",
+                "transliteration": "hă·ḇê·ṯem",
+                "strong": "935",
+                "translation": " and carried off "
+            },
+            {
+                "token": "הַטֹּבִ֔ים",
+                "transliteration": "haṭ·ṭō·ḇîm",
+                "strong": "2896",
+                "translation": " My finest "
+            },
+            {
+                "token": "וּמַֽחֲמַדַּי֙",
+                "transliteration": "ū·ma·ḥă·mad·day",
+                "strong": "4261",
+                "translation": " treasures "
+            },
+            {
+                "token": "לְהֵיכְלֵיכֶֽם׃",
+                "transliteration": "lə·hê·ḵə·lê·ḵem",
+                "strong": "1964",
+                "translation": " to your temples . "
+            }
+        ],
+        "verse_reference": "Joel 3:5",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מְכַרְתֶּ֖ם",
+                "transliteration": "mə·ḵar·tem",
+                "strong": "4376",
+                "translation": " You sold "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּבְנֵ֤י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " the people "
+            },
+            {
+                "token": "יְהוּדָה֙",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem "
+            },
+            {
+                "token": "וּבְנֵ֣י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " to the Greeks "
+            },
+            {
+                "token": "הַיְּוָנִ֑ים",
+                "transliteration": "hay·yə·wā·nîm",
+                "strong": "3125",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לְמַ֥עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " to "
+            },
+            {
+                "token": "הַרְחִיקָ֖ם",
+                "transliteration": "har·ḥî·qām",
+                "strong": "7368",
+                "translation": " send them far "
+            },
+            {
+                "token": "מֵעַ֥ל",
+                "transliteration": "mê·‘al",
+                "strong": "5921",
+                "translation": " from "
+            },
+            {
+                "token": "גְּבוּלָֽם׃",
+                "transliteration": "gə·ḇū·lām",
+                "strong": "1366",
+                "translation": " their homeland . "
+            }
+        ],
+        "verse_reference": "Joel 3:6",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הִנְנִ֣י",
+                "transliteration": "hin·nî",
+                "strong": "2005",
+                "translation": " Behold , "
+            },
+            {
+                "token": "מְעִירָ֔ם",
+                "transliteration": "mə·‘î·rām",
+                "strong": "5782",
+                "translation": " I will rouse them "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַ֨מָּק֔וֹם",
+                "transliteration": "ham·mā·qō·wm",
+                "strong": "4725",
+                "translation": " the places "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " to which "
+            },
+            {
+                "token": "מְכַרְתֶּ֥ם",
+                "transliteration": "mə·ḵar·tem",
+                "strong": "4376",
+                "translation": " you sold "
+            },
+            {
+                "token": "אֹתָ֖ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "שָׁ֑מָּה",
+                "transliteration": "šām·māh",
+                "strong": "8033",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "וַהֲשִׁבֹתִ֥י",
+                "transliteration": "wa·hă·ši·ḇō·ṯî",
+                "strong": "7725",
+                "translation": " I will return "
+            },
+            {
+                "token": "גְמֻלְכֶ֖ם",
+                "transliteration": "ḡə·mul·ḵem",
+                "strong": "1576",
+                "translation": " your recompense "
+            },
+            {
+                "token": "בְּרֹאשְׁכֶֽם׃",
+                "transliteration": "bə·rō·šə·ḵem",
+                "strong": "7218",
+                "translation": " upon your heads . "
+            }
+        ],
+        "verse_reference": "Joel 3:7",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמָכַרְתִּ֞י",
+                "transliteration": "ū·mā·ḵar·tî",
+                "strong": "4376",
+                "translation": " I will sell "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּנֵיכֶ֣ם",
+                "transliteration": "bə·nê·ḵem",
+                "strong": "1121",
+                "translation": " your sons "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּנֽוֹתֵיכֶ֗ם",
+                "transliteration": "bə·nō·w·ṯê·ḵem",
+                "strong": "1323",
+                "translation": " and daughters "
+            },
+            {
+                "token": "בְּיַד֙",
+                "transliteration": "bə·yaḏ",
+                "strong": "3027",
+                "translation": " into the hands "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " of the people "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "וּמְכָר֥וּם",
+                "transliteration": "ū·mə·ḵā·rūm",
+                "strong": "4376",
+                "translation": " and they will sell them "
+            },
+            {
+                "token": "לִשְׁבָאיִ֖ם",
+                "transliteration": "liš·ḇā·yim",
+                "strong": "7615",
+                "translation": " to the Sabeans — "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "רָח֑וֹק",
+                "transliteration": "rā·ḥō·wq",
+                "strong": "7350",
+                "translation": " a distant "
+            },
+            {
+                "token": "גּ֣וֹי",
+                "transliteration": "gō·w",
+                "strong": "1471",
+                "translation": " nation . ” "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Indeed , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "דִּבֵּֽר׃ס",
+                "transliteration": "dib·bêr",
+                "strong": "1696",
+                "translation": " has spoken . "
+            }
+        ],
+        "verse_reference": "Joel 3:8",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קִרְאוּ־",
+                "transliteration": "qir·’ū-",
+                "strong": "7121",
+                "translation": " Proclaim "
+            },
+            {
+                "token": "זֹאת֙",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "בַּגּוֹיִ֔ם",
+                "transliteration": "bag·gō·w·yim",
+                "strong": "1471",
+                "translation": " among the nations : "
+            },
+            {
+                "token": "קַדְּשׁ֖וּ",
+                "transliteration": "qad·də·šū",
+                "strong": "6942",
+                "translation": " “ Prepare "
+            },
+            {
+                "token": "מִלְחָמָ֑ה",
+                "transliteration": "mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " for war ; "
+            },
+            {
+                "token": "הָעִ֙ירוּ֙",
+                "transliteration": "hā·‘î·rū",
+                "strong": "5782",
+                "translation": " rouse "
+            },
+            {
+                "token": "הַגִּבּוֹרִ֔ים",
+                "transliteration": "hag·gib·bō·w·rîm",
+                "strong": "1368",
+                "translation": " the mighty men ; "
+            },
+            {
+                "token": "כֹּ֖ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " let all "
+            },
+            {
+                "token": "אַנְשֵׁ֥י",
+                "transliteration": "’an·šê",
+                "strong": "376",
+                "translation": " the men "
+            },
+            {
+                "token": "הַמִּלְחָמָֽה׃",
+                "transliteration": "ham·mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " of war "
+            },
+            {
+                "token": "יִגְּשׁ֣וּ",
+                "transliteration": "yig·gə·šū",
+                "strong": "5066",
+                "translation": " advance "
+            },
+            {
+                "token": "יַֽעֲל֔וּ",
+                "transliteration": "ya·‘ă·lū",
+                "strong": "5927",
+                "translation": " and attack ! "
+            }
+        ],
+        "verse_reference": "Joel 3:9",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּ֤תּוּ",
+                "transliteration": "kōt·tū",
+                "strong": "3807",
+                "translation": " Beat "
+            },
+            {
+                "token": "אִתֵּיכֶם֙",
+                "transliteration": "’it·tê·ḵem",
+                "strong": "855",
+                "translation": " your plowshares "
+            },
+            {
+                "token": "לַֽחֲרָב֔וֹת",
+                "transliteration": "la·ḥă·rā·ḇō·wṯ",
+                "strong": "2719",
+                "translation": " into swords "
+            },
+            {
+                "token": "וּמַזְמְרֹֽתֵיכֶ֖ם",
+                "transliteration": "ū·maz·mə·rō·ṯê·ḵem",
+                "strong": "4211",
+                "translation": " and your pruning hooks "
+            },
+            {
+                "token": "לִרְמָחִ֑ים",
+                "transliteration": "lir·mā·ḥîm",
+                "strong": "7420",
+                "translation": " into spears . "
+            },
+            {
+                "token": "הַֽחַלָּ֔שׁ",
+                "transliteration": "ha·ḥal·lāš",
+                "strong": "2523",
+                "translation": " Let the weak "
+            },
+            {
+                "token": "יֹאמַ֖ר",
+                "transliteration": "yō·mar",
+                "strong": "559",
+                "translation": " say , "
+            },
+            {
+                "token": "אָֽנִי׃",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " ‘ I [am] "
+            },
+            {
+                "token": "גִּבּ֥וֹר",
+                "transliteration": "gib·bō·wr",
+                "strong": "1368",
+                "translation": " strong ! ’ "
+            }
+        ],
+        "verse_reference": "Joel 3:10",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָבֹ֧אוּ",
+                "transliteration": "wā·ḇō·’ū",
+                "strong": "935",
+                "translation": " Come "
+            },
+            {
+                "token": "ע֣וּשׁוּ",
+                "transliteration": "‘ū·šū",
+                "strong": "5789",
+                "translation": " quickly , "
+            },
+            {
+                "token": "כָֽל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "מִסָּבִ֖יב",
+                "transliteration": "mis·sā·ḇîḇ",
+                "strong": "5439",
+                "translation": " {you} surrounding "
+            },
+            {
+                "token": "הַגּוֹיִ֛ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " nations , "
+            },
+            {
+                "token": "וְנִקְבָּ֑צוּ",
+                "transliteration": "wə·niq·bā·ṣū",
+                "strong": "6908",
+                "translation": " and gather yourselves . "
+            },
+            {
+                "token": "הַֽנְחַ֥ת",
+                "transliteration": "han·ḥaṯ",
+                "strong": "5181",
+                "translation": " Bring down "
+            },
+            {
+                "token": "גִּבּוֹרֶֽיךָ׃",
+                "transliteration": "gib·bō·w·re·ḵā",
+                "strong": "1368",
+                "translation": " Your mighty ones "
+            },
+            {
+                "token": "שָׁ֕מָּה",
+                "transliteration": "šām·māh",
+                "strong": "8033",
+                "translation": " - , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD . "
+            }
+        ],
+        "verse_reference": "Joel 3:11",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַגּוֹיִ֔ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " Let the nations "
+            },
+            {
+                "token": "יֵע֙וֹרוּ֙",
+                "transliteration": "yê·‘ō·w·rū",
+                "strong": "5782",
+                "translation": " be roused "
+            },
+            {
+                "token": "וְיַעֲל֣וּ",
+                "transliteration": "wə·ya·‘ă·lū",
+                "strong": "5927",
+                "translation": " and advance "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עֵ֖מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " the Valley "
+            },
+            {
+                "token": "יְהֽוֹשָׁפָ֑ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " of Jehoshaphat , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "שָׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "אֵשֵׁ֛ב",
+                "transliteration": "’ê·šêḇ",
+                "strong": "3427",
+                "translation": " I will sit down "
+            },
+            {
+                "token": "לִשְׁפֹּ֥ט",
+                "transliteration": "liš·pōṭ",
+                "strong": "8199",
+                "translation": " to judge "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַגּוֹיִ֖ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " the nations "
+            },
+            {
+                "token": "מִסָּבִֽיב׃",
+                "transliteration": "mis·sā·ḇîḇ",
+                "strong": "5439",
+                "translation": " on every side . "
+            }
+        ],
+        "verse_reference": "Joel 3:12",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁלְח֣וּ",
+                "transliteration": "šil·ḥū",
+                "strong": "7971",
+                "translation": " Swing "
+            },
+            {
+                "token": "מַגָּ֔ל",
+                "transliteration": "mag·gāl",
+                "strong": "4038",
+                "translation": " the sickle , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "קָצִ֑יר",
+                "transliteration": "qā·ṣîr",
+                "strong": "7105",
+                "translation": " the harvest "
+            },
+            {
+                "token": "בָשַׁ֖ל",
+                "transliteration": "ḇā·šal",
+                "strong": "1310",
+                "translation": " is ripe . "
+            },
+            {
+                "token": "בֹּ֤אֽוּ",
+                "transliteration": "bō·’ū",
+                "strong": "935",
+                "translation": " Come , "
+            },
+            {
+                "token": "רְדוּ֙",
+                "transliteration": "rə·ḏū",
+                "strong": "7287",
+                "translation": " trample the grapes , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "גַּ֔ת",
+                "transliteration": "gaṯ",
+                "strong": "1660",
+                "translation": " the winepress "
+            },
+            {
+                "token": "מָ֣לְאָה",
+                "transliteration": "mā·lə·’āh",
+                "strong": "4390",
+                "translation": " is full ; "
+            },
+            {
+                "token": "הַיְקָבִ֔ים",
+                "transliteration": "hay·qā·ḇîm",
+                "strong": "3342",
+                "translation": " the wine vats "
+            },
+            {
+                "token": "הֵשִׁ֙יקוּ֙",
+                "transliteration": "hê·šî·qū",
+                "strong": "7783",
+                "translation": " overflow "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "רָעָתָֽם׃",
+                "transliteration": "rā·‘ā·ṯām",
+                "strong": "7451",
+                "translation": " their wickedness "
+            },
+            {
+                "token": "רַבָּ֖ה",
+                "transliteration": "rab·bāh",
+                "strong": "7227",
+                "translation": " is great . "
+            }
+        ],
+        "verse_reference": "Joel 3:13",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲמוֹנִ֣ים",
+                "transliteration": "hă·mō·w·nîm",
+                "strong": "1995",
+                "translation": " Multitudes , "
+            },
+            {
+                "token": "הֲמוֹנִ֔ים",
+                "transliteration": "hă·mō·w·nîm",
+                "strong": "1995",
+                "translation": " multitudes "
+            },
+            {
+                "token": "בְּעֵ֖מֶק",
+                "transliteration": "bə·‘ê·meq",
+                "strong": "6010",
+                "translation": " in the valley "
+            },
+            {
+                "token": "הֶֽחָר֑וּץ",
+                "transliteration": "he·ḥā·rūṣ",
+                "strong": "2742",
+                "translation": " of decision ! "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "י֣וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " the Day "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "קָרוֹב֙",
+                "transliteration": "qā·rō·wḇ",
+                "strong": "7138",
+                "translation": " is near "
+            },
+            {
+                "token": "בְּעֵ֖מֶק",
+                "transliteration": "bə·‘ê·meq",
+                "strong": "6010",
+                "translation": " in the valley "
+            },
+            {
+                "token": "הֶחָרֽוּץ׃",
+                "transliteration": "he·ḥā·rūṣ",
+                "strong": "2742",
+                "translation": " of decision . "
+            }
+        ],
+        "verse_reference": "Joel 3:14",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שֶׁ֥מֶשׁ",
+                "transliteration": "še·meš",
+                "strong": "8121",
+                "translation": " The sun "
+            },
+            {
+                "token": "וְיָרֵ֖חַ",
+                "transliteration": "wə·yā·rê·aḥ",
+                "strong": "3394",
+                "translation": " and moon "
+            },
+            {
+                "token": "קָדָ֑רוּ",
+                "transliteration": "qā·ḏā·rū",
+                "strong": "6937",
+                "translation": " will grow dark , "
+            },
+            {
+                "token": "וְכוֹכָבִ֖ים",
+                "transliteration": "wə·ḵō·w·ḵā·ḇîm",
+                "strong": "3556",
+                "translation": " and the stars "
+            },
+            {
+                "token": "אָסְפ֥וּ",
+                "transliteration": "’ā·sə·p̄ū",
+                "strong": "622",
+                "translation": " {will} no longer "
+            },
+            {
+                "token": "נָגְהָֽם׃",
+                "transliteration": "nā·ḡə·hām",
+                "strong": "5051",
+                "translation": " shine . "
+            }
+        ],
+        "verse_reference": "Joel 3:15",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיהוָ֞ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "יִשְׁאָ֗ג",
+                "transliteration": "yiš·’āḡ",
+                "strong": "7580",
+                "translation": " will roar "
+            },
+            {
+                "token": "מִצִּיּ֣וֹן",
+                "transliteration": "miṣ·ṣî·yō·wn",
+                "strong": "6726",
+                "translation": " from Zion "
+            },
+            {
+                "token": "יִתֵּ֣ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " and raise "
+            },
+            {
+                "token": "קוֹל֔וֹ",
+                "transliteration": "qō·w·lōw",
+                "strong": "6963",
+                "translation": " His voice "
+            },
+            {
+                "token": "וּמִירוּשָׁלִַ֙ם֙",
+                "transliteration": "ū·mî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " from Jerusalem ; "
+            },
+            {
+                "token": "שָׁמַ֣יִם",
+                "transliteration": "šā·ma·yim",
+                "strong": "8064",
+                "translation": " heaven "
+            },
+            {
+                "token": "וָאָ֑רֶץ",
+                "transliteration": "wā·’ā·reṣ",
+                "strong": "776",
+                "translation": " and earth "
+            },
+            {
+                "token": "וְרָעֲשׁ֖וּ",
+                "transliteration": "wə·rā·‘ă·šū",
+                "strong": "7493",
+                "translation": " will tremble . "
+            },
+            {
+                "token": "וַֽיהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " But the LORD "
+            },
+            {
+                "token": "מַֽחֲסֶ֣ה",
+                "transliteration": "ma·ḥă·seh",
+                "strong": "4268",
+                "translation": " will be a refuge "
+            },
+            {
+                "token": "לְעַמּ֔וֹ",
+                "transliteration": "lə·‘am·mōw",
+                "strong": "5971",
+                "translation": " for His people , "
+            },
+            {
+                "token": "וּמָע֖וֹז",
+                "transliteration": "ū·mā·‘ō·wz",
+                "strong": "4581",
+                "translation": " a stronghold "
+            },
+            {
+                "token": "לִבְנֵ֥י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " for the people "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "Joel 3:16",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וִֽידַעְתֶּ֗ם",
+                "transliteration": "wî·ḏa‘·tem",
+                "strong": "3045",
+                "translation": " Then you will know "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֤י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹ֣הֵיכֶ֔ם",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God , "
+            },
+            {
+                "token": "שֹׁכֵ֖ן",
+                "transliteration": "šō·ḵên",
+                "strong": "7931",
+                "translation": " who dwells "
+            },
+            {
+                "token": "בְּצִיּ֣וֹן",
+                "transliteration": "bə·ṣî·yō·wn",
+                "strong": "6726",
+                "translation": " in Zion , "
+            },
+            {
+                "token": "קָדְשִׁ֑י",
+                "transliteration": "qāḏ·šî",
+                "strong": "6944",
+                "translation": " My holy "
+            },
+            {
+                "token": "הַר־",
+                "transliteration": "har-",
+                "strong": "2022",
+                "translation": " mountain . "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֙ם֙",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem "
+            },
+            {
+                "token": "וְהָיְתָ֤ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " will be "
+            },
+            {
+                "token": "קֹ֔דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " holy , "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " never "
+            },
+            {
+                "token": "עֽוֹד׃ס",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " again "
+            },
+            {
+                "token": "יַֽעַבְרוּ־",
+                "transliteration": "ya·‘aḇ·rū-",
+                "strong": "5674",
+                "translation": " to be overrun "
+            },
+            {
+                "token": "וְזָרִ֥ים",
+                "transliteration": "wə·zā·rîm",
+                "strong": "2114",
+                "translation": " by foreigners "
+            },
+            {
+                "token": "בָ֖הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Joel 3:17",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָה֩",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "הַה֜וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " in that "
+            },
+            {
+                "token": "בַיּ֨וֹם",
+                "transliteration": "ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הֶהָרִ֣ים",
+                "transliteration": "he·hā·rîm",
+                "strong": "2022",
+                "translation": " the mountains "
+            },
+            {
+                "token": "יִטְּפ֧וּ",
+                "transliteration": "yiṭ·ṭə·p̄ū",
+                "strong": "5197",
+                "translation": " will drip "
+            },
+            {
+                "token": "עָסִ֗יס",
+                "transliteration": "‘ā·sîs",
+                "strong": "6071",
+                "translation": " with sweet wine , "
+            },
+            {
+                "token": "וְהַגְּבָעוֹת֙",
+                "transliteration": "wə·hag·gə·ḇā·‘ō·wṯ",
+                "strong": "1389",
+                "translation": " and the hills "
+            },
+            {
+                "token": "תֵּלַ֣כְנָה",
+                "transliteration": "tê·laḵ·nāh",
+                "strong": "1980",
+                "translation": " will flow "
+            },
+            {
+                "token": "חָלָ֔ב",
+                "transliteration": "ḥā·lāḇ",
+                "strong": "2461",
+                "translation": " with milk . "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "אֲפִיקֵ֥י",
+                "transliteration": "’ă·p̄î·qê",
+                "strong": "650",
+                "translation": " the streams "
+            },
+            {
+                "token": "יְהוּדָ֖ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "יֵ֣לְכוּ",
+                "transliteration": "yê·lə·ḵū",
+                "strong": "1980",
+                "translation": " will run "
+            },
+            {
+                "token": "מָ֑יִם",
+                "transliteration": "mā·yim",
+                "strong": "4325",
+                "translation": " with water , "
+            },
+            {
+                "token": "וּמַעְיָ֗ן",
+                "transliteration": "ū·ma‘·yān",
+                "strong": "4599",
+                "translation": " and a spring "
+            },
+            {
+                "token": "יֵצֵ֔א",
+                "transliteration": "yê·ṣê",
+                "strong": "3318",
+                "translation": " will flow "
+            },
+            {
+                "token": "מִבֵּ֤ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1004",
+                "translation": " from the house "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וְהִשְׁקָ֖ה",
+                "transliteration": "wə·hiš·qāh",
+                "strong": "8248",
+                "translation": " to water "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נַ֥חַל",
+                "transliteration": "na·ḥal",
+                "strong": "5158",
+                "translation": " the Valley "
+            },
+            {
+                "token": "הַשִּׁטִּֽים׃",
+                "transliteration": "haš·šiṭ·ṭîm",
+                "strong": "7851",
+                "translation": " of Acacias . "
+            }
+        ],
+        "verse_reference": "Joel 3:18",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִצְרַ֙יִם֙",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " Egypt "
+            },
+            {
+                "token": "תִֽהְיֶ֔ה",
+                "transliteration": "ṯih·yeh",
+                "strong": "1961",
+                "translation": " will become "
+            },
+            {
+                "token": "לִשְׁמָמָ֣ה",
+                "transliteration": "liš·mā·māh",
+                "strong": "8077",
+                "translation": " desolate , "
+            },
+            {
+                "token": "וֶאֱד֕וֹם",
+                "transliteration": "we·’ĕ·ḏō·wm",
+                "strong": "123",
+                "translation": " and Edom "
+            },
+            {
+                "token": "לְמִדְבַּ֥ר",
+                "transliteration": "lə·miḏ·bar",
+                "strong": "4057",
+                "translation": " a desert "
+            },
+            {
+                "token": "שְׁמָמָ֖ה",
+                "transliteration": "šə·mā·māh",
+                "strong": "8077",
+                "translation": " wasteland "
+            },
+            {
+                "token": "תִּֽהְיֶ֑ה",
+                "transliteration": "tih·yeh",
+                "strong": "1961",
+                "translation": " , "
+            },
+            {
+                "token": "מֵֽחֲמַס֙",
+                "transliteration": "mê·ḥă·mas",
+                "strong": "2555",
+                "translation": " because of the violence "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " done to the people "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " in whose "
+            },
+            {
+                "token": "בְּאַרְצָֽם׃",
+                "transliteration": "bə·’ar·ṣām",
+                "strong": "776",
+                "translation": " land "
+            },
+            {
+                "token": "שָׁפְכ֥וּ",
+                "transliteration": "šā·p̄ə·ḵū",
+                "strong": "8210",
+                "translation": " they shed "
+            },
+            {
+                "token": "נָקִ֖יא",
+                "transliteration": "nā·qî",
+                "strong": "5355",
+                "translation": " innocent "
+            },
+            {
+                "token": "דָם־",
+                "transliteration": "ḏām-",
+                "strong": "1818",
+                "translation": " blood . "
+            }
+        ],
+        "verse_reference": "Joel 3:19",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וִיהוּדָ֖ה",
+                "transliteration": "wî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " But Judah "
+            },
+            {
+                "token": "תֵּשֵׁ֑ב",
+                "transliteration": "tê·šêḇ",
+                "strong": "3427",
+                "translation": " will be inhabited forever "
+            },
+            {
+                "token": "לְעוֹלָ֣ם",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וִירוּשָׁלִַ֖ם",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem "
+            },
+            {
+                "token": "לְד֥וֹר",
+                "transliteration": "lə·ḏō·wr",
+                "strong": "1755",
+                "translation": " from generation "
+            },
+            {
+                "token": "וָדֽוֹר׃",
+                "transliteration": "wā·ḏō·wr",
+                "strong": "1755",
+                "translation": " to generation . "
+            }
+        ],
+        "verse_reference": "Joel 3:20",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנִקֵּ֖יתִי",
+                "transliteration": "wə·niq·qê·ṯî",
+                "strong": "5352",
+                "translation": " For I will avenge "
+            },
+            {
+                "token": "דָּמָ֣ם",
+                "transliteration": "dā·mām",
+                "strong": "1818",
+                "translation": " their blood , "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " which I have not yet "
+            },
+            {
+                "token": "נִקֵּ֑יתִי",
+                "transliteration": "niq·qê·ṯî",
+                "strong": "5352",
+                "translation": " avenged . ” "
+            },
+            {
+                "token": "וַֽיהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " For the LORD "
+            },
+            {
+                "token": "שֹׁכֵ֥ן",
+                "transliteration": "šō·ḵên",
+                "strong": "7931",
+                "translation": " dwells "
+            },
+            {
+                "token": "בְּצִיּֽוֹן׃",
+                "transliteration": "bə·ṣî·yō·wn",
+                "strong": "6726",
+                "translation": " in Zion . "
+            }
+        ],
+        "verse_reference": "Joel 3:21",
+        "book": "Joel",
+        "chapter": "3",
+        "verse": "21"
+    }
+]

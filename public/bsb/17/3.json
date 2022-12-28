@@ -1,0 +1,1940 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "אַחַ֣ר׀",
+                "transliteration": "’a·ḥar",
+                "strong": "310",
+                "translation": " After "
+            },
+            {
+                "token": "הָאֵ֗לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " these "
+            },
+            {
+                "token": "הַדְּבָרִ֣ים",
+                "transliteration": "had·də·ḇā·rîm",
+                "strong": "1697",
+                "translation": " events , "
+            },
+            {
+                "token": "הַמֶּ֨לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " King "
+            },
+            {
+                "token": "אֲחַשְׁוֵר֜וֹשׁ",
+                "transliteration": "’ă·ḥaš·wê·rō·wōš",
+                "strong": "325",
+                "translation": " Xerxes "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "גִּדַּל֩",
+                "transliteration": "gid·dal",
+                "strong": "1431",
+                "translation": " honored "
+            },
+            {
+                "token": "הָמָ֧ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " Haman "
+            },
+            {
+                "token": "בֶּֽן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "הַמְּדָ֛תָא",
+                "transliteration": "ham·mə·ḏā·ṯā",
+                "strong": "4099",
+                "translation": " of Hammedatha , "
+            },
+            {
+                "token": "הָאֲגָגִ֖י",
+                "transliteration": "hā·’ă·ḡā·ḡî",
+                "strong": "91",
+                "translation": " the Agagite , "
+            },
+            {
+                "token": "וַֽיְנַשְּׂאֵ֑הוּ",
+                "transliteration": "way·naś·śə·’ê·hū",
+                "strong": "5375",
+                "translation": " elevating him "
+            },
+            {
+                "token": "וַיָּ֙שֶׂם֙",
+                "transliteration": "way·yā·śem",
+                "strong": "7760",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כִּסְא֔וֹ",
+                "transliteration": "kis·’ōw",
+                "strong": "3678",
+                "translation": " to a position "
+            },
+            {
+                "token": "מֵעַ֕ל",
+                "transliteration": "mê·‘al",
+                "strong": "5921",
+                "translation": " above "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַשָּׂרִ֖ים",
+                "transliteration": "haś·śā·rîm",
+                "strong": "8269",
+                "translation": " the princes "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "אִתּֽוֹ׃",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " [were] with him . "
+            }
+        ],
+        "verse_reference": "Esther 3:1",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "הַמֶּ֜לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the royal "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַבְדֵ֨י",
+                "transliteration": "‘aḇ·ḏê",
+                "strong": "5650",
+                "translation": " servants "
+            },
+            {
+                "token": "הַמֶּ֗לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " at the king’s "
+            },
+            {
+                "token": "בְּשַׁ֣עַר",
+                "transliteration": "bə·ša·‘ar",
+                "strong": "8179",
+                "translation": " gate "
+            },
+            {
+                "token": "כֹּרְעִ֤ים",
+                "transliteration": "kō·rə·‘îm",
+                "strong": "3766",
+                "translation": " bowed down "
+            },
+            {
+                "token": "וּמִֽשְׁתַּחֲוִים֙",
+                "transliteration": "ū·miš·ta·ḥă·wîm",
+                "strong": "7812",
+                "translation": " and paid homage "
+            },
+            {
+                "token": "לְהָמָ֔ן",
+                "transliteration": "lə·hā·mān",
+                "strong": "2001",
+                "translation": " to Haman , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "הַמֶּ֑לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "צִוָּה־",
+                "transliteration": "ṣiw·wāh-",
+                "strong": "6680",
+                "translation": " had commanded "
+            },
+            {
+                "token": "כֵ֖ן",
+                "transliteration": "ḵên",
+                "strong": "3651",
+                "translation": " that this [be done] "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " for him . "
+            },
+            {
+                "token": "וּמָ֨רְדֳּכַ֔י",
+                "transliteration": "ū·mā·rə·do·ḵay",
+                "strong": "4782",
+                "translation": " But Mordecai "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " would not "
+            },
+            {
+                "token": "יִכְרַ֖ע",
+                "transliteration": "yiḵ·ra‘",
+                "strong": "3766",
+                "translation": " bow down "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִֽשְׁתַּחֲוֶֽה׃",
+                "transliteration": "yiš·ta·ḥă·weh",
+                "strong": "7812",
+                "translation": " or pay homage . "
+            }
+        ],
+        "verse_reference": "Esther 3:2",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַמֶּ֛לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " Then the royal "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַבְדֵ֥י",
+                "transliteration": "‘aḇ·ḏê",
+                "strong": "5650",
+                "translation": " servants "
+            },
+            {
+                "token": "הַמֶּ֖לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " at the king’s "
+            },
+            {
+                "token": "בְּשַׁ֥עַר",
+                "transliteration": "bə·ša·‘ar",
+                "strong": "8179",
+                "translation": " gate "
+            },
+            {
+                "token": "וַיֹּ֨אמְר֜וּ",
+                "transliteration": "way·yō·mə·rū",
+                "strong": "559",
+                "translation": " asked "
+            },
+            {
+                "token": "לְמָרְדֳּכָ֑י",
+                "transliteration": "lə·mā·rə·do·ḵāy",
+                "strong": "4782",
+                "translation": " Mordecai , "
+            },
+            {
+                "token": "מַדּ֙וּעַ֙",
+                "transliteration": "mad·dū·a‘",
+                "strong": "4069",
+                "translation": " “ Why "
+            },
+            {
+                "token": "אַתָּ֣ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " do you "
+            },
+            {
+                "token": "עוֹבֵ֔ר",
+                "transliteration": "‘ō·w·ḇêr",
+                "strong": "5674",
+                "translation": " disobey "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִצְוַ֥ת",
+                "transliteration": "miṣ·waṯ",
+                "strong": "4687",
+                "translation": " the command "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " of the king ? ” "
+            }
+        ],
+        "verse_reference": "Esther 3:3",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "י֣וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " Day "
+            },
+            {
+                "token": "וָי֔וֹם",
+                "transliteration": "wā·yō·wm",
+                "strong": "3117",
+                "translation": " after day "
+            },
+            {
+                "token": "בְּאָמְרָם",
+                "transliteration": "bə·ʾå̄·mə·rå̄m",
+                "strong": "559",
+                "translation": " they warned "
+            },
+            {
+                "token": "אֵלָיו֙",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " him , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " but he would not "
+            },
+            {
+                "token": "שָׁמַ֖ע",
+                "transliteration": "šā·ma‘",
+                "strong": "8085",
+                "translation": " comply "
+            },
+            {
+                "token": "אֲלֵיהֶ֑ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " . . . . "
+            },
+            {
+                "token": "וַיַּגִּ֣ידוּ",
+                "transliteration": "way·yag·gî·ḏū",
+                "strong": "5046",
+                "translation": " So they reported it "
+            },
+            {
+                "token": "לְהָמָ֗ן",
+                "transliteration": "lə·hā·mān",
+                "strong": "2001",
+                "translation": " to Haman "
+            },
+            {
+                "token": "לִרְאוֹת֙",
+                "transliteration": "lir·’ō·wṯ",
+                "strong": "7200",
+                "translation": " to see "
+            },
+            {
+                "token": "מָרְדֳּכַ֔י",
+                "transliteration": "mā·rə·do·ḵay",
+                "strong": "4782",
+                "translation": " whether Mordecai’s "
+            },
+            {
+                "token": "דִּבְרֵ֣י",
+                "transliteration": "diḇ·rê",
+                "strong": "1697",
+                "translation": " behavior "
+            },
+            {
+                "token": "הֲיַֽעַמְדוּ֙",
+                "transliteration": "hă·ya·‘am·ḏū",
+                "strong": "5975",
+                "translation": " would be tolerated , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " since "
+            },
+            {
+                "token": "הִגִּ֥יד",
+                "transliteration": "hig·gîḏ",
+                "strong": "5046",
+                "translation": " he had told "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " them "
+            },
+            {
+                "token": "ה֥וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "יְהוּדִֽי׃",
+                "transliteration": "yə·hū·ḏî",
+                "strong": "3064",
+                "translation": " was a Jew . "
+            }
+        ],
+        "verse_reference": "Esther 3:4",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָמָ֔ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " When Haman "
+            },
+            {
+                "token": "וַיַּ֣רְא",
+                "transliteration": "way·yar",
+                "strong": "7200",
+                "translation": " saw "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "מָרְדֳּכַ֔י",
+                "transliteration": "mā·rə·do·ḵay",
+                "strong": "4782",
+                "translation": " Mordecai "
+            },
+            {
+                "token": "אֵ֣ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " would not "
+            },
+            {
+                "token": "כֹּרֵ֥עַ",
+                "transliteration": "kō·rê·a‘",
+                "strong": "3766",
+                "translation": " bow down "
+            },
+            {
+                "token": "וּמִֽשְׁתַּחֲוֶ֖ה",
+                "transliteration": "ū·miš·ta·ḥă·weh",
+                "strong": "7812",
+                "translation": " or pay him homage "
+            },
+            {
+                "token": "ל֑וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "הָמָ֖ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " he "
+            },
+            {
+                "token": "וַיִּמָּלֵ֥א",
+                "transliteration": "way·yim·mā·lê",
+                "strong": "4390",
+                "translation": " was filled "
+            },
+            {
+                "token": "חֵמָֽה׃",
+                "transliteration": "ḥê·māh",
+                "strong": "2534",
+                "translation": " with rage . "
+            }
+        ],
+        "verse_reference": "Esther 3:5",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " And when "
+            },
+            {
+                "token": "הִגִּ֥ידוּ",
+                "transliteration": "hig·gî·ḏū",
+                "strong": "5046",
+                "translation": " he learned the identity "
+            },
+            {
+                "token": "ל֖וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "מָרְדֳּכָ֑י",
+                "transliteration": "mā·rə·do·ḵāy",
+                "strong": "4782",
+                "translation": " of Mordecai’s "
+            },
+            {
+                "token": "עַ֣ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " people , "
+            },
+            {
+                "token": "וַיִּ֣בֶז",
+                "transliteration": "way·yi·ḇez",
+                "strong": "959",
+                "translation": " he scorned the notion of "
+            },
+            {
+                "token": "בְּעֵינָ֗יו",
+                "transliteration": "bə·‘ê·nāw",
+                "strong": "5869",
+                "translation": " . . . "
+            },
+            {
+                "token": "לִשְׁלֹ֤ח",
+                "transliteration": "liš·lōḥ",
+                "strong": "7971",
+                "translation": " laying "
+            },
+            {
+                "token": "יָד֙",
+                "transliteration": "yāḏ",
+                "strong": "3027",
+                "translation": " hands "
+            },
+            {
+                "token": "בְּמָרְדֳּכַ֣י",
+                "transliteration": "bə·mā·rə·do·ḵay",
+                "strong": "4782",
+                "translation": " on Mordecai "
+            },
+            {
+                "token": "לְבַדּ֔וֹ",
+                "transliteration": "lə·ḇad·dōw",
+                "strong": "905",
+                "translation": " alone . "
+            },
+            {
+                "token": "הָמָ֗ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " Instead, he "
+            },
+            {
+                "token": "וַיְבַקֵּ֣שׁ",
+                "transliteration": "way·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " sought "
+            },
+            {
+                "token": "לְהַשְׁמִ֧יד",
+                "transliteration": "lə·haš·mîḏ",
+                "strong": "8045",
+                "translation": " to destroy "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "מָרְדֳּכָֽי׃",
+                "transliteration": "mā·rə·do·ḵāy",
+                "strong": "4782",
+                "translation": " of Mordecai’s "
+            },
+            {
+                "token": "עַ֥ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " people , "
+            },
+            {
+                "token": "הַיְּהוּדִ֛ים",
+                "transliteration": "hay·yə·hū·ḏîm",
+                "strong": "3064",
+                "translation": " the Jews , "
+            },
+            {
+                "token": "אֲשֶׁ֛ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " throughout "
+            },
+            {
+                "token": "מַלְכ֥וּת",
+                "transliteration": "mal·ḵūṯ",
+                "strong": "4438",
+                "translation": " the kingdom "
+            },
+            {
+                "token": "אֲחַשְׁוֵר֖וֹשׁ",
+                "transliteration": "’ă·ḥaš·wê·rō·wōš",
+                "strong": "325",
+                "translation": " of Xerxes . "
+            }
+        ],
+        "verse_reference": "Esther 3:6",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁתֵּ֣ים",
+                "transliteration": "šə·têm",
+                "strong": "8147",
+                "translation": " In the twelfth "
+            },
+            {
+                "token": "עֶשְׂרֵ֔ה",
+                "transliteration": "‘eś·rêh",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "בִּשְׁנַת֙",
+                "transliteration": "biš·naṯ",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "לַמֶּ֖לֶךְ",
+                "transliteration": "lam·me·leḵ",
+                "strong": "4428",
+                "translation": " of King "
+            },
+            {
+                "token": "אֲחַשְׁוֵר֑וֹשׁ",
+                "transliteration": "’ă·ḥaš·wê·rō·wōš",
+                "strong": "325",
+                "translation": " Xerxes , "
+            },
+            {
+                "token": "הָרִאשׁוֹן֙",
+                "transliteration": "hā·ri·šō·wn",
+                "strong": "7223",
+                "translation": " in the first "
+            },
+            {
+                "token": "בַּחֹ֤דֶשׁ",
+                "transliteration": "ba·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month , "
+            },
+            {
+                "token": "הוּא־",
+                "transliteration": "hū-",
+                "strong": "1931",
+                "translation": " "
+            },
+            {
+                "token": "חֹ֣דֶשׁ",
+                "transliteration": "ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " the month "
+            },
+            {
+                "token": "נִיסָ֔ן",
+                "transliteration": "nî·sān",
+                "strong": "5212",
+                "translation": " of Nisan , "
+            },
+            {
+                "token": "פּוּר֩",
+                "transliteration": "pūr",
+                "strong": "6332",
+                "translation": " the Pur "
+            },
+            {
+                "token": "ה֨וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "הַגּוֹרָ֜ל",
+                "transliteration": "hag·gō·w·rāl",
+                "strong": "1486",
+                "translation": " the lot ) "
+            },
+            {
+                "token": "הִפִּ֣יל",
+                "transliteration": "hip·pîl",
+                "strong": "5307",
+                "translation": " was cast "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הָמָ֗ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " Haman "
+            },
+            {
+                "token": "מִיּ֧וֹם׀",
+                "transliteration": "mî·yō·wm",
+                "strong": "3117",
+                "translation": " to determine a day "
+            },
+            {
+                "token": "לְי֛וֹם",
+                "transliteration": "lə·yō·wm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּמֵחֹ֛דֶשׁ",
+                "transliteration": "ū·mê·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " and month . "
+            },
+            {
+                "token": "לְחֹ֥דֶשׁ",
+                "transliteration": "lə·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " . . . "
+            },
+            {
+                "token": "שְׁנֵים־",
+                "transliteration": "šə·nêm-",
+                "strong": "8147",
+                "translation": " [And the lot fell on] the twelfth "
+            },
+            {
+                "token": "עָשָׂ֖ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "הוּא־",
+                "transliteration": "hū-",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֹ֥דֶשׁ",
+                "transliteration": "ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month , "
+            },
+            {
+                "token": "אֲדָֽר׃ס",
+                "transliteration": "’ă·ḏār",
+                "strong": "143",
+                "translation": " the month of Adar . "
+            }
+        ],
+        "verse_reference": "Esther 3:7",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָמָן֙",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " Then Haman "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " informed "
+            },
+            {
+                "token": "לַמֶּ֣לֶךְ",
+                "transliteration": "lam·me·leḵ",
+                "strong": "4428",
+                "translation": " King "
+            },
+            {
+                "token": "אֲחַשְׁוֵר֔וֹשׁ",
+                "transliteration": "’ă·ḥaš·wê·rō·wōš",
+                "strong": "325",
+                "translation": " Xerxes , "
+            },
+            {
+                "token": "יֶשְׁנ֣וֹ",
+                "transliteration": "yeš·nōw",
+                "strong": "3426",
+                "translation": " “ There "
+            },
+            {
+                "token": "אֶחָ֗ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " is a certain "
+            },
+            {
+                "token": "עַם־",
+                "transliteration": "‘am-",
+                "strong": "5971",
+                "translation": " people "
+            },
+            {
+                "token": "מְפֻזָּ֤ר",
+                "transliteration": "mə·p̄uz·zār",
+                "strong": "6340",
+                "translation": " scattered "
+            },
+            {
+                "token": "וּמְפֹרָד֙",
+                "transliteration": "ū·mə·p̄ō·rāḏ",
+                "strong": "6504",
+                "translation": " and dispersed "
+            },
+            {
+                "token": "בֵּ֣ין",
+                "transliteration": "bên",
+                "strong": "996",
+                "translation": " among "
+            },
+            {
+                "token": "הָֽעַמִּ֔ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "בְּכֹ֖ל",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " of every "
+            },
+            {
+                "token": "מְדִינ֣וֹת",
+                "transliteration": "mə·ḏî·nō·wṯ",
+                "strong": "4082",
+                "translation": " province "
+            },
+            {
+                "token": "מַלְכוּתֶ֑ךָ",
+                "transliteration": "mal·ḵū·ṯe·ḵā",
+                "strong": "4438",
+                "translation": " of your kingdom . "
+            },
+            {
+                "token": "וְדָתֵיהֶ֞ם",
+                "transliteration": "wə·ḏā·ṯê·hem",
+                "strong": "1881",
+                "translation": " Their laws "
+            },
+            {
+                "token": "שֹׁנ֣וֹת",
+                "transliteration": "šō·nō·wṯ",
+                "strong": "8138",
+                "translation": " are different "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " from everyone "
+            },
+            {
+                "token": "עָ֗ם",
+                "transliteration": "‘ām",
+                "strong": "5971",
+                "translation": " else’s , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֵינָ֣ם",
+                "transliteration": "’ê·nām",
+                "strong": "369",
+                "translation": " and they do not "
+            },
+            {
+                "token": "עֹשִׂ֔ים",
+                "transliteration": "‘ō·śîm",
+                "strong": "6213",
+                "translation": " obey "
+            },
+            {
+                "token": "הַמֶּ֙לֶךְ֙",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king’s "
+            },
+            {
+                "token": "דָּתֵ֤י",
+                "transliteration": "dā·ṯê",
+                "strong": "1881",
+                "translation": " laws . "
+            },
+            {
+                "token": "אֵין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " So it is not "
+            },
+            {
+                "token": "וְלַמֶּ֥לֶךְ",
+                "transliteration": "wə·lam·me·leḵ",
+                "strong": "4428",
+                "translation": " in the king’s "
+            },
+            {
+                "token": "שֹׁוֶ֖ה",
+                "transliteration": "šō·weh",
+                "strong": "7737",
+                "translation": " best interest "
+            },
+            {
+                "token": "לְהַנִּיחָֽם׃",
+                "transliteration": "lə·han·nî·ḥām",
+                "strong": "5117",
+                "translation": " to tolerate them . "
+            }
+        ],
+        "verse_reference": "Esther 3:8",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " - "
+            },
+            {
+                "token": "ט֔וֹב",
+                "transliteration": "ṭō·wḇ",
+                "strong": "2896",
+                "translation": " it pleases "
+            },
+            {
+                "token": "הַמֶּ֣לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king , "
+            },
+            {
+                "token": "יִכָּתֵ֖ב",
+                "transliteration": "yik·kā·ṯêḇ",
+                "strong": "3789",
+                "translation": " let [a decree] be issued "
+            },
+            {
+                "token": "לְאַבְּדָ֑ם",
+                "transliteration": "lə·’ab·bə·ḏām",
+                "strong": "6",
+                "translation": " to destroy them , "
+            },
+            {
+                "token": "לְהָבִ֖יא",
+                "transliteration": "lə·hā·ḇî",
+                "strong": "935",
+                "translation": " and I will deposit "
+            },
+            {
+                "token": "וַעֲשֶׂ֨רֶת",
+                "transliteration": "wa·‘ă·śe·reṯ",
+                "strong": "6235",
+                "translation": " ten "
+            },
+            {
+                "token": "אֲלָפִ֜ים",
+                "transliteration": "’ă·lā·p̄îm",
+                "strong": "505",
+                "translation": " thousand "
+            },
+            {
+                "token": "כִּכַּר־",
+                "transliteration": "kik·kar-",
+                "strong": "3603",
+                "translation": " talents "
+            },
+            {
+                "token": "כֶּ֗סֶף",
+                "transliteration": "ke·sep̄",
+                "strong": "3701",
+                "translation": " of silver "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the royal "
+            },
+            {
+                "token": "גִּנְזֵ֥י",
+                "transliteration": "gin·zê",
+                "strong": "1595",
+                "translation": " treasury "
+            },
+            {
+                "token": "אֶשְׁקוֹל֙",
+                "transliteration": "’eš·qō·wl",
+                "strong": "8254",
+                "translation": " to pay "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְדֵי֙",
+                "transliteration": "yə·ḏê",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֹשֵׂ֣י",
+                "transliteration": "‘ō·śê",
+                "strong": "6213",
+                "translation": " those who carry it out "
+            },
+            {
+                "token": "הַמְּלָאכָ֔ה",
+                "transliteration": "ham·mə·lā·ḵāh",
+                "strong": "4399",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Esther 3:9",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַמֶּ֛לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " So the king "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיָּ֧סַר",
+                "transliteration": "way·yā·sar",
+                "strong": "5493",
+                "translation": " removed "
+            },
+            {
+                "token": "טַבַּעְתּ֖וֹ",
+                "transliteration": "ṭab·ba‘·tōw",
+                "strong": "2885",
+                "translation": " the signet ring "
+            },
+            {
+                "token": "מֵעַ֣ל",
+                "transliteration": "mê·‘al",
+                "strong": "5921",
+                "translation": " from "
+            },
+            {
+                "token": "יָד֑וֹ",
+                "transliteration": "yā·ḏōw",
+                "strong": "3027",
+                "translation": " his finger "
+            },
+            {
+                "token": "וַֽיִּתְּנָ֗הּ",
+                "transliteration": "way·yit·tə·nāh",
+                "strong": "5414",
+                "translation": " and gave "
+            },
+            {
+                "token": "לְהָמָ֧ן",
+                "transliteration": "lə·hā·mān",
+                "strong": "2001",
+                "translation": " it to Haman "
+            },
+            {
+                "token": "בֶּֽן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "הַמְּדָ֛תָא",
+                "transliteration": "ham·mə·ḏā·ṯā",
+                "strong": "4099",
+                "translation": " of Hammedatha , "
+            },
+            {
+                "token": "הָאֲגָגִ֖י",
+                "transliteration": "hā·’ă·ḡā·ḡî",
+                "strong": "91",
+                "translation": " the Agagite , "
+            },
+            {
+                "token": "צֹרֵ֥ר",
+                "transliteration": "ṣō·rêr",
+                "strong": "6887",
+                "translation": " the enemy "
+            },
+            {
+                "token": "הַיְּהוּדִֽים׃",
+                "transliteration": "hay·yə·hū·ḏîm",
+                "strong": "3064",
+                "translation": " of the Jews . "
+            }
+        ],
+        "verse_reference": "Esther 3:10",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֶּ֖סֶף",
+                "transliteration": "hak·ke·sep̄",
+                "strong": "3701",
+                "translation": " “ Keep your money , ” "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "הַמֶּ֙לֶךְ֙",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "לְהָמָ֔ן",
+                "transliteration": "lə·hā·mān",
+                "strong": "2001",
+                "translation": " to Haman . "
+            },
+            {
+                "token": "וְהָעָ֕ם",
+                "transliteration": "wə·hā·‘ām",
+                "strong": "5971",
+                "translation": " “ These people "
+            },
+            {
+                "token": "נָת֣וּן",
+                "transliteration": "nā·ṯūn",
+                "strong": "5414",
+                "translation": " [are] given "
+            },
+            {
+                "token": "לָ֑ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " to you "
+            },
+            {
+                "token": "לַעֲשׂ֥וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " to do "
+            },
+            {
+                "token": "בּ֖וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " with them "
+            },
+            {
+                "token": "בְּעֵינֶֽיךָ׃",
+                "transliteration": "bə·‘ê·ne·ḵā",
+                "strong": "5869",
+                "translation": " as you please "
+            },
+            {
+                "token": "כַּטּ֥וֹב",
+                "transliteration": "kaṭ·ṭō·wḇ",
+                "strong": "2896",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Esther 3:11",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בִּשְׁלוֹשָׁ֨ה",
+                "transliteration": "biš·lō·wō·šāh",
+                "strong": "7969",
+                "translation": " On the thirteenth "
+            },
+            {
+                "token": "עָשָׂ֣ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "יוֹם֮",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "בּוֹ֒",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "הָרִאשׁ֗וֹן",
+                "transliteration": "hā·ri·šō·wn",
+                "strong": "7223",
+                "translation": " of the first "
+            },
+            {
+                "token": "בַּחֹ֣דֶשׁ",
+                "transliteration": "ba·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month , "
+            },
+            {
+                "token": "הַמֶּ֜לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the royal "
+            },
+            {
+                "token": "סֹפְרֵ֨י",
+                "transliteration": "sō·p̄ə·rê",
+                "strong": "5613",
+                "translation": " scribes "
+            },
+            {
+                "token": "וַיִּקָּרְאוּ֩",
+                "transliteration": "way·yiq·qā·rə·’ū",
+                "strong": "7121",
+                "translation": " were summoned "
+            },
+            {
+                "token": "וַיִּכָּתֵ֣ב",
+                "transliteration": "way·yik·kā·ṯêḇ",
+                "strong": "3789",
+                "translation": " and the order was written "
+            },
+            {
+                "token": "כְּֽכָל־",
+                "transliteration": "kə·ḵāl-",
+                "strong": "3605",
+                "translation": " exactly as "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָמָ֡ן",
+                "transliteration": "hā·mān",
+                "strong": "2001",
+                "translation": " Haman "
+            },
+            {
+                "token": "אֶ֣ל",
+                "transliteration": "’el",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "צִוָּ֣ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " commanded "
+            },
+            {
+                "token": "הַ֠מֶּלֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the royal "
+            },
+            {
+                "token": "וְֽאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲחַשְׁדַּרְפְּנֵֽי־",
+                "transliteration": "’ă·ḥaš·dar·pə·nê-",
+                "strong": "323",
+                "translation": " satraps , "
+            },
+            {
+                "token": "הַפַּח֞וֹת",
+                "transliteration": "hap·pa·ḥō·wṯ",
+                "strong": "6346",
+                "translation": " the governors "
+            },
+            {
+                "token": "אֲשֶׁ֣ר׀",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " - "
+            },
+            {
+                "token": "מְדִינָ֣ה",
+                "transliteration": "mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " of each province "
+            },
+            {
+                "token": "וּמְדִינָ֗ה",
+                "transliteration": "ū·mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׂ֤רֵי",
+                "transliteration": "śā·rê",
+                "strong": "8269",
+                "translation": " and the officials "
+            },
+            {
+                "token": "עַם֙",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " of each "
+            },
+            {
+                "token": "וָעָ֔ם",
+                "transliteration": "wā·‘ām",
+                "strong": "5971",
+                "translation": " people "
+            },
+            {
+                "token": "מְדִינָ֤ה",
+                "transliteration": "mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " , "
+            },
+            {
+                "token": "כִּכְתָבָ֔הּ",
+                "transliteration": "kiḵ·ṯā·ḇāh",
+                "strong": "3791",
+                "translation": " in the script "
+            },
+            {
+                "token": "וּמְדִינָה֙",
+                "transliteration": "ū·mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " of each province "
+            },
+            {
+                "token": "כִּלְשׁוֹנ֑וֹ",
+                "transliteration": "kil·šō·w·nōw",
+                "strong": "3956",
+                "translation": " and the language "
+            },
+            {
+                "token": "וְעַ֥ם",
+                "transliteration": "wə·‘am",
+                "strong": "5971",
+                "translation": " vvv "
+            },
+            {
+                "token": "וָעָ֖ם",
+                "transliteration": "wā·‘ām",
+                "strong": "5971",
+                "translation": " of every people . "
+            },
+            {
+                "token": "נִכְתָּ֔ב",
+                "transliteration": "niḵ·tāḇ",
+                "strong": "3789",
+                "translation": " It was written "
+            },
+            {
+                "token": "בְּשֵׁ֨ם",
+                "transliteration": "bə·šêm",
+                "strong": "8034",
+                "translation": " in the name "
+            },
+            {
+                "token": "הַמֶּ֤לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " of King "
+            },
+            {
+                "token": "אֲחַשְׁוֵרֹשׁ֙",
+                "transliteration": "’ă·ḥaš·wê·rōš",
+                "strong": "325",
+                "translation": " Xerxes "
+            },
+            {
+                "token": "וְנֶחְתָּ֖ם",
+                "transliteration": "wə·neḥ·tām",
+                "strong": "2856",
+                "translation": " and sealed "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " with the royal "
+            },
+            {
+                "token": "בְּטַבַּ֥עַת",
+                "transliteration": "bə·ṭab·ba·‘aṯ",
+                "strong": "2885",
+                "translation": " signet ring . "
+            }
+        ],
+        "verse_reference": "Esther 3:12",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "סְפָרִ֜ים",
+                "transliteration": "sə·p̄ā·rîm",
+                "strong": "5612",
+                "translation": " And the letters "
+            },
+            {
+                "token": "וְנִשְׁל֨וֹחַ",
+                "transliteration": "wə·niš·lō·w·aḥ",
+                "strong": "7971",
+                "translation": " were sent "
+            },
+            {
+                "token": "בְּיַ֣ד",
+                "transliteration": "bə·yaḏ",
+                "strong": "3027",
+                "translation": " by "
+            },
+            {
+                "token": "הָרָצִים֮",
+                "transliteration": "hā·rā·ṣîm",
+                "strong": "7323",
+                "translation": " couriers "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " each "
+            },
+            {
+                "token": "הַמֶּלֶךְ֒",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " of the royal "
+            },
+            {
+                "token": "מְדִינ֣וֹת",
+                "transliteration": "mə·ḏî·nō·wṯ",
+                "strong": "4082",
+                "translation": " provinces "
+            },
+            {
+                "token": "לְהַשְׁמִ֡יד",
+                "transliteration": "lə·haš·mîḏ",
+                "strong": "8045",
+                "translation": " with the order to destroy , "
+            },
+            {
+                "token": "לַהֲרֹ֣ג",
+                "transliteration": "la·hă·rōḡ",
+                "strong": "2026",
+                "translation": " kill , "
+            },
+            {
+                "token": "וּלְאַבֵּ֣ד",
+                "transliteration": "ū·lə·’ab·bêḏ",
+                "strong": "6",
+                "translation": " and annihilate "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַ֠יְּהוּדִים",
+                "transliteration": "hay·yə·hū·ḏîm",
+                "strong": "3064",
+                "translation": " the Jews — "
+            },
+            {
+                "token": "מִנַּ֨עַר",
+                "transliteration": "min·na·‘ar",
+                "strong": "5288",
+                "translation": " young "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " and "
+            },
+            {
+                "token": "זָקֵ֜ן",
+                "transliteration": "zā·qên",
+                "strong": "2205",
+                "translation": " old , "
+            },
+            {
+                "token": "וְנָשִׁים֙",
+                "transliteration": "wə·nā·šîm",
+                "strong": "802",
+                "translation": " women "
+            },
+            {
+                "token": "טַ֤ף",
+                "transliteration": "ṭap̄",
+                "strong": "2945",
+                "translation": " and children — "
+            },
+            {
+                "token": "לָבֽוֹז׃",
+                "transliteration": "lā·ḇō·wz",
+                "strong": "962",
+                "translation": " and to plunder "
+            },
+            {
+                "token": "וּשְׁלָלָ֖ם",
+                "transliteration": "ū·šə·lā·lām",
+                "strong": "7998",
+                "translation": " their possessions "
+            },
+            {
+                "token": "אֶחָ֔ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " on a single "
+            },
+            {
+                "token": "בְּי֣וֹם",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "בִּשְׁלוֹשָׁ֥ה",
+                "transliteration": "biš·lō·wō·šāh",
+                "strong": "7969",
+                "translation": " the thirteenth "
+            },
+            {
+                "token": "עָשָׂ֛ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲדָ֑ר",
+                "transliteration": "’ă·ḏār",
+                "strong": "143",
+                "translation": " day of Adar , "
+            },
+            {
+                "token": "שְׁנֵים־",
+                "transliteration": "šə·nêm-",
+                "strong": "8147",
+                "translation": " the twelfth "
+            },
+            {
+                "token": "עָשָׂ֖ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "הוּא־",
+                "transliteration": "hū-",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֹ֣דֶשׁ",
+                "transliteration": "ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month "
+            },
+            {
+                "token": "לְחֹ֥דֶשׁ",
+                "transliteration": "lə·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Esther 3:13",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פַּתְשֶׁ֣גֶן",
+                "transliteration": "paṯ·še·ḡen",
+                "strong": "6572",
+                "translation": " A copy "
+            },
+            {
+                "token": "הַכְּתָ֗ב",
+                "transliteration": "hak·kə·ṯāḇ",
+                "strong": "3791",
+                "translation": " of the text "
+            },
+            {
+                "token": "דָּת֙",
+                "transliteration": "dāṯ",
+                "strong": "1881",
+                "translation": " of the edict "
+            },
+            {
+                "token": "לְהִנָּ֤תֵֽן",
+                "transliteration": "lə·hin·nā·ṯên",
+                "strong": "5414",
+                "translation": " was to be issued "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " in every "
+            },
+            {
+                "token": "מְדִינָ֣ה",
+                "transliteration": "mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " province "
+            },
+            {
+                "token": "וּמְדִינָ֔ה",
+                "transliteration": "ū·mə·ḏî·nāh",
+                "strong": "4082",
+                "translation": " . . . "
+            },
+            {
+                "token": "גָּל֖וּי",
+                "transliteration": "gā·lui",
+                "strong": "1540",
+                "translation": " and published "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " to all "
+            },
+            {
+                "token": "הָֽעַמִּ֑ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the people , "
+            },
+            {
+                "token": "לִהְי֥וֹת",
+                "transliteration": "lih·yō·wṯ",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֲתִדִ֖ים",
+                "transliteration": "‘ă·ṯi·ḏîm",
+                "strong": "6264",
+                "translation": " so that they would be ready "
+            },
+            {
+                "token": "הַזֶּֽה׃",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " on that "
+            },
+            {
+                "token": "לַיּ֥וֹם",
+                "transliteration": "lay·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            }
+        ],
+        "verse_reference": "Esther 3:14",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָֽרָצִ֞ים",
+                "transliteration": "hā·rā·ṣîm",
+                "strong": "7323",
+                "translation": " The couriers "
+            },
+            {
+                "token": "יָצְא֤וּ",
+                "transliteration": "yā·ṣə·’ū",
+                "strong": "3318",
+                "translation": " left , "
+            },
+            {
+                "token": "דְחוּפִים֙",
+                "transliteration": "ḏə·ḥū·p̄îm",
+                "strong": "1765",
+                "translation": " spurred on "
+            },
+            {
+                "token": "הַמֶּ֔לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " by the king’s "
+            },
+            {
+                "token": "בִּדְבַ֣ר",
+                "transliteration": "biḏ·ḇar",
+                "strong": "1697",
+                "translation": " command , "
+            },
+            {
+                "token": "וְהַדָּ֥ת",
+                "transliteration": "wə·had·dāṯ",
+                "strong": "1881",
+                "translation": " and the edict "
+            },
+            {
+                "token": "נִתְּנָ֖ה",
+                "transliteration": "nit·tə·nāh",
+                "strong": "5414",
+                "translation": " was issued "
+            },
+            {
+                "token": "הַבִּירָ֑ה",
+                "transliteration": "hab·bî·rāh",
+                "strong": "1002",
+                "translation": " in the citadel "
+            },
+            {
+                "token": "בְּשׁוּשַׁ֣ן",
+                "transliteration": "bə·šū·šan",
+                "strong": "7800",
+                "translation": " of Susa . "
+            },
+            {
+                "token": "וְהַמֶּ֤לֶךְ",
+                "transliteration": "wə·ham·me·leḵ",
+                "strong": "4428",
+                "translation": " Then the king "
+            },
+            {
+                "token": "וְהָמָן֙",
+                "transliteration": "wə·hā·mān",
+                "strong": "2001",
+                "translation": " and Haman "
+            },
+            {
+                "token": "יָשְׁב֣וּ",
+                "transliteration": "yā·šə·ḇū",
+                "strong": "3427",
+                "translation": " sat down "
+            },
+            {
+                "token": "לִשְׁתּ֔וֹת",
+                "transliteration": "liš·tō·wṯ",
+                "strong": "8354",
+                "translation": " to drink , "
+            },
+            {
+                "token": "וְהָעִ֥יר",
+                "transliteration": "wə·hā·‘îr",
+                "strong": "5892",
+                "translation": " but the city "
+            },
+            {
+                "token": "שׁוּשָׁ֖ן",
+                "transliteration": "šū·šān",
+                "strong": "7800",
+                "translation": " of Susa "
+            },
+            {
+                "token": "נָבֽוֹכָה׃פ",
+                "transliteration": "nā·ḇō·w·ḵāh",
+                "strong": "943",
+                "translation": " was in confusion . "
+            }
+        ],
+        "verse_reference": "Esther 3:15",
+        "book": "Esther",
+        "chapter": "3",
+        "verse": "15"
+    }
+]

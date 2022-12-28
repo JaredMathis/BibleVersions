@@ -1,0 +1,3766 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֣י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "אַֽחֲרֵיכֵ֡ן",
+                "transliteration": "’a·ḥă·rê·ḵên",
+                "strong": "310",
+                "translation": " After this , "
+            },
+            {
+                "token": "בְנֵי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " the Moabites "
+            },
+            {
+                "token": "מוֹאָב֩",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּבְנֵ֨י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " and Ammonites "
+            },
+            {
+                "token": "עַמּ֜וֹן",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְעִמָּהֶ֧ם׀",
+                "transliteration": "wə·‘im·mā·hem",
+                "strong": "5973",
+                "translation": " together with "
+            },
+            {
+                "token": "מֵֽהָעַמּוֹנִ֛ים",
+                "transliteration": "mê·hā·‘am·mō·w·nîm",
+                "strong": "5984",
+                "translation": " some of the Meunites , "
+            },
+            {
+                "token": "בָּ֣אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " came "
+            },
+            {
+                "token": "לַמִּלְחָמָֽה׃",
+                "transliteration": "lam·mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " to make war "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֖ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:1",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּבֹ֗אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " Then some men came "
+            },
+            {
+                "token": "וַיַּגִּ֤ידוּ",
+                "transliteration": "way·yag·gî·ḏū",
+                "strong": "5046",
+                "translation": " and told "
+            },
+            {
+                "token": "לִֽיהוֹשָׁפָט֙",
+                "transliteration": "lî·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat , "
+            },
+            {
+                "token": "לֵאמֹ֔ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "רָ֛ב",
+                "transliteration": "rāḇ",
+                "strong": "7227",
+                "translation": " “ A vast "
+            },
+            {
+                "token": "הָמ֥וֹן",
+                "transliteration": "hā·mō·wn",
+                "strong": "1995",
+                "translation": " army "
+            },
+            {
+                "token": "בָּ֣א",
+                "transliteration": "bā",
+                "strong": "935",
+                "translation": " is coming "
+            },
+            {
+                "token": "עָלֶ֜יךָ",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " against you "
+            },
+            {
+                "token": "מֵאֲרָ֑ם",
+                "transliteration": "mê·’ă·rām",
+                "strong": "758",
+                "translation": " from Edom , "
+            },
+            {
+                "token": "מֵעֵ֥בֶר",
+                "transliteration": "mê·‘ê·ḇer",
+                "strong": "5676",
+                "translation": " from beyond "
+            },
+            {
+                "token": "לַיָּ֖ם",
+                "transliteration": "lay·yām",
+                "strong": "3220",
+                "translation": " the Sea ; "
+            },
+            {
+                "token": "וְהִנָּם֙",
+                "transliteration": "wə·hin·nām",
+                "strong": "2009",
+                "translation": " they are already "
+            },
+            {
+                "token": "בְּחַֽצְצ֣וֹן",
+                "transliteration": "bə·ḥaṣ·ṣō·wn",
+                "strong": "2688",
+                "translation": " vvv "
+            },
+            {
+                "token": "תָּמָ֔ר",
+                "transliteration": "tā·mār",
+                "strong": "2688",
+                "translation": " in Hazazon-tamar ” "
+            },
+            {
+                "token": "הִ֖יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "עֵ֥ין",
+                "transliteration": "‘ên",
+                "strong": "5872",
+                "translation": " En-gedi "
+            },
+            {
+                "token": "גֶּֽדִי׃",
+                "transliteration": "ge·ḏî",
+                "strong": "5872",
+                "translation": " . . . ). "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:2",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֛ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּרָ֕א",
+                "transliteration": "way·yi·rā",
+                "strong": "3372",
+                "translation": " was alarmed "
+            },
+            {
+                "token": "וַיִּתֵּ֧ן",
+                "transliteration": "way·yit·tên",
+                "strong": "5414",
+                "translation": " and set "
+            },
+            {
+                "token": "פָּנָ֖יו",
+                "transliteration": "pā·nāw",
+                "strong": "6440",
+                "translation": " his face "
+            },
+            {
+                "token": "לִדְר֣וֹשׁ",
+                "transliteration": "liḏ·rō·wōš",
+                "strong": "1875",
+                "translation": " to seek "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            },
+            {
+                "token": "וַיִּקְרָא־",
+                "transliteration": "way·yiq·rā-",
+                "strong": "7121",
+                "translation": " And he proclaimed "
+            },
+            {
+                "token": "צ֖וֹם",
+                "transliteration": "ṣō·wm",
+                "strong": "6685",
+                "translation": " a fast "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " throughout "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוּדָֽה׃",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:3",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " So [the people of] Judah "
+            },
+            {
+                "token": "וַיִּקָּבְצ֣וּ",
+                "transliteration": "way·yiq·qā·ḇə·ṣū",
+                "strong": "6908",
+                "translation": " gathered "
+            },
+            {
+                "token": "לְבַקֵּ֖שׁ",
+                "transliteration": "lə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " to seek "
+            },
+            {
+                "token": "מֵֽיְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "גַּ֚ם",
+                "transliteration": "gam",
+                "strong": "1571",
+                "translation": " and indeed , "
+            },
+            {
+                "token": "בָּ֖אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " they came "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " from all "
+            },
+            {
+                "token": "עָרֵ֣י",
+                "transliteration": "‘ā·rê",
+                "strong": "5892",
+                "translation": " the cities "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "לְבַקֵּ֥שׁ",
+                "transliteration": "lə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " to seek "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Him . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:4",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֗ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Then Jehoshaphat "
+            },
+            {
+                "token": "וַיַּעֲמֹ֣ד",
+                "transliteration": "way·ya·‘ă·mōḏ",
+                "strong": "5975",
+                "translation": " stood "
+            },
+            {
+                "token": "בִּקְהַ֧ל",
+                "transliteration": "biq·hal",
+                "strong": "6951",
+                "translation": " in the assembly "
+            },
+            {
+                "token": "יְהוּדָ֛ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וִירוּשָׁלִַ֖ם",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem "
+            },
+            {
+                "token": "בְּבֵ֣ית",
+                "transliteration": "bə·ḇêṯ",
+                "strong": "1004",
+                "translation": " in the house "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "לִפְנֵ֖י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " in front of "
+            },
+            {
+                "token": "הַחֲדָשָֽׁה׃",
+                "transliteration": "ha·ḥă·ḏā·šāh",
+                "strong": "2319",
+                "translation": " the new "
+            },
+            {
+                "token": "הֶחָצֵ֥ר",
+                "transliteration": "he·ḥā·ṣêr",
+                "strong": "2691",
+                "translation": " courtyard "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:5",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּאמַ֗ר",
+                "transliteration": "way·yō·mar",
+                "strong": "559",
+                "translation": " and said , "
+            },
+            {
+                "token": "יְהוָ֞ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " “ O LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֤י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "אֲבֹתֵ֙ינוּ֙",
+                "transliteration": "’ă·ḇō·ṯê·nū",
+                "strong": "1",
+                "translation": " of our fathers , "
+            },
+            {
+                "token": "אַתָּֽה־",
+                "transliteration": "’at·tāh-",
+                "strong": "859",
+                "translation": " are You "
+            },
+            {
+                "token": "ה֤וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "הֲלֹ֨א",
+                "transliteration": "hă·lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "אֱלֹהִים֙",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "בַּשָּׁמַ֔יִם",
+                "transliteration": "baš·šā·ma·yim",
+                "strong": "8064",
+                "translation": " who is in heaven , "
+            },
+            {
+                "token": "וְאַתָּ֣ה",
+                "transliteration": "wə·’at·tāh",
+                "strong": "859",
+                "translation": " and do You "
+            },
+            {
+                "token": "מוֹשֵׁ֔ל",
+                "transliteration": "mō·wō·šêl",
+                "strong": "4910",
+                "translation": " not rule "
+            },
+            {
+                "token": "בְּכֹ֖ל",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " over all "
+            },
+            {
+                "token": "מַמְלְכ֣וֹת",
+                "transliteration": "mam·lə·ḵō·wṯ",
+                "strong": "4467",
+                "translation": " the kingdoms "
+            },
+            {
+                "token": "הַגּוֹיִ֑ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations ? "
+            },
+            {
+                "token": "כֹּ֣חַ",
+                "transliteration": "kō·aḥ",
+                "strong": "3581",
+                "translation": " Power "
+            },
+            {
+                "token": "וּגְבוּרָ֔ה",
+                "transliteration": "ū·ḡə·ḇū·rāh",
+                "strong": "1369",
+                "translation": " and might "
+            },
+            {
+                "token": "וּבְיָדְךָ֙",
+                "transliteration": "ū·ḇə·yā·ḏə·ḵā",
+                "strong": "3027",
+                "translation": " are in Your hand , "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and no "
+            },
+            {
+                "token": "לְהִתְיַצֵּֽב׃",
+                "transliteration": "lə·hiṯ·yaṣ·ṣêḇ",
+                "strong": "3320",
+                "translation": " one can stand "
+            },
+            {
+                "token": "עִמְּךָ֖",
+                "transliteration": "‘im·mə·ḵā",
+                "strong": "5973",
+                "translation": " against You . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:6",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " Our God , "
+            },
+            {
+                "token": "אַתָּ֣ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " did You "
+            },
+            {
+                "token": "הֲלֹ֣א׀",
+                "transliteration": "hă·lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "הוֹרַ֙שְׁתָּ֙",
+                "transliteration": "hō·w·raš·tā",
+                "strong": "3423",
+                "translation": " drive out "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יֹשְׁבֵי֙",
+                "transliteration": "yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " the inhabitants "
+            },
+            {
+                "token": "הַזֹּ֔את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " of this "
+            },
+            {
+                "token": "הָאָ֣רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " land "
+            },
+            {
+                "token": "מִלִּפְנֵ֖י",
+                "transliteration": "mil·lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "עַמְּךָ֣",
+                "transliteration": "‘am·mə·ḵā",
+                "strong": "5971",
+                "translation": " Your people "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "וַֽתִּתְּנָ֗הּ",
+                "transliteration": "wat·tit·tə·nāh",
+                "strong": "5414",
+                "translation": " and give it "
+            },
+            {
+                "token": "לְעוֹלָֽם׃",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " forever "
+            },
+            {
+                "token": "לְזֶ֛רַע",
+                "transliteration": "lə·ze·ra‘",
+                "strong": "2233",
+                "translation": " to the descendants "
+            },
+            {
+                "token": "אַבְרָהָ֥ם",
+                "transliteration": "’aḇ·rā·hām",
+                "strong": "85",
+                "translation": " of Abraham "
+            },
+            {
+                "token": "אֹֽהַבְךָ֖",
+                "transliteration": "’ō·haḇ·ḵā",
+                "strong": "157",
+                "translation": " Your friend ? "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:7",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֵּשְׁב֖וּ־",
+                "transliteration": "way·yê·šə·ḇū-",
+                "strong": "3427",
+                "translation": " They have lived "
+            },
+            {
+                "token": "בָ֑הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " in the land "
+            },
+            {
+                "token": "וַיִּבְנ֨וּ",
+                "transliteration": "way·yiḇ·nū",
+                "strong": "1129",
+                "translation": " and have built "
+            },
+            {
+                "token": "לְךָ֧׀",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "בָּ֛הּ",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " in it "
+            },
+            {
+                "token": "מִקְדָּ֖שׁ",
+                "transliteration": "miq·dāš",
+                "strong": "4720",
+                "translation": " a sanctuary "
+            },
+            {
+                "token": "לְשִׁמְךָ֥",
+                "transliteration": "lə·šim·ḵā",
+                "strong": "8034",
+                "translation": " for Your Name , "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " saying , "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:8",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " ‘ If "
+            },
+            {
+                "token": "רָעָ֗ה",
+                "transliteration": "rā·‘āh",
+                "strong": "7451",
+                "translation": " disaster "
+            },
+            {
+                "token": "תָּב֨וֹא",
+                "transliteration": "tā·ḇō·w",
+                "strong": "935",
+                "translation": " comes "
+            },
+            {
+                "token": "עָלֵ֜ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " upon us — "
+            },
+            {
+                "token": "חֶרֶב֮",
+                "transliteration": "ḥe·reḇ",
+                "strong": "2719",
+                "translation": " whether sword "
+            },
+            {
+                "token": "שְׁפוֹט֮",
+                "transliteration": "šə·p̄ō·wṭ",
+                "strong": "8196",
+                "translation": " or judgment , "
+            },
+            {
+                "token": "וְדֶ֣בֶר",
+                "transliteration": "wə·ḏe·ḇer",
+                "strong": "1698",
+                "translation": " plague "
+            },
+            {
+                "token": "וְרָעָב֒",
+                "transliteration": "wə·rā·‘āḇ",
+                "strong": "7458",
+                "translation": " or famine — "
+            },
+            {
+                "token": "נַֽעַמְדָ֞ה",
+                "transliteration": "na·‘am·ḏāh",
+                "strong": "5975",
+                "translation": " we will stand "
+            },
+            {
+                "token": "לִפְנֵ֨י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הַזֶּה֙",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַבַּ֤יִת",
+                "transliteration": "hab·ba·yiṯ",
+                "strong": "1004",
+                "translation": " temple "
+            },
+            {
+                "token": "וּלְפָנֶ֔יךָ",
+                "transliteration": "ū·lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " and before You , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "שִׁמְךָ֖",
+                "transliteration": "šim·ḵā",
+                "strong": "8034",
+                "translation": " Your Name "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " is in this "
+            },
+            {
+                "token": "בַּבַּ֣יִת",
+                "transliteration": "bab·ba·yiṯ",
+                "strong": "1004",
+                "translation": " temple . "
+            },
+            {
+                "token": "וְנִזְעַ֥ק",
+                "transliteration": "wə·niz·‘aq",
+                "strong": "2199",
+                "translation": " We will cry out "
+            },
+            {
+                "token": "אֵלֶ֛יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " to You "
+            },
+            {
+                "token": "מִצָּרָתֵ֖נוּ",
+                "transliteration": "miṣ·ṣā·rā·ṯê·nū",
+                "strong": "6869",
+                "translation": " in our distress , "
+            },
+            {
+                "token": "וְתִשְׁמַ֥ע",
+                "transliteration": "wə·ṯiš·ma‘",
+                "strong": "8085",
+                "translation": " and You will hear us "
+            },
+            {
+                "token": "וְתוֹשִֽׁיעַ׃",
+                "transliteration": "wə·ṯō·wō·šî·a‘",
+                "strong": "3467",
+                "translation": " and save us . ’ "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:9",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְעַתָּ֡ה",
+                "transliteration": "wə·‘at·tāh",
+                "strong": "6258",
+                "translation": " And now , "
+            },
+            {
+                "token": "הִנֵּה֩",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " here are "
+            },
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " the men "
+            },
+            {
+                "token": "עַמּ֨וֹן",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " of Ammon , "
+            },
+            {
+                "token": "וּמוֹאָ֜ב",
+                "transliteration": "ū·mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " Moab , "
+            },
+            {
+                "token": "וְהַר־",
+                "transliteration": "wə·har-",
+                "strong": "2022",
+                "translation": " and Mount "
+            },
+            {
+                "token": "שֵׂעִ֗יר",
+                "transliteration": "śê·‘îr",
+                "strong": "8165",
+                "translation": " Seir , "
+            },
+            {
+                "token": "אֲ֠שֶׁר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " whom "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " You did not "
+            },
+            {
+                "token": "נָתַ֤תָּה",
+                "transliteration": "nā·ṯat·tāh",
+                "strong": "5414",
+                "translation": " let "
+            },
+            {
+                "token": "לְיִשְׂרָאֵל֙",
+                "transliteration": "lə·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "לָב֣וֹא",
+                "transliteration": "lā·ḇō·w",
+                "strong": "935",
+                "translation": " invade "
+            },
+            {
+                "token": "בָהֶ֔ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "בְּבֹאָ֖ם",
+                "transliteration": "bə·ḇō·’ām",
+                "strong": "935",
+                "translation": " when they came "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt ; "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "סָ֥רוּ",
+                "transliteration": "sā·rū",
+                "strong": "5493",
+                "translation": " Israel turned away "
+            },
+            {
+                "token": "מֵעֲלֵיהֶ֖ם",
+                "transliteration": "mê·‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " from them "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and did not "
+            },
+            {
+                "token": "הִשְׁמִידֽוּם׃",
+                "transliteration": "hiš·mî·ḏūm",
+                "strong": "8045",
+                "translation": " destroy them . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:10",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהִ֨נֵּה־",
+                "transliteration": "wə·hin·nêh-",
+                "strong": "2009",
+                "translation": " See "
+            },
+            {
+                "token": "הֵ֔ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " how they "
+            },
+            {
+                "token": "גֹּמְלִ֖ים",
+                "transliteration": "gō·mə·lîm",
+                "strong": "1580",
+                "translation": " are repaying "
+            },
+            {
+                "token": "עָלֵ֑ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " us "
+            },
+            {
+                "token": "לָבוֹא֙",
+                "transliteration": "lā·ḇō·w",
+                "strong": "935",
+                "translation": " by coming "
+            },
+            {
+                "token": "לְגָ֣רְשֵׁ֔נוּ",
+                "transliteration": "lə·ḡā·rə·šê·nū",
+                "strong": "1644",
+                "translation": " to drive us out "
+            },
+            {
+                "token": "מִיְּרֻשָּׁתְךָ֖",
+                "transliteration": "mî·yə·ruš·šā·ṯə·ḵā",
+                "strong": "3425",
+                "translation": " of the possession "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "הֽוֹרַשְׁתָּֽנוּ׃",
+                "transliteration": "hō·w·raš·tā·nū",
+                "strong": "3423",
+                "translation": " You gave us as an inheritance . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:11",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהֵ֙ינוּ֙",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " Our God , "
+            },
+            {
+                "token": "הֲלֹ֣א",
+                "transliteration": "hă·lō",
+                "strong": "3808",
+                "translation": " will You not "
+            },
+            {
+                "token": "תִשְׁפָּט־",
+                "transliteration": "ṯiš·pāṭ-",
+                "strong": "8199",
+                "translation": " judge "
+            },
+            {
+                "token": "בָּ֔ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " them ? "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אֵ֥ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " vvv "
+            },
+            {
+                "token": "בָּ֙נוּ֙",
+                "transliteration": "bā·nū",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "כֹּ֔חַ",
+                "transliteration": "kō·aḥ",
+                "strong": "3581",
+                "translation": " we are powerless "
+            },
+            {
+                "token": "לִ֠פְנֵי",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הַזֶּ֖ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הָרָ֛ב",
+                "transliteration": "hā·rāḇ",
+                "strong": "7227",
+                "translation": " vast "
+            },
+            {
+                "token": "הֶהָמ֥וֹן",
+                "transliteration": "he·hā·mō·wn",
+                "strong": "1995",
+                "translation": " army "
+            },
+            {
+                "token": "הַבָּ֣א",
+                "transliteration": "hab·bā",
+                "strong": "935",
+                "translation": " that comes "
+            },
+            {
+                "token": "עָלֵ֑ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " against us . "
+            },
+            {
+                "token": "וַאֲנַ֗חְנוּ",
+                "transliteration": "wa·’ă·naḥ·nū",
+                "strong": "587",
+                "translation": " We "
+            },
+            {
+                "token": "לֹ֤א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " do not "
+            },
+            {
+                "token": "נֵדַע֙",
+                "transliteration": "nê·ḏa‘",
+                "strong": "3045",
+                "translation": " know "
+            },
+            {
+                "token": "מַֽה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " what "
+            },
+            {
+                "token": "נַּעֲשֶׂ֔ה",
+                "transliteration": "na·‘ă·śeh",
+                "strong": "6213",
+                "translation": " to do , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "עֵינֵֽינוּ׃",
+                "transliteration": "‘ê·nê·nū",
+                "strong": "5869",
+                "translation": " our eyes [are] "
+            },
+            {
+                "token": "עָלֶ֖יךָ",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " upon You . ” "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:12",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָ֨ל־",
+                "transliteration": "wə·ḵōl-",
+                "strong": "3605",
+                "translation": " Meanwhile all [the men] "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " with "
+            },
+            {
+                "token": "נְשֵׁיהֶ֥ם",
+                "transliteration": "nə·šê·hem",
+                "strong": "802",
+                "translation": " their wives "
+            },
+            {
+                "token": "וּבְנֵיהֶֽם׃פ",
+                "transliteration": "ū·ḇə·nê·hem",
+                "strong": "1121",
+                "translation": " and children "
+            },
+            {
+                "token": "טַפָּ֖ם",
+                "transliteration": "ṭap·pām",
+                "strong": "2945",
+                "translation": " and little ones , "
+            },
+            {
+                "token": "עֹמְדִ֖ים",
+                "transliteration": "‘ō·mə·ḏîm",
+                "strong": "5975",
+                "translation": " were standing "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:13",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ר֣וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " Then the Spirit "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "הָיְתָ֤ה",
+                "transliteration": "hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "עָלָיו֙",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " upon "
+            },
+            {
+                "token": "וְיַחֲזִיאֵ֡ל",
+                "transliteration": "wə·ya·ḥă·zî·’êl",
+                "strong": "3166",
+                "translation": " Jahaziel "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "זְכַרְיָ֡הוּ",
+                "transliteration": "zə·ḵar·yā·hū",
+                "strong": "2148",
+                "translation": " of Zechariah , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " the son "
+            },
+            {
+                "token": "בְּ֠נָיָה",
+                "transliteration": "bə·nā·yāh",
+                "strong": "1141",
+                "translation": " of Benaiah , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " the son "
+            },
+            {
+                "token": "יְעִיאֵ֧ל",
+                "transliteration": "yə·‘î·’êl",
+                "strong": "3273",
+                "translation": " of Jeiel , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " the son "
+            },
+            {
+                "token": "מַתַּנְיָ֛ה",
+                "transliteration": "mat·tan·yāh",
+                "strong": "4983",
+                "translation": " of Mattaniah , "
+            },
+            {
+                "token": "הַלֵּוִ֖י",
+                "transliteration": "hal·lê·wî",
+                "strong": "3881",
+                "translation": " a Levite "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "אָסָ֑ף",
+                "transliteration": "’ā·sāp̄",
+                "strong": "623",
+                "translation": " Asaph’s "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " descendants , "
+            },
+            {
+                "token": "בְּת֖וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " [as he stood] in the midst "
+            },
+            {
+                "token": "הַקָּהָֽל׃",
+                "transliteration": "haq·qā·hāl",
+                "strong": "6951",
+                "translation": " of the assembly . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:14",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּ֗אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " And he said , "
+            },
+            {
+                "token": "הַקְשִׁ֤יבוּ",
+                "transliteration": "haq·šî·ḇū",
+                "strong": "7181",
+                "translation": " “ Listen , "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "וְיֹשְׁבֵ֣י",
+                "transliteration": "wə·yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " you people "
+            },
+            {
+                "token": "יְהוּדָה֙",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem ! "
+            },
+            {
+                "token": "וְהַמֶּ֖לֶךְ",
+                "transliteration": "wə·ham·me·leḵ",
+                "strong": "4428",
+                "translation": " Listen, King "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֑ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat ! "
+            },
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " This is what "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "לָכֶ֗ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "אַ֠תֶּם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " - "
+            },
+            {
+                "token": "אָמַ֨ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " ‘ Do not "
+            },
+            {
+                "token": "תִּֽירְא֤וּ",
+                "transliteration": "tî·rə·’ū",
+                "strong": "3372",
+                "translation": " be afraid "
+            },
+            {
+                "token": "וְאַל־",
+                "transliteration": "wə·’al-",
+                "strong": "408",
+                "translation": " . . . "
+            },
+            {
+                "token": "תֵּחַ֙תּוּ֙",
+                "transliteration": "tê·ḥat·tū",
+                "strong": "2865",
+                "translation": " or discouraged "
+            },
+            {
+                "token": "מִפְּנֵ֨י",
+                "transliteration": "mip·pə·nê",
+                "strong": "6440",
+                "translation": " because of "
+            },
+            {
+                "token": "הַזֶּ֔ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הָרָב֙",
+                "transliteration": "hā·rāḇ",
+                "strong": "7227",
+                "translation": " vast "
+            },
+            {
+                "token": "הֶהָמ֤וֹן",
+                "transliteration": "he·hā·mō·wn",
+                "strong": "1995",
+                "translation": " army , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הַמִּלְחָמָ֖ה",
+                "transliteration": "ham·mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " the battle "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " does not belong "
+            },
+            {
+                "token": "לָכֶ֛ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "לֵאלֹהִֽים׃",
+                "transliteration": "lê·lō·hîm",
+                "strong": "430",
+                "translation": " to God . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:15",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מָחָר֙",
+                "transliteration": "mā·ḥār",
+                "strong": "4279",
+                "translation": " Tomorrow "
+            },
+            {
+                "token": "רְד֣וּ",
+                "transliteration": "rə·ḏū",
+                "strong": "3381",
+                "translation": " you are to march down "
+            },
+            {
+                "token": "עֲלֵיהֶ֔ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " against them . "
+            },
+            {
+                "token": "הִנָּ֥ם",
+                "transliteration": "hin·nām",
+                "strong": "2005",
+                "translation": " You will see them "
+            },
+            {
+                "token": "עֹלִ֖ים",
+                "transliteration": "‘ō·lîm",
+                "strong": "5927",
+                "translation": " coming up "
+            },
+            {
+                "token": "בְּמַעֲלֵ֣ה",
+                "transliteration": "bə·ma·‘ă·lêh",
+                "strong": "4608",
+                "translation": " the Ascent "
+            },
+            {
+                "token": "הַצִּ֑יץ",
+                "transliteration": "haṣ·ṣîṣ",
+                "strong": "6732",
+                "translation": " of Ziz , "
+            },
+            {
+                "token": "וּמְצָאתֶ֤ם",
+                "transliteration": "ū·mə·ṣā·ṯem",
+                "strong": "4672",
+                "translation": " and you will find "
+            },
+            {
+                "token": "אֹתָם֙",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "בְּס֣וֹף",
+                "transliteration": "bə·sō·wp̄",
+                "strong": "5490",
+                "translation": " at the end "
+            },
+            {
+                "token": "הַנַּ֔חַל",
+                "transliteration": "han·na·ḥal",
+                "strong": "5158",
+                "translation": " of the valley "
+            },
+            {
+                "token": "פְּנֵ֖י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " facing "
+            },
+            {
+                "token": "מִדְבַּ֥ר",
+                "transliteration": "miḏ·bar",
+                "strong": "4057",
+                "translation": " the Wilderness "
+            },
+            {
+                "token": "יְרוּאֵֽל׃",
+                "transliteration": "yə·rū·’êl",
+                "strong": "3385",
+                "translation": " of Jeruel . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:16",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " You "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " need not "
+            },
+            {
+                "token": "לְהִלָּחֵ֣ם",
+                "transliteration": "lə·hil·lā·ḥêm",
+                "strong": "3898",
+                "translation": " fight "
+            },
+            {
+                "token": "בָּזֹ֑את",
+                "transliteration": "bā·zōṯ",
+                "strong": "2063",
+                "translation": " this [battle] . "
+            },
+            {
+                "token": "הִתְיַצְּב֣וּ",
+                "transliteration": "hiṯ·yaṣ·ṣə·ḇū",
+                "strong": "3320",
+                "translation": " Take up your positions , "
+            },
+            {
+                "token": "עִמְד֡וּ",
+                "transliteration": "‘im·ḏū",
+                "strong": "5975",
+                "translation": " stand firm , "
+            },
+            {
+                "token": "וּרְא֣וּ",
+                "transliteration": "ū·rə·’ū",
+                "strong": "7200",
+                "translation": " and see "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְשׁוּעַת֩",
+                "transliteration": "yə·šū·‘aṯ",
+                "strong": "3444",
+                "translation": " the salvation "
+            },
+            {
+                "token": "יְהוָ֨ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "עִמָּכֶ֜ם",
+                "transliteration": "‘im·mā·ḵem",
+                "strong": "5973",
+                "translation": " on your behalf , "
+            },
+            {
+                "token": "יְהוּדָ֣ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " O Judah "
+            },
+            {
+                "token": "וִֽירוּשָׁלִַ֗ם",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem . "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Do not "
+            },
+            {
+                "token": "תִּֽירְאוּ֙",
+                "transliteration": "tî·rə·’ū",
+                "strong": "3372",
+                "translation": " be afraid "
+            },
+            {
+                "token": "וְאַל־",
+                "transliteration": "wə·’al-",
+                "strong": "408",
+                "translation": " . . . "
+            },
+            {
+                "token": "תֵּחַ֔תּוּ",
+                "transliteration": "tê·ḥat·tū",
+                "strong": "2865",
+                "translation": " or discouraged . "
+            },
+            {
+                "token": "צְא֣וּ",
+                "transliteration": "ṣə·’ū",
+                "strong": "3318",
+                "translation": " Go out "
+            },
+            {
+                "token": "לִפְנֵיהֶ֔ם",
+                "transliteration": "lip̄·nê·hem",
+                "strong": "6440",
+                "translation": " and face them "
+            },
+            {
+                "token": "מָחָר֙",
+                "transliteration": "mā·ḥār",
+                "strong": "4279",
+                "translation": " tomorrow , "
+            },
+            {
+                "token": "וַיהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " for the LORD "
+            },
+            {
+                "token": "עִמָּכֶֽם׃",
+                "transliteration": "‘im·mā·ḵem",
+                "strong": "5973",
+                "translation": " is with you . ’” "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:17",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֛ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Then Jehoshaphat "
+            },
+            {
+                "token": "וַיִּקֹּ֧ד",
+                "transliteration": "way·yiq·qōḏ",
+                "strong": "6915",
+                "translation": " bowed "
+            },
+            {
+                "token": "אַפַּ֖יִם",
+                "transliteration": "’ap·pa·yim",
+                "strong": "639",
+                "translation": " facedown "
+            },
+            {
+                "token": "אָ֑רְצָה",
+                "transliteration": "’ā·rə·ṣāh",
+                "strong": "776",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "וְיֹשְׁבֵ֣י",
+                "transliteration": "wə·yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " the people "
+            },
+            {
+                "token": "יְהוּדָ֞ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֗ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem "
+            },
+            {
+                "token": "נָֽפְלוּ֙",
+                "transliteration": "nā·p̄ə·lū",
+                "strong": "5307",
+                "translation": " fell down "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "לְהִֽשְׁתַּחֲוֺ֖ת",
+                "transliteration": "lə·hiš·ta·ḥă·wōṯ",
+                "strong": "7812",
+                "translation": " to worship "
+            },
+            {
+                "token": "לַיהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Him . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:18",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַלְוִיִּ֛ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " And the Levites "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַקְּהָתִ֖ים",
+                "transliteration": "haq·qə·hā·ṯîm",
+                "strong": "6956",
+                "translation": " the Kohathites "
+            },
+            {
+                "token": "וּמִן־",
+                "transliteration": "ū·min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַקָּרְחִ֑ים",
+                "transliteration": "haq·qā·rə·ḥîm",
+                "strong": "7145",
+                "translation": " and Korahites "
+            },
+            {
+                "token": "וַיָּקֻ֧מוּ",
+                "transliteration": "way·yā·qu·mū",
+                "strong": "6965",
+                "translation": " stood up "
+            },
+            {
+                "token": "לְהַלֵּ֗ל",
+                "transliteration": "lə·hal·lêl",
+                "strong": "1984",
+                "translation": " to praise "
+            },
+            {
+                "token": "לַיהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "גָּד֖וֹל",
+                "transliteration": "gā·ḏō·wl",
+                "strong": "1419",
+                "translation": " shouting in a very loud "
+            },
+            {
+                "token": "לְמָֽעְלָה׃",
+                "transliteration": "lə·mā·‘ə·lāh",
+                "strong": "4605",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּק֥וֹל",
+                "transliteration": "bə·qō·wl",
+                "strong": "6963",
+                "translation": " voice . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:19",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַבֹּ֔קֶר",
+                "transliteration": "ḇab·bō·qer",
+                "strong": "1242",
+                "translation": " Early in the morning "
+            },
+            {
+                "token": "וַיַּשְׁכִּ֣ימוּ",
+                "transliteration": "way·yaš·kî·mū",
+                "strong": "7925",
+                "translation": " they got up "
+            },
+            {
+                "token": "וַיֵּצְא֖וּ",
+                "transliteration": "way·yê·ṣə·’ū",
+                "strong": "3318",
+                "translation": " and left "
+            },
+            {
+                "token": "לְמִדְבַּ֣ר",
+                "transliteration": "lə·miḏ·bar",
+                "strong": "4057",
+                "translation": " for the Wilderness "
+            },
+            {
+                "token": "תְּק֑וֹעַ",
+                "transliteration": "tə·qō·w·a‘",
+                "strong": "8620",
+                "translation": " of Tekoa . "
+            },
+            {
+                "token": "וּבְצֵאתָ֞ם",
+                "transliteration": "ū·ḇə·ṣê·ṯām",
+                "strong": "3318",
+                "translation": " As they set out , "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֗ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat "
+            },
+            {
+                "token": "עָמַ֣ד",
+                "transliteration": "‘ā·maḏ",
+                "strong": "5975",
+                "translation": " stood up "
+            },
+            {
+                "token": "וַיֹּ֙אמֶר֙",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and said , "
+            },
+            {
+                "token": "שְׁמָע֗וּנִי",
+                "transliteration": "šə·mā·‘ū·nî",
+                "strong": "8085",
+                "translation": " “ Hear me , "
+            },
+            {
+                "token": "וְיֹשְׁבֵ֣י",
+                "transliteration": "wə·yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " O people "
+            },
+            {
+                "token": "יְהוּדָה֙",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem . "
+            },
+            {
+                "token": "הַאֲמִ֜ינוּ",
+                "transliteration": "ha·’ă·mî·nū",
+                "strong": "539",
+                "translation": " Believe "
+            },
+            {
+                "token": "בַּיהוָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " in the LORD "
+            },
+            {
+                "token": "אֱלֹהֵיכֶם֙",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God , "
+            },
+            {
+                "token": "וְתֵ֣אָמֵ֔נוּ",
+                "transliteration": "wə·ṯê·’ā·mê·nū",
+                "strong": "539",
+                "translation": " and you will be upheld ; "
+            },
+            {
+                "token": "הַאֲמִ֥ינוּ",
+                "transliteration": "ha·’ă·mî·nū",
+                "strong": "539",
+                "translation": " believe "
+            },
+            {
+                "token": "בִנְבִיאָ֖יו",
+                "transliteration": "ḇin·ḇî·’āw",
+                "strong": "5030",
+                "translation": " in His prophets , "
+            },
+            {
+                "token": "וְהַצְלִֽיחוּ׃",
+                "transliteration": "wə·haṣ·lî·ḥū",
+                "strong": "6743",
+                "translation": " and you will succeed .” "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:20",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּוָּעַץ֙",
+                "transliteration": "way·yiw·wā·‘aṣ",
+                "strong": "3289",
+                "translation": " Then [Jehoshaphat] consulted "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " with "
+            },
+            {
+                "token": "הָעָ֔ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "וַיַּעֲמֵ֤ד",
+                "transliteration": "way·ya·‘ă·mêḏ",
+                "strong": "5975",
+                "translation": " and appointed those "
+            },
+            {
+                "token": "מְשֹֽׁרֲרִים֙",
+                "transliteration": "mə·šō·ră·rîm",
+                "strong": "7891",
+                "translation": " who would sing "
+            },
+            {
+                "token": "לַיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "וּֽמְהַֽלְלִ֖ים",
+                "transliteration": "ū·mə·hal·lîm",
+                "strong": "1984",
+                "translation": " and praise "
+            },
+            {
+                "token": "לְהַדְרַת־",
+                "transliteration": "lə·haḏ·raṯ-",
+                "strong": "1927",
+                "translation": " the splendor "
+            },
+            {
+                "token": "קֹ֑דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " of His holiness . "
+            },
+            {
+                "token": "בְּצֵאת֙",
+                "transliteration": "bə·ṣêṯ",
+                "strong": "3318",
+                "translation": " As they went out "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הֶֽחָל֔וּץ",
+                "transliteration": "he·ḥā·lūṣ",
+                "strong": "2502",
+                "translation": " the army , "
+            },
+            {
+                "token": "וְאֹֽמְרִים֙",
+                "transliteration": "wə·’ō·mə·rîm",
+                "strong": "559",
+                "translation": " they were singing : "
+            },
+            {
+                "token": "הוֹד֣וּ",
+                "transliteration": "hō·w·ḏū",
+                "strong": "3034",
+                "translation": " “ Give thanks "
+            },
+            {
+                "token": "לַיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "חַסְדּֽוֹ׃",
+                "transliteration": "ḥas·dōw",
+                "strong": "2617",
+                "translation": " His loving devotion "
+            },
+            {
+                "token": "לְעוֹלָ֖ם",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " endures forever . ” "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:21",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְעֵת֩",
+                "transliteration": "ū·ḇə·‘êṯ",
+                "strong": "6256",
+                "translation": " The moment "
+            },
+            {
+                "token": "הֵחֵ֨לּוּ",
+                "transliteration": "hê·ḥêl·lū",
+                "strong": "2490",
+                "translation": " they began "
+            },
+            {
+                "token": "בְרִנָּ֜ה",
+                "transliteration": "ḇə·rin·nāh",
+                "strong": "7440",
+                "translation": " their shouts "
+            },
+            {
+                "token": "וּתְהִלָּ֗ה",
+                "transliteration": "ū·ṯə·hil·lāh",
+                "strong": "8416",
+                "translation": " and praises , "
+            },
+            {
+                "token": "יְהוָ֣ה׀",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "נָתַ֣ן",
+                "transliteration": "nā·ṯan",
+                "strong": "5414",
+                "translation": " set "
+            },
+            {
+                "token": "מְ֠אָֽרְבִים",
+                "transliteration": "mə·’ā·rə·ḇîm",
+                "strong": "693",
+                "translation": " ambushes "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against the men "
+            },
+            {
+                "token": "בְּנֵ֨י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " of Ammon "
+            },
+            {
+                "token": "עַמּ֜וֹן",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " . . . , "
+            },
+            {
+                "token": "מוֹאָ֧ב",
+                "transliteration": "mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " Moab , "
+            },
+            {
+                "token": "וְהַר־",
+                "transliteration": "wə·har-",
+                "strong": "2022",
+                "translation": " and Mount "
+            },
+            {
+                "token": "שֵׂעִ֛יר",
+                "transliteration": "śê·‘îr",
+                "strong": "8165",
+                "translation": " Seir "
+            },
+            {
+                "token": "הַבָּאִ֥ים",
+                "transliteration": "hab·bā·’îm",
+                "strong": "935",
+                "translation": " who had come "
+            },
+            {
+                "token": "לִֽיהוּדָ֖ה",
+                "transliteration": "lî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " against Judah , "
+            },
+            {
+                "token": "וַיִּנָּגֵֽפוּ׃",
+                "transliteration": "way·yin·nā·ḡê·p̄ū",
+                "strong": "5062",
+                "translation": " and they were defeated . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:22",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֨י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " The Ammonites "
+            },
+            {
+                "token": "עַמּ֧וֹן",
+                "transliteration": "‘am·mō·wn",
+                "strong": "5983",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּמוֹאָ֛ב",
+                "transliteration": "ū·mō·w·’āḇ",
+                "strong": "4124",
+                "translation": " and Moabites "
+            },
+            {
+                "token": "וַ֠יַּֽעַמְדוּ",
+                "transliteration": "way·ya·‘am·ḏū",
+                "strong": "5975",
+                "translation": " rose up "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "יֹשְׁבֵ֥י",
+                "transliteration": "yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " the inhabitants "
+            },
+            {
+                "token": "הַר־",
+                "transliteration": "har-",
+                "strong": "2022",
+                "translation": " of Mount "
+            },
+            {
+                "token": "שֵׂעִ֖יר",
+                "transliteration": "śê·‘îr",
+                "strong": "8165",
+                "translation": " Seir , "
+            },
+            {
+                "token": "לְהַחֲרִ֣ים",
+                "transliteration": "lə·ha·ḥă·rîm",
+                "strong": "2763",
+                "translation": " devoting them "
+            },
+            {
+                "token": "וּלְהַשְׁמִ֑יד",
+                "transliteration": "ū·lə·haš·mîḏ",
+                "strong": "8045",
+                "translation": " to destruction . "
+            },
+            {
+                "token": "וּכְכַלּוֹתָם֙",
+                "transliteration": "ū·ḵə·ḵal·lō·w·ṯām",
+                "strong": "3615",
+                "translation": " And when they had made an end "
+            },
+            {
+                "token": "בְּיוֹשְׁבֵ֣י",
+                "transliteration": "bə·yō·wō·šə·ḇê",
+                "strong": "3427",
+                "translation": " to the inhabitants "
+            },
+            {
+                "token": "שֵׂעִ֔יר",
+                "transliteration": "śê·‘îr",
+                "strong": "8165",
+                "translation": " of Seir , "
+            },
+            {
+                "token": "עָזְר֥וּ",
+                "transliteration": "‘ā·zə·rū",
+                "strong": "5826",
+                "translation": " they helped "
+            },
+            {
+                "token": "לְמַשְׁחִֽית׃",
+                "transliteration": "lə·maš·ḥîṯ",
+                "strong": "4889",
+                "translation": " to destroy "
+            },
+            {
+                "token": "אִישׁ־",
+                "transliteration": "’îš-",
+                "strong": "376",
+                "translation": " one "
+            },
+            {
+                "token": "בְּרֵעֵ֖הוּ",
+                "transliteration": "bə·rê·‘ê·hū",
+                "strong": "7453",
+                "translation": " another . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:23",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וִֽיהוּדָ֛ה",
+                "transliteration": "wî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " When the men of Judah "
+            },
+            {
+                "token": "בָּ֥א",
+                "transliteration": "bā",
+                "strong": "935",
+                "translation": " came "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " to "
+            },
+            {
+                "token": "הַמִּצְפֶּ֖ה",
+                "transliteration": "ham·miṣ·peh",
+                "strong": "4707",
+                "translation": " a place overlooking "
+            },
+            {
+                "token": "לַמִּדְבָּ֑ר",
+                "transliteration": "lam·miḏ·bār",
+                "strong": "4057",
+                "translation": " the wilderness , "
+            },
+            {
+                "token": "וַיִּפְנוּ֙",
+                "transliteration": "way·yip̄·nū",
+                "strong": "6437",
+                "translation": " they looked "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " for "
+            },
+            {
+                "token": "הֶ֣הָמ֔וֹן",
+                "transliteration": "he·hā·mō·wn",
+                "strong": "1995",
+                "translation": " the vast army , "
+            },
+            {
+                "token": "וְהִנָּ֧ם",
+                "transliteration": "wə·hin·nām",
+                "strong": "2005",
+                "translation": " but there "
+            },
+            {
+                "token": "פְּגָרִ֛ים",
+                "transliteration": "pə·ḡā·rîm",
+                "strong": "6297",
+                "translation": " were only corpses "
+            },
+            {
+                "token": "נֹפְלִ֥ים",
+                "transliteration": "nō·p̄ə·lîm",
+                "strong": "5307",
+                "translation": " lying "
+            },
+            {
+                "token": "אַ֖רְצָה",
+                "transliteration": "’ar·ṣāh",
+                "strong": "776",
+                "translation": " on the ground ; "
+            },
+            {
+                "token": "וְאֵ֥ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " no one "
+            },
+            {
+                "token": "פְּלֵיטָֽה׃",
+                "transliteration": "pə·lê·ṭāh",
+                "strong": "6413",
+                "translation": " had escaped . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:24",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֣ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Then Jehoshaphat "
+            },
+            {
+                "token": "וְעַמּוֹ֮",
+                "transliteration": "wə·‘am·mōw",
+                "strong": "5971",
+                "translation": " and his people "
+            },
+            {
+                "token": "וַיָּבֹ֨א",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " went "
+            },
+            {
+                "token": "לָבֹ֣ז",
+                "transliteration": "lā·ḇōz",
+                "strong": "962",
+                "translation": " to carry off "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁלָלָם֒",
+                "transliteration": "šə·lā·lām",
+                "strong": "7998",
+                "translation": " the plunder , "
+            },
+            {
+                "token": "וַיִּמְצְאוּ֩",
+                "transliteration": "way·yim·ṣə·’ū",
+                "strong": "4672",
+                "translation": " and they found "
+            },
+            {
+                "token": "וּפְגָרִים֙",
+                "transliteration": "ū·p̄ə·ḡā·rîm",
+                "strong": "6297",
+                "translation": " on the bodies "
+            },
+            {
+                "token": "בָהֶ֨ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "לָרֹ֜ב",
+                "transliteration": "lā·rōḇ",
+                "strong": "7230",
+                "translation": " an abundance "
+            },
+            {
+                "token": "וּרְכ֤וּשׁ",
+                "transliteration": "ū·rə·ḵūš",
+                "strong": "7399",
+                "translation": " of goods "
+            },
+            {
+                "token": "חֲמֻד֔וֹת",
+                "transliteration": "ḥă·mu·ḏō·wṯ",
+                "strong": "2532",
+                "translation": " and valuables "
+            },
+            {
+                "token": "וּכְלֵ֣י",
+                "transliteration": "ū·ḵə·lê",
+                "strong": "3627",
+                "translation": " . . . — "
+            },
+            {
+                "token": "וַיְנַצְּל֥וּ",
+                "transliteration": "way·naṣ·ṣə·lū",
+                "strong": "5337",
+                "translation": " - "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "לְאֵ֣ין",
+                "transliteration": "lə·’ên",
+                "strong": "369",
+                "translation": " more than "
+            },
+            {
+                "token": "מַשָּׂ֑א",
+                "transliteration": "maś·śā",
+                "strong": "4853",
+                "translation": " they could carry away . "
+            },
+            {
+                "token": "וַיִּֽהְי֞וּ",
+                "transliteration": "way·yih·yū",
+                "strong": "1961",
+                "translation": " They were "
+            },
+            {
+                "token": "בֹּזְזִ֥ים",
+                "transliteration": "bō·zə·zîm",
+                "strong": "962",
+                "translation": " gathering "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשָּׁלָ֖ל",
+                "transliteration": "haš·šā·lāl",
+                "strong": "7998",
+                "translation": " the plunder "
+            },
+            {
+                "token": "שְׁלוֹשָׁ֛ה",
+                "transliteration": "šə·lō·wō·šāh",
+                "strong": "7969",
+                "translation": " for three "
+            },
+            {
+                "token": "יָמִ֧ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "רַב־",
+                "transliteration": "raḇ-",
+                "strong": "7227",
+                "translation": " there was so much "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:25",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָרְבִעִ֗י",
+                "transliteration": "hā·rə·ḇi·‘î",
+                "strong": "7243",
+                "translation": " On the fourth "
+            },
+            {
+                "token": "וּבַיּ֣וֹם",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "נִקְהֲלוּ֙",
+                "transliteration": "niq·hă·lū",
+                "strong": "6950",
+                "translation": " they assembled "
+            },
+            {
+                "token": "לְעֵ֣מֶק",
+                "transliteration": "lə·‘ê·meq",
+                "strong": "6010",
+                "translation": " in the Valley "
+            },
+            {
+                "token": "בְּרָכָ֔ה",
+                "transliteration": "bə·rā·ḵāh",
+                "strong": "1294",
+                "translation": " of Beracah , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " where "
+            },
+            {
+                "token": "בֵּרֲכ֣וּ",
+                "transliteration": "bê·ră·ḵū",
+                "strong": "1288",
+                "translation": " they blessed "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " Therefore "
+            },
+            {
+                "token": "כֵּ֡ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַה֛וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "הַמָּק֥וֹם",
+                "transliteration": "ham·mā·qō·wm",
+                "strong": "4725",
+                "translation": " place "
+            },
+            {
+                "token": "קָֽרְא֞וּ",
+                "transliteration": "qā·rə·’ū",
+                "strong": "7121",
+                "translation": " is called "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שֵׁ֨ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " - "
+            },
+            {
+                "token": "עֵ֥מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " the Valley "
+            },
+            {
+                "token": "בְּרָכָ֖ה",
+                "transliteration": "bə·rā·ḵāh",
+                "strong": "1294",
+                "translation": " of Beracah "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "הַיּֽוֹם׃",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " this day . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:26",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Then all "
+            },
+            {
+                "token": "אִ֨ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " the men "
+            },
+            {
+                "token": "יְהוּדָ֤ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וִֽירוּשָׁלִַ֙ם֙",
+                "transliteration": "wî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " and Jerusalem , "
+            },
+            {
+                "token": "וַ֠יָּשֻׁבוּ",
+                "transliteration": "way·yā·šu·ḇū",
+                "strong": "7725",
+                "translation": " - "
+            },
+            {
+                "token": "וִֽיהוֹשָׁפָ֣ט",
+                "transliteration": "wî·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " with Jehoshaphat "
+            },
+            {
+                "token": "בְּרֹאשָׁ֔ם",
+                "transliteration": "bə·rō·šām",
+                "strong": "7218",
+                "translation": " at their head , "
+            },
+            {
+                "token": "לָשׁ֥וּב",
+                "transliteration": "lā·šūḇ",
+                "strong": "7725",
+                "translation": " returned "
+            },
+            {
+                "token": "בְּשִׂמְחָ֑ה",
+                "transliteration": "bə·śim·ḥāh",
+                "strong": "8057",
+                "translation": " joyfully "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֖ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "שִׂמְּחָ֥ם",
+                "transliteration": "śim·mə·ḥām",
+                "strong": "8055",
+                "translation": " had made them rejoice "
+            },
+            {
+                "token": "מֵֽאוֹיְבֵיהֶֽם׃",
+                "transliteration": "mê·’ō·wy·ḇê·hem",
+                "strong": "341",
+                "translation": " over their enemies . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:27",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּבֹ֙אוּ֙",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " So they entered "
+            },
+            {
+                "token": "יְר֣וּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " and went into "
+            },
+            {
+                "token": "בֵּ֖ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the house "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "בִּנְבָלִ֥ים",
+                "transliteration": "bin·ḇā·lîm",
+                "strong": "5035",
+                "translation": " with harps , "
+            },
+            {
+                "token": "וּבְכִנֹּר֖וֹת",
+                "transliteration": "ū·ḇə·ḵin·nō·rō·wṯ",
+                "strong": "3658",
+                "translation": " lyres , "
+            },
+            {
+                "token": "וּבַחֲצֹצְר֑וֹת",
+                "transliteration": "ū·ḇa·ḥă·ṣō·ṣə·rō·wṯ",
+                "strong": "2689",
+                "translation": " and trumpets . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:28",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פַּ֣חַד",
+                "transliteration": "pa·ḥaḏ",
+                "strong": "6343",
+                "translation": " And the fear "
+            },
+            {
+                "token": "אֱלֹהִ֔ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "וַיְהִי֙",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " upon "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "מַמְלְכ֣וֹת",
+                "transliteration": "mam·lə·ḵō·wṯ",
+                "strong": "4467",
+                "translation": " the kingdoms "
+            },
+            {
+                "token": "הָאֲרָצ֑וֹת",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " of the lands "
+            },
+            {
+                "token": "בְּשָׁמְעָ֕ם",
+                "transliteration": "bə·šā·mə·‘ām",
+                "strong": "8085",
+                "translation": " when they heard "
+            },
+            {
+                "token": "כִּ֚י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "נִלְחַ֣ם",
+                "transliteration": "nil·ḥam",
+                "strong": "3898",
+                "translation": " had fought "
+            },
+            {
+                "token": "עִ֖ם",
+                "transliteration": "‘im",
+                "strong": "5973",
+                "translation": " against "
+            },
+            {
+                "token": "אוֹיְבֵ֥י",
+                "transliteration": "’ō·wy·ḇê",
+                "strong": "341",
+                "translation": " the enemies "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:29",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֑ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Then Jehoshaphat’s "
+            },
+            {
+                "token": "מַלְכ֣וּת",
+                "transliteration": "mal·ḵūṯ",
+                "strong": "4438",
+                "translation": " kingdom "
+            },
+            {
+                "token": "וַתִּשְׁקֹ֖ט",
+                "transliteration": "wat·tiš·qōṭ",
+                "strong": "8252",
+                "translation": " was at peace , "
+            },
+            {
+                "token": "אֱלֹהָ֖יו",
+                "transliteration": "’ĕ·lō·hāw",
+                "strong": "430",
+                "translation": " for his God "
+            },
+            {
+                "token": "וַיָּ֧נַֽח",
+                "transliteration": "way·yā·naḥ",
+                "strong": "5117",
+                "translation": " had given him rest "
+            },
+            {
+                "token": "ל֦וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "מִסָּבִֽיב׃פ",
+                "transliteration": "mis·sā·ḇîḇ",
+                "strong": "5439",
+                "translation": " on every side . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:30",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוֹשָׁפָ֖ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " So Jehoshaphat "
+            },
+            {
+                "token": "וַיִּמְלֹ֥ךְ",
+                "transliteration": "way·yim·lōḵ",
+                "strong": "4427",
+                "translation": " reigned "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "יְהוּדָ֑ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah . "
+            },
+            {
+                "token": "שְׁלֹשִׁים֩",
+                "transliteration": "šə·lō·šîm",
+                "strong": "7970",
+                "translation": " He [was] thirty-five "
+            },
+            {
+                "token": "וְחָמֵ֨שׁ",
+                "transliteration": "wə·ḥā·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " years old "
+            },
+            {
+                "token": "שָׁנָ֜ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּמָלְכ֗וֹ",
+                "transliteration": "bə·mā·lə·ḵōw",
+                "strong": "4427",
+                "translation": " when he became king , "
+            },
+            {
+                "token": "מָלַ֣ךְ",
+                "transliteration": "mā·laḵ",
+                "strong": "4427",
+                "translation": " and he reigned "
+            },
+            {
+                "token": "בִּֽירוּשָׁלִַ֔ם",
+                "transliteration": "bî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " in Jerusalem "
+            },
+            {
+                "token": "וְעֶשְׂרִ֨ים",
+                "transliteration": "wə·‘eś·rîm",
+                "strong": "6242",
+                "translation": " twenty-five "
+            },
+            {
+                "token": "וְחָמֵ֤שׁ",
+                "transliteration": "wə·ḥā·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָה֙",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years . "
+            },
+            {
+                "token": "אִמּ֔וֹ",
+                "transliteration": "’im·mōw",
+                "strong": "517",
+                "translation": " His mother’s "
+            },
+            {
+                "token": "וְשֵׁ֣ם",
+                "transliteration": "wə·šêm",
+                "strong": "8034",
+                "translation": " name "
+            },
+            {
+                "token": "עֲזוּבָ֖ה",
+                "transliteration": "‘ă·zū·ḇāh",
+                "strong": "5806",
+                "translation": " was Azubah "
+            },
+            {
+                "token": "בַּת־",
+                "transliteration": "baṯ-",
+                "strong": "1323",
+                "translation": " daughter "
+            },
+            {
+                "token": "שִׁלְחִֽי׃",
+                "transliteration": "šil·ḥî",
+                "strong": "7977",
+                "translation": " of Shilhi . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:31",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֵּ֗לֶךְ",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " And [Jehoshaphat] walked "
+            },
+            {
+                "token": "בְּדֶ֛רֶךְ",
+                "transliteration": "bə·ḏe·reḵ",
+                "strong": "1870",
+                "translation": " in the way "
+            },
+            {
+                "token": "אָבִ֥יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " of his father "
+            },
+            {
+                "token": "אָסָ֖א",
+                "transliteration": "’ā·sā",
+                "strong": "609",
+                "translation": " Asa "
+            },
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " and did not "
+            },
+            {
+                "token": "סָ֣ר",
+                "transliteration": "sār",
+                "strong": "5493",
+                "translation": " turn away "
+            },
+            {
+                "token": "מִמֶּ֑נָּה",
+                "transliteration": "mim·men·nāh",
+                "strong": "4480",
+                "translation": " from it ; "
+            },
+            {
+                "token": "לַעֲשׂ֥וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " he did "
+            },
+            {
+                "token": "הַיָּשָׁ֖ר",
+                "transliteration": "hay·yā·šār",
+                "strong": "3477",
+                "translation": " what was right "
+            },
+            {
+                "token": "בְּעֵינֵ֥י",
+                "transliteration": "bə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the eyes "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:32",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַבָּמ֖וֹת",
+                "transliteration": "hab·bā·mō·wṯ",
+                "strong": "1116",
+                "translation": " The high places , "
+            },
+            {
+                "token": "אַ֥ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " however , "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " were not "
+            },
+            {
+                "token": "סָ֑רוּ",
+                "transliteration": "sā·rū",
+                "strong": "5493",
+                "translation": " removed ; "
+            },
+            {
+                "token": "הָעָם֙",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " had not "
+            },
+            {
+                "token": "וְע֤וֹד",
+                "transliteration": "wə·‘ō·wḏ",
+                "strong": "5750",
+                "translation": " yet "
+            },
+            {
+                "token": "הֵכִ֣ינוּ",
+                "transliteration": "hê·ḵî·nū",
+                "strong": "3559",
+                "translation": " set "
+            },
+            {
+                "token": "לְבָבָ֔ם",
+                "transliteration": "lə·ḇā·ḇām",
+                "strong": "3824",
+                "translation": " their hearts "
+            },
+            {
+                "token": "לֵאלֹהֵ֖י",
+                "transliteration": "lê·lō·hê",
+                "strong": "430",
+                "translation": " on the God "
+            },
+            {
+                "token": "אֲבֹתֵיהֶֽם׃",
+                "transliteration": "’ă·ḇō·ṯê·hem",
+                "strong": "1",
+                "translation": " of their fathers . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:33",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְיֶ֙תֶר֙",
+                "transliteration": "wə·ye·ṯer",
+                "strong": "3499",
+                "translation": " As for the rest "
+            },
+            {
+                "token": "דִּבְרֵ֣י",
+                "transliteration": "diḇ·rê",
+                "strong": "1697",
+                "translation": " of the acts "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֔ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " of Jehoshaphat , "
+            },
+            {
+                "token": "הָרִאשֹׁנִ֖ים",
+                "transliteration": "hā·ri·šō·nîm",
+                "strong": "7223",
+                "translation": " from beginning "
+            },
+            {
+                "token": "וְהָאַחֲרֹנִ֑ים",
+                "transliteration": "wə·hā·’a·ḥă·rō·nîm",
+                "strong": "314",
+                "translation": " to end , "
+            },
+            {
+                "token": "הִנָּ֣ם",
+                "transliteration": "hin·nām",
+                "strong": "2005",
+                "translation": " they are indeed "
+            },
+            {
+                "token": "כְּתוּבִ֗ים",
+                "transliteration": "kə·ṯū·ḇîm",
+                "strong": "3789",
+                "translation": " written "
+            },
+            {
+                "token": "בְּדִבְרֵי֙",
+                "transliteration": "bə·ḏiḇ·rê",
+                "strong": "1697",
+                "translation": " in the Chronicles "
+            },
+            {
+                "token": "יֵה֣וּא",
+                "transliteration": "yê·hū",
+                "strong": "3058",
+                "translation": " of Jehu "
+            },
+            {
+                "token": "בֶן־",
+                "transliteration": "ḇen-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "חֲנָ֔נִי",
+                "transliteration": "ḥă·nā·nî",
+                "strong": "2607",
+                "translation": " of Hanani , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which "
+            },
+            {
+                "token": "הֹֽעֲלָ֔ה",
+                "transliteration": "hō·‘ă·lāh",
+                "strong": "5927",
+                "translation": " are recorded "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "סֵ֖פֶר",
+                "transliteration": "sê·p̄er",
+                "strong": "5612",
+                "translation": " the Book "
+            },
+            {
+                "token": "מַלְכֵ֥י",
+                "transliteration": "mal·ḵê",
+                "strong": "4428",
+                "translation": " of the Kings "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:34",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאַחֲרֵיכֵ֗ן",
+                "transliteration": "wə·’a·ḥă·rê·ḵên",
+                "strong": "310",
+                "translation": " Later , "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֣ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "אֶתְחַבַּר֙",
+                "transliteration": "’eṯ·ḥab·bar",
+                "strong": "2266",
+                "translation": " made an alliance "
+            },
+            {
+                "token": "עִ֖ם",
+                "transliteration": "‘im",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "אֲחַזְיָ֣ה",
+                "transliteration": "’ă·ḥaz·yāh",
+                "strong": "274",
+                "translation": " Ahaziah "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " who "
+            },
+            {
+                "token": "לַעֲשֽׂוֹת׃",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " acted "
+            },
+            {
+                "token": "הִרְשִׁ֥יעַ",
+                "transliteration": "hir·šî·a‘",
+                "strong": "7561",
+                "translation": " wickedly . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:35",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְחַבְּרֵ֣הוּ",
+                "transliteration": "way·ḥab·bə·rê·hū",
+                "strong": "2266",
+                "translation": " They agreed "
+            },
+            {
+                "token": "עִמּ֔וֹ",
+                "transliteration": "‘im·mōw",
+                "strong": "5973",
+                "translation": " . . . "
+            },
+            {
+                "token": "לַעֲשׂ֥וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " to make "
+            },
+            {
+                "token": "אֳנִיּ֖וֹת",
+                "transliteration": "’o·nî·yō·wṯ",
+                "strong": "591",
+                "translation": " ships "
+            },
+            {
+                "token": "לָלֶ֣כֶת",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to go "
+            },
+            {
+                "token": "תַּרְשִׁ֑ישׁ",
+                "transliteration": "tar·šîš",
+                "strong": "8659",
+                "translation": " to Tarshish , "
+            },
+            {
+                "token": "וַיַּעֲשׂ֥וּ",
+                "transliteration": "way·ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " and these were built "
+            },
+            {
+                "token": "אֳנִיּ֖וֹת",
+                "transliteration": "’o·nî·yō·wṯ",
+                "strong": "591",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּעֶצְי֥וֹן",
+                "transliteration": "bə·‘eṣ·yō·wn",
+                "strong": "6100",
+                "translation": " vvv "
+            },
+            {
+                "token": "גָּֽבֶר׃",
+                "transliteration": "gā·ḇer",
+                "strong": "6100",
+                "translation": " in Ezion-geber . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:36",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלִיעֶ֤זֶר",
+                "transliteration": "’ĕ·lî·‘e·zer",
+                "strong": "461",
+                "translation": " Then Eliezer "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "דֹּדָוָ֙הוּ֙",
+                "transliteration": "dō·ḏā·wā·hū",
+                "strong": "1735",
+                "translation": " of Dodavahu "
+            },
+            {
+                "token": "מִמָּ֣רֵשָׁ֔ה",
+                "transliteration": "mim·mā·rê·šāh",
+                "strong": "4762",
+                "translation": " of Mareshah "
+            },
+            {
+                "token": "וַיִּתְנַבֵּ֞א",
+                "transliteration": "way·yiṯ·nab·bê",
+                "strong": "5012",
+                "translation": " prophesied "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "יְהוֹשָׁפָ֖ט",
+                "transliteration": "yə·hō·wō·šā·p̄āṭ",
+                "strong": "3092",
+                "translation": " Jehoshaphat , "
+            },
+            {
+                "token": "לֵאמֹ֑ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " saying , "
+            },
+            {
+                "token": "כְּהִֽתְחַבֶּרְךָ֣",
+                "transliteration": "kə·hiṯ·ḥab·ber·ḵā",
+                "strong": "2266",
+                "translation": " “ Because you have allied yourself "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "אֲחַזְיָ֗הוּ",
+                "transliteration": "’ă·ḥaz·yā·hū",
+                "strong": "274",
+                "translation": " Ahaziah , "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "פָּרַ֤ץ",
+                "transliteration": "pā·raṣ",
+                "strong": "6555",
+                "translation": " has destroyed "
+            },
+            {
+                "token": "מַעֲשֶׂ֔יךָ",
+                "transliteration": "ma·‘ă·śe·ḵā",
+                "strong": "4639",
+                "translation": " your works . ” "
+            },
+            {
+                "token": "אֳנִיּ֔וֹת",
+                "transliteration": "’o·nî·yō·wṯ",
+                "strong": "591",
+                "translation": " So the ships "
+            },
+            {
+                "token": "וַיִּשָּׁבְר֣וּ",
+                "transliteration": "way·yiš·šā·ḇə·rū",
+                "strong": "7665",
+                "translation": " were wrecked "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " vvv "
+            },
+            {
+                "token": "עָצְר֖וּ",
+                "transliteration": "‘ā·ṣə·rū",
+                "strong": "6113",
+                "translation": " and were unable "
+            },
+            {
+                "token": "לָלֶ֥כֶת",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to sail "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "תַּרְשִֽׁישׁ׃",
+                "transliteration": "tar·šîš",
+                "strong": "8659",
+                "translation": " Tarshish . "
+            }
+        ],
+        "verse_reference": "2 Chronicles 20:37",
+        "book": "2 Chronicles",
+        "chapter": "20",
+        "verse": "37"
+    }
+]

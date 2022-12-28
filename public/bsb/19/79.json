@@ -1,0 +1,898 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "מִזְמ֗וֹר",
+                "transliteration": "miz·mō·wr",
+                "strong": "4210",
+                "translation": " A Psalm "
+            },
+            {
+                "token": "לְאָ֫סָ֥ף",
+                "transliteration": "lə·’ā·sāp̄",
+                "strong": "623",
+                "translation": " of Asaph . "
+            },
+            {
+                "token": "גוֹיִ֨ם׀",
+                "transliteration": "ḡō·w·yim",
+                "strong": "1471",
+                "translation": " The nations , "
+            },
+            {
+                "token": "אֱ‍ֽלֹהִ֡ים",
+                "transliteration": "’ĕlō·hîm",
+                "strong": "430",
+                "translation": " O God , "
+            },
+            {
+                "token": "בָּ֤אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " have invaded "
+            },
+            {
+                "token": "בְּֽנַחֲלָתֶ֗ךָ",
+                "transliteration": "bə·na·ḥă·lā·ṯe·ḵā",
+                "strong": "5159",
+                "translation": " Your inheritance ; "
+            },
+            {
+                "token": "טִ֭מְּאוּ",
+                "transliteration": "ṭim·mə·’ū",
+                "strong": "2930",
+                "translation": " they have defiled "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "קָדְשֶׁ֑ךָ",
+                "transliteration": "qāḏ·še·ḵā",
+                "strong": "6944",
+                "translation": " Your holy "
+            },
+            {
+                "token": "הֵיכַ֣ל",
+                "transliteration": "hê·ḵal",
+                "strong": "1964",
+                "translation": " temple "
+            },
+            {
+                "token": "שָׂ֖מוּ",
+                "transliteration": "śā·mū",
+                "strong": "7760",
+                "translation": " [and] reduced "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֣ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem "
+            },
+            {
+                "token": "לְעִיִּֽים׃",
+                "transliteration": "lə·‘î·yîm",
+                "strong": "5856",
+                "translation": " to rubble . "
+            }
+        ],
+        "verse_reference": "Psalm 79:1",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָֽתְנ֡וּ",
+                "transliteration": "nā·ṯə·nū",
+                "strong": "5414",
+                "translation": " They have given "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִבְלַ֬ת",
+                "transliteration": "niḇ·laṯ",
+                "strong": "5038",
+                "translation": " the corpses "
+            },
+            {
+                "token": "עֲבָדֶ֗יךָ",
+                "transliteration": "‘ă·ḇā·ḏe·ḵā",
+                "strong": "5650",
+                "translation": " of Your servants "
+            },
+            {
+                "token": "מַ֭אֲכָל",
+                "transliteration": "ma·’ă·ḵāl",
+                "strong": "3978",
+                "translation": " as food "
+            },
+            {
+                "token": "לְע֣וֹף",
+                "transliteration": "lə·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " to the birds "
+            },
+            {
+                "token": "הַשָּׁמָ֑יִם",
+                "transliteration": "haš·šā·mā·yim",
+                "strong": "8064",
+                "translation": " of the air , "
+            },
+            {
+                "token": "בְּשַׂ֥ר",
+                "transliteration": "bə·śar",
+                "strong": "1320",
+                "translation": " the flesh "
+            },
+            {
+                "token": "חֲ֝סִידֶ֗יךָ",
+                "transliteration": "ḥă·sî·ḏe·ḵā",
+                "strong": "2623",
+                "translation": " of Your saints "
+            },
+            {
+                "token": "לְחַיְתוֹ־",
+                "transliteration": "lə·ḥay·ṯōw-",
+                "strong": "2416",
+                "translation": " to the beasts "
+            },
+            {
+                "token": "אָֽרֶץ׃",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth . "
+            }
+        ],
+        "verse_reference": "Psalm 79:2",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁפְכ֬וּ",
+                "transliteration": "šā·p̄ə·ḵū",
+                "strong": "8210",
+                "translation": " They have poured out "
+            },
+            {
+                "token": "דָמָ֨ם׀",
+                "transliteration": "ḏā·mām",
+                "strong": "1818",
+                "translation": " their blood "
+            },
+            {
+                "token": "כַּמַּ֗יִם",
+                "transliteration": "kam·ma·yim",
+                "strong": "4325",
+                "translation": " like water "
+            },
+            {
+                "token": "סְֽבִ֘יב֤וֹת",
+                "transliteration": "sə·ḇî·ḇō·wṯ",
+                "strong": "5439",
+                "translation": " all around "
+            },
+            {
+                "token": "יְֽרוּשָׁלִָ֗ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            },
+            {
+                "token": "וְאֵ֣ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and [there is] no one "
+            },
+            {
+                "token": "קוֹבֵֽר׃",
+                "transliteration": "qō·w·ḇêr",
+                "strong": "6912",
+                "translation": " to bury [the dead] . "
+            }
+        ],
+        "verse_reference": "Psalm 79:3",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָיִ֣ינוּ",
+                "transliteration": "hā·yî·nū",
+                "strong": "1961",
+                "translation": " We have become "
+            },
+            {
+                "token": "חֶ֭רְפָּה",
+                "transliteration": "ḥer·pāh",
+                "strong": "2781",
+                "translation": " a reproach "
+            },
+            {
+                "token": "לִשְׁכֵנֵ֑ינוּ",
+                "transliteration": "liš·ḵê·nê·nū",
+                "strong": "7934",
+                "translation": " to our neighbors , "
+            },
+            {
+                "token": "לַ֥עַג",
+                "transliteration": "la·‘aḡ",
+                "strong": "3933",
+                "translation": " a scorn "
+            },
+            {
+                "token": "וָ֝קֶ֗לֶס",
+                "transliteration": "wā·qe·les",
+                "strong": "7047",
+                "translation": " and derision "
+            },
+            {
+                "token": "לִסְבִיבוֹתֵֽינוּ׃",
+                "transliteration": "lis·ḇî·ḇō·w·ṯê·nū",
+                "strong": "5439",
+                "translation": " to those around us . "
+            }
+        ],
+        "verse_reference": "Psalm 79:4",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " How long "
+            },
+            {
+                "token": "מָ֣ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " . . . , "
+            },
+            {
+                "token": "יְ֭הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD ? "
+            },
+            {
+                "token": "תֶּאֱנַ֣ף",
+                "transliteration": "te·’ĕ·nap̄",
+                "strong": "599",
+                "translation": " Will You be angry "
+            },
+            {
+                "token": "לָנֶ֑צַח",
+                "transliteration": "lā·ne·ṣaḥ",
+                "strong": "5331",
+                "translation": " forever ? "
+            },
+            {
+                "token": "קִנְאָתֶֽךָ׃",
+                "transliteration": "qin·’ā·ṯe·ḵā",
+                "strong": "7068",
+                "translation": " Will Your jealousy "
+            },
+            {
+                "token": "תִּבְעַ֥ר",
+                "transliteration": "tiḇ·‘ar",
+                "strong": "1197",
+                "translation": " burn "
+            },
+            {
+                "token": "כְּמוֹ־",
+                "transliteration": "kə·mōw-",
+                "strong": "3644",
+                "translation": " like "
+            },
+            {
+                "token": "אֵ֝֗שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " fire ? "
+            }
+        ],
+        "verse_reference": "Psalm 79:5",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁפֹ֤ךְ",
+                "transliteration": "šə·p̄ōḵ",
+                "strong": "8210",
+                "translation": " Pour out "
+            },
+            {
+                "token": "חֲמָתְךָ֨",
+                "transliteration": "ḥă·mā·ṯə·ḵā",
+                "strong": "2534",
+                "translation": " Your wrath "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " on "
+            },
+            {
+                "token": "הַגּוֹיִם֮",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " the nations "
+            },
+            {
+                "token": "אֲשֶׁ֪ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " do not "
+            },
+            {
+                "token": "יְדָ֫ע֥וּךָ",
+                "transliteration": "yə·ḏā·‘ū·ḵā",
+                "strong": "3045",
+                "translation": " acknowledge You , "
+            },
+            {
+                "token": "וְעַ֥ל",
+                "transliteration": "wə·‘al",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "מַמְלָכ֑וֹת",
+                "transliteration": "mam·lā·ḵō·wṯ",
+                "strong": "4467",
+                "translation": " the kingdoms "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " refuse "
+            },
+            {
+                "token": "קָרָֽאוּ׃",
+                "transliteration": "qā·rā·’ū",
+                "strong": "7121",
+                "translation": " to call "
+            },
+            {
+                "token": "בְּ֝שִׁמְךָ֗",
+                "transliteration": "bə·šim·ḵā",
+                "strong": "8034",
+                "translation": " on Your name , "
+            }
+        ],
+        "verse_reference": "Psalm 79:6",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֭י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אָכַ֣ל",
+                "transliteration": "’ā·ḵal",
+                "strong": "398",
+                "translation": " they have devoured "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יַעֲקֹ֑ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob "
+            },
+            {
+                "token": "וְֽאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הֵשַֽׁמּוּ׃",
+                "transliteration": "hê·šam·mū",
+                "strong": "8074",
+                "translation": " and devastated "
+            },
+            {
+                "token": "נָוֵ֥הוּ",
+                "transliteration": "nā·wê·hū",
+                "strong": "5116",
+                "translation": " his homeland . "
+            }
+        ],
+        "verse_reference": "Psalm 79:7",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תִּזְכָּר־",
+                "transliteration": "tiz·kār-",
+                "strong": "2142",
+                "translation": " Do not hold "
+            },
+            {
+                "token": "אַֽל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " . . . "
+            },
+            {
+                "token": "רִאשֹׁ֫נִ֥ים",
+                "transliteration": "ri·šō·nîm",
+                "strong": "7223",
+                "translation": " past "
+            },
+            {
+                "token": "עֲוֺנֹ֪ת",
+                "transliteration": "‘ă·wō·nōṯ",
+                "strong": "5771",
+                "translation": " sins "
+            },
+            {
+                "token": "לָנוּ֮",
+                "transliteration": "lā·nū",
+                "strong": "",
+                "translation": " against us ; "
+            },
+            {
+                "token": "רַחֲמֶ֑יךָ",
+                "transliteration": "ra·ḥă·me·ḵā",
+                "strong": "7356",
+                "translation": " let Your compassion "
+            },
+            {
+                "token": "יְקַדְּמ֣וּנוּ",
+                "transliteration": "yə·qad·də·mū·nū",
+                "strong": "6923",
+                "translation": " come "
+            },
+            {
+                "token": "מַ֭הֵר",
+                "transliteration": "ma·hêr",
+                "strong": "4118",
+                "translation": " quickly , "
+            },
+            {
+                "token": "כִּ֖י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "דַלּ֣וֹנוּ",
+                "transliteration": "ḏal·lō·w·nū",
+                "strong": "1809",
+                "translation": " we are brought "
+            },
+            {
+                "token": "מְאֹֽד׃",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " low . "
+            }
+        ],
+        "verse_reference": "Psalm 79:8",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עָזְרֵ֤נוּ׀",
+                "transliteration": "‘ā·zə·rê·nū",
+                "strong": "5826",
+                "translation": " Help us , "
+            },
+            {
+                "token": "אֱלֹ֘הֵ֤י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " O God "
+            },
+            {
+                "token": "יִשְׁעֵ֗נוּ",
+                "transliteration": "yiš·‘ê·nū",
+                "strong": "3468",
+                "translation": " of our salvation , "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " for "
+            },
+            {
+                "token": "דְּבַ֥ר",
+                "transliteration": "də·ḇar",
+                "strong": "1697",
+                "translation": " . . . "
+            },
+            {
+                "token": "כְּבֽוֹד־",
+                "transliteration": "kə·ḇō·wḏ-",
+                "strong": "3519",
+                "translation": " the glory "
+            },
+            {
+                "token": "שְׁמֶ֑ךָ",
+                "transliteration": "šə·me·ḵā",
+                "strong": "8034",
+                "translation": " of Your name ; "
+            },
+            {
+                "token": "וְהַצִּילֵ֥נוּ",
+                "transliteration": "wə·haṣ·ṣî·lê·nū",
+                "strong": "5337",
+                "translation": " deliver us "
+            },
+            {
+                "token": "וְכַפֵּ֥ר",
+                "transliteration": "wə·ḵap·pêr",
+                "strong": "3722",
+                "translation": " and atone "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " for "
+            },
+            {
+                "token": "חַ֝טֹּאתֵ֗ינוּ",
+                "transliteration": "ḥaṭ·ṭō·ṯê·nū",
+                "strong": "2403",
+                "translation": " our sins , "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמֶֽךָ׃",
+                "transliteration": "šə·me·ḵā",
+                "strong": "8034",
+                "translation": " of Your name . "
+            }
+        ],
+        "verse_reference": "Psalm 79:9",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָ֤מָּה׀",
+                "transliteration": "lām·māh",
+                "strong": "4100",
+                "translation": " Why "
+            },
+            {
+                "token": "הַגּוֹיִם֮",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " should the nations "
+            },
+            {
+                "token": "יֹאמְר֣וּ",
+                "transliteration": "yō·mə·rū",
+                "strong": "559",
+                "translation": " ask , "
+            },
+            {
+                "token": "אַיֵּ֪ה",
+                "transliteration": "’ay·yêh",
+                "strong": "346",
+                "translation": " “ Where "
+            },
+            {
+                "token": "אֱ‍ֽלֹהֵ֫יהֶ֥ם",
+                "transliteration": "’ĕlō·hê·hem",
+                "strong": "430",
+                "translation": " is their God ? ” "
+            },
+            {
+                "token": "לְעֵינֵ֑ינוּ",
+                "transliteration": "lə·‘ê·nê·nū",
+                "strong": "5869",
+                "translation": " Before our eyes , "
+            },
+            {
+                "token": "יִוָּדַ֣ע",
+                "transliteration": "yiw·wā·ḏa‘",
+                "strong": "3045",
+                "translation": " make known "
+            },
+            {
+                "token": "בַּגִּיִּים",
+                "transliteration": "bag·gī·yīm",
+                "strong": "1471",
+                "translation": " among the nations "
+            },
+            {
+                "token": "נִ֝קְמַ֗ת",
+                "transliteration": "niq·maṯ",
+                "strong": "5360",
+                "translation": " Your vengeance "
+            },
+            {
+                "token": "דַּֽם־",
+                "transliteration": "dam-",
+                "strong": "1818",
+                "translation": " for the bloodshed "
+            },
+            {
+                "token": "הַשָּׁפֽוּךְ׃",
+                "transliteration": "haš·šā·p̄ūḵ",
+                "strong": "8210",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֲבָדֶ֥יךָ",
+                "transliteration": "‘ă·ḇā·ḏe·ḵā",
+                "strong": "5650",
+                "translation": " of Your servants . "
+            }
+        ],
+        "verse_reference": "Psalm 79:10",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶנְקַ֪ת",
+                "transliteration": "’en·qaṯ",
+                "strong": "603",
+                "translation": " May the groans "
+            },
+            {
+                "token": "אָ֫סִ֥יר",
+                "transliteration": "’ā·sîr",
+                "strong": "616",
+                "translation": " of the captives "
+            },
+            {
+                "token": "תָּ֤ב֣וֹא",
+                "transliteration": "tā·ḇō·w",
+                "strong": "935",
+                "translation": " reach You "
+            },
+            {
+                "token": "לְפָנֶיךָ֮",
+                "transliteration": "lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "כְּגֹ֥דֶל",
+                "transliteration": "kə·ḡō·ḏel",
+                "strong": "1433",
+                "translation": " by the strength "
+            },
+            {
+                "token": "זְרוֹעֲךָ֑",
+                "transliteration": "zə·rō·w·‘ă·ḵā",
+                "strong": "2220",
+                "translation": " of Your arm "
+            },
+            {
+                "token": "ה֝וֹתֵ֗ר",
+                "transliteration": "hō·w·ṯêr",
+                "strong": "3498",
+                "translation": " preserve "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " those condemned "
+            },
+            {
+                "token": "תְמוּתָֽה׃",
+                "transliteration": "ṯə·mū·ṯāh",
+                "strong": "8546",
+                "translation": " to death . "
+            }
+        ],
+        "verse_reference": "Psalm 79:11",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָ֘שֵׁ֤ב",
+                "transliteration": "wə·hā·šêḇ",
+                "strong": "7725",
+                "translation": " Pay back "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "חֵיקָ֑ם",
+                "transliteration": "ḥê·qām",
+                "strong": "2436",
+                "translation": " the laps "
+            },
+            {
+                "token": "לִשְׁכֵנֵ֣ינוּ",
+                "transliteration": "liš·ḵê·nê·nū",
+                "strong": "7934",
+                "translation": " of our neighbors "
+            },
+            {
+                "token": "שִׁ֭בְעָתַיִם",
+                "transliteration": "ḇə·‘ā·ṯa·yim",
+                "strong": "7659",
+                "translation": " sevenfold "
+            },
+            {
+                "token": "חֶרְפָּ֘תָ֤ם",
+                "transliteration": "ḥer·pā·ṯām",
+                "strong": "2781",
+                "translation": " the reproach "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "חֵרְפ֣וּךָ",
+                "transliteration": "ḥê·rə·p̄ū·ḵā",
+                "strong": "2778",
+                "translation": " they hurled at You , "
+            },
+            {
+                "token": "אֲדֹנָֽי׃",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord . "
+            }
+        ],
+        "verse_reference": "Psalm 79:12",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַאֲנַ֤חְנוּ",
+                "transliteration": "wa·’ă·naḥ·nū",
+                "strong": "587",
+                "translation": " Then we "
+            },
+            {
+                "token": "עַמְּךָ֨׀",
+                "transliteration": "‘am·mə·ḵā",
+                "strong": "5971",
+                "translation": " Your people , "
+            },
+            {
+                "token": "וְצֹ֥אן",
+                "transliteration": "wə·ṣōn",
+                "strong": "6629",
+                "translation": " the sheep "
+            },
+            {
+                "token": "מַרְעִיתֶךָ֮",
+                "transliteration": "mar·‘î·ṯe·ḵā",
+                "strong": "4830",
+                "translation": " of Your pasture , "
+            },
+            {
+                "token": "נ֤וֹדֶ֥ה",
+                "transliteration": "nō·w·ḏeh",
+                "strong": "3034",
+                "translation": " will thank "
+            },
+            {
+                "token": "לְּךָ֗",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " You "
+            },
+            {
+                "token": "לְע֫וֹלָ֥ם",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " forever ; "
+            },
+            {
+                "token": "לְדֹ֥ר",
+                "transliteration": "lə·ḏōr",
+                "strong": "1755",
+                "translation": " from generation "
+            },
+            {
+                "token": "וָדֹ֑ר",
+                "transliteration": "wā·ḏōr",
+                "strong": "1755",
+                "translation": " to generation "
+            },
+            {
+                "token": "נְ֝סַפֵּ֗ר",
+                "transliteration": "nə·sap·pêr",
+                "strong": "5608",
+                "translation": " we will declare "
+            },
+            {
+                "token": "תְּהִלָּתֶֽךָ׃",
+                "transliteration": "tə·hil·lā·ṯe·ḵā",
+                "strong": "8416",
+                "translation": " Your praise . "
+            }
+        ],
+        "verse_reference": "Psalm 79:13",
+        "book": "Psalm",
+        "chapter": "79",
+        "verse": "13"
+    }
+]

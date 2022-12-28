@@ -1,0 +1,986 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַה֗וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " [“] On that "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "מָק֣וֹר",
+                "transliteration": "mā·qō·wr",
+                "strong": "4726",
+                "translation": " a fountain "
+            },
+            {
+                "token": "יִֽהְיֶה֙",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " will be "
+            },
+            {
+                "token": "נִפְתָּ֔ח",
+                "transliteration": "nip̄·tāḥ",
+                "strong": "6605",
+                "translation": " opened "
+            },
+            {
+                "token": "לְבֵ֥ית",
+                "transliteration": "lə·ḇêṯ",
+                "strong": "1004",
+                "translation": " to the house "
+            },
+            {
+                "token": "דָּוִ֖יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " of David "
+            },
+            {
+                "token": "וּלְיֹשְׁבֵ֣י",
+                "transliteration": "ū·lə·yō·šə·ḇê",
+                "strong": "3427",
+                "translation": " and the people "
+            },
+            {
+                "token": "יְרֽוּשָׁלִָ֑ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem , "
+            },
+            {
+                "token": "לְחַטַּ֖את",
+                "transliteration": "lə·ḥaṭ·ṭaṯ",
+                "strong": "2403",
+                "translation": " to cleanse them from sin "
+            },
+            {
+                "token": "וּלְנִדָּֽה׃",
+                "transliteration": "ū·lə·nid·dāh",
+                "strong": "5079",
+                "translation": " and impurity . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:1",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָה֩",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "הַה֜וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " on that "
+            },
+            {
+                "token": "בַיּ֨וֹם",
+                "transliteration": "ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "נְאֻ֣ם׀",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "צְבָא֗וֹת",
+                "transliteration": "ṣə·ḇā·’ō·wṯ",
+                "strong": "6635",
+                "translation": " of Hosts , "
+            },
+            {
+                "token": "אַכְרִ֞ית",
+                "transliteration": "’aḵ·rîṯ",
+                "strong": "3772",
+                "translation": " I will erase "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁמ֤וֹת",
+                "transliteration": "šə·mō·wṯ",
+                "strong": "8034",
+                "translation": " the names "
+            },
+            {
+                "token": "הָֽעֲצַבִּים֙",
+                "transliteration": "hā·‘ă·ṣab·bîm",
+                "strong": "6091",
+                "translation": " of the idols "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָאָ֔רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and they will no "
+            },
+            {
+                "token": "ע֑וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " longer "
+            },
+            {
+                "token": "וְגַ֧ם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יִזָּכְר֖וּ",
+                "transliteration": "yiz·zā·ḵə·rū",
+                "strong": "2142",
+                "translation": " be remembered . "
+            },
+            {
+                "token": "אַעֲבִ֥יר",
+                "transliteration": "’a·‘ă·ḇîr",
+                "strong": "5674",
+                "translation": " I will also remove "
+            },
+            {
+                "token": "הַנְּבִיאִ֛ים",
+                "transliteration": "han·nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " the prophets "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "ר֥וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " the spirit "
+            },
+            {
+                "token": "הַטֻּמְאָ֖ה",
+                "transliteration": "haṭ·ṭum·’āh",
+                "strong": "2932",
+                "translation": " of impurity "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:2",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֗ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " if "
+            },
+            {
+                "token": "אִישׁ֮",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " anyone "
+            },
+            {
+                "token": "עוֹד֒",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " still "
+            },
+            {
+                "token": "יִנָּבֵ֣א",
+                "transliteration": "yin·nā·ḇê",
+                "strong": "5012",
+                "translation": " prophesies , "
+            },
+            {
+                "token": "אָבִ֨יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " his father "
+            },
+            {
+                "token": "וְאִמּ֤וֹ",
+                "transliteration": "wə·’im·mōw",
+                "strong": "517",
+                "translation": " and mother "
+            },
+            {
+                "token": "יֹֽלְדָיו֙",
+                "transliteration": "yō·lə·ḏāw",
+                "strong": "3205",
+                "translation": " who bore him "
+            },
+            {
+                "token": "וְאָמְר֣וּ",
+                "transliteration": "wə·’ā·mə·rū",
+                "strong": "559",
+                "translation": " will say "
+            },
+            {
+                "token": "אֵ֠לָיו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to him , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " ‘ You shall not "
+            },
+            {
+                "token": "תִֽחְיֶ֔ה",
+                "transliteration": "ṯiḥ·yeh",
+                "strong": "2421",
+                "translation": " remain alive , "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "דִּבַּ֖רְתָּ",
+                "transliteration": "dib·bar·tā",
+                "strong": "1696",
+                "translation": " you have spoken "
+            },
+            {
+                "token": "שֶׁ֥קֶר",
+                "transliteration": "še·qer",
+                "strong": "8267",
+                "translation": " falsely "
+            },
+            {
+                "token": "בְּשֵׁ֣ם",
+                "transliteration": "bə·šêm",
+                "strong": "8034",
+                "translation": " in the name "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . ’ "
+            },
+            {
+                "token": "בְּהִנָּבְאֽוֹ׃",
+                "transliteration": "bə·hin·nā·ḇə·’ōw",
+                "strong": "5012",
+                "translation": " When he prophesies , "
+            },
+            {
+                "token": "אָבִ֧יהוּ",
+                "transliteration": "’ā·ḇî·hū",
+                "strong": "1",
+                "translation": " his father "
+            },
+            {
+                "token": "וְאִמּ֛וֹ",
+                "transliteration": "wə·’im·mōw",
+                "strong": "517",
+                "translation": " and mother "
+            },
+            {
+                "token": "יֹלְדָ֖יו",
+                "transliteration": "yō·lə·ḏāw",
+                "strong": "3205",
+                "translation": " who bore him "
+            },
+            {
+                "token": "וּדְקָרֻ֜הוּ",
+                "transliteration": "ū·ḏə·qā·ru·hū",
+                "strong": "1856",
+                "translation": " will pierce him through . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:3",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֣ה׀",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "הַה֗וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " on that "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " every "
+            },
+            {
+                "token": "הַנְּבִיאִ֛ים",
+                "transliteration": "han·nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " prophet "
+            },
+            {
+                "token": "בְּהִנָּֽבְאֹת֑וֹ",
+                "transliteration": "bə·hin·nā·ḇə·’ō·ṯōw",
+                "strong": "5012",
+                "translation": " who prophesies "
+            },
+            {
+                "token": "יֵבֹ֧שׁוּ",
+                "transliteration": "yê·ḇō·šū",
+                "strong": "954",
+                "translation": " will be ashamed "
+            },
+            {
+                "token": "מֵחֶזְיֹנ֖וֹ",
+                "transliteration": "mê·ḥez·yō·nōw",
+                "strong": "2384",
+                "translation": " of his vision , "
+            },
+            {
+                "token": "וְלֹ֧א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and he will not "
+            },
+            {
+                "token": "יִלְבְּשׁ֛וּ",
+                "transliteration": "yil·bə·šū",
+                "strong": "3847",
+                "translation": " put on "
+            },
+            {
+                "token": "שֵׂעָ֖ר",
+                "transliteration": "śê·‘ār",
+                "strong": "8181",
+                "translation": " a hairy "
+            },
+            {
+                "token": "אַדֶּ֥רֶת",
+                "transliteration": "’ad·de·reṯ",
+                "strong": "155",
+                "translation": " cloak "
+            },
+            {
+                "token": "לְמַ֥עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " in order to "
+            },
+            {
+                "token": "כַּחֵֽשׁ׃",
+                "transliteration": "ka·ḥêš",
+                "strong": "3584",
+                "translation": " deceive . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:4",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָמַ֕ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " He will say , "
+            },
+            {
+                "token": "אָנֹ֑כִי",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " ‘ I "
+            },
+            {
+                "token": "אִישׁ־",
+                "transliteration": "’îš-",
+                "strong": "376",
+                "translation": " . . . "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " am not "
+            },
+            {
+                "token": "נָבִ֖יא",
+                "transliteration": "nā·ḇî",
+                "strong": "5030",
+                "translation": " a prophet ; "
+            },
+            {
+                "token": "אָנֹ֔כִי",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " I "
+            },
+            {
+                "token": "עֹבֵ֤ד",
+                "transliteration": "‘ō·ḇêḏ",
+                "strong": "5647",
+                "translation": " work "
+            },
+            {
+                "token": "אֲדָמָה֙",
+                "transliteration": "’ă·ḏā·māh",
+                "strong": "127",
+                "translation": " the land , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אָדָ֖ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " vvv "
+            },
+            {
+                "token": "הִקְנַ֥נִי",
+                "transliteration": "hiq·na·nî",
+                "strong": "7069",
+                "translation": " I was purchased as a servant "
+            },
+            {
+                "token": "מִנְּעוּרָֽי׃",
+                "transliteration": "min·nə·‘ū·rāy",
+                "strong": "5271",
+                "translation": " in my youth . ’ "
+            }
+        ],
+        "verse_reference": "Zechariah 13:5",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָמַ֣ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " If someone asks "
+            },
+            {
+                "token": "אֵלָ֔יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " him , "
+            },
+            {
+                "token": "מָ֧ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "הָאֵ֖לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " are these "
+            },
+            {
+                "token": "הַמַּכּ֛וֹת",
+                "transliteration": "ham·mak·kō·wṯ",
+                "strong": "4347",
+                "translation": " wounds "
+            },
+            {
+                "token": "בֵּ֣ין",
+                "transliteration": "bên",
+                "strong": "996",
+                "translation": " on your chest "
+            },
+            {
+                "token": "יָדֶ֑יךָ",
+                "transliteration": "yā·ḏe·ḵā",
+                "strong": "3027",
+                "translation": " . . . ?’ "
+            },
+            {
+                "token": "וְאָמַ֕ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " he will answer , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " ‘ These are "
+            },
+            {
+                "token": "הֻכֵּ֖יתִי",
+                "transliteration": "huk·kê·ṯî",
+                "strong": "5221",
+                "translation": " the wounds I received "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " in the house "
+            },
+            {
+                "token": "מְאַהֲבָֽי׃ס",
+                "transliteration": "mə·’a·hă·ḇāy",
+                "strong": "157",
+                "translation": " of my friends . ’ "
+            }
+        ],
+        "verse_reference": "Zechariah 13:6",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עוּרִ֤י",
+                "transliteration": "‘ū·rî",
+                "strong": "5782",
+                "translation": " Awake , "
+            },
+            {
+                "token": "חֶ֗רֶב",
+                "transliteration": "ḥe·reḇ",
+                "strong": "2719",
+                "translation": " O sword , "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "רֹעִי֙",
+                "transliteration": "rō·‘î",
+                "strong": "7462",
+                "translation": " My Shepherd , "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "גֶּ֣בֶר",
+                "transliteration": "ge·ḇer",
+                "strong": "1397",
+                "translation": " the man "
+            },
+            {
+                "token": "עֲמִיתִ֔י",
+                "transliteration": "‘ă·mî·ṯî",
+                "strong": "5997",
+                "translation": " who is My Companion , "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "צְבָא֑וֹת",
+                "transliteration": "ṣə·ḇā·’ō·wṯ",
+                "strong": "6635",
+                "translation": " of Hosts . "
+            },
+            {
+                "token": "הַ֤ךְ",
+                "transliteration": "haḵ",
+                "strong": "5221",
+                "translation": " Strike "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽרֹעֶה֙",
+                "transliteration": "hā·rō·‘eh",
+                "strong": "7462",
+                "translation": " the Shepherd , "
+            },
+            {
+                "token": "הַצֹּ֔אן",
+                "transliteration": "haṣ·ṣōn",
+                "strong": "6629",
+                "translation": " and the sheep "
+            },
+            {
+                "token": "וּתְפוּצֶ֣יןָ",
+                "transliteration": "ū·ṯə·p̄ū·ṣe·nā",
+                "strong": "6327",
+                "translation": " will be scattered , "
+            },
+            {
+                "token": "וַהֲשִׁבֹתִ֥י",
+                "transliteration": "wa·hă·ši·ḇō·ṯî",
+                "strong": "7725",
+                "translation": " and I will turn "
+            },
+            {
+                "token": "יָדִ֖י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " My hand "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " against "
+            },
+            {
+                "token": "הַצֹּעֲרִֽים׃",
+                "transliteration": "haṣ·ṣō·‘ă·rîm",
+                "strong": "6819",
+                "translation": " the little ones . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:7",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֤ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "בְכָל־",
+                "transliteration": "ḇə·ḵāl-",
+                "strong": "3605",
+                "translation": " in all "
+            },
+            {
+                "token": "הָאָ֙רֶץ֙",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land , "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "פִּֽי־",
+                "transliteration": "pî-",
+                "strong": "6310",
+                "translation": " two-thirds "
+            },
+            {
+                "token": "שְׁנַ֣יִם",
+                "transliteration": "šə·na·yim",
+                "strong": "8147",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּ֔הּ",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "יִכָּרְת֖וּ",
+                "transliteration": "yik·kā·rə·ṯū",
+                "strong": "3772",
+                "translation": " will be cut off "
+            },
+            {
+                "token": "יִגְוָ֑עוּ",
+                "transliteration": "yiḡ·wā·‘ū",
+                "strong": "1478",
+                "translation": " [and] perish , "
+            },
+            {
+                "token": "וְהַשְּׁלִשִׁ֖ית",
+                "transliteration": "wə·haš·šə·li·šîṯ",
+                "strong": "7992",
+                "translation": " but a third "
+            },
+            {
+                "token": "יִוָּ֥תֶר",
+                "transliteration": "yiw·wā·ṯer",
+                "strong": "3498",
+                "translation": " will be left "
+            },
+            {
+                "token": "בָּֽהּ׃",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " in it . "
+            }
+        ],
+        "verse_reference": "Zechariah 13:8",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַשְּׁלִשִׁית֙",
+                "transliteration": "haš·šə·li·šîṯ",
+                "strong": "7992",
+                "translation": " This third "
+            },
+            {
+                "token": "וְהֵבֵאתִ֤י",
+                "transliteration": "wə·hê·ḇê·ṯî",
+                "strong": "935",
+                "translation": " I will bring "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " "
+            },
+            {
+                "token": "בָּאֵ֔שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " through the fire ; "
+            },
+            {
+                "token": "וּצְרַפְתִּים֙",
+                "transliteration": "ū·ṣə·rap̄·tîm",
+                "strong": "6884",
+                "translation": " I will refine them "
+            },
+            {
+                "token": "הַכֶּ֔סֶף",
+                "transliteration": "hak·ke·sep̄",
+                "strong": "3701",
+                "translation": " like silver "
+            },
+            {
+                "token": "כִּצְרֹ֣ף",
+                "transliteration": "kiṣ·rōp̄",
+                "strong": "6884",
+                "translation": " - "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וּבְחַנְתִּ֖ים",
+                "transliteration": "ū·ḇə·ḥan·tîm",
+                "strong": "974",
+                "translation": " and test them "
+            },
+            {
+                "token": "הַזָּהָ֑ב",
+                "transliteration": "haz·zā·hāḇ",
+                "strong": "2091",
+                "translation": " like gold "
+            },
+            {
+                "token": "כִּבְחֹ֣ן",
+                "transliteration": "kiḇ·ḥōn",
+                "strong": "974",
+                "translation": " - "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - . "
+            },
+            {
+                "token": "ה֣וּא׀",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " "
+            },
+            {
+                "token": "יִקְרָ֣א",
+                "transliteration": "yiq·rā",
+                "strong": "7121",
+                "translation": " They will call "
+            },
+            {
+                "token": "בִשְׁמִ֗י",
+                "transliteration": "ḇiš·mî",
+                "strong": "8034",
+                "translation": " on My name , "
+            },
+            {
+                "token": "וַֽאֲנִי֙",
+                "transliteration": "wa·’ă·nî",
+                "strong": "589",
+                "translation": " and I "
+            },
+            {
+                "token": "אֶעֱנֶ֣ה",
+                "transliteration": "’e·‘ĕ·neh",
+                "strong": "6030",
+                "translation": " will answer them . "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אָמַ֙רְתִּי֙",
+                "transliteration": "’ā·mar·tî",
+                "strong": "559",
+                "translation": " I will say , "
+            },
+            {
+                "token": "עַמִּ֣י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " ‘ They are My people , ’ "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " and they "
+            },
+            {
+                "token": "וְה֥וּא",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "יֹאמַ֖ר",
+                "transliteration": "yō·mar",
+                "strong": "559",
+                "translation": " will say , "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " ‘ The LORD [is] "
+            },
+            {
+                "token": "אֱלֹהָֽי׃ס",
+                "transliteration": "’ĕ·lō·hāy",
+                "strong": "430",
+                "translation": " our God . ’” "
+            }
+        ],
+        "verse_reference": "Zechariah 13:9",
+        "book": "Zechariah",
+        "chapter": "13",
+        "verse": "9"
+    }
+]

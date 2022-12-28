@@ -1,0 +1,2502 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "Αὐτοὶ",
+                "transliteration": "Autoi",
+                "strong": "846",
+                "translation": " You yourselves "
+            },
+            {
+                "token": "οἴδατε",
+                "transliteration": "oidate",
+                "strong": "1492",
+                "translation": " know , "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " brothers , "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἴσοδον",
+                "transliteration": "eisodon",
+                "strong": "1529",
+                "translation": " visit "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "γέγονεν",
+                "transliteration": "gegonen",
+                "strong": "1096",
+                "translation": " was "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "κενὴ",
+                "transliteration": "kenē",
+                "strong": "2756",
+                "translation": " in vain . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:1",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " As "
+            },
+            {
+                "token": "οἴδατε",
+                "transliteration": "oidate",
+                "strong": "1492",
+                "translation": " you are aware , "
+            },
+            {
+                "token": "προπαθόντες",
+                "transliteration": "propathontes",
+                "strong": "4310",
+                "translation": " we had already endured suffering "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ὑβρισθέντες",
+                "transliteration": "hybristhentes",
+                "strong": "5195",
+                "translation": " shameful treatment "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Φιλίπποις",
+                "transliteration": "Philippois",
+                "strong": "5375",
+                "translation": " Philippi . "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " But "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in the face of "
+            },
+            {
+                "token": "πολλῷ",
+                "transliteration": "pollō",
+                "strong": "4183",
+                "translation": " strong "
+            },
+            {
+                "token": "ἀγῶνι",
+                "transliteration": "agōni",
+                "strong": "73",
+                "translation": " opposition , "
+            },
+            {
+                "token": "ἐπαρρησιασάμεθα",
+                "transliteration": "eparrēsiasametha",
+                "strong": "3955",
+                "translation": " we were bold "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "λαλῆσαι",
+                "transliteration": "lalēsai",
+                "strong": "2980",
+                "translation": " to speak "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "εὐαγγέλιον",
+                "transliteration": "euangelion",
+                "strong": "2098",
+                "translation": " gospel "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:2",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "Ἡ",
+                "transliteration": "Hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "παράκλησις",
+                "transliteration": "paraklēsis",
+                "strong": "3874",
+                "translation": " appeal "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " does not "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " arise from "
+            },
+            {
+                "token": "πλάνης",
+                "transliteration": "planēs",
+                "strong": "4106",
+                "translation": " deceit "
+            },
+            {
+                "token": "οὐδὲ",
+                "transliteration": "oude",
+                "strong": "3761",
+                "translation": " [or] "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " - "
+            },
+            {
+                "token": "ἀκαθαρσίας",
+                "transliteration": "akatharsias",
+                "strong": "167",
+                "translation": " ulterior motives "
+            },
+            {
+                "token": "οὐδὲ",
+                "transliteration": "oude",
+                "strong": "3761",
+                "translation": " [or] "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " - "
+            },
+            {
+                "token": "δόλῳ",
+                "transliteration": "dolō",
+                "strong": "1388",
+                "translation": " trickery . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:3",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " Instead , "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " - "
+            },
+            {
+                "token": "λαλοῦμεν",
+                "transliteration": "laloumen",
+                "strong": "2980",
+                "translation": " we speak "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " as "
+            },
+            {
+                "token": "δεδοκιμάσμεθα",
+                "transliteration": "dedokimasmetha",
+                "strong": "1381",
+                "translation": " those approved "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " by "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "πιστευθῆναι",
+                "transliteration": "pisteuthēnai",
+                "strong": "4100",
+                "translation": " to be entrusted with "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "εὐαγγέλιον",
+                "transliteration": "euangelion",
+                "strong": "2098",
+                "translation": " gospel , "
+            },
+            {
+                "token": "οὐχ",
+                "transliteration": "ouch",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " in order to "
+            },
+            {
+                "token": "ἀρέσκοντες",
+                "transliteration": "areskontes",
+                "strong": "700",
+                "translation": " please "
+            },
+            {
+                "token": "ἀνθρώποις",
+                "transliteration": "anthrōpois",
+                "strong": "444",
+                "translation": " men "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God , "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "δοκιμάζοντι",
+                "transliteration": "dokimazonti",
+                "strong": "1381",
+                "translation": " examines "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τὰς",
+                "transliteration": "tas",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καρδίας",
+                "transliteration": "kardias",
+                "strong": "2588",
+                "translation": " hearts . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:4",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " vvv "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " As "
+            },
+            {
+                "token": "οἴδατε",
+                "transliteration": "oidate",
+                "strong": "1492",
+                "translation": " you know , "
+            },
+            {
+                "token": "οὔτε",
+                "transliteration": "oute",
+                "strong": "3777",
+                "translation": " vvv "
+            },
+            {
+                "token": "ποτε",
+                "transliteration": "pote",
+                "strong": "4218",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐγενήθημεν",
+                "transliteration": "egenēthēmen",
+                "strong": "1096",
+                "translation": " we never used "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "λόγῳ",
+                "transliteration": "logō",
+                "strong": "3056",
+                "translation": " words "
+            },
+            {
+                "token": "κολακείας*",
+                "transliteration": "kolakeias",
+                "strong": "2850",
+                "translation": " of flattery "
+            },
+            {
+                "token": "οὔτε",
+                "transliteration": "oute",
+                "strong": "3777",
+                "translation": " [or] "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " - "
+            },
+            {
+                "token": "προφάσει",
+                "transliteration": "prophasei",
+                "strong": "4392",
+                "translation": " [any] pretext "
+            },
+            {
+                "token": "πλεονεξίας",
+                "transliteration": "pleonexias",
+                "strong": "4124",
+                "translation": " for greed . "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God [is] "
+            },
+            {
+                "token": "μάρτυς",
+                "transliteration": "martys",
+                "strong": "3144",
+                "translation": " [our] witness ! "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:5",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὔτε",
+                "transliteration": "oute",
+                "strong": "3777",
+                "translation": " Nor "
+            },
+            {
+                "token": "ζητοῦντες",
+                "transliteration": "zētountes",
+                "strong": "2212",
+                "translation": " did we seek "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " - "
+            },
+            {
+                "token": "δόξαν",
+                "transliteration": "doxan",
+                "strong": "1391",
+                "translation": " praise "
+            },
+            {
+                "token": "οὔτε",
+                "transliteration": "oute",
+                "strong": "3777",
+                "translation": " - "
+            },
+            {
+                "token": "ἀφ’",
+                "transliteration": "aph’",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "οὔτε",
+                "transliteration": "oute",
+                "strong": "3777",
+                "translation": " [or] "
+            },
+            {
+                "token": "ἀπ’",
+                "transliteration": "ap’",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "ἄλλων",
+                "transliteration": "allōn",
+                "strong": "243",
+                "translation": " anyone else , "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " [although] as "
+            },
+            {
+                "token": "ἀπόστολοι",
+                "transliteration": "apostoloi",
+                "strong": "652",
+                "translation": " apostles "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " of Christ "
+            },
+            {
+                "token": "δυνάμενοι",
+                "transliteration": "dynamenoi",
+                "strong": "1410",
+                "translation": " we had authority "
+            },
+            {
+                "token": "εἶναι",
+                "transliteration": "einai",
+                "strong": "1510",
+                "translation": " vvv "
+            },
+            {
+                "token": "βάρει",
+                "transliteration": "barei",
+                "strong": "922",
+                "translation": " to demand [it] "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:6",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἀλλὰ",
+                "transliteration": "Alla",
+                "strong": "235",
+                "translation": " On the contrary , "
+            },
+            {
+                "token": "ἐγενήθημεν",
+                "transliteration": "egenēthēmen",
+                "strong": "1096",
+                "translation": " we were "
+            },
+            {
+                "token": "ἤπιοι",
+                "transliteration": "ēpioi",
+                "strong": "3516",
+                "translation": " gentle "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " among "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "μέσῳ",
+                "transliteration": "mesō",
+                "strong": "3319",
+                "translation": " - , "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " like "
+            },
+            {
+                "token": "τροφὸς",
+                "transliteration": "trophos",
+                "strong": "5162",
+                "translation": " a nursing mother "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " vvv "
+            },
+            {
+                "token": "θάλπῃ",
+                "transliteration": "thalpē",
+                "strong": "2282",
+                "translation": " caring for "
+            },
+            {
+                "token": "ἑαυτῆς",
+                "transliteration": "heautēs",
+                "strong": "1438",
+                "translation": " her "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τέκνα",
+                "transliteration": "tekna",
+                "strong": "5043",
+                "translation": " children . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:7",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὁμειρόμενοι",
+                "transliteration": "homeiromenoi",
+                "strong": "2442",
+                "translation": " We cared so deeply "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " - "
+            },
+            {
+                "token": "εὐδοκοῦμεν",
+                "transliteration": "eudokoumen",
+                "strong": "2106",
+                "translation": " [that] we were delighted "
+            },
+            {
+                "token": "μεταδοῦναι",
+                "transliteration": "metadounai",
+                "strong": "3330",
+                "translation": " to share with "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "μόνον",
+                "transliteration": "monon",
+                "strong": "3440",
+                "translation": " only "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "εὐαγγέλιον",
+                "transliteration": "euangelion",
+                "strong": "2098",
+                "translation": " gospel "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "τὰς",
+                "transliteration": "tas",
+                "strong": "3588",
+                "translation": " our "
+            },
+            {
+                "token": "ἑαυτῶν",
+                "transliteration": "heautōn",
+                "strong": "1438",
+                "translation": " own "
+            },
+            {
+                "token": "ψυχάς",
+                "transliteration": "psychas",
+                "strong": "5590",
+                "translation": " lives "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " as well . "
+            },
+            {
+                "token": "διότι",
+                "transliteration": "dioti",
+                "strong": "1360",
+                "translation": " That is how "
+            },
+            {
+                "token": "ἀγαπητοὶ",
+                "transliteration": "agapētoi",
+                "strong": "27",
+                "translation": " beloved "
+            },
+            {
+                "token": "ἐγενήθητε",
+                "transliteration": "egenēthēte",
+                "strong": "1096",
+                "translation": " you have become "
+            },
+            {
+                "token": "ἡμῖν",
+                "transliteration": "hēmin",
+                "strong": "1473",
+                "translation": " to us . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:8",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Μνημονεύετε",
+                "transliteration": "Mnēmoneuete",
+                "strong": "3421",
+                "translation": " Surely you recall "
+            },
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " brothers , "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κόπον",
+                "transliteration": "kopon",
+                "strong": "2873",
+                "translation": " labor "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μόχθον",
+                "transliteration": "mochthon",
+                "strong": "3449",
+                "translation": " toil . "
+            },
+            {
+                "token": "ἐργαζόμενοι",
+                "transliteration": "ergazomenoi",
+                "strong": "2038",
+                "translation": " We worked "
+            },
+            {
+                "token": "νυκτὸς",
+                "transliteration": "nyktos",
+                "strong": "3571",
+                "translation": " night "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἡμέρας",
+                "transliteration": "hēmeras",
+                "strong": "2250",
+                "translation": " day "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " so that "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐπιβαρῆσαί",
+                "transliteration": "epibarēsai",
+                "strong": "1912",
+                "translation": " we would not be a burden "
+            },
+            {
+                "token": "τινα",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " to anyone "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " - "
+            },
+            {
+                "token": "ἐκηρύξαμεν",
+                "transliteration": "ekēryxamen",
+                "strong": "2784",
+                "translation": " while we proclaimed "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " to "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "εὐαγγέλιον",
+                "transliteration": "euangelion",
+                "strong": "2098",
+                "translation": " gospel "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:9",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " You [are] "
+            },
+            {
+                "token": "μάρτυρες",
+                "transliteration": "martyres",
+                "strong": "3144",
+                "translation": " witnesses , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and [so is] "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God , "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " of how "
+            },
+            {
+                "token": "ὁσίως",
+                "transliteration": "hosiōs",
+                "strong": "3743",
+                "translation": " holy , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "δικαίως",
+                "transliteration": "dikaiōs",
+                "strong": "1346",
+                "translation": " righteous , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀμέμπτως",
+                "transliteration": "amemptōs",
+                "strong": "274",
+                "translation": " blameless "
+            },
+            {
+                "token": "ἐγενήθημεν",
+                "transliteration": "egenēthēmen",
+                "strong": "1096",
+                "translation": " our conduct was "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " among you "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πιστεύουσιν",
+                "transliteration": "pisteuousin",
+                "strong": "4100",
+                "translation": " believed . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:10",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καθάπερ",
+                "transliteration": "kathaper",
+                "strong": "2509",
+                "translation": " For "
+            },
+            {
+                "token": "οἴδατε",
+                "transliteration": "oidate",
+                "strong": "1492",
+                "translation": " you know "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " that [we treated] "
+            },
+            {
+                "token": "ἕκαστον",
+                "transliteration": "hekaston",
+                "strong": "1538",
+                "translation": " each "
+            },
+            {
+                "token": "ἕνα",
+                "transliteration": "hena",
+                "strong": "1520",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " of you "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " as "
+            },
+            {
+                "token": "πατὴρ",
+                "transliteration": "patēr",
+                "strong": "3962",
+                "translation": " a father "
+            },
+            {
+                "token": "ἑαυτοῦ",
+                "transliteration": "heautou",
+                "strong": "1438",
+                "translation": " [treats] his own "
+            },
+            {
+                "token": "τέκνα",
+                "transliteration": "tekna",
+                "strong": "5043",
+                "translation": " children — "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:11",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "παρακαλοῦντες",
+                "transliteration": "parakalountes",
+                "strong": "3870",
+                "translation": " encouraging [you] , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "παραμυθούμενοι",
+                "transliteration": "paramythoumenoi",
+                "strong": "3888",
+                "translation": " comforting "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "μαρτυρόμενοι",
+                "transliteration": "martyromenoi",
+                "strong": "3143",
+                "translation": " urging "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "περιπατεῖν",
+                "transliteration": "peripatein",
+                "strong": "4043",
+                "translation": " to walk "
+            },
+            {
+                "token": "ἀξίως",
+                "transliteration": "axiōs",
+                "strong": "516",
+                "translation": " in a manner worthy "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God , "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "καλοῦντος",
+                "transliteration": "kalountos",
+                "strong": "2564",
+                "translation": " calls "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "ἑαυτοῦ",
+                "transliteration": "heautou",
+                "strong": "1438",
+                "translation": " His own "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "βασιλείαν",
+                "transliteration": "basileian",
+                "strong": "932",
+                "translation": " kingdom "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δόξαν",
+                "transliteration": "doxan",
+                "strong": "1391",
+                "translation": " glory . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:12",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Καὶ",
+                "transliteration": "Kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἡμεῖς",
+                "transliteration": "hēmeis",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "ἀδιαλείπτως",
+                "transliteration": "adialeiptōs",
+                "strong": "89",
+                "translation": " continually "
+            },
+            {
+                "token": "εὐχαριστοῦμεν",
+                "transliteration": "eucharistoumen",
+                "strong": "2168",
+                "translation": " thank "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " because "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " - , "
+            },
+            {
+                "token": "παραλαβόντες",
+                "transliteration": "paralabontes",
+                "strong": "3880",
+                "translation": " when you received "
+            },
+            {
+                "token": "λόγον",
+                "transliteration": "logon",
+                "strong": "3056",
+                "translation": " [the] word "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἀκοῆς",
+                "transliteration": "akoēs",
+                "strong": "189",
+                "translation": " that you heard "
+            },
+            {
+                "token": "παρ’",
+                "transliteration": "par’",
+                "strong": "3844",
+                "translation": " from "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " us , "
+            },
+            {
+                "token": "ἐδέξασθε",
+                "transliteration": "edexasthe",
+                "strong": "1209",
+                "translation": " you accepted [it] "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "λόγον",
+                "transliteration": "logon",
+                "strong": "3056",
+                "translation": " [as the] word "
+            },
+            {
+                "token": "ἀνθρώπων",
+                "transliteration": "anthrōpōn",
+                "strong": "444",
+                "translation": " of men , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " as "
+            },
+            {
+                "token": "ἀληθῶς",
+                "transliteration": "alēthōs",
+                "strong": "230",
+                "translation": " [the] true "
+            },
+            {
+                "token": "ἐστὶν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " - "
+            },
+            {
+                "token": "λόγον",
+                "transliteration": "logon",
+                "strong": "3056",
+                "translation": " word "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God — "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [ the word ] "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " which is "
+            },
+            {
+                "token": "ἐνεργεῖται",
+                "transliteration": "energeitai",
+                "strong": "1754",
+                "translation": " [now] at work "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πιστεύουσιν",
+                "transliteration": "pisteuousin",
+                "strong": "4100",
+                "translation": " believe . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:13",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "Ὑμεῖς",
+                "transliteration": "Hymeis",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " brothers , "
+            },
+            {
+                "token": "ἐγενήθητε",
+                "transliteration": "egenēthēte",
+                "strong": "1096",
+                "translation": " became "
+            },
+            {
+                "token": "μιμηταὶ",
+                "transliteration": "mimētai",
+                "strong": "3402",
+                "translation": " imitators "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "ἐκκλησιῶν",
+                "transliteration": "ekklēsiōn",
+                "strong": "1577",
+                "translation": " churches "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰουδαίᾳ",
+                "transliteration": "Ioudaia",
+                "strong": "2449",
+                "translation": " Judea "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "οὐσῶν",
+                "transliteration": "ousōn",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Χριστῷ",
+                "transliteration": "Christō",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus . "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " You "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπάθετε",
+                "transliteration": "epathete",
+                "strong": "3958",
+                "translation": " suffered "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " from "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " [your] "
+            },
+            {
+                "token": "ἰδίων",
+                "transliteration": "idiōn",
+                "strong": "2398",
+                "translation": " own "
+            },
+            {
+                "token": "συμφυλετῶν",
+                "transliteration": "symphyletōn",
+                "strong": "4853",
+                "translation": " countrymen "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the very things "
+            },
+            {
+                "token": "αὐτὰ",
+                "transliteration": "auta",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοὶ",
+                "transliteration": "autoi",
+                "strong": "846",
+                "translation": " they "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [suffered] "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " from "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Ἰουδαίων",
+                "transliteration": "Ioudaiōn",
+                "strong": "2453",
+                "translation": " Jews , "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:14",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "ἀποκτεινάντων",
+                "transliteration": "apokteinantōn",
+                "strong": "615",
+                "translation": " killed "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " both "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Κύριον",
+                "transliteration": "Kyrion",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦν",
+                "transliteration": "Iēsoun",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " their own "
+            },
+            {
+                "token": "προφήτας",
+                "transliteration": "prophētas",
+                "strong": "4396",
+                "translation": " prophets , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐκδιωξάντων",
+                "transliteration": "ekdiōxantōn",
+                "strong": "1559",
+                "translation": " drove us out {as well} "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " . . . . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἀρεσκόντων",
+                "transliteration": "areskontōn",
+                "strong": "700",
+                "translation": " They are displeasing "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " to God "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐναντίων",
+                "transliteration": "enantiōn",
+                "strong": "1727",
+                "translation": " hostile "
+            },
+            {
+                "token": "πᾶσιν",
+                "transliteration": "pasin",
+                "strong": "3956",
+                "translation": " to all "
+            },
+            {
+                "token": "ἀνθρώποις",
+                "transliteration": "anthrōpois",
+                "strong": "444",
+                "translation": " men , "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:15",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "κωλυόντων",
+                "transliteration": "kōlyontōn",
+                "strong": "2967",
+                "translation": " hindering "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " us "
+            },
+            {
+                "token": "λαλῆσαι",
+                "transliteration": "lalēsai",
+                "strong": "2980",
+                "translation": " from telling "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἔθνεσιν",
+                "transliteration": "ethnesin",
+                "strong": "1484",
+                "translation": " Gentiles "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " how "
+            },
+            {
+                "token": "σωθῶσιν",
+                "transliteration": "sōthōsin",
+                "strong": "4982",
+                "translation": " they may be saved . "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " As a result , "
+            },
+            {
+                "token": "πάντοτε",
+                "transliteration": "pantote",
+                "strong": "3842",
+                "translation": " {they} continue "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀναπληρῶσαι",
+                "transliteration": "anaplērōsai",
+                "strong": "378",
+                "translation": " to heap up "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τὰς",
+                "transliteration": "tas",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἁμαρτίας",
+                "transliteration": "hamartias",
+                "strong": "266",
+                "translation": " sins {to full capacity} ; "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " the "
+            },
+            {
+                "token": "τέλος",
+                "transliteration": "telos",
+                "strong": "5056",
+                "translation": " utmost "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ὀργὴ",
+                "transliteration": "orgē",
+                "strong": "3709",
+                "translation": " wrath "
+            },
+            {
+                "token": "ἔφθασεν",
+                "transliteration": "ephthasen",
+                "strong": "5348",
+                "translation": " has come "
+            },
+            {
+                "token": "ἐπ’",
+                "transliteration": "ep’",
+                "strong": "1909",
+                "translation": " upon "
+            },
+            {
+                "token": "αὐτοὺς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " them . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:16",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀδελφοί",
+                "transliteration": "adelphoi",
+                "strong": "80",
+                "translation": " Brothers , "
+            },
+            {
+                "token": "δέ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " although "
+            },
+            {
+                "token": "Ἡμεῖς",
+                "transliteration": "Hēmeis",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "ἀπορφανισθέντες",
+                "transliteration": "aporphanisthentes",
+                "strong": "642",
+                "translation": " were torn away "
+            },
+            {
+                "token": "ἀφ’",
+                "transliteration": "aph’",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " for "
+            },
+            {
+                "token": "καιρὸν",
+                "transliteration": "kairon",
+                "strong": "2540",
+                "translation": " a short time "
+            },
+            {
+                "token": "ὥρας",
+                "transliteration": "hōras",
+                "strong": "5610",
+                "translation": " . . . "
+            },
+            {
+                "token": "προσώπῳ",
+                "transliteration": "prosōpō",
+                "strong": "4383",
+                "translation": " (in person , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "καρδίᾳ",
+                "transliteration": "kardia",
+                "strong": "2588",
+                "translation": " in heart) , "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " [our] "
+            },
+            {
+                "token": "πολλῇ",
+                "transliteration": "pollē",
+                "strong": "4183",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπιθυμίᾳ",
+                "transliteration": "epithymia",
+                "strong": "1939",
+                "translation": " desire "
+            },
+            {
+                "token": "ἰδεῖν",
+                "transliteration": "idein",
+                "strong": "3708",
+                "translation": " to see "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πρόσωπον",
+                "transliteration": "prosōpon",
+                "strong": "4383",
+                "translation": " face [to face] "
+            },
+            {
+                "token": "περισσοτέρως",
+                "transliteration": "perissoterōs",
+                "strong": "4057",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐσπουδάσαμεν",
+                "transliteration": "espoudasamen",
+                "strong": "4704",
+                "translation": " was even more intense . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:17",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "διότι",
+                "transliteration": "dioti",
+                "strong": "1360",
+                "translation": " For "
+            },
+            {
+                "token": "ἠθελήσαμεν",
+                "transliteration": "ēthelēsamen",
+                "strong": "2309",
+                "translation": " we wanted "
+            },
+            {
+                "token": "ἐλθεῖν",
+                "transliteration": "elthein",
+                "strong": "2064",
+                "translation": " to come "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you — "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " indeed "
+            },
+            {
+                "token": "ἐγὼ",
+                "transliteration": "egō",
+                "strong": "1473",
+                "translation": " I , "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " Paul , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [tried] "
+            },
+            {
+                "token": "ἅπαξ",
+                "transliteration": "hapax",
+                "strong": "530",
+                "translation": " again "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δίς",
+                "transliteration": "dis",
+                "strong": "1364",
+                "translation": " again — "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " but "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σατανᾶς",
+                "transliteration": "Satanas",
+                "strong": "4567",
+                "translation": " Satan "
+            },
+            {
+                "token": "ἐνέκοψεν",
+                "transliteration": "enekopsen",
+                "strong": "1465",
+                "translation": " obstructed "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " us . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:18",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " After all , "
+            },
+            {
+                "token": "τίς",
+                "transliteration": "tis",
+                "strong": "5101",
+                "translation": " who [is] "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "ἐλπὶς",
+                "transliteration": "elpis",
+                "strong": "1680",
+                "translation": " hope , "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " [our] "
+            },
+            {
+                "token": "χαρὰ",
+                "transliteration": "chara",
+                "strong": "5479",
+                "translation": " joy , "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " [our] "
+            },
+            {
+                "token": "στέφανος",
+                "transliteration": "stephanos",
+                "strong": "4735",
+                "translation": " crown "
+            },
+            {
+                "token": "καυχήσεως",
+                "transliteration": "kauchēseōs",
+                "strong": "2746",
+                "translation": " of boasting , "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " if it is "
+            },
+            {
+                "token": "οὐχὶ",
+                "transliteration": "ouchi",
+                "strong": "3780",
+                "translation": " not "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " you yourselves "
+            },
+            {
+                "token": "ἔμπροσθεν",
+                "transliteration": "emprosthen",
+                "strong": "1715",
+                "translation": " in the presence of "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " Lord "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " at "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "παρουσίᾳ",
+                "transliteration": "parousia",
+                "strong": "3952",
+                "translation": " coming ? "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:19",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " You "
+            },
+            {
+                "token": "ἐστε",
+                "transliteration": "este",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " indeed "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "δόξα",
+                "transliteration": "doxa",
+                "strong": "1391",
+                "translation": " glory "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " [our] "
+            },
+            {
+                "token": "χαρά",
+                "transliteration": "chara",
+                "strong": "5479",
+                "translation": " joy . "
+            }
+        ],
+        "verse_reference": "1 Thessalonians 2:20",
+        "book": "1 Thessalonians",
+        "chapter": "2",
+        "verse": "20"
+    }
+]

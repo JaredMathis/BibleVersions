@@ -1,0 +1,2320 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֣ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַהֲרֹ֖ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . : "
+            }
+        ],
+        "verse_reference": "Numbers 2:1",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " “ The Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "יַחֲנ֖וּ",
+                "transliteration": "ya·ḥă·nū",
+                "strong": "2583",
+                "translation": " are to camp "
+            },
+            {
+                "token": "סָבִ֥יב",
+                "transliteration": "sā·ḇîḇ",
+                "strong": "5439",
+                "translation": " around "
+            },
+            {
+                "token": "לְאֹֽהֶל־",
+                "transliteration": "lə·’ō·hel-",
+                "strong": "168",
+                "translation": " the Tent "
+            },
+            {
+                "token": "מוֹעֵ֖ד",
+                "transliteration": "mō·w·‘êḏ",
+                "strong": "4150",
+                "translation": " of Meeting "
+            },
+            {
+                "token": "מִנֶּ֕גֶד",
+                "transliteration": "min·ne·ḡeḏ",
+                "strong": "5048",
+                "translation": " at a distance from it "
+            },
+            {
+                "token": "יַחֲנֽוּ׃",
+                "transliteration": "ya·ḥă·nū",
+                "strong": "2583",
+                "translation": " - , "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " each [man] "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " under "
+            },
+            {
+                "token": "דִּגְל֤וֹ",
+                "transliteration": "diḡ·lōw",
+                "strong": "1714",
+                "translation": " his standard , "
+            },
+            {
+                "token": "בְאֹתֹת֙",
+                "transliteration": "ḇə·’ō·ṯōṯ",
+                "strong": "226",
+                "translation": " with the banners "
+            },
+            {
+                "token": "אֲבֹתָ֔ם",
+                "transliteration": "’ă·ḇō·ṯām",
+                "strong": "1",
+                "translation": " of his family "
+            },
+            {
+                "token": "לְבֵ֣ית",
+                "transliteration": "lə·ḇêṯ",
+                "strong": "1004",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:2",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קֵ֣דְמָה",
+                "transliteration": "qê·ḏə·māh",
+                "strong": "6924",
+                "translation": " On the east side , "
+            },
+            {
+                "token": "מִזְרָ֔חָה",
+                "transliteration": "miz·rā·ḥāh",
+                "strong": "4217",
+                "translation": " toward the sunrise , "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " the divisions "
+            },
+            {
+                "token": "יְהוּדָ֖ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וְהַחֹנִים֙",
+                "transliteration": "wə·ha·ḥō·nîm",
+                "strong": "2583",
+                "translation": " are to camp "
+            },
+            {
+                "token": "דֶּ֛גֶל",
+                "transliteration": "de·ḡel",
+                "strong": "1714",
+                "translation": " under their standard "
+            },
+            {
+                "token": "מַחֲנֵ֥ה",
+                "transliteration": "ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " . . . : "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the descendants "
+            },
+            {
+                "token": "יְהוּדָ֔ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "נַחְשׁ֖וֹן",
+                "transliteration": "naḥ·šō·wn",
+                "strong": "5177",
+                "translation": " is Nahshon "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "עַמִּינָדָֽב׃",
+                "transliteration": "‘am·mî·nā·ḏāḇ",
+                "strong": "5992",
+                "translation": " of Amminadab , "
+            }
+        ],
+        "verse_reference": "Numbers 2:3",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "אַרְבָּעָ֧ה",
+                "transliteration": "’ar·bā·‘āh",
+                "strong": "702",
+                "translation": "74,600"
+            },
+            {
+                "token": "וְשִׁבְעִ֛ים",
+                "transliteration": "wə·šiḇ·‘îm",
+                "strong": "7657",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשֵׁ֥שׁ",
+                "transliteration": "wə·šêš",
+                "strong": "8337",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:4",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַטֵּ֣ה",
+                "transliteration": "maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " The tribe "
+            },
+            {
+                "token": "יִשָּׂשכָ֑ר",
+                "transliteration": "yiś·śā·š·ḵār",
+                "strong": "3485",
+                "translation": " of Issachar "
+            },
+            {
+                "token": "וְהַחֹנִ֥ים",
+                "transliteration": "wə·ha·ḥō·nîm",
+                "strong": "2583",
+                "translation": " will camp "
+            },
+            {
+                "token": "עָלָ֖יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " next to it . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Issacharites "
+            },
+            {
+                "token": "יִשָּׂשכָ֔ר",
+                "transliteration": "yiś·śā·š·ḵār",
+                "strong": "3485",
+                "translation": " . . . "
+            },
+            {
+                "token": "נְתַנְאֵ֖ל",
+                "transliteration": "nə·ṯan·’êl",
+                "strong": "5417",
+                "translation": " is Nethanel "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "צוּעָֽר׃",
+                "transliteration": "ṣū·‘ār",
+                "strong": "6686",
+                "translation": " of Zuar , "
+            }
+        ],
+        "verse_reference": "Numbers 2:5",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדָ֑יו",
+                "transliteration": "ū·p̄ə·qu·ḏāw",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "אַרְבָּעָ֧ה",
+                "transliteration": "’ar·bā·‘āh",
+                "strong": "702",
+                "translation": "54,400"
+            },
+            {
+                "token": "וַחֲמִשִּׁ֛ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃ס",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:6",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַטֵּ֖ה",
+                "transliteration": "maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " [Next will be] the tribe "
+            },
+            {
+                "token": "זְבוּלֻ֑ן",
+                "transliteration": "zə·ḇū·lun",
+                "strong": "2074",
+                "translation": " of Zebulun . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Zebulunites "
+            },
+            {
+                "token": "זְבוּלֻ֔ן",
+                "transliteration": "zə·ḇū·lun",
+                "strong": "2074",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֱלִיאָ֖ב",
+                "transliteration": "’ĕ·lî·’āḇ",
+                "strong": "446",
+                "translation": " is Eliab "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "חֵלֹֽן׃",
+                "transliteration": "ḥê·lōn",
+                "strong": "2497",
+                "translation": " of Helon , "
+            }
+        ],
+        "verse_reference": "Numbers 2:7",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדָ֑יו",
+                "transliteration": "ū·p̄ə·qu·ḏāw",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "שִׁבְעָ֧ה",
+                "transliteration": "šiḇ·‘āh",
+                "strong": "7651",
+                "translation": "57,400"
+            },
+            {
+                "token": "וַחֲמִשִּׁ֛ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:8",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּֽל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The total "
+            },
+            {
+                "token": "הַפְּקֻדִ֞ים",
+                "transliteration": "hap·pə·qu·ḏîm",
+                "strong": "6485",
+                "translation": " number of men "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " in the divisions "
+            },
+            {
+                "token": "לְמַחֲנֵ֣ה",
+                "transliteration": "lə·ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " of the camp "
+            },
+            {
+                "token": "יְהוּדָ֗ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "מְאַ֨ת",
+                "transliteration": "mə·’aṯ",
+                "strong": "3967",
+                "translation": " is 186,400 "
+            },
+            {
+                "token": "אֶ֜לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁמֹנִ֥ים",
+                "transliteration": "ū·šə·mō·nîm",
+                "strong": "8084",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֛לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשֵֽׁשֶׁת־",
+                "transliteration": "wə·šê·šeṯ-",
+                "strong": "8337",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲלָפִ֥ים",
+                "transliteration": "’ă·lā·p̄îm",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּע־",
+                "transliteration": "wə·’ar·ba‘-",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֖וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "יִסָּֽעוּ׃ס",
+                "transliteration": "yis·sā·‘ū",
+                "strong": "5265",
+                "translation": " they shall set out "
+            },
+            {
+                "token": "רִאשֹׁנָ֖ה",
+                "transliteration": "ri·šō·nāh",
+                "strong": "7223",
+                "translation": " first . "
+            }
+        ],
+        "verse_reference": "Numbers 2:9",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תֵּימָ֖נָה",
+                "transliteration": "tê·mā·nāh",
+                "strong": "8486",
+                "translation": " On the south side , "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " the divisions "
+            },
+            {
+                "token": "רְאוּבֵ֛ן",
+                "transliteration": "rə·’ū·ḇên",
+                "strong": "7205",
+                "translation": " of Reuben "
+            },
+            {
+                "token": "מַחֲנֵ֧ה",
+                "transliteration": "ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " are to camp "
+            },
+            {
+                "token": "דֶּ֣גֶל",
+                "transliteration": "de·ḡel",
+                "strong": "1714",
+                "translation": " under their standard : "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Reubenites "
+            },
+            {
+                "token": "רְאוּבֵ֔ן",
+                "transliteration": "rə·’ū·ḇên",
+                "strong": "7205",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֱלִיצ֖וּר",
+                "transliteration": "’ĕ·lî·ṣūr",
+                "strong": "468",
+                "translation": " is Elizur "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "שְׁדֵיאֽוּר׃",
+                "transliteration": "šə·ḏê·’ūr",
+                "strong": "7707",
+                "translation": " of Shedeur , "
+            }
+        ],
+        "verse_reference": "Numbers 2:10",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדָ֑יו",
+                "transliteration": "ū·p̄ə·qu·ḏāw",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "שִׁשָּׁ֧ה",
+                "transliteration": "šiš·šāh",
+                "strong": "8337",
+                "translation": "46,500"
+            },
+            {
+                "token": "וְאַרְבָּעִ֛ים",
+                "transliteration": "wə·’ar·bā·‘îm",
+                "strong": "705",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמֵ֥שׁ",
+                "transliteration": "wa·ḥă·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:11",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַטֵּ֣ה",
+                "transliteration": "maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " The tribe "
+            },
+            {
+                "token": "שִׁמְע֑וֹן",
+                "transliteration": "šim·‘ō·wn",
+                "strong": "8095",
+                "translation": " of Simeon "
+            },
+            {
+                "token": "וְהַחוֹנִ֥ם",
+                "transliteration": "wə·ha·ḥō·w·nim",
+                "strong": "2583",
+                "translation": " will camp "
+            },
+            {
+                "token": "עָלָ֖יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " next to it . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Simeonites "
+            },
+            {
+                "token": "שִׁמְע֔וֹן",
+                "transliteration": "šim·‘ō·wn",
+                "strong": "8095",
+                "translation": " . . . "
+            },
+            {
+                "token": "שְׁלֻמִיאֵ֖ל",
+                "transliteration": "šə·lu·mî·’êl",
+                "strong": "8017",
+                "translation": " is Shelumiel "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "צוּרִֽי־",
+                "transliteration": "ṣū·rî-",
+                "strong": "6701",
+                "translation": " vvv "
+            },
+            {
+                "token": "שַׁדָּֽי׃",
+                "transliteration": "šad·dāy",
+                "strong": "6701",
+                "translation": " of Zurishaddai , "
+            }
+        ],
+        "verse_reference": "Numbers 2:12",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "תִּשְׁעָ֧ה",
+                "transliteration": "tiš·‘āh",
+                "strong": "8672",
+                "translation": "59,300"
+            },
+            {
+                "token": "וַחֲמִשִּׁ֛ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁלֹ֥שׁ",
+                "transliteration": "ū·šə·lōš",
+                "strong": "7969",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:13",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְמַטֵּ֖ה",
+                "transliteration": "wə·maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " [Next will be] the tribe "
+            },
+            {
+                "token": "גָּ֑ד",
+                "transliteration": "gāḏ",
+                "strong": "1410",
+                "translation": " of Gad . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Gadites "
+            },
+            {
+                "token": "גָ֔ד",
+                "transliteration": "ḡāḏ",
+                "strong": "1410",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶלְיָסָ֖ף",
+                "transliteration": "’el·yā·sāp̄",
+                "strong": "460",
+                "translation": " is Eliasaph "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "רְעוּאֵֽל׃",
+                "transliteration": "rə·‘ū·’êl",
+                "strong": "7467",
+                "translation": " of Deuel , "
+            }
+        ],
+        "verse_reference": "Numbers 2:14",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "חֲמִשָּׁ֤ה",
+                "transliteration": "ḥă·miš·šāh",
+                "strong": "2568",
+                "translation": "45,650"
+            },
+            {
+                "token": "וְאַרְבָּעִים֙",
+                "transliteration": "wə·’ar·bā·‘îm",
+                "strong": "705",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֔לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשֵׁ֥שׁ",
+                "transliteration": "wə·šêš",
+                "strong": "8337",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֖וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמִשִּֽׁים׃",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:15",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּֽל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The total "
+            },
+            {
+                "token": "הַפְּקֻדִ֞ים",
+                "transliteration": "hap·pə·qu·ḏîm",
+                "strong": "6485",
+                "translation": " number of men "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " in the divisions "
+            },
+            {
+                "token": "לְמַחֲנֵ֣ה",
+                "transliteration": "lə·ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " of the camp "
+            },
+            {
+                "token": "רְאוּבֵ֗ן",
+                "transliteration": "rə·’ū·ḇên",
+                "strong": "7205",
+                "translation": " of Reuben "
+            },
+            {
+                "token": "מְאַ֨ת",
+                "transliteration": "mə·’aṯ",
+                "strong": "3967",
+                "translation": " is 151,450 "
+            },
+            {
+                "token": "אֶ֜לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "וְאֶחָ֨ד",
+                "transliteration": "wə·’e·ḥāḏ",
+                "strong": "259",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמִשִּׁ֥ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֛לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּע־",
+                "transliteration": "wə·’ar·ba‘-",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֥וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמִשִּׁ֖ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִסָּֽעוּ׃ס",
+                "transliteration": "yis·sā·‘ū",
+                "strong": "5265",
+                "translation": " they shall set out "
+            },
+            {
+                "token": "וּשְׁנִיִּ֖ם",
+                "transliteration": "ū·šə·nî·yim",
+                "strong": "8145",
+                "translation": " second . "
+            }
+        ],
+        "verse_reference": "Numbers 2:16",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּת֣וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " In the middle "
+            },
+            {
+                "token": "הַֽמַּחֲנֹ֑ת",
+                "transliteration": "ham·ma·ḥă·nōṯ",
+                "strong": "4264",
+                "translation": " of the camps , "
+            },
+            {
+                "token": "אֹֽהֶל־",
+                "transliteration": "’ō·hel-",
+                "strong": "168",
+                "translation": " the Tent "
+            },
+            {
+                "token": "מוֹעֵ֛ד",
+                "transliteration": "mō·w·‘êḏ",
+                "strong": "4150",
+                "translation": " of Meeting "
+            },
+            {
+                "token": "וְנָסַ֧ע",
+                "transliteration": "wə·nā·sa‘",
+                "strong": "5265",
+                "translation": " is to travel "
+            },
+            {
+                "token": "מַחֲנֵ֥ה",
+                "transliteration": "ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " with the camp "
+            },
+            {
+                "token": "הַלְוִיִּ֖ם",
+                "transliteration": "hal·wî·yim",
+                "strong": "3881",
+                "translation": " of the Levites . "
+            },
+            {
+                "token": "יִסָּ֔עוּ",
+                "transliteration": "yis·sā·‘ū",
+                "strong": "5265",
+                "translation": " They are to set out "
+            },
+            {
+                "token": "כַּאֲשֶׁ֤ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " in the order "
+            },
+            {
+                "token": "יַחֲנוּ֙",
+                "transliteration": "ya·ḥă·nū",
+                "strong": "2583",
+                "translation": " they encamped , "
+            },
+            {
+                "token": "כֵּ֣ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " . . . "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " each "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "יָד֖וֹ",
+                "transliteration": "yā·ḏōw",
+                "strong": "3027",
+                "translation": " his own place "
+            },
+            {
+                "token": "לְדִגְלֵיהֶֽם׃ס",
+                "transliteration": "lə·ḏiḡ·lê·hem",
+                "strong": "1714",
+                "translation": " under his standard . "
+            }
+        ],
+        "verse_reference": "Numbers 2:17",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יָ֑מָּה",
+                "transliteration": "yām·māh",
+                "strong": "3220",
+                "translation": " On the west side , "
+            },
+            {
+                "token": "לְצִבְאֹתָ֖ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " the divisions "
+            },
+            {
+                "token": "אֶפְרַ֛יִם",
+                "transliteration": "’ep̄·ra·yim",
+                "strong": "669",
+                "translation": " of Ephraim "
+            },
+            {
+                "token": "מַחֲנֵ֥ה",
+                "transliteration": "ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " are to camp "
+            },
+            {
+                "token": "דֶּ֣גֶל",
+                "transliteration": "de·ḡel",
+                "strong": "1714",
+                "translation": " under their standard : "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Ephraimites "
+            },
+            {
+                "token": "אֶפְרַ֔יִם",
+                "transliteration": "’ep̄·ra·yim",
+                "strong": "669",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֱלִישָׁמָ֖ע",
+                "transliteration": "’ĕ·lî·šā·mā‘",
+                "strong": "476",
+                "translation": " is Elishama "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "עַמִּיהֽוּד׃",
+                "transliteration": "‘am·mî·hūḏ",
+                "strong": "5989",
+                "translation": " of Ammihud , "
+            }
+        ],
+        "verse_reference": "Numbers 2:18",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "אַרְבָּעִ֥ים",
+                "transliteration": "’ar·bā·‘îm",
+                "strong": "705",
+                "translation": "40,500"
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמֵ֥שׁ",
+                "transliteration": "wa·ḥă·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:19",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַטֵּ֣ה",
+                "transliteration": "maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " The tribe "
+            },
+            {
+                "token": "מְנַשֶּׁ֑ה",
+                "transliteration": "mə·naš·šeh",
+                "strong": "4519",
+                "translation": " of Manasseh "
+            },
+            {
+                "token": "וְעָלָ֖יו",
+                "transliteration": "wə·‘ā·lāw",
+                "strong": "5921",
+                "translation": " will be next to it . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Manassites "
+            },
+            {
+                "token": "מְנַשֶּׁ֔ה",
+                "transliteration": "mə·naš·šeh",
+                "strong": "4519",
+                "translation": " . . . "
+            },
+            {
+                "token": "גַּמְלִיאֵ֖ל",
+                "transliteration": "gam·lî·’êl",
+                "strong": "1583",
+                "translation": " is Gamaliel "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "פְּדָהצֽוּר׃",
+                "transliteration": "pə·ḏā·h·ṣūr",
+                "strong": "6301",
+                "translation": " of Pedahzur , "
+            }
+        ],
+        "verse_reference": "Numbers 2:20",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "שְׁנַ֧יִם",
+                "transliteration": "šə·na·yim",
+                "strong": "8147",
+                "translation": "32,200"
+            },
+            {
+                "token": "וּשְׁלֹשִׁ֛ים",
+                "transliteration": "ū·šə·lō·šîm",
+                "strong": "7970",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּמָאתָֽיִם׃",
+                "transliteration": "ū·mā·ṯā·yim",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:21",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמַטֵּ֖ה",
+                "transliteration": "ū·maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " [Next will be] the tribe "
+            },
+            {
+                "token": "בִּנְיָמִ֑ן",
+                "transliteration": "bin·yā·min",
+                "strong": "1144",
+                "translation": " of Benjamin . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Benjamites "
+            },
+            {
+                "token": "בִנְיָמִ֔ן",
+                "transliteration": "ḇin·yā·min",
+                "strong": "1144",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲבִידָ֖ן",
+                "transliteration": "’ă·ḇî·ḏān",
+                "strong": "27",
+                "translation": " is Abidan "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "גִּדְעֹנִֽי׃",
+                "transliteration": "giḏ·‘ō·nî",
+                "strong": "1441",
+                "translation": " of Gideoni , "
+            }
+        ],
+        "verse_reference": "Numbers 2:22",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "חֲמִשָּׁ֧ה",
+                "transliteration": "ḥă·miš·šāh",
+                "strong": "2568",
+                "translation": "35,400"
+            },
+            {
+                "token": "וּשְׁלֹשִׁ֛ים",
+                "transliteration": "ū·šə·lō·šîm",
+                "strong": "7970",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:23",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּֽל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The total "
+            },
+            {
+                "token": "הַפְּקֻדִ֞ים",
+                "transliteration": "hap·pə·qu·ḏîm",
+                "strong": "6485",
+                "translation": " number of men "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " in the divisions "
+            },
+            {
+                "token": "לְמַחֲנֵ֣ה",
+                "transliteration": "lə·ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " of the camp "
+            },
+            {
+                "token": "אֶפְרַ֗יִם",
+                "transliteration": "’ep̄·ra·yim",
+                "strong": "669",
+                "translation": " of Ephraim "
+            },
+            {
+                "token": "מְאַ֥ת",
+                "transliteration": "mə·’aṯ",
+                "strong": "3967",
+                "translation": " [is] 108,100 "
+            },
+            {
+                "token": "אֶ֛לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "וּשְׁמֹֽנַת־",
+                "transliteration": "ū·šə·mō·naṯ-",
+                "strong": "8083",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲלָפִ֥ים",
+                "transliteration": "’ă·lā·p̄îm",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּמֵאָ֖ה",
+                "transliteration": "ū·mê·’āh",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִסָּֽעוּ׃ס",
+                "transliteration": "yis·sā·‘ū",
+                "strong": "5265",
+                "translation": " they shall set out "
+            },
+            {
+                "token": "וּשְׁלִשִׁ֖ים",
+                "transliteration": "ū·šə·li·šîm",
+                "strong": "7992",
+                "translation": " third . "
+            }
+        ],
+        "verse_reference": "Numbers 2:24",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "צָפֹ֖נָה",
+                "transliteration": "ṣā·p̄ō·nāh",
+                "strong": "6828",
+                "translation": " On the north side , "
+            },
+            {
+                "token": "לְצִבְאֹתָ֑ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " the divisions "
+            },
+            {
+                "token": "דָ֛ן",
+                "transliteration": "ḏān",
+                "strong": "1835",
+                "translation": " of Dan "
+            },
+            {
+                "token": "מַחֲנֵ֥ה",
+                "transliteration": "ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " are to camp "
+            },
+            {
+                "token": "דֶּ֣גֶל",
+                "transliteration": "de·ḡel",
+                "strong": "1714",
+                "translation": " under their standard : "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Danites "
+            },
+            {
+                "token": "דָ֔ן",
+                "transliteration": "ḏān",
+                "strong": "1835",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲחִיעֶ֖זֶר",
+                "transliteration": "’ă·ḥî·‘e·zer",
+                "strong": "295",
+                "translation": " is Ahiezer "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "עַמִּֽישַׁדָּֽי׃",
+                "transliteration": "‘am·mî·šad·dāy",
+                "strong": "5996",
+                "translation": " of Ammishaddai , "
+            }
+        ],
+        "verse_reference": "Numbers 2:25",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "שְׁנַ֧יִם",
+                "transliteration": "šə·na·yim",
+                "strong": "8147",
+                "translation": "62,700"
+            },
+            {
+                "token": "וְשִׁשִּׁ֛ים",
+                "transliteration": "wə·šiš·šîm",
+                "strong": "8346",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁבַ֥ע",
+                "transliteration": "ū·šə·ḇa‘",
+                "strong": "7651",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:26",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַטֵּ֣ה",
+                "transliteration": "maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " The tribe "
+            },
+            {
+                "token": "אָשֵׁ֑ר",
+                "transliteration": "’ā·šêr",
+                "strong": "836",
+                "translation": " of Asher "
+            },
+            {
+                "token": "וְהַחֹנִ֥ים",
+                "transliteration": "wə·ha·ḥō·nîm",
+                "strong": "2583",
+                "translation": " will camp "
+            },
+            {
+                "token": "עָלָ֖יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " next to it . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Asherites "
+            },
+            {
+                "token": "אָשֵׁ֔ר",
+                "transliteration": "’ā·šêr",
+                "strong": "836",
+                "translation": " . . . "
+            },
+            {
+                "token": "פַּגְעִיאֵ֖ל",
+                "transliteration": "paḡ·‘î·’êl",
+                "strong": "6295",
+                "translation": " is Pagiel "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "עָכְרָֽן׃",
+                "transliteration": "‘ā·ḵə·rān",
+                "strong": "5918",
+                "translation": " of Ocran , "
+            }
+        ],
+        "verse_reference": "Numbers 2:27",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "אֶחָ֧ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": "41,500"
+            },
+            {
+                "token": "וְאַרְבָּעִ֛ים",
+                "transliteration": "wə·’ar·bā·‘îm",
+                "strong": "705",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמֵ֥שׁ",
+                "transliteration": "wa·ḥă·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:28",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמַטֵּ֖ה",
+                "transliteration": "ū·maṭ·ṭêh",
+                "strong": "4294",
+                "translation": " [Next will be] the tribe "
+            },
+            {
+                "token": "נַפְתָּלִ֑י",
+                "transliteration": "nap̄·tā·lî",
+                "strong": "5321",
+                "translation": " of Naphtali . "
+            },
+            {
+                "token": "וְנָשִׂיא֙",
+                "transliteration": "wə·nā·śî",
+                "strong": "5387",
+                "translation": " The leader "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of the Naphtalites "
+            },
+            {
+                "token": "נַפְתָּלִ֔י",
+                "transliteration": "nap̄·tā·lî",
+                "strong": "5321",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲחִירַ֖ע",
+                "transliteration": "’ă·ḥî·ra‘",
+                "strong": "299",
+                "translation": " is Ahira "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "עֵינָֽן׃",
+                "transliteration": "‘ê·nān",
+                "strong": "5881",
+                "translation": " of Enan , "
+            }
+        ],
+        "verse_reference": "Numbers 2:29",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּצְבָא֖וֹ",
+                "transliteration": "ū·ṣə·ḇā·’ōw",
+                "strong": "6635",
+                "translation": " and his division "
+            },
+            {
+                "token": "וּפְקֻדֵיהֶ֑ם",
+                "transliteration": "ū·p̄ə·qu·ḏê·hem",
+                "strong": "6485",
+                "translation": " numbers "
+            },
+            {
+                "token": "שְׁלֹשָׁ֧ה",
+                "transliteration": "šə·lō·šāh",
+                "strong": "7969",
+                "translation": "53,400"
+            },
+            {
+                "token": "וַחֲמִשִּׁ֛ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֽוֹת׃",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:30",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The total "
+            },
+            {
+                "token": "הַפְּקֻדִים֙",
+                "transliteration": "hap·pə·qu·ḏîm",
+                "strong": "6485",
+                "translation": " number of men "
+            },
+            {
+                "token": "לְמַ֣חֲנֵה",
+                "transliteration": "lə·ma·ḥă·nêh",
+                "strong": "4264",
+                "translation": " in the camp "
+            },
+            {
+                "token": "דָ֔ן",
+                "transliteration": "ḏān",
+                "strong": "1835",
+                "translation": " of Dan "
+            },
+            {
+                "token": "מְאַ֣ת",
+                "transliteration": "mə·’aṯ",
+                "strong": "3967",
+                "translation": " is 157,600 "
+            },
+            {
+                "token": "אֶ֗לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשִׁבְעָ֧ה",
+                "transliteration": "wə·šiḇ·‘āh",
+                "strong": "7651",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמִשִּׁ֛ים",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֖לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשֵׁ֣שׁ",
+                "transliteration": "wə·šêš",
+                "strong": "8337",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֑וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "יִסְע֖וּ",
+                "transliteration": "yis·‘ū",
+                "strong": "5265",
+                "translation": " they shall set out "
+            },
+            {
+                "token": "לָאַחֲרֹנָ֥ה",
+                "transliteration": "lā·’a·ḥă·rō·nāh",
+                "strong": "314",
+                "translation": " last , "
+            },
+            {
+                "token": "לְדִגְלֵיהֶֽם׃פ",
+                "transliteration": "lə·ḏiḡ·lê·hem",
+                "strong": "1714",
+                "translation": " under their standards . ” "
+            }
+        ],
+        "verse_reference": "Numbers 2:31",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֛לֶּה",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " These "
+            },
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " are the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . , "
+            },
+            {
+                "token": "פְּקוּדֵ֥י",
+                "transliteration": "pə·qū·ḏê",
+                "strong": "6485",
+                "translation": " numbered "
+            },
+            {
+                "token": "אֲבֹתָ֑ם",
+                "transliteration": "’ă·ḇō·ṯām",
+                "strong": "1",
+                "translation": " according to their families "
+            },
+            {
+                "token": "לְבֵ֣ית",
+                "transliteration": "lə·ḇêṯ",
+                "strong": "1004",
+                "translation": " . . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The total "
+            },
+            {
+                "token": "פְּקוּדֵ֤י",
+                "transliteration": "pə·qū·ḏê",
+                "strong": "6485",
+                "translation": " of those counted "
+            },
+            {
+                "token": "הַֽמַּחֲנֹת֙",
+                "transliteration": "ham·ma·ḥă·nōṯ",
+                "strong": "4264",
+                "translation": " in the camps , "
+            },
+            {
+                "token": "לְצִבְאֹתָ֔ם",
+                "transliteration": "lə·ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " by their divisions , "
+            },
+            {
+                "token": "שֵׁשׁ־",
+                "transliteration": "šêš-",
+                "strong": "8337",
+                "translation": " was 603,550 "
+            },
+            {
+                "token": "מֵא֥וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֙לֶף֙",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁלֹ֣שֶׁת",
+                "transliteration": "ū·šə·lō·šeṯ",
+                "strong": "7969",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲלָפִ֔ים",
+                "transliteration": "’ă·lā·p̄îm",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמֵ֥שׁ",
+                "transliteration": "wa·ḥă·mêš",
+                "strong": "2568",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֖וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַחֲמִשִּֽׁים׃",
+                "transliteration": "wa·ḥă·miš·šîm",
+                "strong": "2572",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:32",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַ֨לְוִיִּ֔ם",
+                "transliteration": "wə·hal·wî·yim",
+                "strong": "3881",
+                "translation": " But the Levites "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " were not "
+            },
+            {
+                "token": "הָתְפָּקְד֔וּ",
+                "transliteration": "hā·ṯə·pā·qə·ḏū",
+                "strong": "6485",
+                "translation": " counted "
+            },
+            {
+                "token": "בְּת֖וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " among "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the other Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . , "
+            },
+            {
+                "token": "כַּאֲשֶׁ֛ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " as "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "צִוָּ֥ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " had commanded "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֹשֶֽׁה׃",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses . "
+            }
+        ],
+        "verse_reference": "Numbers 2:33",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " So the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַֽיַּעֲשׂ֖וּ",
+                "transliteration": "way·ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "כְּ֠כֹל",
+                "transliteration": "kə·ḵōl",
+                "strong": "3605",
+                "translation": " everything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "צִוָּ֨ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " commanded "
+            },
+            {
+                "token": "מֹשֶׁ֗ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses ; "
+            },
+            {
+                "token": "חָנ֤וּ",
+                "transliteration": "ḥā·nū",
+                "strong": "2583",
+                "translation": " they camped "
+            },
+            {
+                "token": "לְדִגְלֵיהֶם֙",
+                "transliteration": "lə·ḏiḡ·lê·hem",
+                "strong": "1714",
+                "translation": " under their standards "
+            },
+            {
+                "token": "כֵּֽן־",
+                "transliteration": "kên-",
+                "strong": "3651",
+                "translation": " in this way "
+            },
+            {
+                "token": "נָסָ֔עוּ",
+                "transliteration": "nā·sā·‘ū",
+                "strong": "5265",
+                "translation": " and set out "
+            },
+            {
+                "token": "וְכֵ֣ן",
+                "transliteration": "wə·ḵên",
+                "strong": "3651",
+                "translation": " in the same way , "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " each man "
+            },
+            {
+                "token": "לְמִשְׁפְּחֹתָ֖יו",
+                "transliteration": "lə·miš·pə·ḥō·ṯāw",
+                "strong": "4940",
+                "translation": " with his clan "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " and "
+            },
+            {
+                "token": "אֲבֹתָֽיו׃",
+                "transliteration": "’ă·ḇō·ṯāw",
+                "strong": "1",
+                "translation": " his family "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 2:34",
+        "book": "Numbers",
+        "chapter": "2",
+        "verse": "34"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "שִׁ֥יר",
+                "transliteration": "šîr",
+                "strong": "7892",
+                "translation": " A song "
+            },
+            {
+                "token": "הַֽמַּֽעֲל֗וֹת",
+                "transliteration": "ham·ma·‘ă·lō·wṯ",
+                "strong": "4609",
+                "translation": " of ascents . "
+            },
+            {
+                "token": "לִשְׁלֹ֫מֹ֥ה",
+                "transliteration": "liš·lō·mōh",
+                "strong": "8010",
+                "translation": " Of Solomon . "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " Unless "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוָ֤ה׀",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "יִבְנֶ֬ה",
+                "transliteration": "yiḇ·neh",
+                "strong": "1129",
+                "translation": " builds "
+            },
+            {
+                "token": "בַ֗יִת",
+                "transliteration": "ḇa·yiṯ",
+                "strong": "1004",
+                "translation": " the house , "
+            },
+            {
+                "token": "בוֹנָ֣יו",
+                "transliteration": "ḇō·w·nāw",
+                "strong": "1129",
+                "translation": " its builders "
+            },
+            {
+                "token": "עָמְל֣וּ",
+                "transliteration": "‘ā·mə·lū",
+                "strong": "5998",
+                "translation": " labor "
+            },
+            {
+                "token": "בּ֑וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " in "
+            },
+            {
+                "token": "שָׁ֤וְא׀",
+                "transliteration": "šāw",
+                "strong": "7723",
+                "translation": " vain ; "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " unless "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "יִשְׁמָר־",
+                "transliteration": "yiš·mār-",
+                "strong": "8104",
+                "translation": " protects "
+            },
+            {
+                "token": "עִ֝֗יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " the city , "
+            },
+            {
+                "token": "שׁוֹמֵֽר׃",
+                "transliteration": "šō·w·mêr",
+                "strong": "8104",
+                "translation": " its watchmen "
+            },
+            {
+                "token": "שָׁקַ֬ד",
+                "transliteration": "šā·qaḏ",
+                "strong": "8245",
+                "translation": " stand guard "
+            },
+            {
+                "token": "שָׁ֤וְא׀",
+                "transliteration": "šāw",
+                "strong": "7723",
+                "translation": " in vain . "
+            }
+        ],
+        "verse_reference": "Psalm 127:1",
+        "book": "Psalm",
+        "chapter": "127",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁ֤וְא",
+                "transliteration": "šāw",
+                "strong": "7723",
+                "translation": " In vain "
+            },
+            {
+                "token": "לָכֶ֨ם׀",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "ק֡וּם",
+                "transliteration": "qūm",
+                "strong": "6965",
+                "translation": " rise "
+            },
+            {
+                "token": "מַשְׁכִּ֪ימֵי",
+                "transliteration": "maš·kî·mê",
+                "strong": "7925",
+                "translation": " early "
+            },
+            {
+                "token": "שֶׁ֗בֶת",
+                "transliteration": "še·ḇeṯ",
+                "strong": "3427",
+                "translation": " and stay up "
+            },
+            {
+                "token": "מְאַֽחֲרֵי־",
+                "transliteration": "mə·’a·ḥă·rê-",
+                "strong": "309",
+                "translation": " late , "
+            },
+            {
+                "token": "הָעֲצָבִ֑ים",
+                "transliteration": "hā·‘ă·ṣā·ḇîm",
+                "strong": "6089",
+                "translation": " toiling "
+            },
+            {
+                "token": "לֶ֣חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "3899",
+                "translation": " for bread "
+            },
+            {
+                "token": "אֹ֭כְלֵי",
+                "transliteration": "’ō·ḵə·lê",
+                "strong": "398",
+                "translation": " to eat — "
+            },
+            {
+                "token": "כֵּ֤ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " for "
+            },
+            {
+                "token": "יִתֵּ֖ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " He gives "
+            },
+            {
+                "token": "שֵׁנָֽא׃",
+                "transliteration": "šê·nā",
+                "strong": "8142",
+                "translation": " sleep "
+            },
+            {
+                "token": "לִֽידִיד֣וֹ",
+                "transliteration": "lî·ḏî·ḏōw",
+                "strong": "3039",
+                "translation": " to His beloved . "
+            }
+        ],
+        "verse_reference": "Psalm 127:2",
+        "book": "Psalm",
+        "chapter": "127",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בָּנִ֑ים",
+                "transliteration": "bā·nîm",
+                "strong": "1121",
+                "translation": " Children "
+            },
+            {
+                "token": "הִנֵּ֤ה",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " are indeed "
+            },
+            {
+                "token": "נַחֲלַ֣ת",
+                "transliteration": "na·ḥă·laṯ",
+                "strong": "5159",
+                "translation": " a heritage "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " from the LORD , "
+            },
+            {
+                "token": "פְּרִ֣י",
+                "transliteration": "pə·rî",
+                "strong": "6529",
+                "translation": " [and] the fruit "
+            },
+            {
+                "token": "הַבָּֽטֶן׃",
+                "transliteration": "hab·bā·ṭen",
+                "strong": "990",
+                "translation": " of the womb "
+            },
+            {
+                "token": "שָׂ֝כָ֗ר",
+                "transliteration": "ḵār",
+                "strong": "7939",
+                "translation": " [is His] reward . "
+            }
+        ],
+        "verse_reference": "Psalm 127:3",
+        "book": "Psalm",
+        "chapter": "127",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כְּחִצִּ֥ים",
+                "transliteration": "kə·ḥiṣ·ṣîm",
+                "strong": "2671",
+                "translation": " Like arrows "
+            },
+            {
+                "token": "בְּיַד־",
+                "transliteration": "bə·yaḏ-",
+                "strong": "3027",
+                "translation": " in the hand "
+            },
+            {
+                "token": "גִּבּ֑וֹר",
+                "transliteration": "gib·bō·wr",
+                "strong": "1368",
+                "translation": " of a warrior , "
+            },
+            {
+                "token": "כֵּ֝֗ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " so [are] "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " children "
+            },
+            {
+                "token": "הַנְּעוּרִֽים׃",
+                "transliteration": "han·nə·‘ū·rîm",
+                "strong": "5271",
+                "translation": " [born in] one’s youth . "
+            }
+        ],
+        "verse_reference": "Psalm 127:4",
+        "book": "Psalm",
+        "chapter": "127",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַשְׁרֵ֤י",
+                "transliteration": "’aš·rê",
+                "strong": "835",
+                "translation": " Blessed "
+            },
+            {
+                "token": "הַגֶּ֗בֶר",
+                "transliteration": "hag·ge·ḇer",
+                "strong": "1397",
+                "translation": " is the man "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " whose "
+            },
+            {
+                "token": "אַשְׁפָּת֗וֹ",
+                "transliteration": "’aš·pā·ṯōw",
+                "strong": "827",
+                "translation": " quiver "
+            },
+            {
+                "token": "מִלֵּ֥א",
+                "transliteration": "mil·lê",
+                "strong": "4390",
+                "translation": " is full "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵ֫הֶ֥ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " of them . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " He will not "
+            },
+            {
+                "token": "יֵבֹ֑שׁוּ",
+                "transliteration": "yê·ḇō·šū",
+                "strong": "954",
+                "translation": " be put to shame "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " when "
+            },
+            {
+                "token": "יְדַבְּר֖וּ",
+                "transliteration": "yə·ḏab·bə·rū",
+                "strong": "1696",
+                "translation": " he confronts "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " - "
+            },
+            {
+                "token": "אוֹיְבִ֣ים",
+                "transliteration": "’ō·wy·ḇîm",
+                "strong": "341",
+                "translation": " the enemies "
+            },
+            {
+                "token": "בַּשָּֽׁעַר׃",
+                "transliteration": "baš·šā·‘ar",
+                "strong": "8179",
+                "translation": " at the gate . "
+            }
+        ],
+        "verse_reference": "Psalm 127:5",
+        "book": "Psalm",
+        "chapter": "127",
+        "verse": "5"
+    }
+]

@@ -1,0 +1,1386 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "דָּוִ֗יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " Then David "
+            },
+            {
+                "token": "וַיִּוָּעַ֣ץ",
+                "transliteration": "way·yiw·wā·‘aṣ",
+                "strong": "3289",
+                "translation": " conferred "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "נָגִֽיד׃",
+                "transliteration": "nā·ḡîḏ",
+                "strong": "5057",
+                "translation": " his leaders , "
+            },
+            {
+                "token": "שָׂרֵ֧י",
+                "transliteration": "śā·rê",
+                "strong": "8269",
+                "translation": " the commanders "
+            },
+            {
+                "token": "וְהַמֵּא֖וֹת",
+                "transliteration": "wə·ham·mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " of hundreds "
+            },
+            {
+                "token": "הָאֲלָפִ֛ים",
+                "transliteration": "hā·’ă·lā·p̄îm",
+                "strong": "505",
+                "translation": " and of thousands . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:1",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דָּוִ֜יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " And he "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "לְכֹ֣ל׀",
+                "transliteration": "lə·ḵōl",
+                "strong": "3605",
+                "translation": " to the whole "
+            },
+            {
+                "token": "קְהַ֣ל",
+                "transliteration": "qə·hal",
+                "strong": "6951",
+                "translation": " assembly "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " “ If "
+            },
+            {
+                "token": "ט֜וֹב",
+                "transliteration": "ṭō·wḇ",
+                "strong": "2896",
+                "translation": " it seems good "
+            },
+            {
+                "token": "עֲלֵיכֶ֨ם",
+                "transliteration": "‘ă·lê·ḵem",
+                "strong": "5921",
+                "translation": " to you , "
+            },
+            {
+                "token": "וּמִן־",
+                "transliteration": "ū·min-",
+                "strong": "4480",
+                "translation": " and if this is "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God , "
+            },
+            {
+                "token": "נִשְׁלְחָ֞ה",
+                "transliteration": "niš·lə·ḥāh",
+                "strong": "7971",
+                "translation": " let us send word "
+            },
+            {
+                "token": "נִפְרְצָה֙",
+                "transliteration": "nip̄·rə·ṣāh",
+                "strong": "6555",
+                "translation": " far and wide "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " to "
+            },
+            {
+                "token": "הַנִּשְׁאָרִ֗ים",
+                "transliteration": "han·niš·’ā·rîm",
+                "strong": "7604",
+                "translation": " the rest "
+            },
+            {
+                "token": "אַחֵ֣ינוּ",
+                "transliteration": "’a·ḥê·nū",
+                "strong": "251",
+                "translation": " of our brothers "
+            },
+            {
+                "token": "בְּכֹל֙",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " in all "
+            },
+            {
+                "token": "אַרְצ֣וֹת",
+                "transliteration": "’ar·ṣō·wṯ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "וְעִמָּהֶ֛ם",
+                "transliteration": "wə·‘im·mā·hem",
+                "strong": "5973",
+                "translation": " and also "
+            },
+            {
+                "token": "הַכֹּהֲנִ֥ים",
+                "transliteration": "hak·kō·hă·nîm",
+                "strong": "3548",
+                "translation": " to the priests "
+            },
+            {
+                "token": "וְהַלְוִיִּ֖ם",
+                "transliteration": "wə·hal·wî·yim",
+                "strong": "3881",
+                "translation": " and Levites "
+            },
+            {
+                "token": "בְּעָרֵ֣י",
+                "transliteration": "bə·‘ā·rê",
+                "strong": "5892",
+                "translation": " in their cities "
+            },
+            {
+                "token": "מִגְרְשֵׁיהֶ֑ם",
+                "transliteration": "miḡ·rə·šê·hem",
+                "strong": "4054",
+                "translation": " and pasturelands , "
+            },
+            {
+                "token": "וְיִקָּבְצ֖וּ",
+                "transliteration": "wə·yiq·qā·ḇə·ṣū",
+                "strong": "6908",
+                "translation": " so that they may join "
+            },
+            {
+                "token": "אֵלֵֽינוּ׃",
+                "transliteration": "’ê·lê·nū",
+                "strong": "413",
+                "translation": " us . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:2",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנָסֵ֛בָּה",
+                "transliteration": "wə·nā·sêb·bāh",
+                "strong": "5437",
+                "translation": " Then let us bring back "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲר֥וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "אֱלֹהֵ֖ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " of our God "
+            },
+            {
+                "token": "אֵלֵ֑ינוּ",
+                "transliteration": "’ê·lê·nū",
+                "strong": "413",
+                "translation": " . . . , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " we did not "
+            },
+            {
+                "token": "דְרַשְׁנֻ֖הוּ",
+                "transliteration": "ḏə·raš·nu·hū",
+                "strong": "1875",
+                "translation": " inquire of Him "
+            },
+            {
+                "token": "בִּימֵ֥י",
+                "transliteration": "bî·mê",
+                "strong": "3117",
+                "translation": " in the days "
+            },
+            {
+                "token": "שָׁאֽוּל׃",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " of Saul . ” "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:3",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּאמְר֥וּ",
+                "transliteration": "way·yō·mə·rū",
+                "strong": "559",
+                "translation": " And "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "הַדָּבָ֖ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " this proposal "
+            },
+            {
+                "token": "בְּעֵינֵ֥י",
+                "transliteration": "bə·‘ê·nê",
+                "strong": "5869",
+                "translation": " seemed "
+            },
+            {
+                "token": "יָשַׁ֥ר",
+                "transliteration": "yā·šar",
+                "strong": "3474",
+                "translation": " right "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " to all "
+            },
+            {
+                "token": "הָעָֽם׃",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people , "
+            },
+            {
+                "token": "כָֽל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "הַקָּהָ֖ל",
+                "transliteration": "haq·qā·hāl",
+                "strong": "6951",
+                "translation": " assembly "
+            },
+            {
+                "token": "לַעֲשׂ֣וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " agreed to it . "
+            },
+            {
+                "token": "כֵּ֑ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:4",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דָּוִיד֙",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " So David "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיַּקְהֵ֤ל",
+                "transliteration": "way·yaq·hêl",
+                "strong": "6950",
+                "translation": " assembled "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel , "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "שִׁיח֥וֹר",
+                "transliteration": "šî·ḥō·wr",
+                "strong": "7883",
+                "translation": " the [River] Shihor "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " in Egypt "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " to Lebo-hamath "
+            },
+            {
+                "token": "חֲמָ֑ת",
+                "transliteration": "ḥă·māṯ",
+                "strong": "2574",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לְהָבִיא֙",
+                "transliteration": "lə·hā·ḇî",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְב֣וֹא",
+                "transliteration": "lə·ḇō·w",
+                "strong": "935",
+                "translation": " to bring "
+            },
+            {
+                "token": "אֲר֣וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "הָאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "מִקִּרְיַ֖ת",
+                "transliteration": "miq·qir·yaṯ",
+                "strong": "7157",
+                "translation": " vvv "
+            },
+            {
+                "token": "יְעָרִֽים׃",
+                "transliteration": "yə·‘ā·rîm",
+                "strong": "7157",
+                "translation": " from Kiriath-jearim . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:5",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דָּוִ֤יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "וַיַּ֨עַל",
+                "transliteration": "way·ya·‘al",
+                "strong": "5927",
+                "translation": " went up "
+            },
+            {
+                "token": "בַּעֲלָ֔תָה",
+                "transliteration": "ba·‘ă·lā·ṯāh",
+                "strong": "1173",
+                "translation": " to Baalah "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " of "
+            },
+            {
+                "token": "לִיהוּדָ֑ה",
+                "transliteration": "lî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah "
+            },
+            {
+                "token": "קִרְיַ֥ת",
+                "transliteration": "qir·yaṯ",
+                "strong": "7157",
+                "translation": " ( vvv "
+            },
+            {
+                "token": "יְעָרִ֖ים",
+                "transliteration": "yə·‘ā·rîm",
+                "strong": "7157",
+                "translation": " that is, Kiriath-jearim ) "
+            },
+            {
+                "token": "לְהַעֲל֣וֹת",
+                "transliteration": "lə·ha·‘ă·lō·wṯ",
+                "strong": "5927",
+                "translation": " to bring up "
+            },
+            {
+                "token": "מִשָּׁ֗ם",
+                "transliteration": "miš·šām",
+                "strong": "8033",
+                "translation": " from there "
+            },
+            {
+                "token": "אֵת֩",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲר֨וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "הָאֱלֹהִ֧ים׀",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "יוֹשֵׁ֥ב",
+                "transliteration": "yō·wō·šêḇ",
+                "strong": "3427",
+                "translation": " who is enthroned "
+            },
+            {
+                "token": "הַכְּרוּבִ֖ים",
+                "transliteration": "hak·kə·rū·ḇîm",
+                "strong": "3742",
+                "translation": " [between] the cherubim — "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " [the ark] that "
+            },
+            {
+                "token": "נִקְרָ֥א",
+                "transliteration": "niq·rā",
+                "strong": "7121",
+                "translation": " is called "
+            },
+            {
+                "token": "שֵֽׁם׃",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " by the Name . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:6",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּרְכִּ֜יבוּ",
+                "transliteration": "way·yar·kî·ḇū",
+                "strong": "7392",
+                "translation": " So they carried "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲר֤וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "הָאֱלֹהִים֙",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "מִבֵּ֖ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1004",
+                "translation": " from the house "
+            },
+            {
+                "token": "אֲבִינָדָ֑ב",
+                "transliteration": "’ă·ḇî·nā·ḏāḇ",
+                "strong": "41",
+                "translation": " of Abinadab "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "חֲדָשָׁ֔ה",
+                "transliteration": "ḥă·ḏā·šāh",
+                "strong": "2319",
+                "translation": " a new "
+            },
+            {
+                "token": "עֲגָלָ֣ה",
+                "transliteration": "‘ă·ḡā·lāh",
+                "strong": "5699",
+                "translation": " cart , "
+            },
+            {
+                "token": "וְעֻזָּ֣א",
+                "transliteration": "wə·‘uz·zā",
+                "strong": "5798",
+                "translation": " with Uzzah "
+            },
+            {
+                "token": "וְאַחְי֔וֹ",
+                "transliteration": "wə·’aḥ·yōw",
+                "strong": "283",
+                "translation": " and Ahio "
+            },
+            {
+                "token": "נֹהֲגִ֖ים",
+                "transliteration": "nō·hă·ḡîm",
+                "strong": "5090",
+                "translation": " guiding "
+            },
+            {
+                "token": "בָּעֲגָלָֽה׃",
+                "transliteration": "bā·‘ă·ḡā·lāh",
+                "strong": "5699",
+                "translation": " the cart . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:7",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְדָוִ֣יד",
+                "transliteration": "wə·ḏā·wîḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "מְשַׂחֲקִ֛ים",
+                "transliteration": "mə·śa·ḥă·qîm",
+                "strong": "7832",
+                "translation": " were celebrating "
+            },
+            {
+                "token": "לִפְנֵ֥י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "הָאֱלֹהִ֖ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " with all "
+            },
+            {
+                "token": "עֹ֑ז",
+                "transliteration": "‘ōz",
+                "strong": "5797",
+                "translation": " their might , "
+            },
+            {
+                "token": "וּבְשִׁירִ֤ים",
+                "transliteration": "ū·ḇə·šî·rîm",
+                "strong": "7892",
+                "translation": " with songs "
+            },
+            {
+                "token": "וּבְכִנֹּרוֹת֙",
+                "transliteration": "ū·ḇə·ḵin·nō·rō·wṯ",
+                "strong": "3658",
+                "translation": " and on harps "
+            },
+            {
+                "token": "וּבִנְבָלִ֣ים",
+                "transliteration": "ū·ḇin·ḇā·lîm",
+                "strong": "5035",
+                "translation": " and lyres , "
+            },
+            {
+                "token": "וּבְתֻפִּ֔ים",
+                "transliteration": "ū·ḇə·ṯup·pîm",
+                "strong": "8596",
+                "translation": " with tambourines , "
+            },
+            {
+                "token": "וּבִמְצִלְתַּ֖יִם",
+                "transliteration": "ū·ḇim·ṣil·ta·yim",
+                "strong": "4700",
+                "translation": " cymbals , "
+            },
+            {
+                "token": "וּבַחֲצֹצְרֽוֹת׃",
+                "transliteration": "ū·ḇa·ḥă·ṣō·ṣə·rō·wṯ",
+                "strong": "2689",
+                "translation": " and trumpets . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:8",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּבֹ֖אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " When they came "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "גֹּ֣רֶן",
+                "transliteration": "gō·ren",
+                "strong": "1637",
+                "translation": " the threshing floor "
+            },
+            {
+                "token": "כִּידֹ֑ן",
+                "transliteration": "kî·ḏōn",
+                "strong": "3592",
+                "translation": " of Chidon , "
+            },
+            {
+                "token": "עֻזָּ֜א",
+                "transliteration": "‘uz·zā",
+                "strong": "5798",
+                "translation": " Uzzah "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָד֗וֹ",
+                "transliteration": "yā·ḏōw",
+                "strong": "3027",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּשְׁלַ֨ח",
+                "transliteration": "way·yiš·laḥ",
+                "strong": "7971",
+                "translation": " reached out "
+            },
+            {
+                "token": "לֶאֱחֹז֙",
+                "transliteration": "le·’ĕ·ḥōz",
+                "strong": "270",
+                "translation": " and took hold "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " of "
+            },
+            {
+                "token": "הָ֣אָר֔וֹן",
+                "transliteration": "hā·’ā·rō·wn",
+                "strong": "727",
+                "translation": " the ark , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "הַבָּקָֽר׃",
+                "transliteration": "hab·bā·qār",
+                "strong": "1241",
+                "translation": " the oxen "
+            },
+            {
+                "token": "שָֽׁמְט֖וּ",
+                "transliteration": "šā·mə·ṭū",
+                "strong": "8058",
+                "translation": " had stumbled . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:9",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֤ף",
+                "transliteration": "’ap̄",
+                "strong": "639",
+                "translation": " And the anger "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וַיִּֽחַר־",
+                "transliteration": "way·yi·ḥar-",
+                "strong": "2734",
+                "translation": " burned "
+            },
+            {
+                "token": "בְּעֻזָּ֔א",
+                "transliteration": "bə·‘uz·zā",
+                "strong": "5798",
+                "translation": " against Uzzah , "
+            },
+            {
+                "token": "וַיַּכֵּ֕הוּ",
+                "transliteration": "way·yak·kê·hū",
+                "strong": "5221",
+                "translation": " and He struck him "
+            },
+            {
+                "token": "עַ֛ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " down "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " because "
+            },
+            {
+                "token": "שָׁלַ֥ח",
+                "transliteration": "šā·laḥ",
+                "strong": "7971",
+                "translation": " he had put "
+            },
+            {
+                "token": "יָד֖וֹ",
+                "transliteration": "yā·ḏōw",
+                "strong": "3027",
+                "translation": " his hand "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "הָאָר֑וֹן",
+                "transliteration": "hā·’ā·rō·wn",
+                "strong": "727",
+                "translation": " the ark . "
+            },
+            {
+                "token": "וַיָּ֥מָת",
+                "transliteration": "way·yā·māṯ",
+                "strong": "4191",
+                "translation": " So he died "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "לִפְנֵ֥י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "אֱלֹהִֽים׃",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:10",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְדָוִ֔יד",
+                "transliteration": "lə·ḏā·wîḏ",
+                "strong": "1732",
+                "translation": " Then David "
+            },
+            {
+                "token": "וַיִּ֣חַר",
+                "transliteration": "way·yi·ḥar",
+                "strong": "2734",
+                "translation": " became angry "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "פָרַ֧ץ",
+                "transliteration": "p̄ā·raṣ",
+                "strong": "6555",
+                "translation": " had burst forth "
+            },
+            {
+                "token": "פֶּ֖רֶץ",
+                "transliteration": "pe·reṣ",
+                "strong": "6556",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּעֻזָּ֑א",
+                "transliteration": "bə·‘uz·zā",
+                "strong": "5798",
+                "translation": " against Uzzah ; "
+            },
+            {
+                "token": "וַיִּקְרָ֞א",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " so he named "
+            },
+            {
+                "token": "הַהוּא֙",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "לַמָּק֤וֹם",
+                "transliteration": "lam·mā·qō·wm",
+                "strong": "4725",
+                "translation": " place "
+            },
+            {
+                "token": "פֶּ֣רֶץ",
+                "transliteration": "pe·reṣ",
+                "strong": "6560",
+                "translation": " vvv "
+            },
+            {
+                "token": "עֻזָּ֔א",
+                "transliteration": "‘uz·zā",
+                "strong": "6560",
+                "translation": " Perez-uzzah , "
+            },
+            {
+                "token": "עַ֖ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " as it is [called] to "
+            },
+            {
+                "token": "הַזֶּֽה׃",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַיּ֥וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:11",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַה֖וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " That "
+            },
+            {
+                "token": "בַּיּ֥וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "דָוִיד֙",
+                "transliteration": "ḏā·wîḏ",
+                "strong": "1732",
+                "translation": " David "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּירָ֤א",
+                "transliteration": "way·yî·rā",
+                "strong": "3372",
+                "translation": " feared "
+            },
+            {
+                "token": "הָ֣אֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "לֵאמֹ֑ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " and asked , "
+            },
+            {
+                "token": "הֵ֚יךְ",
+                "transliteration": "hêḵ",
+                "strong": "1963",
+                "translation": " “ How "
+            },
+            {
+                "token": "אָבִ֣יא",
+                "transliteration": "’ā·ḇî",
+                "strong": "935",
+                "translation": " can I ever bring "
+            },
+            {
+                "token": "אֲר֥וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "הָאֱלֹהִֽים׃",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "אֵלַ֔י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to me "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - ? ” "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:12",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דָּוִ֧יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " So [he] "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " did not "
+            },
+            {
+                "token": "הֵסִ֨יר",
+                "transliteration": "hê·sîr",
+                "strong": "5493",
+                "translation": " move "
+            },
+            {
+                "token": "הָאָר֛וֹן",
+                "transliteration": "hā·’ā·rō·wn",
+                "strong": "727",
+                "translation": " the ark "
+            },
+            {
+                "token": "אֵלָ֖יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " with him "
+            },
+            {
+                "token": "עִ֣יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " to the City "
+            },
+            {
+                "token": "דָּוִ֑יד",
+                "transliteration": "dā·wîḏ",
+                "strong": "1732",
+                "translation": " of David ; "
+            },
+            {
+                "token": "וַיַּטֵּ֕הוּ",
+                "transliteration": "way·yaṭ·ṭê·hū",
+                "strong": "5186",
+                "translation": " instead, he took "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " it aside "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the house "
+            },
+            {
+                "token": "עֹבֵֽד־",
+                "transliteration": "‘ō·ḇêḏ-",
+                "strong": "5654",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֱדֹ֖ם",
+                "transliteration": "’ĕ·ḏōm",
+                "strong": "5654",
+                "translation": " of Obed-edom "
+            },
+            {
+                "token": "הַגִּתִּֽי׃",
+                "transliteration": "hag·git·tî",
+                "strong": "1663",
+                "translation": " the Gittite . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:13",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲר֨וֹן",
+                "transliteration": "’ă·rō·wn",
+                "strong": "727",
+                "translation": " Thus the ark "
+            },
+            {
+                "token": "הָאֱלֹהִ֜ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "וַיֵּשֶׁב֩",
+                "transliteration": "way·yê·šeḇ",
+                "strong": "3427",
+                "translation": " remained "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "בֵּ֨ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the family "
+            },
+            {
+                "token": "עֹבֵ֥ד",
+                "transliteration": "‘ō·ḇêḏ",
+                "strong": "5654",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֱדֹ֛ם",
+                "transliteration": "’ĕ·ḏōm",
+                "strong": "5654",
+                "translation": " of Obed-edom "
+            },
+            {
+                "token": "בְּבֵית֖וֹ",
+                "transliteration": "bə·ḇê·ṯōw",
+                "strong": "1004",
+                "translation": " in his house "
+            },
+            {
+                "token": "שְׁלֹשָׁ֣ה",
+                "transliteration": "šə·lō·šāh",
+                "strong": "7969",
+                "translation": " for three "
+            },
+            {
+                "token": "חֳדָשִׁ֑ים",
+                "transliteration": "ḥo·ḏā·šîm",
+                "strong": "2320",
+                "translation": " months , "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " and the LORD "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיְבָ֧רֶךְ",
+                "transliteration": "way·ḇā·reḵ",
+                "strong": "1288",
+                "translation": " blessed "
+            },
+            {
+                "token": "עֹבֵֽד־",
+                "transliteration": "‘ō·ḇêḏ-",
+                "strong": "5654",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֱדֹ֖ם",
+                "transliteration": "’ĕ·ḏōm",
+                "strong": "5654",
+                "translation": " [his] "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " household "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and everything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "לֽוֹ׃פ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " he owned . "
+            }
+        ],
+        "verse_reference": "1 Chronicles 13:14",
+        "book": "1 Chronicles",
+        "chapter": "13",
+        "verse": "14"
+    }
+]

@@ -1,0 +1,1396 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "שִׁמְע֞וּ",
+                "transliteration": "šim·‘ū",
+                "strong": "8085",
+                "translation": " Hear "
+            },
+            {
+                "token": "הַזֶּ֗ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַדָּבָ֣ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " word , "
+            },
+            {
+                "token": "פָּר֤וֹת",
+                "transliteration": "pā·rō·wṯ",
+                "strong": "6510",
+                "translation": " you cows "
+            },
+            {
+                "token": "הַבָּשָׁן֙",
+                "transliteration": "hab·bā·šān",
+                "strong": "1316",
+                "translation": " of Bashan "
+            },
+            {
+                "token": "אֲשֶׁר֙",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּהַ֣ר",
+                "transliteration": "bə·har",
+                "strong": "2022",
+                "translation": " on Mount "
+            },
+            {
+                "token": "שֹֽׁמְר֔וֹן",
+                "transliteration": "šō·mə·rō·wn",
+                "strong": "8111",
+                "translation": " Samaria , "
+            },
+            {
+                "token": "הָעֹשְׁק֣וֹת",
+                "transliteration": "hā·‘ō·šə·qō·wṯ",
+                "strong": "6231",
+                "translation": " you women who oppress "
+            },
+            {
+                "token": "דַּלִּ֔ים",
+                "transliteration": "dal·lîm",
+                "strong": "1800",
+                "translation": " the poor "
+            },
+            {
+                "token": "הָרֹצְצ֖וֹת",
+                "transliteration": "hā·rō·ṣə·ṣō·wṯ",
+                "strong": "7533",
+                "translation": " and crush "
+            },
+            {
+                "token": "אֶבְיוֹנִ֑ים",
+                "transliteration": "’eḇ·yō·w·nîm",
+                "strong": "34",
+                "translation": " the needy , "
+            },
+            {
+                "token": "הָאֹמְרֹ֥ת",
+                "transliteration": "hā·’ō·mə·rōṯ",
+                "strong": "559",
+                "translation": " who say "
+            },
+            {
+                "token": "לַאֲדֹֽנֵיהֶ֖ם",
+                "transliteration": "la·’ă·ḏō·nê·hem",
+                "strong": "113",
+                "translation": " to your husbands , "
+            },
+            {
+                "token": "הָבִ֥יאָה",
+                "transliteration": "hā·ḇî·’āh",
+                "strong": "935",
+                "translation": " “ Bring us "
+            },
+            {
+                "token": "וְנִשְׁתֶּֽה׃",
+                "transliteration": "wə·niš·teh",
+                "strong": "8354",
+                "translation": " more to drink . ” "
+            }
+        ],
+        "verse_reference": "Amos 4:1",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲדֹנָ֤י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " The Lord "
+            },
+            {
+                "token": "יְהוִה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "נִשְׁבַּ֨ע",
+                "transliteration": "niš·ba‘",
+                "strong": "7650",
+                "translation": " has sworn "
+            },
+            {
+                "token": "בְּקָדְשׁ֔וֹ",
+                "transliteration": "bə·qā·ḏə·šōw",
+                "strong": "6944",
+                "translation": " by His holiness : "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "הִנֵּ֥ה",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " “ Behold , "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " the days "
+            },
+            {
+                "token": "בָּאִ֣ים",
+                "transliteration": "bā·’îm",
+                "strong": "935",
+                "translation": " are coming "
+            },
+            {
+                "token": "עֲלֵיכֶ֑ם",
+                "transliteration": "‘ă·lê·ḵem",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְנִשָּׂ֤א",
+                "transliteration": "wə·niś·śā",
+                "strong": "5375",
+                "translation": " when you will be taken away "
+            },
+            {
+                "token": "אֶתְכֶם֙",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּצִנּ֔וֹת",
+                "transliteration": "bə·ṣin·nō·wṯ",
+                "strong": "6793",
+                "translation": " with hooks , "
+            },
+            {
+                "token": "וְאַחֲרִיתְכֶ֖ן",
+                "transliteration": "wə·’a·ḥă·rî·ṯə·ḵen",
+                "strong": "319",
+                "translation": " and your posterity "
+            },
+            {
+                "token": "בְּסִיר֥וֹת",
+                "transliteration": "bə·sî·rō·wṯ",
+                "strong": "5518",
+                "translation": " with "
+            },
+            {
+                "token": "דּוּגָֽה׃",
+                "transliteration": "dū·ḡāh",
+                "strong": "1729",
+                "translation": " fishhooks . "
+            }
+        ],
+        "verse_reference": "Amos 4:2",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תֵּצֶ֖אנָה",
+                "transliteration": "tê·ṣe·nāh",
+                "strong": "3318",
+                "translation": " You will go out "
+            },
+            {
+                "token": "וּפְרָצִ֥ים",
+                "transliteration": "ū·p̄ə·rā·ṣîm",
+                "strong": "6556",
+                "translation": " [through] broken [walls] , "
+            },
+            {
+                "token": "אִשָּׁ֣ה",
+                "transliteration": "’iš·šāh",
+                "strong": "802",
+                "translation": " each one "
+            },
+            {
+                "token": "נֶגְדָּ֑הּ",
+                "transliteration": "neḡ·dāh",
+                "strong": "5048",
+                "translation": " straight ahead of her , "
+            },
+            {
+                "token": "וְהִשְׁלַכְתֶּ֥נָה",
+                "transliteration": "wə·hiš·laḵ·te·nāh",
+                "strong": "7993",
+                "translation": " and you will be cast out "
+            },
+            {
+                "token": "הַהַרְמ֖וֹנָה",
+                "transliteration": "ha·har·mō·w·nāh",
+                "strong": "2038",
+                "translation": " toward Harmon , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:3",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בֹּ֤אוּ",
+                "transliteration": "bō·’ū",
+                "strong": "935",
+                "translation": " “ Go "
+            },
+            {
+                "token": "בֵֽית־",
+                "transliteration": "ḇêṯ-",
+                "strong": "1008",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֵל֙",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " to Bethel "
+            },
+            {
+                "token": "וּפִשְׁע֔וּ",
+                "transliteration": "ū·p̄iš·‘ū",
+                "strong": "6586",
+                "translation": " and transgress ; "
+            },
+            {
+                "token": "לִפְשֹׁ֑עַ",
+                "transliteration": "lip̄·šō·a‘",
+                "strong": "6586",
+                "translation": " rebel "
+            },
+            {
+                "token": "הַרְבּ֣וּ",
+                "transliteration": "har·bū",
+                "strong": "7235",
+                "translation": " even more "
+            },
+            {
+                "token": "הַגִּלְגָּ֖ל",
+                "transliteration": "hag·gil·gāl",
+                "strong": "1537",
+                "translation": " at Gilgal ! "
+            },
+            {
+                "token": "וְהָבִ֤יאוּ",
+                "transliteration": "wə·hā·ḇî·’ū",
+                "strong": "935",
+                "translation": " Bring "
+            },
+            {
+                "token": "זִבְחֵיכֶ֔ם",
+                "transliteration": "ziḇ·ḥê·ḵem",
+                "strong": "2077",
+                "translation": " your sacrifices "
+            },
+            {
+                "token": "לַבֹּ֙קֶר֙",
+                "transliteration": "lab·bō·qer",
+                "strong": "1242",
+                "translation": " every morning , "
+            },
+            {
+                "token": "מַעְשְׂרֹֽתֵיכֶֽם׃",
+                "transliteration": "ma‘·śə·rō·ṯê·ḵem",
+                "strong": "4643",
+                "translation": " your tithes "
+            },
+            {
+                "token": "לִשְׁלֹ֥שֶׁת",
+                "transliteration": "liš·lō·šeṯ",
+                "strong": "7969",
+                "translation": " every three "
+            },
+            {
+                "token": "יָמִ֖ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Amos 4:4",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְקַטֵּ֤ר",
+                "transliteration": "wə·qaṭ·ṭêr",
+                "strong": "6999",
+                "translation": " Offer "
+            },
+            {
+                "token": "מֵֽחָמֵץ֙",
+                "transliteration": "mê·ḥā·mêṣ",
+                "strong": "2557",
+                "translation": " leavened bread "
+            },
+            {
+                "token": "תּוֹדָ֔ה",
+                "transliteration": "tō·w·ḏāh",
+                "strong": "8426",
+                "translation": " as a thank offering , "
+            },
+            {
+                "token": "וְקִרְא֥וּ",
+                "transliteration": "wə·qir·’ū",
+                "strong": "7121",
+                "translation": " and loudly "
+            },
+            {
+                "token": "הַשְׁמִ֑יעוּ",
+                "transliteration": "haš·mî·‘ū",
+                "strong": "8085",
+                "translation": " proclaim "
+            },
+            {
+                "token": "נְדָב֖וֹת",
+                "transliteration": "nə·ḏā·ḇō·wṯ",
+                "strong": "5071",
+                "translation": " your freewill offerings . "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "כֵ֤ן",
+                "transliteration": "ḵên",
+                "strong": "3651",
+                "translation": " that is what "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " [you] children "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "אֲהַבְתֶּם֙",
+                "transliteration": "’ă·haḇ·tem",
+                "strong": "157",
+                "translation": " love to do , ” "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֥י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD . "
+            }
+        ],
+        "verse_reference": "Amos 4:5",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " “ - "
+            },
+            {
+                "token": "אֲנִי֩",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "נָתַ֨תִּי",
+                "transliteration": "nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " beset "
+            },
+            {
+                "token": "לָכֶ֜ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " vvv "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "עָ֣רֵיכֶ֔ם",
+                "transliteration": "‘ā·rê·ḵem",
+                "strong": "5892",
+                "translation": " your cities "
+            },
+            {
+                "token": "נִקְי֤וֹן",
+                "transliteration": "niq·yō·wn",
+                "strong": "5356",
+                "translation": " with cleanness "
+            },
+            {
+                "token": "שִׁנַּ֙יִם֙",
+                "transliteration": "šin·na·yim",
+                "strong": "8127",
+                "translation": " of teeth "
+            },
+            {
+                "token": "בְּכֹ֖ל",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "מְקוֹמֹֽתֵיכֶ֑ם",
+                "transliteration": "mə·qō·w·mō·ṯê·ḵem",
+                "strong": "4725",
+                "translation": " your towns "
+            },
+            {
+                "token": "וְחֹ֣סֶר",
+                "transliteration": "wə·ḥō·ser",
+                "strong": "2640",
+                "translation": " with lack "
+            },
+            {
+                "token": "לֶ֔חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "3899",
+                "translation": " of bread , "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet you did not "
+            },
+            {
+                "token": "שַׁבְתֶּ֥ם",
+                "transliteration": "šaḇ·tem",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "עָדַ֖י",
+                "transliteration": "‘ā·ḏay",
+                "strong": "5704",
+                "translation": " to Me , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:6",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָנֹכִי֩",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " “ I "
+            },
+            {
+                "token": "וְגַ֣ם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "מָנַ֨עְתִּי",
+                "transliteration": "mā·na‘·tî",
+                "strong": "4513",
+                "translation": " withheld "
+            },
+            {
+                "token": "הַגֶּ֗שֶׁם",
+                "transliteration": "hag·ge·šem",
+                "strong": "1653",
+                "translation": " the rain "
+            },
+            {
+                "token": "מִכֶּ֜ם",
+                "transliteration": "mik·kem",
+                "strong": "",
+                "translation": " from you "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לַקָּצִ֔יר",
+                "transliteration": "laq·qā·ṣîr",
+                "strong": "7105",
+                "translation": " when the harvest was "
+            },
+            {
+                "token": "שְׁלֹשָׁ֤ה",
+                "transliteration": "šə·lō·šāh",
+                "strong": "7969",
+                "translation": " three "
+            },
+            {
+                "token": "חֳדָשִׁים֙",
+                "transliteration": "ḥo·ḏā·šîm",
+                "strong": "2320",
+                "translation": " months "
+            },
+            {
+                "token": "בְּע֨וֹד",
+                "transliteration": "bə·‘ō·wḏ",
+                "strong": "5750",
+                "translation": " away . "
+            },
+            {
+                "token": "וְהִמְטַרְתִּי֙",
+                "transliteration": "wə·him·ṭar·tî",
+                "strong": "4305",
+                "translation": " I sent rain "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "אֶחָ֔ת",
+                "transliteration": "’e·ḥāṯ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "עִ֣יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " city "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " but withheld "
+            },
+            {
+                "token": "אַמְטִ֑יר",
+                "transliteration": "’am·ṭîr",
+                "strong": "4305",
+                "translation": " [it] "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " from "
+            },
+            {
+                "token": "עִ֥יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַחַ֖ת",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " another . "
+            },
+            {
+                "token": "אַחַת֙",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " One "
+            },
+            {
+                "token": "חֶלְקָ֤ה",
+                "transliteration": "ḥel·qāh",
+                "strong": "2513",
+                "translation": " field "
+            },
+            {
+                "token": "תִּמָּטֵ֔ר",
+                "transliteration": "tim·mā·ṭêr",
+                "strong": "4305",
+                "translation": " received rain ; "
+            },
+            {
+                "token": "וְחֶלְקָ֛ה",
+                "transliteration": "wə·ḥel·qāh",
+                "strong": "2513",
+                "translation": " another "
+            },
+            {
+                "token": "אֲשֶֽׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " without "
+            },
+            {
+                "token": "תַמְטִ֥יר",
+                "transliteration": "ṯam·ṭîr",
+                "strong": "4305",
+                "translation": " rain "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִּיבָֽשׁ׃",
+                "transliteration": "tî·ḇāš",
+                "strong": "3001",
+                "translation": " withered . "
+            }
+        ],
+        "verse_reference": "Amos 4:7",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנָע֡וּ",
+                "transliteration": "wə·nā·‘ū",
+                "strong": "5128",
+                "translation": " People staggered "
+            },
+            {
+                "token": "שְׁתַּיִם֩",
+                "transliteration": "šə·ta·yim",
+                "strong": "8147",
+                "translation": " vvv "
+            },
+            {
+                "token": "שָׁלֹ֨שׁ",
+                "transliteration": "šā·lōš",
+                "strong": "7969",
+                "translation": " vvv "
+            },
+            {
+                "token": "עָרִ֜ים",
+                "transliteration": "‘ā·rîm",
+                "strong": "5892",
+                "translation": " from city "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַחַ֛ת",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " vvv "
+            },
+            {
+                "token": "עִ֥יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " city "
+            },
+            {
+                "token": "מַ֖יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " for water "
+            },
+            {
+                "token": "לִשְׁתּ֥וֹת",
+                "transliteration": "liš·tō·wṯ",
+                "strong": "8354",
+                "translation": " to drink , "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " but they were not "
+            },
+            {
+                "token": "יִשְׂבָּ֑עוּ",
+                "transliteration": "yiś·bā·‘ū",
+                "strong": "7646",
+                "translation": " satisfied ; "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet you did not "
+            },
+            {
+                "token": "שַׁבְתֶּ֥ם",
+                "transliteration": "šaḇ·tem",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "עָדַ֖י",
+                "transliteration": "‘ā·ḏay",
+                "strong": "5704",
+                "translation": " to Me , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:8",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הִכֵּ֣יתִי",
+                "transliteration": "hik·kê·ṯî",
+                "strong": "5221",
+                "translation": " “ I struck "
+            },
+            {
+                "token": "אֶתְכֶם֮",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בַּשִּׁדָּפ֣וֹן",
+                "transliteration": "baš·šid·dā·p̄ō·wn",
+                "strong": "7711",
+                "translation": " you with blight "
+            },
+            {
+                "token": "וּבַיֵּרָקוֹן֒",
+                "transliteration": "ū·ḇay·yê·rā·qō·wn",
+                "strong": "3420",
+                "translation": " and mildew "
+            },
+            {
+                "token": "הַרְבּ֨וֹת",
+                "transliteration": "har·bō·wṯ",
+                "strong": "7235",
+                "translation": " in your growing "
+            },
+            {
+                "token": "גַּנּוֹתֵיכֶ֧ם",
+                "transliteration": "gan·nō·w·ṯê·ḵem",
+                "strong": "1593",
+                "translation": " gardens "
+            },
+            {
+                "token": "וְכַרְמֵיכֶ֛ם",
+                "transliteration": "wə·ḵar·mê·ḵem",
+                "strong": "3754",
+                "translation": " and vineyards ; "
+            },
+            {
+                "token": "הַגָּזָ֑ם",
+                "transliteration": "hag·gā·zām",
+                "strong": "1501",
+                "translation": " the locust "
+            },
+            {
+                "token": "יֹאכַ֣ל",
+                "transliteration": "yō·ḵal",
+                "strong": "398",
+                "translation": " devoured "
+            },
+            {
+                "token": "וּתְאֵנֵיכֶ֥ם",
+                "transliteration": "ū·ṯə·’ê·nê·ḵem",
+                "strong": "8384",
+                "translation": " your fig "
+            },
+            {
+                "token": "וְזֵיתֵיכֶ֖ם",
+                "transliteration": "wə·zê·ṯê·ḵem",
+                "strong": "2132",
+                "translation": " and olive trees , "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet you did not "
+            },
+            {
+                "token": "שַׁבְתֶּ֥ם",
+                "transliteration": "šaḇ·tem",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "עָדַ֖י",
+                "transliteration": "‘ā·ḏay",
+                "strong": "5704",
+                "translation": " to Me , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃ס",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:9",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁלַּ֨חְתִּי",
+                "transliteration": "šil·laḥ·tî",
+                "strong": "7971",
+                "translation": " “ I sent "
+            },
+            {
+                "token": "דֶּ֙בֶר֙",
+                "transliteration": "de·ḇer",
+                "strong": "1698",
+                "translation": " plagues "
+            },
+            {
+                "token": "בָכֶ֥ם",
+                "transliteration": "ḇā·ḵem",
+                "strong": "",
+                "translation": " among you "
+            },
+            {
+                "token": "בְּדֶ֣רֶךְ",
+                "transliteration": "bə·ḏe·reḵ",
+                "strong": "1870",
+                "translation": " like those "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt ; "
+            },
+            {
+                "token": "הָרַ֤גְתִּי",
+                "transliteration": "hā·raḡ·tî",
+                "strong": "2026",
+                "translation": " I killed "
+            },
+            {
+                "token": "בַּח֣וּרֵיכֶ֔ם",
+                "transliteration": "ba·ḥū·rê·ḵem",
+                "strong": "970",
+                "translation": " your young men "
+            },
+            {
+                "token": "בַחֶ֙רֶב֙",
+                "transliteration": "ḇa·ḥe·reḇ",
+                "strong": "2719",
+                "translation": " with the sword , "
+            },
+            {
+                "token": "עִ֖ם",
+                "transliteration": "‘im",
+                "strong": "5973",
+                "translation": " along with "
+            },
+            {
+                "token": "שְׁבִ֣י",
+                "transliteration": "šə·ḇî",
+                "strong": "7628",
+                "translation": " your captured "
+            },
+            {
+                "token": "סֽוּסֵיכֶ֑ם",
+                "transliteration": "sū·sê·ḵem",
+                "strong": "5483",
+                "translation": " horses . "
+            },
+            {
+                "token": "וָאַעֲלֶ֞ה",
+                "transliteration": "wā·’a·‘ă·leh",
+                "strong": "5927",
+                "translation": " I filled "
+            },
+            {
+                "token": "וּֽבְאַפְּכֶ֔ם",
+                "transliteration": "ū·ḇə·’ap·pə·ḵem",
+                "strong": "639",
+                "translation": " your nostrils "
+            },
+            {
+                "token": "בְּאֹ֤שׁ",
+                "transliteration": "bə·’ōš",
+                "strong": "889",
+                "translation": " with the stench "
+            },
+            {
+                "token": "מַחֲנֵיכֶם֙",
+                "transliteration": "ma·ḥă·nê·ḵem",
+                "strong": "4264",
+                "translation": " of your camp , "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet you did not "
+            },
+            {
+                "token": "שַׁבְתֶּ֥ם",
+                "transliteration": "šaḇ·tem",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "עָדַ֖י",
+                "transliteration": "‘ā·ḏay",
+                "strong": "5704",
+                "translation": " to Me , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:10",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָפַ֣כְתִּי",
+                "transliteration": "hā·p̄aḵ·tî",
+                "strong": "2015",
+                "translation": " “ Some of you I overthrew "
+            },
+            {
+                "token": "בָכֶ֗ם",
+                "transliteration": "ḇā·ḵem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "כְּמַהְפֵּכַ֤ת",
+                "transliteration": "kə·mah·pê·ḵaṯ",
+                "strong": "4114",
+                "translation": " as I overthrew "
+            },
+            {
+                "token": "אֱלֹהִים֙",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "סְדֹ֣ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " Sodom "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עֲמֹרָ֔ה",
+                "transliteration": "‘ă·mō·rāh",
+                "strong": "6017",
+                "translation": " and Gomorrah , "
+            },
+            {
+                "token": "וַתִּהְי֕וּ",
+                "transliteration": "wat·tih·yū",
+                "strong": "1961",
+                "translation": " and you were "
+            },
+            {
+                "token": "כְּא֖וּד",
+                "transliteration": "kə·’ūḏ",
+                "strong": "181",
+                "translation": " like a firebrand "
+            },
+            {
+                "token": "מֻצָּ֣ל",
+                "transliteration": "muṣ·ṣāl",
+                "strong": "5337",
+                "translation": " snatched "
+            },
+            {
+                "token": "מִשְׂרֵפָ֑ה",
+                "transliteration": "miś·rē·p̄å̄h",
+                "strong": "8316",
+                "translation": " from a blaze , "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet you did not "
+            },
+            {
+                "token": "שַׁבְתֶּ֥ם",
+                "transliteration": "šaḇ·tem",
+                "strong": "7725",
+                "translation": " return "
+            },
+            {
+                "token": "עָדַ֖י",
+                "transliteration": "‘ā·ḏay",
+                "strong": "5704",
+                "translation": " to Me , ” "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָֽה׃ס",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            }
+        ],
+        "verse_reference": "Amos 4:11",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֵ֕ן",
+                "transliteration": "lā·ḵên",
+                "strong": "3651",
+                "translation": " “ Therefore , "
+            },
+            {
+                "token": "כֹּ֥ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " that is what "
+            },
+            {
+                "token": "אֶעֱשֶׂה־",
+                "transliteration": "’e·‘ĕ·śeh-",
+                "strong": "6213",
+                "translation": " I will do "
+            },
+            {
+                "token": "לְּךָ֖",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " to you , "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " O Israel , "
+            },
+            {
+                "token": "עֵ֚קֶב",
+                "transliteration": "‘ê·qeḇ",
+                "strong": "6118",
+                "translation": " and since "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶֽעֱשֶׂה־",
+                "transliteration": "’e·‘ĕ·śeh-",
+                "strong": "6213",
+                "translation": " I will do "
+            },
+            {
+                "token": "זֹ֣את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "לָּ֔ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " to you , "
+            },
+            {
+                "token": "הִכּ֥וֹן",
+                "transliteration": "hik·kō·wn",
+                "strong": "3559",
+                "translation": " prepare "
+            },
+            {
+                "token": "לִקְרַאת־",
+                "transliteration": "liq·raṯ-",
+                "strong": "7122",
+                "translation": " to meet "
+            },
+            {
+                "token": "אֱלֹהֶ֖יךָ",
+                "transliteration": "’ĕ·lō·he·ḵā",
+                "strong": "430",
+                "translation": " your God , "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " O Israel ! "
+            }
+        ],
+        "verse_reference": "Amos 4:12",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֡י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "הִנֵּה֩",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " behold , "
+            },
+            {
+                "token": "יוֹצֵ֨ר",
+                "transliteration": "yō·w·ṣêr",
+                "strong": "3335",
+                "translation": " He who forms "
+            },
+            {
+                "token": "הָרִ֜ים",
+                "transliteration": "hā·rîm",
+                "strong": "2022",
+                "translation": " the mountains , "
+            },
+            {
+                "token": "וּבֹרֵ֣א",
+                "transliteration": "ū·ḇō·rê",
+                "strong": "1254",
+                "translation": " who creates "
+            },
+            {
+                "token": "ר֗וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " the wind "
+            },
+            {
+                "token": "וּמַגִּ֤יד",
+                "transliteration": "ū·mag·gîḏ",
+                "strong": "5046",
+                "translation": " and reveals "
+            },
+            {
+                "token": "שֵּׂח֔וֹ",
+                "transliteration": "śê·ḥōw",
+                "strong": "7808",
+                "translation": " His thoughts "
+            },
+            {
+                "token": "לְאָדָם֙",
+                "transliteration": "lə·’ā·ḏām",
+                "strong": "120",
+                "translation": " to man "
+            },
+            {
+                "token": "מַה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " - , "
+            },
+            {
+                "token": "עֹשֵׂ֥ה",
+                "transliteration": "‘ō·śêh",
+                "strong": "6213",
+                "translation": " who turns "
+            },
+            {
+                "token": "שַׁ֙חַר֙",
+                "transliteration": "ša·ḥar",
+                "strong": "7837",
+                "translation": " the dawn "
+            },
+            {
+                "token": "עֵיפָ֔ה",
+                "transliteration": "‘ê·p̄āh",
+                "strong": "5890",
+                "translation": " to darkness "
+            },
+            {
+                "token": "וְדֹרֵ֖ךְ",
+                "transliteration": "wə·ḏō·rêḵ",
+                "strong": "1869",
+                "translation": " and strides "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "בָּ֣מֳתֵי",
+                "transliteration": "bā·mo·ṯê",
+                "strong": "1116",
+                "translation": " the heights "
+            },
+            {
+                "token": "אָ֑רֶץ",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth — "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵֽי־",
+                "transliteration": "’ĕ·lō·hê-",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "צְבָא֖וֹת",
+                "transliteration": "ṣə·ḇā·’ō·wṯ",
+                "strong": "6635",
+                "translation": " of Hosts , "
+            },
+            {
+                "token": "שְׁמֽוֹ׃ס",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " is His name . ” "
+            }
+        ],
+        "verse_reference": "Amos 4:13",
+        "book": "Amos",
+        "chapter": "4",
+        "verse": "13"
+    }
+]

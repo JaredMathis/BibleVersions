@@ -1,0 +1,3178 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "חֲדָ֗ה",
+                "transliteration": "ḥă·ḏāh",
+                "strong": "2298",
+                "translation": " In the first "
+            },
+            {
+                "token": "בִּשְׁנַ֣ת",
+                "transliteration": "biš·naṯ",
+                "strong": "8140",
+                "translation": " year "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4430",
+                "translation": " of the reign "
+            },
+            {
+                "token": "לְבֵלְאשַׁצַּר֙",
+                "transliteration": "lə·ḇê·lə·šaṣ·ṣar",
+                "strong": "1113",
+                "translation": " of Belshazzar "
+            },
+            {
+                "token": "בָּבֶ֔ל",
+                "transliteration": "bā·ḇel",
+                "strong": "895",
+                "translation": " over Babylon , "
+            },
+            {
+                "token": "דָּנִיֵּאל֙",
+                "transliteration": "dā·nî·yêl",
+                "strong": "1841",
+                "translation": " Daniel "
+            },
+            {
+                "token": "חֲזָ֔ה",
+                "transliteration": "ḥă·zāh",
+                "strong": "2370",
+                "translation": " had "
+            },
+            {
+                "token": "חֵ֣לֶם",
+                "transliteration": "ḥê·lem",
+                "strong": "2493",
+                "translation": " a dream , "
+            },
+            {
+                "token": "וְחֶזְוֵ֥י",
+                "transliteration": "wə·ḥez·wê",
+                "strong": "2376",
+                "translation": " and visions "
+            },
+            {
+                "token": "רֵאשֵׁ֖הּ",
+                "transliteration": "rê·šêh",
+                "strong": "7217",
+                "translation": " passed through his mind "
+            },
+            {
+                "token": "עַֽל־",
+                "transliteration": "‘al-",
+                "strong": "5922",
+                "translation": " as he lay "
+            },
+            {
+                "token": "מִשְׁכְּבֵ֑הּ",
+                "transliteration": "miš·kə·ḇêh",
+                "strong": "4903",
+                "translation": " on his bed . "
+            },
+            {
+                "token": "בֵּאדַ֙יִן֙",
+                "transliteration": "bê·ḏa·yin",
+                "strong": "116",
+                "translation": " . . . "
+            },
+            {
+                "token": "כְתַ֔ב",
+                "transliteration": "ḵə·ṯaḇ",
+                "strong": "3790",
+                "translation": " He wrote down "
+            },
+            {
+                "token": "חֶלְמָ֣א",
+                "transliteration": "ḥel·mā",
+                "strong": "2493",
+                "translation": " the dream , "
+            },
+            {
+                "token": "רֵ֥אשׁ",
+                "transliteration": "rêš",
+                "strong": "7217",
+                "translation": " and this is the summary "
+            },
+            {
+                "token": "מִלִּ֖ין",
+                "transliteration": "mil·lîn",
+                "strong": "4406",
+                "translation": " of his account "
+            },
+            {
+                "token": "אֲמַֽר׃",
+                "transliteration": "’ă·mar",
+                "strong": "560",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Daniel 7:1",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דָנִיֵּאל֙",
+                "transliteration": "ḏā·nî·yêl",
+                "strong": "1841",
+                "translation": " Daniel "
+            },
+            {
+                "token": "וְאָמַ֔ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "560",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָנֵ֤ה",
+                "transliteration": "‘ā·nêh",
+                "strong": "6032",
+                "translation": " declared : "
+            },
+            {
+                "token": "בְּחֶזְוִ֖י",
+                "transliteration": "bə·ḥez·wî",
+                "strong": "2376",
+                "translation": " “ In my vision "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5974",
+                "translation": " in "
+            },
+            {
+                "token": "לֵֽילְיָ֑א",
+                "transliteration": "lê·lə·yā",
+                "strong": "3916",
+                "translation": " the night "
+            },
+            {
+                "token": "הֲוֵ֛ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " I "
+            },
+            {
+                "token": "חָזֵ֥ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " looked , "
+            },
+            {
+                "token": "וַאֲר֗וּ",
+                "transliteration": "wa·’ă·rū",
+                "strong": "718",
+                "translation": " and suddenly "
+            },
+            {
+                "token": "אַרְבַּע֙",
+                "transliteration": "’ar·ba‘",
+                "strong": "703",
+                "translation": " the four "
+            },
+            {
+                "token": "רוּחֵ֣י",
+                "transliteration": "rū·ḥê",
+                "strong": "7308",
+                "translation": " winds "
+            },
+            {
+                "token": "שְׁמַיָּ֔א",
+                "transliteration": "šə·may·yā",
+                "strong": "8065",
+                "translation": " of heaven "
+            },
+            {
+                "token": "מְגִיחָ֖ן",
+                "transliteration": "mə·ḡî·ḥān",
+                "strong": "1519",
+                "translation": " were churning up "
+            },
+            {
+                "token": "רַבָּֽא׃",
+                "transliteration": "rab·bā",
+                "strong": "7229",
+                "translation": " the great "
+            },
+            {
+                "token": "לְיַמָּ֥א",
+                "transliteration": "lə·yam·mā",
+                "strong": "3221",
+                "translation": " sea . "
+            }
+        ],
+        "verse_reference": "Daniel 7:2",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאַרְבַּ֤ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "703",
+                "translation": " Then four "
+            },
+            {
+                "token": "רַבְרְבָ֔ן",
+                "transliteration": "raḇ·rə·ḇān",
+                "strong": "7260",
+                "translation": " great "
+            },
+            {
+                "token": "חֵיוָן֙",
+                "transliteration": "ḥê·wān",
+                "strong": "2423",
+                "translation": " beasts "
+            },
+            {
+                "token": "סָלְקָ֖ן",
+                "transliteration": "sā·lə·qān",
+                "strong": "5559",
+                "translation": " came up "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " out of "
+            },
+            {
+                "token": "יַמָּ֑א",
+                "transliteration": "yam·mā",
+                "strong": "3221",
+                "translation": " the sea , "
+            },
+            {
+                "token": "דָּ֥א",
+                "transliteration": "dā",
+                "strong": "1668",
+                "translation": " each one "
+            },
+            {
+                "token": "שָׁנְיָ֖ן",
+                "transliteration": "šā·nə·yān",
+                "strong": "8133",
+                "translation": " different "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "דָּֽא׃",
+                "transliteration": "dā",
+                "strong": "1668",
+                "translation": " the others : "
+            }
+        ],
+        "verse_reference": "Daniel 7:3",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קַדְמָיְתָ֣א",
+                "transliteration": "qaḏ·mā·yə·ṯā",
+                "strong": "6933",
+                "translation": " The first [beast] "
+            },
+            {
+                "token": "כְאַרְיֵ֔ה",
+                "transliteration": "ḵə·’ar·yêh",
+                "strong": "744",
+                "translation": " was like a lion , "
+            },
+            {
+                "token": "לַ֑הּ",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " and it had "
+            },
+            {
+                "token": "וְגַפִּ֥ין",
+                "transliteration": "wə·ḡap·pîn",
+                "strong": "1611",
+                "translation": " [the] wings "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " - "
+            },
+            {
+                "token": "נְשַׁ֖ר",
+                "transliteration": "nə·šar",
+                "strong": "5403",
+                "translation": " of an eagle . "
+            },
+            {
+                "token": "הֲוֵ֡ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " I "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " watched "
+            },
+            {
+                "token": "עַד֩",
+                "transliteration": "‘aḏ",
+                "strong": "5705",
+                "translation": " until "
+            },
+            {
+                "token": "דִּי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "גַפַּ֜יהּ",
+                "transliteration": "ḡap·payh",
+                "strong": "1611",
+                "translation": " its wings "
+            },
+            {
+                "token": "מְּרִ֨יטוּ",
+                "transliteration": "mə·rî·ṭū",
+                "strong": "4804",
+                "translation": " were torn off "
+            },
+            {
+                "token": "וּנְטִ֣ילַת",
+                "transliteration": "ū·nə·ṭî·laṯ",
+                "strong": "5191",
+                "translation": " and it was lifted up "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "אַרְעָ֗א",
+                "transliteration": "’ar·‘ā",
+                "strong": "772",
+                "translation": " the ground "
+            },
+            {
+                "token": "הֳקִימַ֔ת",
+                "transliteration": "ho·qî·maṯ",
+                "strong": "6966",
+                "translation": " and made to stand "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5922",
+                "translation": " on "
+            },
+            {
+                "token": "רַגְלַ֙יִן֙",
+                "transliteration": "raḡ·la·yin",
+                "strong": "7271",
+                "translation": " two feet "
+            },
+            {
+                "token": "כֶּאֱנָ֣שׁ",
+                "transliteration": "ke·’ĕ·nāš",
+                "strong": "606",
+                "translation": " like a man , "
+            },
+            {
+                "token": "יְהִ֥יב",
+                "transliteration": "yə·hîḇ",
+                "strong": "3052",
+                "translation": " and given "
+            },
+            {
+                "token": "לַֽהּ׃",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וּלְבַ֥ב",
+                "transliteration": "ū·lə·ḇaḇ",
+                "strong": "3825",
+                "translation": " the mind "
+            },
+            {
+                "token": "אֱנָ֖שׁ",
+                "transliteration": "’ĕ·nāš",
+                "strong": "606",
+                "translation": " of a man . "
+            }
+        ],
+        "verse_reference": "Daniel 7:4",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַאֲר֣וּ",
+                "transliteration": "wa·’ă·rū",
+                "strong": "718",
+                "translation": " Suddenly "
+            },
+            {
+                "token": "אָחֳרִ֨י",
+                "transliteration": "’ā·ḥo·rî",
+                "strong": "317",
+                "translation": " another "
+            },
+            {
+                "token": "חֵיוָה֩",
+                "transliteration": "ḥê·wāh",
+                "strong": "2423",
+                "translation": " beast {appeared} , "
+            },
+            {
+                "token": "תִנְיָנָ֜ה",
+                "transliteration": "ṯin·yā·nāh",
+                "strong": "8578",
+                "translation": " which "
+            },
+            {
+                "token": "דָּמְיָ֣ה",
+                "transliteration": "dā·mə·yāh",
+                "strong": "1821",
+                "translation": " looked like "
+            },
+            {
+                "token": "לְדֹ֗ב",
+                "transliteration": "lə·ḏōḇ",
+                "strong": "1678",
+                "translation": " a bear . "
+            },
+            {
+                "token": "הֳקִמַ֔ת",
+                "transliteration": "ho·qi·maṯ",
+                "strong": "6966",
+                "translation": " It was raised up "
+            },
+            {
+                "token": "חַד֙",
+                "transliteration": "ḥaḏ",
+                "strong": "2298",
+                "translation": " on one "
+            },
+            {
+                "token": "וְלִשְׂטַר־",
+                "transliteration": "wə·liś·ṭar-",
+                "strong": "7859",
+                "translation": " of its sides , "
+            },
+            {
+                "token": "וּתְלָ֥ת",
+                "transliteration": "ū·ṯə·lāṯ",
+                "strong": "8532",
+                "translation": " and it had three "
+            },
+            {
+                "token": "עִלְעִ֛ין",
+                "transliteration": "‘il·‘în",
+                "strong": "5967",
+                "translation": " ribs "
+            },
+            {
+                "token": "בְּפֻמַּ֖הּ",
+                "transliteration": "bə·p̄um·mah",
+                "strong": "6433",
+                "translation": " in its mouth "
+            },
+            {
+                "token": "בֵּ֣ין",
+                "transliteration": "bên",
+                "strong": "997",
+                "translation": " between "
+            },
+            {
+                "token": "שִׁנַּיַּהּ",
+                "transliteration": "šin·nay·yah",
+                "strong": "8128",
+                "translation": " its teeth . "
+            },
+            {
+                "token": "וְכֵן֙",
+                "transliteration": "wə·ḵên",
+                "strong": "3652",
+                "translation": " So "
+            },
+            {
+                "token": "אָמְרִ֣ין",
+                "transliteration": "’ā·mə·rîn",
+                "strong": "560",
+                "translation": " it was told "
+            },
+            {
+                "token": "לַ֔הּ",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "ק֥וּמִֽי",
+                "transliteration": "qū·mî",
+                "strong": "6966",
+                "translation": " ‘ Get up "
+            },
+            {
+                "token": "אֲכֻ֖לִי",
+                "transliteration": "’ă·ḵu·lî",
+                "strong": "399",
+                "translation": " [and] gorge yourself "
+            },
+            {
+                "token": "בְּשַׂ֥ר",
+                "transliteration": "bə·śar",
+                "strong": "1321",
+                "translation": " on flesh "
+            },
+            {
+                "token": "שַׂגִּֽיא׃",
+                "transliteration": "śag·gî",
+                "strong": "7690",
+                "translation": " . . . ! ’ "
+            }
+        ],
+        "verse_reference": "Daniel 7:5",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בָּאתַ֨ר",
+                "transliteration": "bā·ṯar",
+                "strong": "870",
+                "translation": " Next "
+            },
+            {
+                "token": "דְּנָ֜ה",
+                "transliteration": "də·nāh",
+                "strong": "1836",
+                "translation": " . . . , "
+            },
+            {
+                "token": "הֲוֵ֗ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " as I "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " watched , "
+            },
+            {
+                "token": "אָֽחֳרִי֙",
+                "transliteration": "’ā·ḥo·rî",
+                "strong": "317",
+                "translation": " another beast "
+            },
+            {
+                "token": "וַאֲר֤וּ",
+                "transliteration": "wa·’ă·rū",
+                "strong": "718",
+                "translation": " appeared . "
+            },
+            {
+                "token": "כִּנְמַ֔ר",
+                "transliteration": "kin·mar",
+                "strong": "5245",
+                "translation": " It was like a leopard , "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5922",
+                "translation": " and on "
+            },
+            {
+                "token": "גַּבַּיַּהּ",
+                "transliteration": "gab·bay·yah",
+                "strong": "1355",
+                "translation": " its back "
+            },
+            {
+                "token": "וְלַ֨הּ",
+                "transliteration": "wə·lah",
+                "strong": "",
+                "translation": " it had "
+            },
+            {
+                "token": "אַרְבַּ֛ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "703",
+                "translation": " four "
+            },
+            {
+                "token": "גַּפִּ֥ין",
+                "transliteration": "gap·pîn",
+                "strong": "1611",
+                "translation": " wings "
+            },
+            {
+                "token": "דִּי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " like those of "
+            },
+            {
+                "token": "ע֖וֹף",
+                "transliteration": "‘ō·wp̄",
+                "strong": "5776",
+                "translation": " a bird . "
+            },
+            {
+                "token": "לְחֵ֣יוְתָ֔א",
+                "transliteration": "lə·ḥê·wə·ṯā",
+                "strong": "2423",
+                "translation": " The beast also "
+            },
+            {
+                "token": "וְאַרְבְּעָ֤ה",
+                "transliteration": "wə·’ar·bə·‘āh",
+                "strong": "703",
+                "translation": " had four "
+            },
+            {
+                "token": "רֵאשִׁין֙",
+                "transliteration": "rê·šîn",
+                "strong": "7217",
+                "translation": " heads , "
+            },
+            {
+                "token": "יְהִ֥יב",
+                "transliteration": "yə·hîḇ",
+                "strong": "3052",
+                "translation": " and it was given "
+            },
+            {
+                "token": "לַֽהּ׃",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וְשָׁלְטָ֖ן",
+                "transliteration": "wə·šā·lə·ṭān",
+                "strong": "7985",
+                "translation": " authority to rule . "
+            }
+        ],
+        "verse_reference": "Daniel 7:6",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בָּאתַ֣ר",
+                "transliteration": "bā·ṯar",
+                "strong": "870",
+                "translation": " After "
+            },
+            {
+                "token": "דְּנָה֩",
+                "transliteration": "də·nāh",
+                "strong": "1836",
+                "translation": " this , "
+            },
+            {
+                "token": "הֲוֵ֜ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " as I "
+            },
+            {
+                "token": "חָזֵ֨ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " watched "
+            },
+            {
+                "token": "בְּחֶזְוֵ֣י",
+                "transliteration": "bə·ḥez·wê",
+                "strong": "2376",
+                "translation": " in my vision "
+            },
+            {
+                "token": "לֵֽילְיָ֗א",
+                "transliteration": "lê·lə·yā",
+                "strong": "3916",
+                "translation": " in the night , "
+            },
+            {
+                "token": "וַאֲר֣וּ",
+                "transliteration": "wa·’ă·rū",
+                "strong": "718",
+                "translation": " suddenly "
+            },
+            {
+                "token": "רְבִיעָיָה",
+                "transliteration": "rə·ḇī·ʿå̄·yå̄h",
+                "strong": "7244",
+                "translation": " a fourth "
+            },
+            {
+                "token": "חֵיוָ֣ה",
+                "transliteration": "ḥê·wāh",
+                "strong": "2423",
+                "translation": " beast {appeared} , "
+            },
+            {
+                "token": "דְּחִילָה֩",
+                "transliteration": "də·ḥî·lāh",
+                "strong": "1763",
+                "translation": " [and it was] terrifying — "
+            },
+            {
+                "token": "וְאֵֽימְתָנִ֨י",
+                "transliteration": "wə·’ê·mə·ṯā·nî",
+                "strong": "574",
+                "translation": " dreadful "
+            },
+            {
+                "token": "יַתִּ֗ירָא",
+                "transliteration": "yat·tî·rā",
+                "strong": "3493",
+                "translation": " and extremely "
+            },
+            {
+                "token": "וְתַקִּיפָ֜א",
+                "transliteration": "wə·ṯaq·qî·p̄ā",
+                "strong": "8624",
+                "translation": " strong — "
+            },
+            {
+                "token": "לַהּ֙",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " with "
+            },
+            {
+                "token": "רַבְרְבָ֔ן",
+                "transliteration": "raḇ·rə·ḇān",
+                "strong": "7260",
+                "translation": " large "
+            },
+            {
+                "token": "פַרְזֶ֥ל",
+                "transliteration": "p̄ar·zel",
+                "strong": "6523",
+                "translation": " iron "
+            },
+            {
+                "token": "וְשִׁנַּ֨יִן",
+                "transliteration": "wə·šin·na·yin",
+                "strong": "8128",
+                "translation": " teeth . "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָֽכְלָ֣ה",
+                "transliteration": "’ā·ḵə·lāh",
+                "strong": "399",
+                "translation": " It devoured "
+            },
+            {
+                "token": "וּמַדֱּקָ֔ה",
+                "transliteration": "ū·mad·dĕ·qāh",
+                "strong": "1855",
+                "translation": " and crushed ; "
+            },
+            {
+                "token": "רָפְסָ֑ה",
+                "transliteration": "rā·p̄ə·sāh",
+                "strong": "7512",
+                "translation": " then it trampled "
+            },
+            {
+                "token": "וְהִ֣יא",
+                "transliteration": "wə·hî",
+                "strong": "1932",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּרַגְלַיַּהּ",
+                "transliteration": "bə·raḡ·lay·yah",
+                "strong": "7271",
+                "translation": " underfoot "
+            },
+            {
+                "token": "וּשְׁאָרָ֖א",
+                "transliteration": "ū·šə·’ā·rā",
+                "strong": "7606",
+                "translation": " whatever was left . "
+            },
+            {
+                "token": "מְשַׁנְּיָ֗ה",
+                "transliteration": "mə·šan·nə·yāh",
+                "strong": "8133",
+                "translation": " It was different "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3606",
+                "translation": " all "
+            },
+            {
+                "token": "חֵֽיוָתָא֙",
+                "transliteration": "ḥê·wā·ṯā",
+                "strong": "2423",
+                "translation": " the beasts "
+            },
+            {
+                "token": "דִּ֣י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "קָֽדָמַ֔יהּ",
+                "transliteration": "qā·ḏā·mayh",
+                "strong": "6925",
+                "translation": " before it , "
+            },
+            {
+                "token": "עֲשַׂ֖ר",
+                "transliteration": "‘ă·śar",
+                "strong": "6236",
+                "translation": " and it had ten "
+            },
+            {
+                "token": "לַֽהּ׃",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וְקַרְנַ֥יִן",
+                "transliteration": "wə·qar·na·yin",
+                "strong": "7162",
+                "translation": " horns . "
+            }
+        ],
+        "verse_reference": "Daniel 7:7",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲוֵ֜ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " While I was "
+            },
+            {
+                "token": "מִשְׂתַּכַּ֨ל",
+                "transliteration": "miś·tak·kal",
+                "strong": "7920",
+                "translation": " contemplating "
+            },
+            {
+                "token": "בְּקַרְנַיָּ֗א",
+                "transliteration": "bə·qar·nay·yā",
+                "strong": "7162",
+                "translation": " the horns , "
+            },
+            {
+                "token": "וַ֠אֲלוּ",
+                "transliteration": "wa·’ă·lū",
+                "strong": "431",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָחֳרִ֤י",
+                "transliteration": "’ā·ḥo·rî",
+                "strong": "317",
+                "translation": " suddenly another "
+            },
+            {
+                "token": "קֶ֣רֶן",
+                "transliteration": "qe·ren",
+                "strong": "7162",
+                "translation": " horn , "
+            },
+            {
+                "token": "זְעֵירָה֙",
+                "transliteration": "zə·‘ê·rāh",
+                "strong": "2192",
+                "translation": " a little one , "
+            },
+            {
+                "token": "סִלְקָ֣ת",
+                "transliteration": "sil·qāṯ",
+                "strong": "5559",
+                "translation": " came up "
+            },
+            {
+                "token": "בֵּינֵיהוֹן",
+                "transliteration": "bē·nē·hōn",
+                "strong": "997",
+                "translation": " among them , "
+            },
+            {
+                "token": "וּתְלָ֗ת",
+                "transliteration": "ū·ṯə·lāṯ",
+                "strong": "8532",
+                "translation": " and three "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " of "
+            },
+            {
+                "token": "קַדְמָ֣יָתָ֔א",
+                "transliteration": "qaḏ·mā·yā·ṯā",
+                "strong": "6933",
+                "translation": " the first "
+            },
+            {
+                "token": "קַרְנַיָּא֙",
+                "transliteration": "qar·nay·yā",
+                "strong": "7162",
+                "translation": " horns "
+            },
+            {
+                "token": "אֶתְעֲקַרוּ",
+                "transliteration": "ʾɛṯ·ʿă·qa·rū",
+                "strong": "6132",
+                "translation": " were uprooted "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " before "
+            },
+            {
+                "token": "קֳדָמַיַּהּ",
+                "transliteration": "qo·ḏå̄·may·yah",
+                "strong": "6925",
+                "translation": " it . "
+            },
+            {
+                "token": "וַאֲל֨וּ",
+                "transliteration": "wa·’ă·lū",
+                "strong": "431",
+                "translation": " . . . "
+            },
+            {
+                "token": "דָ֔א",
+                "transliteration": "ḏā",
+                "strong": "1668",
+                "translation": " This "
+            },
+            {
+                "token": "בְּקַרְנָא־",
+                "transliteration": "bə·qar·nā-",
+                "strong": "7162",
+                "translation": " horn "
+            },
+            {
+                "token": "עַיְנִ֜ין",
+                "transliteration": "‘ay·nîn",
+                "strong": "5870",
+                "translation": " had eyes "
+            },
+            {
+                "token": "כְּעַיְנֵ֤י",
+                "transliteration": "kə·‘ay·nê",
+                "strong": "5870",
+                "translation": " like those "
+            },
+            {
+                "token": "אֲנָשָׁא֙",
+                "transliteration": "’ă·nā·šā",
+                "strong": "606",
+                "translation": " of a man "
+            },
+            {
+                "token": "וּפֻ֖ם",
+                "transliteration": "ū·p̄um",
+                "strong": "6433",
+                "translation": " and a mouth "
+            },
+            {
+                "token": "מְמַלִּ֥ל",
+                "transliteration": "mə·mal·lil",
+                "strong": "4449",
+                "translation": " that spoke "
+            },
+            {
+                "token": "רַבְרְבָֽן׃",
+                "transliteration": "raḇ·rə·ḇān",
+                "strong": "7260",
+                "translation": " words of arrogance . "
+            }
+        ],
+        "verse_reference": "Daniel 7:8",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַ֣ד",
+                "transliteration": "‘aḏ",
+                "strong": "5705",
+                "translation": " As "
+            },
+            {
+                "token": "דִּ֤י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "הֲוֵ֗ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " I continued "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " to watch , "
+            },
+            {
+                "token": "כָרְסָוָן֙",
+                "transliteration": "ḵā·rə·sā·wān",
+                "strong": "3764",
+                "translation": " thrones "
+            },
+            {
+                "token": "רְמִ֔יו",
+                "transliteration": "rə·mîw",
+                "strong": "7412",
+                "translation": " were set in place , "
+            },
+            {
+                "token": "וְעַתִּ֥יק",
+                "transliteration": "wə·‘at·tîq",
+                "strong": "6268",
+                "translation": " and the Ancient "
+            },
+            {
+                "token": "יוֹמִ֖ין",
+                "transliteration": "yō·w·mîn",
+                "strong": "3118",
+                "translation": " of Days "
+            },
+            {
+                "token": "יְתִ֑ב",
+                "transliteration": "yə·ṯiḇ",
+                "strong": "3488",
+                "translation": " took His seat . "
+            },
+            {
+                "token": "לְבוּשֵׁ֣הּ׀",
+                "transliteration": "lə·ḇū·šêh",
+                "strong": "3831",
+                "translation": " His clothing "
+            },
+            {
+                "token": "חִוָּ֗ר",
+                "transliteration": "ḥiw·wār",
+                "strong": "2358",
+                "translation": " was white "
+            },
+            {
+                "token": "כִּתְלַ֣ג",
+                "transliteration": "kiṯ·laḡ",
+                "strong": "8517",
+                "translation": " as snow , "
+            },
+            {
+                "token": "וּשְׂעַ֤ר",
+                "transliteration": "ū·śə·‘ar",
+                "strong": "8177",
+                "translation": " and the hair "
+            },
+            {
+                "token": "רֵאשֵׁהּ֙",
+                "transliteration": "rê·šêh",
+                "strong": "7217",
+                "translation": " of His head "
+            },
+            {
+                "token": "נְקֵ֔א",
+                "transliteration": "nə·qê",
+                "strong": "5343",
+                "translation": " was like pure "
+            },
+            {
+                "token": "כַּעֲמַ֣ר",
+                "transliteration": "ka·‘ă·mar",
+                "strong": "6015",
+                "translation": " wool . "
+            },
+            {
+                "token": "כָּרְסְיֵהּ֙",
+                "transliteration": "kā·rə·sə·yêh",
+                "strong": "3764",
+                "translation": " His throne "
+            },
+            {
+                "token": "שְׁבִיבִ֣ין",
+                "transliteration": "šə·ḇî·ḇîn",
+                "strong": "7631",
+                "translation": " was flaming "
+            },
+            {
+                "token": "דִּי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "נ֔וּר",
+                "transliteration": "nūr",
+                "strong": "5135",
+                "translation": " with fire , "
+            },
+            {
+                "token": "גַּלְגִּלּ֖וֹהִי",
+                "transliteration": "gal·gil·lō·w·hî",
+                "strong": "1535",
+                "translation": " and its wheels "
+            },
+            {
+                "token": "דָּלִֽק׃",
+                "transliteration": "dā·liq",
+                "strong": "1815",
+                "translation": " were all ablaze "
+            },
+            {
+                "token": "נ֥וּר",
+                "transliteration": "nūr",
+                "strong": "5135",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Daniel 7:9",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נְהַ֣ר",
+                "transliteration": "nə·har",
+                "strong": "5103",
+                "translation": " A river "
+            },
+            {
+                "token": "דִּי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " of "
+            },
+            {
+                "token": "נ֗וּר",
+                "transliteration": "nūr",
+                "strong": "5135",
+                "translation": " fire "
+            },
+            {
+                "token": "נָגֵ֤ד",
+                "transliteration": "nā·ḡêḏ",
+                "strong": "5047",
+                "translation": " was flowing , "
+            },
+            {
+                "token": "וְנָפֵק֙",
+                "transliteration": "wə·nā·p̄êq",
+                "strong": "5312",
+                "translation": " coming out "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "קֳדָמ֔וֹהִי",
+                "transliteration": "qo·ḏā·mō·w·hî",
+                "strong": "6925",
+                "translation": " His presence . "
+            },
+            {
+                "token": "אֶ֤לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "506",
+                "translation": " Thousands "
+            },
+            {
+                "token": "אַלְפִים",
+                "transliteration": "ʾal·p̄īm",
+                "strong": "506",
+                "translation": " upon thousands "
+            },
+            {
+                "token": "יְשַׁמְּשׁוּנֵּ֔הּ",
+                "transliteration": "yə·šam·mə·šūn·nêh",
+                "strong": "8120",
+                "translation": " attended Him , "
+            },
+            {
+                "token": "וְרִבּ֥וֹ",
+                "transliteration": "wə·rib·bōw",
+                "strong": "7240",
+                "translation": " and myriads "
+            },
+            {
+                "token": "רִבְּוָן",
+                "transliteration": "rib·bə·wå̄n",
+                "strong": "7240",
+                "translation": " upon myriads "
+            },
+            {
+                "token": "יְקוּמ֑וּן",
+                "transliteration": "yə·qū·mūn",
+                "strong": "6966",
+                "translation": " stood "
+            },
+            {
+                "token": "קָֽדָמ֣וֹהִי",
+                "transliteration": "qā·ḏā·mō·w·hî",
+                "strong": "6925",
+                "translation": " before Him . "
+            },
+            {
+                "token": "דִּינָ֥א",
+                "transliteration": "dî·nā",
+                "strong": "1780",
+                "translation": " The court "
+            },
+            {
+                "token": "יְתִ֖ב",
+                "transliteration": "yə·ṯiḇ",
+                "strong": "3488",
+                "translation": " was convened , "
+            },
+            {
+                "token": "וְסִפְרִ֥ין",
+                "transliteration": "wə·sip̄·rîn",
+                "strong": "5609",
+                "translation": " and the books "
+            },
+            {
+                "token": "פְּתִֽיחוּ׃",
+                "transliteration": "pə·ṯî·ḥū",
+                "strong": "6606",
+                "translation": " were opened . "
+            }
+        ],
+        "verse_reference": "Daniel 7:10",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בֵּאדַ֗יִן",
+                "transliteration": "bê·ḏa·yin",
+                "strong": "116",
+                "translation": " Then "
+            },
+            {
+                "token": "הֲוֵ֔ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " I kept "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " watching "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " because of "
+            },
+            {
+                "token": "קָל֙",
+                "transliteration": "qāl",
+                "strong": "7032",
+                "translation": " - "
+            },
+            {
+                "token": "רַבְרְבָתָ֔א",
+                "transliteration": "raḇ·rə·ḇā·ṯā",
+                "strong": "7260",
+                "translation": " the arrogant "
+            },
+            {
+                "token": "מִלַּיָּ֣א",
+                "transliteration": "mil·lay·yā",
+                "strong": "4406",
+                "translation": " words "
+            },
+            {
+                "token": "דִּ֥י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "קַרְנָ֖א",
+                "transliteration": "qar·nā",
+                "strong": "7162",
+                "translation": " the horn "
+            },
+            {
+                "token": "מְמַלֱּלָ֑ה",
+                "transliteration": "mə·mal·lĕ·lāh",
+                "strong": "4449",
+                "translation": " was speaking . "
+            },
+            {
+                "token": "עַד֩",
+                "transliteration": "‘aḏ",
+                "strong": "5705",
+                "translation": " As "
+            },
+            {
+                "token": "דִּ֨י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " I continued to watch , "
+            },
+            {
+                "token": "הֲוֵ֡ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֵֽיוְתָא֙",
+                "transliteration": "ḥê·wə·ṯā",
+                "strong": "2423",
+                "translation": " the beast "
+            },
+            {
+                "token": "קְטִילַ֤ת",
+                "transliteration": "qə·ṭî·laṯ",
+                "strong": "6992",
+                "translation": " was slain , "
+            },
+            {
+                "token": "גִּשְׁמַ֔הּ",
+                "transliteration": "giš·mah",
+                "strong": "1655",
+                "translation": " and its body "
+            },
+            {
+                "token": "וְהוּבַ֣ד",
+                "transliteration": "wə·hū·ḇaḏ",
+                "strong": "7",
+                "translation": " was destroyed "
+            },
+            {
+                "token": "וִיהִיבַ֖ת",
+                "transliteration": "wî·hî·ḇaṯ",
+                "strong": "3052",
+                "translation": " and thrown into "
+            },
+            {
+                "token": "לִיקֵדַ֥ת",
+                "transliteration": "lî·qê·ḏaṯ",
+                "strong": "3346",
+                "translation": " the blazing "
+            },
+            {
+                "token": "אֶשָּֽׁא׃",
+                "transliteration": "’eš·šā",
+                "strong": "785",
+                "translation": " fire . "
+            }
+        ],
+        "verse_reference": "Daniel 7:11",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּשְׁאָר֙",
+                "transliteration": "ū·šə·’ār",
+                "strong": "7606",
+                "translation": " As for the rest "
+            },
+            {
+                "token": "חֵֽיוָתָ֔א",
+                "transliteration": "ḥê·wā·ṯā",
+                "strong": "2423",
+                "translation": " of the beasts , "
+            },
+            {
+                "token": "שָׁלְטָנְה֑וֹן",
+                "transliteration": "šā·lə·ṭā·nə·hō·wn",
+                "strong": "7985",
+                "translation": " their dominion "
+            },
+            {
+                "token": "הֶעְדִּ֖יו",
+                "transliteration": "he‘·dîw",
+                "strong": "5709",
+                "translation": " was removed , "
+            },
+            {
+                "token": "יְהִ֥יבַת",
+                "transliteration": "yə·hî·ḇaṯ",
+                "strong": "3052",
+                "translation": " but they were granted "
+            },
+            {
+                "token": "לְה֖וֹן",
+                "transliteration": "lə·hō·wn",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַרְכָ֧ה",
+                "transliteration": "wə·’ar·ḵāh",
+                "strong": "754",
+                "translation": " an extension "
+            },
+            {
+                "token": "בְחַיִּ֛ין",
+                "transliteration": "ḇə·ḥay·yîn",
+                "strong": "2417",
+                "translation": " of life "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5705",
+                "translation": " for "
+            },
+            {
+                "token": "זְמַ֥ן",
+                "transliteration": "zə·man",
+                "strong": "2166",
+                "translation": " a season "
+            },
+            {
+                "token": "וְעִדָּֽן׃",
+                "transliteration": "wə·‘id·dān",
+                "strong": "5732",
+                "translation": " and a time . "
+            }
+        ],
+        "verse_reference": "Daniel 7:12",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּחֶזְוֵ֣י",
+                "transliteration": "bə·ḥez·wê",
+                "strong": "2376",
+                "translation": " In my vision "
+            },
+            {
+                "token": "לֵֽילְיָ֔א",
+                "transliteration": "lê·lə·yā",
+                "strong": "3916",
+                "translation": " in the night "
+            },
+            {
+                "token": "הֲוֵית֙",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " I continued "
+            },
+            {
+                "token": "חָזֵ֤ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " to watch , "
+            },
+            {
+                "token": "וַאֲרוּ֙",
+                "transliteration": "wa·’ă·rū",
+                "strong": "718",
+                "translation": " and I saw "
+            },
+            {
+                "token": "כְּבַ֥ר",
+                "transliteration": "kə·ḇar",
+                "strong": "1247",
+                "translation": " One like the Son "
+            },
+            {
+                "token": "אֱנָ֖שׁ",
+                "transliteration": "’ĕ·nāš",
+                "strong": "606",
+                "translation": " of Man "
+            },
+            {
+                "token": "אָתֵ֣ה",
+                "transliteration": "’ā·ṯêh",
+                "strong": "858",
+                "translation": " coming "
+            },
+            {
+                "token": "הֲוָ֑ה",
+                "transliteration": "hă·wāh",
+                "strong": "1934",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5705",
+                "translation": " . . . "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5974",
+                "translation": " with "
+            },
+            {
+                "token": "עֲנָנֵ֣י",
+                "transliteration": "‘ă·nā·nê",
+                "strong": "6050",
+                "translation": " the clouds "
+            },
+            {
+                "token": "שְׁמַיָּ֔א",
+                "transliteration": "šə·may·yā",
+                "strong": "8065",
+                "translation": " of heaven . "
+            },
+            {
+                "token": "מְטָ֔ה",
+                "transliteration": "mə·ṭāh",
+                "strong": "4291",
+                "translation": " He approached "
+            },
+            {
+                "token": "עַתִּ֤יק",
+                "transliteration": "‘at·tîq",
+                "strong": "6268",
+                "translation": " the Ancient "
+            },
+            {
+                "token": "יֽוֹמַיָּא֙",
+                "transliteration": "yō·w·may·yā",
+                "strong": "3118",
+                "translation": " of Days "
+            },
+            {
+                "token": "הַקְרְבֽוּהִי׃",
+                "transliteration": "haq·rə·ḇū·hî",
+                "strong": "7127",
+                "translation": " and was led "
+            },
+            {
+                "token": "וּקְדָמ֖וֹהִי",
+                "transliteration": "ū·qə·ḏā·mō·w·hî",
+                "strong": "6925",
+                "translation": " into His presence . "
+            }
+        ],
+        "verse_reference": "Daniel 7:13",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֵ֨הּ",
+                "transliteration": "wə·lêh",
+                "strong": "",
+                "translation": " And "
+            },
+            {
+                "token": "יְהִ֤יב",
+                "transliteration": "yə·hîḇ",
+                "strong": "3052",
+                "translation": " He was given "
+            },
+            {
+                "token": "שָׁלְטָן֙",
+                "transliteration": "šā·lə·ṭān",
+                "strong": "7985",
+                "translation": " dominion , "
+            },
+            {
+                "token": "וִיקָ֣ר",
+                "transliteration": "wî·qār",
+                "strong": "3367",
+                "translation": " glory , "
+            },
+            {
+                "token": "וּמַלְכ֔וּ",
+                "transliteration": "ū·mal·ḵū",
+                "strong": "4437",
+                "translation": " and kingship , "
+            },
+            {
+                "token": "עַֽמְמַיָּ֗א",
+                "transliteration": "‘am·may·yā",
+                "strong": "5972",
+                "translation": " that the people "
+            },
+            {
+                "token": "וְכֹ֣ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3606",
+                "translation": " of every "
+            },
+            {
+                "token": "אֻמַיָּ֛א",
+                "transliteration": "’u·may·yā",
+                "strong": "524",
+                "translation": " nation "
+            },
+            {
+                "token": "וְלִשָּׁנַיָּ֖א",
+                "transliteration": "wə·liš·šā·nay·yā",
+                "strong": "3961",
+                "translation": " and language "
+            },
+            {
+                "token": "יִפְלְח֑וּן",
+                "transliteration": "yip̄·lə·ḥūn",
+                "strong": "6399",
+                "translation": " should serve "
+            },
+            {
+                "token": "לֵ֣הּ",
+                "transliteration": "lêh",
+                "strong": "",
+                "translation": " Him . "
+            },
+            {
+                "token": "שָׁלְטָנֵ֞הּ",
+                "transliteration": "šā·lə·ṭā·nêh",
+                "strong": "7985",
+                "translation": " His dominion "
+            },
+            {
+                "token": "עָלַם֙",
+                "transliteration": "‘ā·lam",
+                "strong": "5957",
+                "translation": " is an everlasting "
+            },
+            {
+                "token": "שָׁלְטָ֤ן",
+                "transliteration": "šā·lə·ṭān",
+                "strong": "7985",
+                "translation": " dominion "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " that "
+            },
+            {
+                "token": "לָ֣א",
+                "transliteration": "lā",
+                "strong": "3809",
+                "translation": " will not "
+            },
+            {
+                "token": "יֶעְדֵּ֔ה",
+                "transliteration": "ye‘·dêh",
+                "strong": "5709",
+                "translation": " pass away , "
+            },
+            {
+                "token": "וּמַלְכוּתֵ֖הּ",
+                "transliteration": "ū·mal·ḵū·ṯêh",
+                "strong": "4437",
+                "translation": " and His kingdom is one "
+            },
+            {
+                "token": "דִּי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " that "
+            },
+            {
+                "token": "לָ֥א",
+                "transliteration": "lā",
+                "strong": "3809",
+                "translation": " will never "
+            },
+            {
+                "token": "תִתְחַבַּֽל׃פ",
+                "transliteration": "ṯiṯ·ḥab·bal",
+                "strong": "2255",
+                "translation": " be destroyed . "
+            }
+        ],
+        "verse_reference": "Daniel 7:14",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנָ֥ה",
+                "transliteration": "’ă·nāh",
+                "strong": "576",
+                "translation": " I , "
+            },
+            {
+                "token": "דָנִיֵּ֖אל",
+                "transliteration": "ḏā·nî·yêl",
+                "strong": "1841",
+                "translation": " Daniel , "
+            },
+            {
+                "token": "אֶתְכְּרִיַּ֥ת",
+                "transliteration": "’eṯ·kə·rî·yaṯ",
+                "strong": "3735",
+                "translation": " was grieved "
+            },
+            {
+                "token": "בְּג֣וֹא",
+                "transliteration": "bə·ḡō·w",
+                "strong": "1459",
+                "translation": " in "
+            },
+            {
+                "token": "רוּחִ֛י",
+                "transliteration": "rū·ḥî",
+                "strong": "7308",
+                "translation": " my spirit "
+            },
+            {
+                "token": "נִדְנֶ֑ה",
+                "transliteration": "niḏ·neh",
+                "strong": "5085",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְחֶזְוֵ֥י",
+                "transliteration": "wə·ḥez·wê",
+                "strong": "2376",
+                "translation": " and the visions "
+            },
+            {
+                "token": "רֵאשִׁ֖י",
+                "transliteration": "rê·šî",
+                "strong": "7217",
+                "translation": " in my mind "
+            },
+            {
+                "token": "יְבַהֲלֻנַּֽנִי׃",
+                "transliteration": "yə·ḇa·hă·lun·na·nî",
+                "strong": "927",
+                "translation": " alarmed me . "
+            }
+        ],
+        "verse_reference": "Daniel 7:15",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קִרְבֵ֗ת",
+                "transliteration": "qir·ḇêṯ",
+                "strong": "7127",
+                "translation": " I approached "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5922",
+                "translation": " "
+            },
+            {
+                "token": "חַד֙",
+                "transliteration": "ḥaḏ",
+                "strong": "2298",
+                "translation": " one "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " of "
+            },
+            {
+                "token": "קָ֣אֲמַיָּ֔א",
+                "transliteration": "qā·’ă·may·yā",
+                "strong": "6966",
+                "translation": " those who were standing there , "
+            },
+            {
+                "token": "אֶבְעֵֽא־",
+                "transliteration": "’eḇ·‘ê-",
+                "strong": "1156",
+                "translation": " and I asked "
+            },
+            {
+                "token": "מִנֵּ֖הּ",
+                "transliteration": "min·nêh",
+                "strong": "4481",
+                "translation": " him "
+            },
+            {
+                "token": "וְיַצִּיבָ֥א",
+                "transliteration": "wə·yaṣ·ṣî·ḇā",
+                "strong": "3330",
+                "translation": " the true meaning "
+            },
+            {
+                "token": "עַֽל־",
+                "transliteration": "‘al-",
+                "strong": "5922",
+                "translation": " of "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3606",
+                "translation": " all "
+            },
+            {
+                "token": "דְּנָ֑ה",
+                "transliteration": "də·nāh",
+                "strong": "1836",
+                "translation": " this . "
+            },
+            {
+                "token": "וַאֲמַר־",
+                "transliteration": "wa·’ă·mar-",
+                "strong": "560",
+                "translation": " So he told "
+            },
+            {
+                "token": "לִ֕י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "יְהוֹדְעִנַּֽנִי׃",
+                "transliteration": "yə·hō·wḏ·‘in·na·nî",
+                "strong": "3046",
+                "translation": " - "
+            },
+            {
+                "token": "וּפְשַׁ֥ר",
+                "transliteration": "ū·p̄ə·šar",
+                "strong": "6591",
+                "translation": " the interpretation "
+            },
+            {
+                "token": "מִלַּיָּ֖א",
+                "transliteration": "mil·lay·yā",
+                "strong": "4406",
+                "translation": " of these things : "
+            }
+        ],
+        "verse_reference": "Daniel 7:16",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִלֵּין֙",
+                "transliteration": "’il·lên",
+                "strong": "459",
+                "translation": " ‘ These "
+            },
+            {
+                "token": "אַרְבַּ֑ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "703",
+                "translation": " four "
+            },
+            {
+                "token": "רַבְרְבָתָ֔א",
+                "transliteration": "raḇ·rə·ḇā·ṯā",
+                "strong": "7260",
+                "translation": " great "
+            },
+            {
+                "token": "חֵיוָתָ֣א",
+                "transliteration": "ḥê·wā·ṯā",
+                "strong": "2423",
+                "translation": " beasts "
+            },
+            {
+                "token": "דִּ֥י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " - "
+            },
+            {
+                "token": "אִנִּ֖ין",
+                "transliteration": "’in·nîn",
+                "strong": "581",
+                "translation": " are "
+            },
+            {
+                "token": "אַרְבְּעָ֥ה",
+                "transliteration": "’ar·bə·‘āh",
+                "strong": "703",
+                "translation": " four "
+            },
+            {
+                "token": "מַלְכִ֖ין",
+                "transliteration": "mal·ḵîn",
+                "strong": "4430",
+                "translation": " kings "
+            },
+            {
+                "token": "יְקוּמ֥וּן",
+                "transliteration": "yə·qū·mūn",
+                "strong": "6966",
+                "translation": " [who] will arise "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "אַרְעָֽא׃",
+                "transliteration": "’ar·‘ā",
+                "strong": "772",
+                "translation": " the earth . "
+            }
+        ],
+        "verse_reference": "Daniel 7:17",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קַדִּישֵׁ֖י",
+                "transliteration": "qad·dî·šê",
+                "strong": "6922",
+                "translation": " But the saints "
+            },
+            {
+                "token": "עֶלְיוֹנִ֑ין",
+                "transliteration": "‘el·yō·w·nîn",
+                "strong": "5946",
+                "translation": " of the Most High "
+            },
+            {
+                "token": "וִֽיקַבְּלוּן֙",
+                "transliteration": "wî·qab·bə·lūn",
+                "strong": "6902",
+                "translation": " will receive "
+            },
+            {
+                "token": "מַלְכוּתָ֔א",
+                "transliteration": "mal·ḵū·ṯā",
+                "strong": "4437",
+                "translation": " the kingdom "
+            },
+            {
+                "token": "וְיַחְסְנ֤וּן",
+                "transliteration": "wə·yaḥ·sə·nūn",
+                "strong": "2631",
+                "translation": " and possess "
+            },
+            {
+                "token": "מַלְכוּתָא֙",
+                "transliteration": "mal·ḵū·ṯā",
+                "strong": "4437",
+                "translation": " it "
+            },
+            {
+                "token": "עַֽד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5705",
+                "translation": " forever "
+            },
+            {
+                "token": "עָ֣לְמָ֔א",
+                "transliteration": "‘ā·lə·mā",
+                "strong": "5957",
+                "translation": " . . . — "
+            },
+            {
+                "token": "וְעַ֖ד",
+                "transliteration": "wə·‘aḏ",
+                "strong": "5705",
+                "translation": " yes, forever "
+            },
+            {
+                "token": "עָלַ֥ם",
+                "transliteration": "‘ā·lam",
+                "strong": "5957",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָלְמַיָּֽא׃",
+                "transliteration": "‘ā·lə·may·yā",
+                "strong": "5957",
+                "translation": " and ever . ’ "
+            }
+        ],
+        "verse_reference": "Daniel 7:18",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱדַ֗יִן",
+                "transliteration": "’ĕ·ḏa·yin",
+                "strong": "116",
+                "translation": " Then "
+            },
+            {
+                "token": "צְבִית֙",
+                "transliteration": "ṣə·ḇîṯ",
+                "strong": "6634",
+                "translation": " I wanted "
+            },
+            {
+                "token": "לְיַצָּבָ֔א",
+                "transliteration": "lə·yaṣ·ṣā·ḇā",
+                "strong": "3321",
+                "translation": " to know the true meaning "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5922",
+                "translation": " of "
+            },
+            {
+                "token": "רְבִיעָ֣יְתָ֔א",
+                "transliteration": "rə·ḇî·‘ā·yə·ṯā",
+                "strong": "7244",
+                "translation": " the fourth "
+            },
+            {
+                "token": "חֵֽיוְתָא֙",
+                "transliteration": "ḥê·wə·ṯā",
+                "strong": "2423",
+                "translation": " beast , "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " which "
+            },
+            {
+                "token": "הֲוָ֥ת",
+                "transliteration": "hă·wāṯ",
+                "strong": "1934",
+                "translation": " was "
+            },
+            {
+                "token": "שָֽׁנְיָ֖ה",
+                "transliteration": "šā·nə·yāh",
+                "strong": "8133",
+                "translation": " different "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "כָּלְּהוֹן",
+                "transliteration": "kå̄l·lə·hōn",
+                "strong": "3606",
+                "translation": " all the [others] — "
+            },
+            {
+                "token": "יַתִּ֗ירָה",
+                "transliteration": "yat·tî·rāh",
+                "strong": "3493",
+                "translation": " extremely "
+            },
+            {
+                "token": "דְּחִילָ֣ה",
+                "transliteration": "də·ḥî·lāh",
+                "strong": "1763",
+                "translation": " terrifying — "
+            },
+            {
+                "token": "אָֽכְלָ֣ה",
+                "transliteration": "’ā·ḵə·lāh",
+                "strong": "399",
+                "translation": " devouring "
+            },
+            {
+                "token": "מַדֲּקָ֔ה",
+                "transliteration": "mad·dă·qāh",
+                "strong": "1855",
+                "translation": " and crushing "
+            },
+            {
+                "token": "פַרְזֶל֙",
+                "transliteration": "p̄ar·zel",
+                "strong": "6523",
+                "translation": " with iron "
+            },
+            {
+                "token": "שִׁנַּיַּהּ",
+                "transliteration": "šin·nay·yah",
+                "strong": "8128",
+                "translation": " teeth "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "נְחָ֔שׁ",
+                "transliteration": "nə·ḥāš",
+                "strong": "5174",
+                "translation": " and bronze "
+            },
+            {
+                "token": "וְטִפְרַ֣יהּ",
+                "transliteration": "wə·ṭip̄·rayh",
+                "strong": "2953",
+                "translation": " claws "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . , "
+            },
+            {
+                "token": "רָֽפְסָֽה׃",
+                "transliteration": "rā·p̄ə·sāh",
+                "strong": "7512",
+                "translation": " then trampling "
+            },
+            {
+                "token": "בְּרַגְלַ֥יהּ",
+                "transliteration": "bə·raḡ·layh",
+                "strong": "7271",
+                "translation": " underfoot "
+            },
+            {
+                "token": "וּשְׁאָרָ֖א",
+                "transliteration": "ū·šə·’ā·rā",
+                "strong": "7606",
+                "translation": " whatever was left . "
+            }
+        ],
+        "verse_reference": "Daniel 7:19",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5922",
+                "translation": " I also wanted to know about "
+            },
+            {
+                "token": "עֲשַׂר֙",
+                "transliteration": "‘ă·śar",
+                "strong": "6236",
+                "translation": " the ten "
+            },
+            {
+                "token": "קַרְנַיָּ֤א",
+                "transliteration": "qar·nay·yā",
+                "strong": "7162",
+                "translation": " horns "
+            },
+            {
+                "token": "בְרֵאשַׁ֔הּ",
+                "transliteration": "ḇə·rê·šah",
+                "strong": "7217",
+                "translation": " on its head "
+            },
+            {
+                "token": "וְאָחֳרִי֙",
+                "transliteration": "wə·’ā·ḥo·rî",
+                "strong": "317",
+                "translation": " and the other "
+            },
+            {
+                "token": "דִּ֣י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "דִּ֣י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " horn that "
+            },
+            {
+                "token": "סִלְקַ֔ת",
+                "transliteration": "sil·qaṯ",
+                "strong": "5559",
+                "translation": " came up , "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " "
+            },
+            {
+                "token": "קֳדָמַיַּהּ",
+                "transliteration": "qo·ḏå̄·may·yah",
+                "strong": "6925",
+                "translation": " before which "
+            },
+            {
+                "token": "תְּלָ֑ת",
+                "transliteration": "tə·lāṯ",
+                "strong": "8532",
+                "translation": " three of them "
+            },
+            {
+                "token": "וּנְפַלוּ",
+                "transliteration": "ū·nə·p̄a·lū",
+                "strong": "5308",
+                "translation": " fell — "
+            },
+            {
+                "token": "וְקַרְנָ֨א",
+                "transliteration": "wə·qar·nā",
+                "strong": "7162",
+                "translation": " the horn "
+            },
+            {
+                "token": "וְחֶזְוַ֖הּ",
+                "transliteration": "wə·ḥez·wah",
+                "strong": "2376",
+                "translation": " whose appearance [was] "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " more imposing than "
+            },
+            {
+                "token": "חַבְרָתַֽהּ׃",
+                "transliteration": "ḥaḇ·rā·ṯah",
+                "strong": "2273",
+                "translation": " the others , "
+            },
+            {
+                "token": "דִכֵּ֜ן",
+                "transliteration": "ḏik·kên",
+                "strong": "1797",
+                "translation": " - "
+            },
+            {
+                "token": "וְעַיְנִ֣ין",
+                "transliteration": "wə·‘ay·nîn",
+                "strong": "5870",
+                "translation": " with eyes "
+            },
+            {
+                "token": "לַ֗הּ",
+                "transliteration": "lah",
+                "strong": "",
+                "translation": " and with "
+            },
+            {
+                "token": "וְפֻם֙",
+                "transliteration": "wə·p̄um",
+                "strong": "6433",
+                "translation": " a mouth "
+            },
+            {
+                "token": "מְמַלִּ֣ל",
+                "transliteration": "mə·mal·lil",
+                "strong": "4449",
+                "translation": " that spoke "
+            },
+            {
+                "token": "רַבְרְבָ֔ן",
+                "transliteration": "raḇ·rə·ḇān",
+                "strong": "7260",
+                "translation": " words of arrogance "
+            },
+            {
+                "token": "רַ֥ב",
+                "transliteration": "raḇ",
+                "strong": "7229",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Daniel 7:20",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲוֵ֔ית",
+                "transliteration": "hă·wêṯ",
+                "strong": "1934",
+                "translation": " As I "
+            },
+            {
+                "token": "חָזֵ֣ה",
+                "transliteration": "ḥā·zêh",
+                "strong": "2370",
+                "translation": " watched , "
+            },
+            {
+                "token": "דִכֵּ֔ן",
+                "transliteration": "ḏik·kên",
+                "strong": "1797",
+                "translation": " this "
+            },
+            {
+                "token": "וְקַרְנָ֣א",
+                "transliteration": "wə·qar·nā",
+                "strong": "7162",
+                "translation": " horn "
+            },
+            {
+                "token": "עָבְדָ֥ה",
+                "transliteration": "‘ā·ḇə·ḏāh",
+                "strong": "5648",
+                "translation": " was waging "
+            },
+            {
+                "token": "קְרָ֖ב",
+                "transliteration": "qə·rāḇ",
+                "strong": "7129",
+                "translation": " war "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5974",
+                "translation": " against "
+            },
+            {
+                "token": "קַדִּישִׁ֑ין",
+                "transliteration": "qad·dî·šîn",
+                "strong": "6922",
+                "translation": " the saints "
+            },
+            {
+                "token": "וְיָכְלָ֖ה",
+                "transliteration": "wə·yā·ḵə·lāh",
+                "strong": "3201",
+                "translation": " and prevailing "
+            },
+            {
+                "token": "לְהֽוֹן׃",
+                "transliteration": "lə·hō·wn",
+                "strong": "",
+                "translation": " against them , "
+            }
+        ],
+        "verse_reference": "Daniel 7:21",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַ֣ד",
+                "transliteration": "‘aḏ",
+                "strong": "5705",
+                "translation": " until "
+            },
+            {
+                "token": "דִּֽי־",
+                "transliteration": "dî-",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַתִּיק֙",
+                "transliteration": "‘at·tîq",
+                "strong": "6268",
+                "translation": " the Ancient "
+            },
+            {
+                "token": "יֽוֹמַיָּ֔א",
+                "transliteration": "yō·w·may·yā",
+                "strong": "3118",
+                "translation": " of Days "
+            },
+            {
+                "token": "אֲתָ֗ה",
+                "transliteration": "’ă·ṯāh",
+                "strong": "858",
+                "translation": " arrived "
+            },
+            {
+                "token": "יְהִ֔ב",
+                "transliteration": "yə·hiḇ",
+                "strong": "3052",
+                "translation": " and pronounced "
+            },
+            {
+                "token": "וְדִינָ֣א",
+                "transliteration": "wə·ḏî·nā",
+                "strong": "1780",
+                "translation": " judgment "
+            },
+            {
+                "token": "לְקַדִּישֵׁ֖י",
+                "transliteration": "lə·qad·dî·šê",
+                "strong": "6922",
+                "translation": " in favor of the saints "
+            },
+            {
+                "token": "עֶלְיוֹנִ֑ין",
+                "transliteration": "‘el·yō·w·nîn",
+                "strong": "5946",
+                "translation": " of the Most High , "
+            },
+            {
+                "token": "וְזִמְנָ֣א",
+                "transliteration": "wə·zim·nā",
+                "strong": "2166",
+                "translation": " and the time "
+            },
+            {
+                "token": "מְטָ֔ה",
+                "transliteration": "mə·ṭāh",
+                "strong": "4291",
+                "translation": " came "
+            },
+            {
+                "token": "קַדִּישִֽׁין׃",
+                "transliteration": "qad·dî·šîn",
+                "strong": "6922",
+                "translation": " for [them] "
+            },
+            {
+                "token": "הֶחֱסִ֥נוּ",
+                "transliteration": "he·ḥĕ·si·nū",
+                "strong": "2631",
+                "translation": " to possess "
+            },
+            {
+                "token": "וּמַלְכוּתָ֖א",
+                "transliteration": "ū·mal·ḵū·ṯā",
+                "strong": "4437",
+                "translation": " the kingdom . "
+            }
+        ],
+        "verse_reference": "Daniel 7:22",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֵּן֮",
+                "transliteration": "kên",
+                "strong": "3652",
+                "translation": " This is what "
+            },
+            {
+                "token": "אֲמַר֒",
+                "transliteration": "’ă·mar",
+                "strong": "560",
+                "translation": " he said : "
+            },
+            {
+                "token": "רְבִיעָ֣יְתָ֔א",
+                "transliteration": "rə·ḇî·‘ā·yə·ṯā",
+                "strong": "7244",
+                "translation": " ‘ The fourth "
+            },
+            {
+                "token": "חֵֽיוְתָא֙",
+                "transliteration": "ḥê·wə·ṯā",
+                "strong": "2423",
+                "translation": " beast is "
+            },
+            {
+                "token": "רְבִיעָיָא",
+                "transliteration": "rə·ḇī·ʿå̄·yå̄",
+                "strong": "7244",
+                "translation": " a fourth "
+            },
+            {
+                "token": "מַלְכ֤וּ",
+                "transliteration": "mal·ḵū",
+                "strong": "4437",
+                "translation": " kingdom "
+            },
+            {
+                "token": "תֶּהֱוֵ֣א",
+                "transliteration": "te·hĕ·wê",
+                "strong": "1934",
+                "translation": " that will appear "
+            },
+            {
+                "token": "בְאַרְעָ֔א",
+                "transliteration": "ḇə·’ar·‘ā",
+                "strong": "772",
+                "translation": " on the earth , "
+            },
+            {
+                "token": "דִּ֥י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִשְׁנֵ֖א",
+                "transliteration": "ṯiš·nê",
+                "strong": "8133",
+                "translation": " different "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3606",
+                "translation": " all "
+            },
+            {
+                "token": "מַלְכְוָתָ֑א",
+                "transliteration": "mal·ḵə·wā·ṯā",
+                "strong": "4437",
+                "translation": " the other kingdoms , "
+            },
+            {
+                "token": "וְתֵאכֻל֙",
+                "transliteration": "wə·ṯê·ḵul",
+                "strong": "399",
+                "translation": " and it will devour "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3606",
+                "translation": " the whole "
+            },
+            {
+                "token": "אַרְעָ֔א",
+                "transliteration": "’ar·‘ā",
+                "strong": "772",
+                "translation": " earth , "
+            },
+            {
+                "token": "וּתְדוּשִׁנַּ֖הּ",
+                "transliteration": "ū·ṯə·ḏū·šin·nah",
+                "strong": "1759",
+                "translation": " trample it down , "
+            },
+            {
+                "token": "וְתַדְּקִנַּֽהּ׃",
+                "transliteration": "wə·ṯad·də·qin·nah",
+                "strong": "1855",
+                "translation": " and crush it . "
+            }
+        ],
+        "verse_reference": "Daniel 7:23",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עֲשַׂ֔ר",
+                "transliteration": "‘ă·śar",
+                "strong": "6236",
+                "translation": " And the ten "
+            },
+            {
+                "token": "וְקַרְנַיָּ֣א",
+                "transliteration": "wə·qar·nay·yā",
+                "strong": "7162",
+                "translation": " horns "
+            },
+            {
+                "token": "עַשְׂרָ֥ה",
+                "transliteration": "‘aś·rāh",
+                "strong": "6236",
+                "translation": " [are] ten "
+            },
+            {
+                "token": "מַלְכִ֖ין",
+                "transliteration": "mal·ḵîn",
+                "strong": "4430",
+                "translation": " kings "
+            },
+            {
+                "token": "יְקֻמ֑וּן",
+                "transliteration": "yə·qu·mūn",
+                "strong": "6966",
+                "translation": " who will rise "
+            },
+            {
+                "token": "מִנַּהּ֙",
+                "transliteration": "min·nah",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "מַלְכוּתָ֔ה",
+                "transliteration": "mal·ḵū·ṯāh",
+                "strong": "4437",
+                "translation": " this kingdom . "
+            },
+            {
+                "token": "אַחֲרֵיה֗וֹן",
+                "transliteration": "’a·ḥă·rê·hō·wn",
+                "strong": "311",
+                "translation": " After them "
+            },
+            {
+                "token": "וְאָחֳרָ֞ן",
+                "transliteration": "wə·’ā·ḥo·rān",
+                "strong": "321",
+                "translation": " another [king] , "
+            },
+            {
+                "token": "יִשְׁנֵא֙",
+                "transliteration": "yiš·nê",
+                "strong": "8133",
+                "translation": " different "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4481",
+                "translation": " from "
+            },
+            {
+                "token": "קַדְמָיֵ֔א",
+                "transliteration": "qaḏ·mā·yê",
+                "strong": "6933",
+                "translation": " the earlier [ones] , "
+            },
+            {
+                "token": "יְק֣וּם",
+                "transliteration": "yə·qūm",
+                "strong": "6966",
+                "translation": " will rise "
+            },
+            {
+                "token": "וְה֤וּא",
+                "transliteration": "wə·hū",
+                "strong": "1932",
+                "translation": " - "
+            },
+            {
+                "token": "יְהַשְׁפִּֽל׃",
+                "transliteration": "yə·haš·pil",
+                "strong": "8214",
+                "translation": " and subdue "
+            },
+            {
+                "token": "וּתְלָתָ֥ה",
+                "transliteration": "ū·ṯə·lā·ṯāh",
+                "strong": "8532",
+                "translation": " three "
+            },
+            {
+                "token": "מַלְכִ֖ין",
+                "transliteration": "mal·ḵîn",
+                "strong": "4430",
+                "translation": " kings . "
+            }
+        ],
+        "verse_reference": "Daniel 7:24",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְמַלִּ֔ל",
+                "transliteration": "yə·mal·lil",
+                "strong": "4449",
+                "translation": " He will speak out "
+            },
+            {
+                "token": "וּמִלִּ֗ין",
+                "transliteration": "ū·mil·lîn",
+                "strong": "4406",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְצַ֤ד",
+                "transliteration": "lə·ṣaḏ",
+                "strong": "6655",
+                "translation": " against "
+            },
+            {
+                "token": "עִלָּיָא",
+                "transliteration": "ʿil·lå̄·yå̄",
+                "strong": "5943",
+                "translation": " the Most High "
+            },
+            {
+                "token": "יְבַלֵּ֑א",
+                "transliteration": "yə·ḇal·lê",
+                "strong": "1080",
+                "translation": " and oppress "
+            },
+            {
+                "token": "וּלְקַדִּישֵׁ֥י",
+                "transliteration": "ū·lə·qad·dî·šê",
+                "strong": "6922",
+                "translation": " the saints "
+            },
+            {
+                "token": "עֶלְיוֹנִ֖ין",
+                "transliteration": "‘el·yō·w·nîn",
+                "strong": "5946",
+                "translation": " of the Most High , "
+            },
+            {
+                "token": "וְיִסְבַּ֗ר",
+                "transliteration": "wə·yis·bar",
+                "strong": "5452",
+                "translation": " intending "
+            },
+            {
+                "token": "לְהַשְׁנָיָה֙",
+                "transliteration": "lə·haš·nā·yāh",
+                "strong": "8133",
+                "translation": " to change "
+            },
+            {
+                "token": "זִמְנִ֣ין",
+                "transliteration": "zim·nîn",
+                "strong": "2166",
+                "translation": " the appointed times "
+            },
+            {
+                "token": "וְדָ֔ת",
+                "transliteration": "wə·ḏāṯ",
+                "strong": "1882",
+                "translation": " and laws ; "
+            },
+            {
+                "token": "וְיִתְיַהֲב֣וּן",
+                "transliteration": "wə·yiṯ·ya·hă·ḇūn",
+                "strong": "3052",
+                "translation": " and [the saints] will be given "
+            },
+            {
+                "token": "בִּידֵ֔הּ",
+                "transliteration": "bî·ḏêh",
+                "strong": "3028",
+                "translation": " into his hand "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5705",
+                "translation": " for "
+            },
+            {
+                "token": "עִדָּ֥ן",
+                "transliteration": "‘id·dān",
+                "strong": "5732",
+                "translation": " a time , "
+            },
+            {
+                "token": "וְעִדָּנִ֖ין",
+                "transliteration": "wə·‘id·dā·nîn",
+                "strong": "5732",
+                "translation": " and times , "
+            },
+            {
+                "token": "וּפְלַ֥ג",
+                "transliteration": "ū·p̄ə·laḡ",
+                "strong": "6387",
+                "translation": " and half "
+            },
+            {
+                "token": "עִדָּֽן׃",
+                "transliteration": "‘id·dān",
+                "strong": "5732",
+                "translation": " a time . "
+            }
+        ],
+        "verse_reference": "Daniel 7:25",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְדִינָ֖א",
+                "transliteration": "wə·ḏî·nā",
+                "strong": "1780",
+                "translation": " But the court "
+            },
+            {
+                "token": "יִתִּ֑ב",
+                "transliteration": "yit·tiḇ",
+                "strong": "3488",
+                "translation": " will convene , "
+            },
+            {
+                "token": "וְשָׁלְטָנֵ֣הּ",
+                "transliteration": "wə·šā·lə·ṭā·nêh",
+                "strong": "7985",
+                "translation": " and his dominion "
+            },
+            {
+                "token": "יְהַעְדּ֔וֹן",
+                "transliteration": "yə·ha‘·dō·wn",
+                "strong": "5709",
+                "translation": " will be taken away "
+            },
+            {
+                "token": "לְהַשְׁמָדָ֥ה",
+                "transliteration": "lə·haš·mā·ḏāh",
+                "strong": "8046",
+                "translation": " and completely destroyed "
+            },
+            {
+                "token": "וּלְהוֹבָדָ֖ה",
+                "transliteration": "ū·lə·hō·w·ḇā·ḏāh",
+                "strong": "7",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5705",
+                "translation": " forever "
+            },
+            {
+                "token": "סוֹפָֽא׃",
+                "transliteration": "sō·w·p̄ā",
+                "strong": "5491",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Daniel 7:26",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמַלְכוּתָ֨ה",
+                "transliteration": "ū·mal·ḵū·ṯāh",
+                "strong": "4437",
+                "translation": " Then the sovereignty , "
+            },
+            {
+                "token": "וְשָׁלְטָנָ֜א",
+                "transliteration": "wə·šā·lə·ṭā·nā",
+                "strong": "7985",
+                "translation": " dominion , "
+            },
+            {
+                "token": "וּרְבוּתָ֗א",
+                "transliteration": "ū·rə·ḇū·ṯā",
+                "strong": "7238",
+                "translation": " and greatness "
+            },
+            {
+                "token": "דִּ֚י",
+                "transliteration": "dî",
+                "strong": "1768",
+                "translation": " of "
+            },
+            {
+                "token": "מַלְכְוָת֙",
+                "transliteration": "mal·ḵə·wāṯ",
+                "strong": "4437",
+                "translation": " the kingdoms "
+            },
+            {
+                "token": "תְּח֣וֹת",
+                "transliteration": "tə·ḥō·wṯ",
+                "strong": "8460",
+                "translation": " under "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3606",
+                "translation": " all "
+            },
+            {
+                "token": "שְׁמַיָּ֔א",
+                "transliteration": "šə·may·yā",
+                "strong": "8065",
+                "translation": " of heaven "
+            },
+            {
+                "token": "יְהִיבַ֕ת",
+                "transliteration": "yə·hî·ḇaṯ",
+                "strong": "3052",
+                "translation": " will be given "
+            },
+            {
+                "token": "לְעַ֖ם",
+                "transliteration": "lə·‘am",
+                "strong": "5972",
+                "translation": " to the people , "
+            },
+            {
+                "token": "קַדִּישֵׁ֣י",
+                "transliteration": "qad·dî·šê",
+                "strong": "6922",
+                "translation": " the saints "
+            },
+            {
+                "token": "עֶלְיוֹנִ֑ין",
+                "transliteration": "‘el·yō·w·nîn",
+                "strong": "5946",
+                "translation": " of the Most High . "
+            },
+            {
+                "token": "מַלְכוּתֵהּ֙",
+                "transliteration": "mal·ḵū·ṯêh",
+                "strong": "4437",
+                "translation": " His kingdom "
+            },
+            {
+                "token": "עָלַ֔ם",
+                "transliteration": "‘ā·lam",
+                "strong": "5957",
+                "translation": " will be an everlasting "
+            },
+            {
+                "token": "מַלְכ֣וּת",
+                "transliteration": "mal·ḵūṯ",
+                "strong": "4437",
+                "translation": " kingdom , "
+            },
+            {
+                "token": "וְכֹל֙",
+                "transliteration": "wə·ḵōl",
+                "strong": "3606",
+                "translation": " and all "
+            },
+            {
+                "token": "שָׁלְטָ֣נַיָּ֔א",
+                "transliteration": "šā·lə·ṭā·nay·yā",
+                "strong": "7985",
+                "translation": " rulers "
+            },
+            {
+                "token": "יִפְלְח֖וּן",
+                "transliteration": "yip̄·lə·ḥūn",
+                "strong": "6399",
+                "translation": " will serve "
+            },
+            {
+                "token": "וְיִֽשְׁתַּמְּעֽוּן׃",
+                "transliteration": "wə·yiš·tam·mə·‘ūn",
+                "strong": "8086",
+                "translation": " and obey "
+            },
+            {
+                "token": "לֵ֥הּ",
+                "transliteration": "lêh",
+                "strong": "",
+                "translation": " Him . ’ "
+            }
+        ],
+        "verse_reference": "Daniel 7:27",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5705",
+                "translation": " - "
+            },
+            {
+                "token": "כָּ֖ה",
+                "transliteration": "kāh",
+                "strong": "3542",
+                "translation": " Thus "
+            },
+            {
+                "token": "סוֹפָ֣א",
+                "transliteration": "sō·w·p̄ā",
+                "strong": "5491",
+                "translation": " ends "
+            },
+            {
+                "token": "דִֽי־",
+                "transliteration": "ḏî-",
+                "strong": "1768",
+                "translation": " "
+            },
+            {
+                "token": "מִלְּתָ֑א",
+                "transliteration": "mil·lə·ṯā",
+                "strong": "4406",
+                "translation": " the matter . "
+            },
+            {
+                "token": "אֲנָ֨ה",
+                "transliteration": "’ă·nāh",
+                "strong": "576",
+                "translation": " As for me , "
+            },
+            {
+                "token": "דָֽנִיֵּ֜אל",
+                "transliteration": "ḏā·nî·yêl",
+                "strong": "1841",
+                "translation": " Daniel , "
+            },
+            {
+                "token": "רַעְיוֹנַ֣י",
+                "transliteration": "ra‘·yō·w·nay",
+                "strong": "7476",
+                "translation": " my thoughts "
+            },
+            {
+                "token": "יְבַהֲלֻנַּ֗נִי",
+                "transliteration": "yə·ḇa·hă·lun·na·nî",
+                "strong": "927",
+                "translation": " troubled me "
+            },
+            {
+                "token": "שַׂגִּ֣יא׀",
+                "transliteration": "śag·gî",
+                "strong": "7690",
+                "translation": " greatly , "
+            },
+            {
+                "token": "וְזִיוַי֙",
+                "transliteration": "wə·zî·way",
+                "strong": "2122",
+                "translation": " and my face "
+            },
+            {
+                "token": "יִשְׁתַּנּ֣וֹן",
+                "transliteration": "yiš·tan·nō·wn",
+                "strong": "8133",
+                "translation": " turned pale . "
+            },
+            {
+                "token": "עֲלַ֔י",
+                "transliteration": "‘ă·lay",
+                "strong": "5922",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִטְרֵֽת׃פ",
+                "transliteration": "niṭ·rêṯ",
+                "strong": "5202",
+                "translation": " But I kept "
+            },
+            {
+                "token": "וּמִלְּתָ֖א",
+                "transliteration": "ū·mil·lə·ṯā",
+                "strong": "4406",
+                "translation": " the matter "
+            },
+            {
+                "token": "בְּלִבִּ֥י",
+                "transliteration": "bə·lib·bî",
+                "strong": "3821",
+                "translation": " to myself . ” "
+            }
+        ],
+        "verse_reference": "Daniel 7:28",
+        "book": "Daniel",
+        "chapter": "7",
+        "verse": "28"
+    }
+]

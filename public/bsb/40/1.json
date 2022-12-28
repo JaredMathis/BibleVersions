@@ -1,0 +1,2818 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "Βίβλος",
+                "transliteration": "Biblos",
+                "strong": "976",
+                "translation": " [This is the] record "
+            },
+            {
+                "token": "γενέσεως",
+                "transliteration": "geneseōs",
+                "strong": "1078",
+                "translation": " of [the] genealogy "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " of Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ , "
+            },
+            {
+                "token": "υἱοῦ",
+                "transliteration": "huiou",
+                "strong": "5207",
+                "translation": " [the] son "
+            },
+            {
+                "token": "Δαυὶδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " of David , "
+            },
+            {
+                "token": "υἱοῦ",
+                "transliteration": "huiou",
+                "strong": "5207",
+                "translation": " [the] son "
+            },
+            {
+                "token": "Ἀβραάμ",
+                "transliteration": "Abraam",
+                "strong": "11",
+                "translation": " of Abraham : "
+            }
+        ],
+        "verse_reference": "Matthew 1:1",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἀβραὰμ",
+                "transliteration": "Abraam",
+                "strong": "11",
+                "translation": " Abraham "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰσαάκ",
+                "transliteration": "Isaak",
+                "strong": "2464",
+                "translation": " Isaac , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰσαὰκ",
+                "transliteration": "Isaak",
+                "strong": "2464",
+                "translation": " Isaac "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰακώβ",
+                "transliteration": "Iakōb",
+                "strong": "2384",
+                "translation": " Jacob , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰακὼβ",
+                "transliteration": "Iakōb",
+                "strong": "2384",
+                "translation": " Jacob "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰούδαν",
+                "transliteration": "Ioudan",
+                "strong": "2455",
+                "translation": " Judah "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "ἀδελφοὺς",
+                "transliteration": "adelphous",
+                "strong": "80",
+                "translation": " brothers . "
+            }
+        ],
+        "verse_reference": "Matthew 1:2",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἰούδας",
+                "transliteration": "Ioudas",
+                "strong": "2455",
+                "translation": " Judah "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Φαρὲς",
+                "transliteration": "Phares",
+                "strong": "5329",
+                "translation": " Perez "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ζαρὰ",
+                "transliteration": "Zara",
+                "strong": "2196",
+                "translation": " Zerah "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " by "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θάμαρ",
+                "transliteration": "Thamar",
+                "strong": "2283",
+                "translation": " Tamar , "
+            },
+            {
+                "token": "Φαρὲς",
+                "transliteration": "Phares",
+                "strong": "5329",
+                "translation": " Perez "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἑσρώμ",
+                "transliteration": "Hesrōm",
+                "strong": "2074",
+                "translation": " Hezron , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἑσρὼμ",
+                "transliteration": "Hesrōm",
+                "strong": "2074",
+                "translation": " Hezron "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀράμ",
+                "transliteration": "Aram",
+                "strong": "689",
+                "translation": " Ram . "
+            }
+        ],
+        "verse_reference": "Matthew 1:3",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἀρὰμ",
+                "transliteration": "Aram",
+                "strong": "689",
+                "translation": " Ram "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀμιναδάβ",
+                "transliteration": "Aminadab",
+                "strong": "284",
+                "translation": " Amminadab , "
+            },
+            {
+                "token": "Ἀμιναδὰβ",
+                "transliteration": "Aminadab",
+                "strong": "284",
+                "translation": " Amminadab "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ναασσών",
+                "transliteration": "Naassōn",
+                "strong": "3476",
+                "translation": " Nahshon , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ναασσὼν",
+                "transliteration": "Naassōn",
+                "strong": "3476",
+                "translation": " Nahshon "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σαλμών",
+                "transliteration": "Salmōn",
+                "strong": "4533",
+                "translation": " Salmon . "
+            }
+        ],
+        "verse_reference": "Matthew 1:4",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Σαλμὼν",
+                "transliteration": "Salmōn",
+                "strong": "4533",
+                "translation": " Salmon "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Βόες",
+                "transliteration": "Boes",
+                "strong": "1003",
+                "translation": " Boaz "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " by "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ῥαχάβ",
+                "transliteration": "Rhachab",
+                "strong": "4477",
+                "translation": " Rahab , "
+            },
+            {
+                "token": "Βόες",
+                "transliteration": "Boes",
+                "strong": "1003",
+                "translation": " Boaz "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωβὴδ",
+                "transliteration": "Iōbēd",
+                "strong": "5601",
+                "translation": " Obed "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " by "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ῥούθ",
+                "transliteration": "Rhouth",
+                "strong": "4503",
+                "translation": " Ruth , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωβὴδ",
+                "transliteration": "Iōbēd",
+                "strong": "5601",
+                "translation": " Obed "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰεσσαί",
+                "transliteration": "Iessai",
+                "strong": "2421",
+                "translation": " Jesse , "
+            }
+        ],
+        "verse_reference": "Matthew 1:5",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰεσσαὶ",
+                "transliteration": "Iessai",
+                "strong": "2421",
+                "translation": " Jesse "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Δαυὶδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " David "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "βασιλέα",
+                "transliteration": "basilea",
+                "strong": "935",
+                "translation": " king . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Next : "
+            },
+            {
+                "token": "Δαυὶδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " David "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σολομῶνα",
+                "transliteration": "Solomōna",
+                "strong": "4672",
+                "translation": " Solomon "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " by "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "Οὐρίου",
+                "transliteration": "Ouriou",
+                "strong": "3774",
+                "translation": " Uriah’s "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " [wife] , "
+            }
+        ],
+        "verse_reference": "Matthew 1:6",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Σολομὼν",
+                "transliteration": "Solomōn",
+                "strong": "4672",
+                "translation": " Solomon "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ῥοβοάμ",
+                "transliteration": "Rhoboam",
+                "strong": "4497",
+                "translation": " Rehoboam , "
+            },
+            {
+                "token": "Ῥοβοὰμ",
+                "transliteration": "Rhoboam",
+                "strong": "4497",
+                "translation": " Rehoboam "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀβιά",
+                "transliteration": "Abia",
+                "strong": "7",
+                "translation": " Abijah , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἀβιὰ",
+                "transliteration": "Abia",
+                "strong": "7",
+                "translation": " Abijah "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀσάφ",
+                "transliteration": "Asaph",
+                "strong": "760",
+                "translation": " Asa . "
+            }
+        ],
+        "verse_reference": "Matthew 1:7",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἀσὰφ",
+                "transliteration": "Asaph",
+                "strong": "760",
+                "translation": " Asa "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσαφάτ",
+                "transliteration": "Iōsaphat",
+                "strong": "2498",
+                "translation": " Jehoshaphat , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσαφὰτ",
+                "transliteration": "Iōsaphat",
+                "strong": "2498",
+                "translation": " Jehoshaphat "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωράμ",
+                "transliteration": "Iōram",
+                "strong": "2496",
+                "translation": " Joram , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰωρὰμ",
+                "transliteration": "Iōram",
+                "strong": "2496",
+                "translation": " Joram "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ὀζίαν",
+                "transliteration": "Ozian",
+                "strong": "3604",
+                "translation": " Uzziah . "
+            }
+        ],
+        "verse_reference": "Matthew 1:8",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ὀζίας",
+                "transliteration": "Ozias",
+                "strong": "3604",
+                "translation": " Uzziah "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωαθάμ",
+                "transliteration": "Iōatham",
+                "strong": "2488",
+                "translation": " Jotham , "
+            },
+            {
+                "token": "Ἰωαθὰμ",
+                "transliteration": "Iōatham",
+                "strong": "2488",
+                "translation": " Jotham "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἄχαζ",
+                "transliteration": "Achaz",
+                "strong": "881",
+                "translation": " Ahaz , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἄχαζ",
+                "transliteration": "Achaz",
+                "strong": "881",
+                "translation": " Ahaz "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἑζεκίαν",
+                "transliteration": "Hezekian",
+                "strong": "1478",
+                "translation": " Hezekiah . "
+            }
+        ],
+        "verse_reference": "Matthew 1:9",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἑζεκίας",
+                "transliteration": "Hezekias",
+                "strong": "1478",
+                "translation": " Hezekiah "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Μανασσῆ",
+                "transliteration": "Manassē",
+                "strong": "3128",
+                "translation": " Manasseh , "
+            },
+            {
+                "token": "Μανασσῆς",
+                "transliteration": "Manassēs",
+                "strong": "3128",
+                "translation": " Manasseh "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀμώς",
+                "transliteration": "Amōs",
+                "strong": "301",
+                "translation": " Amon , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀμὼς",
+                "transliteration": "Amōs",
+                "strong": "301",
+                "translation": " Amon "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσίαν",
+                "transliteration": "Iōsian",
+                "strong": "2502",
+                "translation": " Josiah , "
+            }
+        ],
+        "verse_reference": "Matthew 1:10",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰωσίας",
+                "transliteration": "Iōsias",
+                "strong": "2502",
+                "translation": " Josiah "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰεχονίαν",
+                "transliteration": "Iechonian",
+                "strong": "2423",
+                "translation": " Jeconiah "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "ἀδελφοὺς",
+                "transliteration": "adelphous",
+                "strong": "80",
+                "translation": " brothers "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " at [the time] "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "μετοικεσίας",
+                "transliteration": "metoikesias",
+                "strong": "3350",
+                "translation": " exile "
+            },
+            {
+                "token": "Βαβυλῶνος",
+                "transliteration": "Babylōnos",
+                "strong": "897",
+                "translation": " to Babylon . "
+            }
+        ],
+        "verse_reference": "Matthew 1:11",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Μετὰ",
+                "transliteration": "Meta",
+                "strong": "3326",
+                "translation": " After "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " . . . "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μετοικεσίαν",
+                "transliteration": "metoikesian",
+                "strong": "3350",
+                "translation": " exile "
+            },
+            {
+                "token": "Βαβυλῶνος",
+                "transliteration": "Babylōnos",
+                "strong": "897",
+                "translation": " to Babylon : "
+            },
+            {
+                "token": "Ἰεχονίας",
+                "transliteration": "Iechonias",
+                "strong": "2423",
+                "translation": " Jeconiah "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σαλαθιήλ",
+                "transliteration": "Salathiēl",
+                "strong": "4528",
+                "translation": " Shealtiel , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Σαλαθιὴλ",
+                "transliteration": "Salathiēl",
+                "strong": "4528",
+                "translation": " Shealtiel "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ζοροβαβέλ",
+                "transliteration": "Zorobabel",
+                "strong": "2216",
+                "translation": " Zerubbabel , "
+            }
+        ],
+        "verse_reference": "Matthew 1:12",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ζοροβαβὲλ",
+                "transliteration": "Zorobabel",
+                "strong": "2216",
+                "translation": " Zerubbabel "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀβιούδ",
+                "transliteration": "Abioud",
+                "strong": "10",
+                "translation": " Abiud , "
+            },
+            {
+                "token": "Ἀβιοὺδ",
+                "transliteration": "Abioud",
+                "strong": "10",
+                "translation": " Abiud "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐλιακίμ",
+                "transliteration": "Eliakim",
+                "strong": "1662",
+                "translation": " Eliakim , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἐλιακὶμ",
+                "transliteration": "Eliakim",
+                "strong": "1662",
+                "translation": " Eliakim "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀζώρ",
+                "transliteration": "Azōr",
+                "strong": "107",
+                "translation": " Azor . "
+            }
+        ],
+        "verse_reference": "Matthew 1:13",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἀζὼρ",
+                "transliteration": "Azōr",
+                "strong": "107",
+                "translation": " Azor "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σαδώκ",
+                "transliteration": "Sadōk",
+                "strong": "4524",
+                "translation": " Zadok , "
+            },
+            {
+                "token": "Σαδὼκ",
+                "transliteration": "Sadōk",
+                "strong": "4524",
+                "translation": " Zadok "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀχίμ",
+                "transliteration": "Achim",
+                "strong": "885",
+                "translation": " Achim , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἀχὶμ",
+                "transliteration": "Achim",
+                "strong": "885",
+                "translation": " Achim "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐλιούδ",
+                "transliteration": "Elioud",
+                "strong": "1664",
+                "translation": " Eliud . "
+            }
+        ],
+        "verse_reference": "Matthew 1:14",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἐλιοὺδ",
+                "transliteration": "Elioud",
+                "strong": "1664",
+                "translation": " Eliud "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " was the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἐλεάζαρ",
+                "transliteration": "Eleazar",
+                "strong": "1648",
+                "translation": " Eleazar , "
+            },
+            {
+                "token": "Ἐλεάζαρ",
+                "transliteration": "Eleazar",
+                "strong": "1648",
+                "translation": " Eleazar "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ματθάν",
+                "transliteration": "Matthan",
+                "strong": "3157",
+                "translation": " Matthan , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ματθὰν",
+                "transliteration": "Matthan",
+                "strong": "3157",
+                "translation": " Matthan "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰακώβ",
+                "transliteration": "Iakōb",
+                "strong": "2384",
+                "translation": " Jacob , "
+            }
+        ],
+        "verse_reference": "Matthew 1:15",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "Ἰακὼβ",
+                "transliteration": "Iakōb",
+                "strong": "2384",
+                "translation": " Jacob "
+            },
+            {
+                "token": "ἐγέννησεν",
+                "transliteration": "egennēsen",
+                "strong": "1080",
+                "translation": " the father of "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσὴφ",
+                "transliteration": "Iōsēph",
+                "strong": "2501",
+                "translation": " Joseph , "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἄνδρα",
+                "transliteration": "andra",
+                "strong": "435",
+                "translation": " husband "
+            },
+            {
+                "token": "Μαρίας",
+                "transliteration": "Marias",
+                "strong": "3137",
+                "translation": " of Mary , "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "ἧς",
+                "transliteration": "hēs",
+                "strong": "3739",
+                "translation": " whom "
+            },
+            {
+                "token": "ἐγεννήθη",
+                "transliteration": "egennēthē",
+                "strong": "1080",
+                "translation": " was born "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "λεγόμενος",
+                "transliteration": "legomenos",
+                "strong": "3004",
+                "translation": " is called "
+            },
+            {
+                "token": "Χριστός",
+                "transliteration": "Christos",
+                "strong": "5547",
+                "translation": " Christ . "
+            }
+        ],
+        "verse_reference": "Matthew 1:16",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Πᾶσαι",
+                "transliteration": "Pasai",
+                "strong": "3956",
+                "translation": " In all , "
+            },
+            {
+                "token": "οὖν",
+                "transliteration": "oun",
+                "strong": "3767",
+                "translation": " then , "
+            },
+            {
+                "token": "δεκατέσσαρες",
+                "transliteration": "dekatessares",
+                "strong": "1180",
+                "translation": " [there were] fourteen "
+            },
+            {
+                "token": "αἱ",
+                "transliteration": "hai",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "γενεαὶ",
+                "transliteration": "geneai",
+                "strong": "1074",
+                "translation": " . . . "
+            },
+            {
+                "token": "γενεαὶ",
+                "transliteration": "geneai",
+                "strong": "1074",
+                "translation": " generations "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "Ἀβραὰμ",
+                "transliteration": "Abraam",
+                "strong": "11",
+                "translation": " Abraham "
+            },
+            {
+                "token": "ἕως",
+                "transliteration": "heōs",
+                "strong": "2193",
+                "translation": " to "
+            },
+            {
+                "token": "Δαυὶδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " David , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "δεκατέσσαρες",
+                "transliteration": "dekatessares",
+                "strong": "1180",
+                "translation": " fourteen "
+            },
+            {
+                "token": "γενεαὶ",
+                "transliteration": "geneai",
+                "strong": "1074",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "Δαυὶδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " David "
+            },
+            {
+                "token": "ἕως",
+                "transliteration": "heōs",
+                "strong": "2193",
+                "translation": " to "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μετοικεσίας",
+                "transliteration": "metoikesias",
+                "strong": "3350",
+                "translation": " exile "
+            },
+            {
+                "token": "Βαβυλῶνος",
+                "transliteration": "Babylōnos",
+                "strong": "897",
+                "translation": " to Babylon , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δεκατέσσαρες",
+                "transliteration": "dekatessares",
+                "strong": "1180",
+                "translation": " fourteen "
+            },
+            {
+                "token": "γενεαὶ",
+                "transliteration": "geneai",
+                "strong": "1074",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "μετοικεσίας",
+                "transliteration": "metoikesias",
+                "strong": "3350",
+                "translation": " exile "
+            },
+            {
+                "token": "Βαβυλῶνος",
+                "transliteration": "Babylōnos",
+                "strong": "897",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἕως",
+                "transliteration": "heōs",
+                "strong": "2193",
+                "translation": " to "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ . "
+            }
+        ],
+        "verse_reference": "Matthew 1:17",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " This is how "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γένεσις",
+                "transliteration": "genesis",
+                "strong": "1078",
+                "translation": " birth "
+            },
+            {
+                "token": "Τοῦ",
+                "transliteration": "Tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦ",
+                "transliteration": "Iēsou",
+                "strong": "2424",
+                "translation": " of Jesus "
+            },
+            {
+                "token": "Χριστοῦ",
+                "transliteration": "Christou",
+                "strong": "5547",
+                "translation": " Christ "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " came about "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - : "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "μητρὸς",
+                "transliteration": "mētros",
+                "strong": "3384",
+                "translation": " mother "
+            },
+            {
+                "token": "Μαρίας",
+                "transliteration": "Marias",
+                "strong": "3137",
+                "translation": " Mary "
+            },
+            {
+                "token": "μνηστευθείσης",
+                "transliteration": "mnēsteutheisēs",
+                "strong": "3423",
+                "translation": " was pledged in marriage "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσήφ",
+                "transliteration": "Iōsēph",
+                "strong": "2501",
+                "translation": " to Joseph , "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " but "
+            },
+            {
+                "token": "πρὶν",
+                "transliteration": "prin",
+                "strong": "4250",
+                "translation": " before "
+            },
+            {
+                "token": "αὐτοὺς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " they "
+            },
+            {
+                "token": "συνελθεῖν",
+                "transliteration": "synelthein",
+                "strong": "4905",
+                "translation": " came together , "
+            },
+            {
+                "token": "εὑρέθη",
+                "transliteration": "heurethē",
+                "strong": "2147",
+                "translation": " she was found "
+            },
+            {
+                "token": "ἔχουσα",
+                "transliteration": "echousa",
+                "strong": "2192",
+                "translation": " to be with child "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "γαστρὶ",
+                "transliteration": "gastri",
+                "strong": "1064",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " through "
+            },
+            {
+                "token": "ἁγίου",
+                "transliteration": "hagiou",
+                "strong": "40",
+                "translation": " [the] Holy "
+            },
+            {
+                "token": "πνεύματος",
+                "transliteration": "pneumatos",
+                "strong": "4151",
+                "translation": " Spirit . "
+            }
+        ],
+        "verse_reference": "Matthew 1:18",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Because "
+            },
+            {
+                "token": "Ἰωσὴφ",
+                "transliteration": "Iōsēph",
+                "strong": "2501",
+                "translation": " Joseph "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτῆς",
+                "transliteration": "autēs",
+                "strong": "846",
+                "translation": " her "
+            },
+            {
+                "token": "ἀνὴρ",
+                "transliteration": "anēr",
+                "strong": "435",
+                "translation": " husband "
+            },
+            {
+                "token": "ὢν",
+                "transliteration": "ōn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "δίκαιος",
+                "transliteration": "dikaios",
+                "strong": "1342",
+                "translation": " a righteous man "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "θέλων",
+                "transliteration": "thelōn",
+                "strong": "2309",
+                "translation": " was unwilling "
+            },
+            {
+                "token": "αὐτὴν",
+                "transliteration": "autēn",
+                "strong": "846",
+                "translation": " vvv "
+            },
+            {
+                "token": "δειγματίσαι",
+                "transliteration": "deigmatisai",
+                "strong": "1165",
+                "translation": " to disgrace her publicly , "
+            },
+            {
+                "token": "ἐβουλήθη",
+                "transliteration": "eboulēthē",
+                "strong": "1014",
+                "translation": " he resolved "
+            },
+            {
+                "token": "ἀπολῦσαι",
+                "transliteration": "apolysai",
+                "strong": "630",
+                "translation": " to divorce "
+            },
+            {
+                "token": "αὐτήν",
+                "transliteration": "autēn",
+                "strong": "846",
+                "translation": " her "
+            },
+            {
+                "token": "λάθρᾳ",
+                "transliteration": "lathra",
+                "strong": "2977",
+                "translation": " quietly . "
+            }
+        ],
+        "verse_reference": "Matthew 1:19",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " after "
+            },
+            {
+                "token": "ἐνθυμηθέντος",
+                "transliteration": "enthymēthentos",
+                "strong": "1760",
+                "translation": " he had pondered "
+            },
+            {
+                "token": "Ταῦτα",
+                "transliteration": "Tauta",
+                "strong": "3778",
+                "translation": " these things , "
+            },
+            {
+                "token": "ἰδοὺ",
+                "transliteration": "idou",
+                "strong": "2400",
+                "translation": " - "
+            },
+            {
+                "token": "ἄγγελος",
+                "transliteration": "angelos",
+                "strong": "32",
+                "translation": " an angel "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " of [the] Lord "
+            },
+            {
+                "token": "ἐφάνη",
+                "transliteration": "ephanē",
+                "strong": "5316",
+                "translation": " appeared "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " to him "
+            },
+            {
+                "token": "κατ’",
+                "transliteration": "kat’",
+                "strong": "2596",
+                "translation": " in "
+            },
+            {
+                "token": "ὄναρ",
+                "transliteration": "onar",
+                "strong": "3677",
+                "translation": " a dream "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " [and] said , "
+            },
+            {
+                "token": "Ἰωσὴφ",
+                "transliteration": "Iōsēph",
+                "strong": "2501",
+                "translation": " “ Joseph , "
+            },
+            {
+                "token": "υἱὸς",
+                "transliteration": "huios",
+                "strong": "5207",
+                "translation": " son "
+            },
+            {
+                "token": "Δαυίδ",
+                "transliteration": "Dauid",
+                "strong": "1138",
+                "translation": " of David , "
+            },
+            {
+                "token": "φοβηθῇς",
+                "transliteration": "phobēthēs",
+                "strong": "5399",
+                "translation": " do not be afraid "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "παραλαβεῖν",
+                "transliteration": "paralabein",
+                "strong": "3880",
+                "translation": " to embrace "
+            },
+            {
+                "token": "Μαρίαν",
+                "transliteration": "Marian",
+                "strong": "3137",
+                "translation": " Mary "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " [as] "
+            },
+            {
+                "token": "σου",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "γυναῖκά",
+                "transliteration": "gynaika",
+                "strong": "1135",
+                "translation": " wife , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " for "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the [One] "
+            },
+            {
+                "token": "γεννηθὲν",
+                "transliteration": "gennēthen",
+                "strong": "1080",
+                "translation": " conceived "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτῇ",
+                "transliteration": "autē",
+                "strong": "846",
+                "translation": " her "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "Ἁγίου",
+                "transliteration": "Hagiou",
+                "strong": "40",
+                "translation": " [the] Holy "
+            },
+            {
+                "token": "Πνεύματός",
+                "transliteration": "Pneumatos",
+                "strong": "4151",
+                "translation": " Spirit . "
+            }
+        ],
+        "verse_reference": "Matthew 1:20",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τέξεται",
+                "transliteration": "texetai",
+                "strong": "5088",
+                "translation": " She will give birth to "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "υἱὸν",
+                "transliteration": "huion",
+                "strong": "5207",
+                "translation": " a Son , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "καλέσεις",
+                "transliteration": "kaleseis",
+                "strong": "2564",
+                "translation": " you are to give "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "Ἰησοῦν",
+                "transliteration": "Iēsoun",
+                "strong": "2424",
+                "translation": " Jesus , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " because "
+            },
+            {
+                "token": "αὐτὸς",
+                "transliteration": "autos",
+                "strong": "846",
+                "translation": " He "
+            },
+            {
+                "token": "σώσει",
+                "transliteration": "sōsei",
+                "strong": "4982",
+                "translation": " will save "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "λαὸν",
+                "transliteration": "laon",
+                "strong": "2992",
+                "translation": " people "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "ἁμαρτιῶν",
+                "transliteration": "hamartiōn",
+                "strong": "266",
+                "translation": " sins . ” "
+            }
+        ],
+        "verse_reference": "Matthew 1:21",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὅλον",
+                "transliteration": "holon",
+                "strong": "3650",
+                "translation": " All "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Τοῦτο",
+                "transliteration": "Touto",
+                "strong": "3778",
+                "translation": " this "
+            },
+            {
+                "token": "γέγονεν",
+                "transliteration": "gegonen",
+                "strong": "1096",
+                "translation": " took place "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "πληρωθῇ",
+                "transliteration": "plērōthē",
+                "strong": "4137",
+                "translation": " fulfill "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " what "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " - "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " the Lord "
+            },
+            {
+                "token": "ῥηθὲν",
+                "transliteration": "rhēthen",
+                "strong": "2046",
+                "translation": " had said "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "προφήτου",
+                "transliteration": "prophētou",
+                "strong": "4396",
+                "translation": " prophet "
+            },
+            {
+                "token": "λέγοντος",
+                "transliteration": "legontos",
+                "strong": "3004",
+                "translation": " - : "
+            }
+        ],
+        "verse_reference": "Matthew 1:22",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἰδοὺ",
+                "transliteration": "Idou",
+                "strong": "2400",
+                "translation": " “ Behold , "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "παρθένος",
+                "transliteration": "parthenos",
+                "strong": "3933",
+                "translation": " virgin "
+            },
+            {
+                "token": "ἕξει",
+                "transliteration": "hexei",
+                "strong": "2192",
+                "translation": " will be with child "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " . . . "
+            },
+            {
+                "token": "γαστρὶ",
+                "transliteration": "gastri",
+                "strong": "1064",
+                "translation": " . . . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τέξεται",
+                "transliteration": "texetai",
+                "strong": "5088",
+                "translation": " will give birth to "
+            },
+            {
+                "token": "υἱόν",
+                "transliteration": "huion",
+                "strong": "5207",
+                "translation": " a son , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "καλέσουσιν",
+                "transliteration": "kalesousin",
+                "strong": "2564",
+                "translation": " they will call "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " . . . "
+            },
+            {
+                "token": "Ἐμμανουήλ",
+                "transliteration": "Emmanouēl",
+                "strong": "1694",
+                "translation": " Immanuel ” "
+            },
+            {
+                "token": "ὅ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " ( which "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " means "
+            },
+            {
+                "token": "μεθερμηνευόμενον",
+                "transliteration": "methermēneuomenon",
+                "strong": "3177",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεός",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " “ God "
+            },
+            {
+                "token": "Μεθ’",
+                "transliteration": "Meth’",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " us ” ). "
+            }
+        ],
+        "verse_reference": "Matthew 1:23",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " When "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωσὴφ",
+                "transliteration": "Iōsēph",
+                "strong": "2501",
+                "translation": " Joseph "
+            },
+            {
+                "token": "Ἐγερθεὶς",
+                "transliteration": "Egertheis",
+                "strong": "1453",
+                "translation": " woke up "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " . . . "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὕπνου",
+                "transliteration": "hypnou",
+                "strong": "5258",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἐποίησεν",
+                "transliteration": "epoiēsen",
+                "strong": "4160",
+                "translation": " he did "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " as "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἄγγελος",
+                "transliteration": "angelos",
+                "strong": "32",
+                "translation": " angel "
+            },
+            {
+                "token": "Κυρίου",
+                "transliteration": "Kyriou",
+                "strong": "2962",
+                "translation": " of [the] Lord "
+            },
+            {
+                "token": "προσέταξεν",
+                "transliteration": "prosetaxen",
+                "strong": "4367",
+                "translation": " had commanded "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " him , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "παρέλαβεν",
+                "transliteration": "parelaben",
+                "strong": "3880",
+                "translation": " embraced "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " [Mary as] "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "γυναῖκα",
+                "transliteration": "gynaika",
+                "strong": "1135",
+                "translation": " wife . "
+            }
+        ],
+        "verse_reference": "Matthew 1:24",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [But] "
+            },
+            {
+                "token": "ἐγίνωσκεν",
+                "transliteration": "eginōsken",
+                "strong": "1097",
+                "translation": " he had no union "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτὴν",
+                "transliteration": "autēn",
+                "strong": "846",
+                "translation": " with her "
+            },
+            {
+                "token": "ἕως",
+                "transliteration": "heōs",
+                "strong": "2193",
+                "translation": " until "
+            },
+            {
+                "token": "οὗ",
+                "transliteration": "hou",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἔτεκεν",
+                "transliteration": "eteken",
+                "strong": "5088",
+                "translation": " she gave birth to "
+            },
+            {
+                "token": "υἱόν",
+                "transliteration": "huion",
+                "strong": "5207",
+                "translation": " a Son . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "ἐκάλεσεν",
+                "transliteration": "ekalesen",
+                "strong": "2564",
+                "translation": " he gave Him the name "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "Ἰησοῦν",
+                "transliteration": "Iēsoun",
+                "strong": "2424",
+                "translation": " Jesus . "
+            }
+        ],
+        "verse_reference": "Matthew 1:25",
+        "book": "Matthew",
+        "chapter": "1",
+        "verse": "25"
+    }
+]

@@ -1,0 +1,2254 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֣ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַהֲרֹ֖ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Numbers 19:1",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹ֚את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " “ This "
+            },
+            {
+                "token": "חֻקַּ֣ת",
+                "transliteration": "ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " is the statute "
+            },
+            {
+                "token": "הַתּוֹרָ֔ה",
+                "transliteration": "hat·tō·w·rāh",
+                "strong": "8451",
+                "translation": " of the law "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "לֵאמֹ֑ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "צִוָּ֥ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " has commanded : "
+            },
+            {
+                "token": "דַּבֵּ֣ר׀",
+                "transliteration": "dab·bêr",
+                "strong": "1696",
+                "translation": " Instruct "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְיִקְח֣וּ",
+                "transliteration": "wə·yiq·ḥū",
+                "strong": "3947",
+                "translation": " to bring "
+            },
+            {
+                "token": "אֵלֶיךָ֩",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " you "
+            },
+            {
+                "token": "תְּמִימָ֗ה",
+                "transliteration": "tə·mî·māh",
+                "strong": "8549",
+                "translation": " an unblemished "
+            },
+            {
+                "token": "אֲדֻמָּ֜ה",
+                "transliteration": "’ă·ḏum·māh",
+                "strong": "122",
+                "translation": " red "
+            },
+            {
+                "token": "פָרָ֨ה",
+                "transliteration": "p̄ā·rāh",
+                "strong": "6510",
+                "translation": " heifer "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " has no "
+            },
+            {
+                "token": "בָּהּ֙",
+                "transliteration": "bāh",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "מ֔וּם",
+                "transliteration": "mūm",
+                "strong": "3971",
+                "translation": " defect "
+            },
+            {
+                "token": "אֲשֶׁ֛ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " and has never "
+            },
+            {
+                "token": "עָלָ֥ה",
+                "transliteration": "‘ā·lāh",
+                "strong": "5927",
+                "translation": " been placed "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " "
+            },
+            {
+                "token": "עֹֽל׃",
+                "transliteration": "‘ōl",
+                "strong": "5923",
+                "translation": " under a yoke . "
+            }
+        ],
+        "verse_reference": "Numbers 19:2",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּנְתַתֶּ֣ם",
+                "transliteration": "ū·nə·ṯat·tem",
+                "strong": "5414",
+                "translation": " Give "
+            },
+            {
+                "token": "אֹתָ֔הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " it to "
+            },
+            {
+                "token": "אֶלְעָזָ֖ר",
+                "transliteration": "’el·‘ā·zār",
+                "strong": "499",
+                "translation": " Eleazar "
+            },
+            {
+                "token": "הַכֹּהֵ֑ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest , "
+            },
+            {
+                "token": "וְהוֹצִ֤יא",
+                "transliteration": "wə·hō·w·ṣî",
+                "strong": "3318",
+                "translation": " and he will have it brought "
+            },
+            {
+                "token": "אֹתָהּ֙",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " - "
+            },
+            {
+                "token": "מִח֣וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לַֽמַּחֲנֶ֔ה",
+                "transliteration": "lam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp "
+            },
+            {
+                "token": "וְשָׁחַ֥ט",
+                "transliteration": "wə·šā·ḥaṭ",
+                "strong": "7819",
+                "translation": " and slaughtered "
+            },
+            {
+                "token": "אֹתָ֖הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְפָנָֽיו׃",
+                "transliteration": "lə·p̄ā·nāw",
+                "strong": "6440",
+                "translation": " in his presence . "
+            }
+        ],
+        "verse_reference": "Numbers 19:3",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶלְעָזָ֧ר",
+                "transliteration": "’el·‘ā·zār",
+                "strong": "499",
+                "translation": " Eleazar "
+            },
+            {
+                "token": "הַכֹּהֵ֛ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " the priest "
+            },
+            {
+                "token": "וְלָקַ֞ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " is to take "
+            },
+            {
+                "token": "מִדָּמָ֖הּ",
+                "transliteration": "mid·dā·māh",
+                "strong": "1818",
+                "translation": " some of its blood "
+            },
+            {
+                "token": "בְּאֶצְבָּע֑וֹ",
+                "transliteration": "bə·’eṣ·bā·‘ōw",
+                "strong": "676",
+                "translation": " on his finger "
+            },
+            {
+                "token": "וְהִזָּ֞ה",
+                "transliteration": "wə·hiz·zāh",
+                "strong": "5137",
+                "translation": " and sprinkle "
+            },
+            {
+                "token": "מִדָּמָ֖הּ",
+                "transliteration": "mid·dā·māh",
+                "strong": "1818",
+                "translation": " [it] "
+            },
+            {
+                "token": "שֶׁ֥בַע",
+                "transliteration": "še·ḇa‘",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "פְּעָמִֽים׃",
+                "transliteration": "pə·‘ā·mîm",
+                "strong": "6471",
+                "translation": " times "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " toward "
+            },
+            {
+                "token": "נֹ֨כַח",
+                "transliteration": "nō·ḵaḥ",
+                "strong": "5227",
+                "translation": " . . . "
+            },
+            {
+                "token": "פְּנֵ֧י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " the front "
+            },
+            {
+                "token": "אֹֽהֶל־",
+                "transliteration": "’ō·hel-",
+                "strong": "168",
+                "translation": " of the Tent "
+            },
+            {
+                "token": "מוֹעֵ֛ד",
+                "transliteration": "mō·w·‘êḏ",
+                "strong": "4150",
+                "translation": " of Meeting . "
+            }
+        ],
+        "verse_reference": "Numbers 19:4",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַפָּרָ֖ה",
+                "transliteration": "hap·pā·rāh",
+                "strong": "6510",
+                "translation": " Then the heifer "
+            },
+            {
+                "token": "וְשָׂרַ֥ף",
+                "transliteration": "wə·śā·rap̄",
+                "strong": "8313",
+                "translation": " must be burned "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְעֵינָ֑יו",
+                "transliteration": "lə·‘ê·nāw",
+                "strong": "5869",
+                "translation": " in his sight . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עֹרָ֤הּ",
+                "transliteration": "‘ō·rāh",
+                "strong": "5785",
+                "translation": " Its hide , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּשָׂרָהּ֙",
+                "transliteration": "bə·śā·rāh",
+                "strong": "1320",
+                "translation": " its flesh , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "דָּמָ֔הּ",
+                "transliteration": "dā·māh",
+                "strong": "1818",
+                "translation": " and its blood "
+            },
+            {
+                "token": "יִשְׂרֹֽף׃",
+                "transliteration": "yiś·rōp̄",
+                "strong": "8313",
+                "translation": " are to be burned , "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along with "
+            },
+            {
+                "token": "פִּרְשָׁ֖הּ",
+                "transliteration": "pir·šāh",
+                "strong": "6569",
+                "translation": " its dung . "
+            }
+        ],
+        "verse_reference": "Numbers 19:5",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " The priest "
+            },
+            {
+                "token": "וְלָקַ֣ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " is to take "
+            },
+            {
+                "token": "אֶ֛רֶז",
+                "transliteration": "’e·rez",
+                "strong": "730",
+                "translation": " cedar "
+            },
+            {
+                "token": "עֵ֥ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " wood , "
+            },
+            {
+                "token": "וְאֵז֖וֹב",
+                "transliteration": "wə·’ê·zō·wḇ",
+                "strong": "231",
+                "translation": " hyssop , "
+            },
+            {
+                "token": "וּשְׁנִ֣י",
+                "transliteration": "ū·šə·nî",
+                "strong": "8144",
+                "translation": " and scarlet wool "
+            },
+            {
+                "token": "תוֹלָ֑עַת",
+                "transliteration": "ṯō·w·lā·‘aṯ",
+                "strong": "8438",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְהִשְׁלִ֕יךְ",
+                "transliteration": "wə·hiš·lîḵ",
+                "strong": "7993",
+                "translation": " and throw "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " them "
+            },
+            {
+                "token": "תּ֖וֹךְ",
+                "transliteration": "tō·wḵ",
+                "strong": "8432",
+                "translation": " onto "
+            },
+            {
+                "token": "שְׂרֵפַ֥ת",
+                "transliteration": "śə·rê·p̄aṯ",
+                "strong": "8316",
+                "translation": " the burning "
+            },
+            {
+                "token": "הַפָּרָֽה׃",
+                "transliteration": "hap·pā·rāh",
+                "strong": "6510",
+                "translation": " heifer . "
+            }
+        ],
+        "verse_reference": "Numbers 19:6",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַכֹּהֵ֗ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " Then the priest "
+            },
+            {
+                "token": "וְכִבֶּ֨ס",
+                "transliteration": "wə·ḵib·bes",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֜יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְרָחַ֤ץ",
+                "transliteration": "wə·rā·ḥaṣ",
+                "strong": "7364",
+                "translation": " and bathe "
+            },
+            {
+                "token": "בְּשָׂרוֹ֙",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " his body "
+            },
+            {
+                "token": "בַּמַּ֔יִם",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " in water ; "
+            },
+            {
+                "token": "וְאַחַ֖ר",
+                "transliteration": "wə·’a·ḥar",
+                "strong": "310",
+                "translation": " after that "
+            },
+            {
+                "token": "יָב֣וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " he may enter "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַֽמַּחֲנֶ֑ה",
+                "transliteration": "ham·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp , "
+            },
+            {
+                "token": "הַכֹּהֵ֖ן",
+                "transliteration": "hak·kō·hên",
+                "strong": "3548",
+                "translation": " but he "
+            },
+            {
+                "token": "וְטָמֵ֥א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " will be ceremonially unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Numbers 19:7",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַשֹּׂרֵ֣ף",
+                "transliteration": "wə·haś·śō·rêp̄",
+                "strong": "8313",
+                "translation": " The one who burned "
+            },
+            {
+                "token": "אֹתָ֔הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " [the heifer] "
+            },
+            {
+                "token": "יְכַבֵּ֤ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must also wash "
+            },
+            {
+                "token": "בְּגָדָיו֙",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְרָחַ֥ץ",
+                "transliteration": "wə·rā·ḥaṣ",
+                "strong": "7364",
+                "translation": " and bathe "
+            },
+            {
+                "token": "בְּשָׂר֖וֹ",
+                "transliteration": "bə·śā·rōw",
+                "strong": "1320",
+                "translation": " his body "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " . . . "
+            },
+            {
+                "token": "בַּמַּ֔יִם",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " in water , "
+            },
+            {
+                "token": "וְטָמֵ֖א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and he too will be ceremonially unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Numbers 19:8",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " Then a man "
+            },
+            {
+                "token": "טָה֗וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " who is ceremonially clean "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְאָסַ֣ף׀",
+                "transliteration": "wə·’ā·sap̄",
+                "strong": "622",
+                "translation": " is to gather up "
+            },
+            {
+                "token": "אֵ֣פֶר",
+                "transliteration": "’ê·p̄er",
+                "strong": "665",
+                "translation": " the ashes "
+            },
+            {
+                "token": "הַפָּרָ֔ה",
+                "transliteration": "hap·pā·rāh",
+                "strong": "6510",
+                "translation": " of the heifer "
+            },
+            {
+                "token": "וְהִנִּ֛יחַ",
+                "transliteration": "wə·hin·nî·aḥ",
+                "strong": "5117",
+                "translation": " and store [them] "
+            },
+            {
+                "token": "טָה֑וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " in a ceremonially clean "
+            },
+            {
+                "token": "בְּמָק֣וֹם",
+                "transliteration": "bə·mā·qō·wm",
+                "strong": "4725",
+                "translation": " place "
+            },
+            {
+                "token": "מִח֥וּץ",
+                "transliteration": "mi·ḥūṣ",
+                "strong": "2351",
+                "translation": " outside "
+            },
+            {
+                "token": "לַֽמַּחֲנֶ֖ה",
+                "transliteration": "lam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " the camp . "
+            },
+            {
+                "token": "וְ֠הָיְתָה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " They must be "
+            },
+            {
+                "token": "לְמִשְׁמֶ֛רֶת",
+                "transliteration": "lə·miš·me·reṯ",
+                "strong": "4931",
+                "translation": " kept "
+            },
+            {
+                "token": "לַעֲדַ֨ת",
+                "transliteration": "la·‘ă·ḏaṯ",
+                "strong": "5712",
+                "translation": " by the congregation "
+            },
+            {
+                "token": "בְּנֵֽי־",
+                "transliteration": "bə·nê-",
+                "strong": "1121",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִשְׂרָאֵ֧ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "לְמֵ֥י",
+                "transliteration": "lə·mê",
+                "strong": "4325",
+                "translation": " for preparing the water "
+            },
+            {
+                "token": "נִדָּ֖ה",
+                "transliteration": "nid·dāh",
+                "strong": "5079",
+                "translation": " of purification ; "
+            },
+            {
+                "token": "הִֽוא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " this [is] "
+            },
+            {
+                "token": "חַטָּ֥את",
+                "transliteration": "ḥaṭ·ṭāṯ",
+                "strong": "2403",
+                "translation": " for purification from sin . "
+            }
+        ],
+        "verse_reference": "Numbers 19:9",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָאֹסֵ֨ף",
+                "transliteration": "hā·’ō·sêp̄",
+                "strong": "622",
+                "translation": " The man who has gathered up "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֵ֤פֶר",
+                "transliteration": "’ê·p̄er",
+                "strong": "665",
+                "translation": " the ashes "
+            },
+            {
+                "token": "הַפָּרָה֙",
+                "transliteration": "hap·pā·rāh",
+                "strong": "6510",
+                "translation": " of the heifer "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְ֠כִבֶּס",
+                "transliteration": "wə·ḵib·bes",
+                "strong": "3526",
+                "translation": " must also wash "
+            },
+            {
+                "token": "בְּגָדָ֔יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes , "
+            },
+            {
+                "token": "וְטָמֵ֖א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and he will be ceremonially unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָ֑רֶב",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            },
+            {
+                "token": "וְֽהָיְתָ֞ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " This "
+            },
+            {
+                "token": "עוֹלָֽם׃",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " is a permanent "
+            },
+            {
+                "token": "לְחֻקַּ֥ת",
+                "transliteration": "lə·ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " statute "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " for the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְלַגֵּ֛ר",
+                "transliteration": "wə·lag·gêr",
+                "strong": "1616",
+                "translation": " and for the foreigner "
+            },
+            {
+                "token": "הַגָּ֥ר",
+                "transliteration": "hag·gār",
+                "strong": "1481",
+                "translation": " residing "
+            },
+            {
+                "token": "בְּתוֹכָ֖ם",
+                "transliteration": "bə·ṯō·w·ḵām",
+                "strong": "8432",
+                "translation": " among them . "
+            }
+        ],
+        "verse_reference": "Numbers 19:10",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַנֹּגֵ֥עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " Whoever touches "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "בְּמֵ֖ת",
+                "transliteration": "bə·mêṯ",
+                "strong": "4191",
+                "translation": " dead "
+            },
+            {
+                "token": "אָדָ֑ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " vvv "
+            },
+            {
+                "token": "נֶ֣פֶשׁ",
+                "transliteration": "ne·p̄eš",
+                "strong": "5315",
+                "translation": " body "
+            },
+            {
+                "token": "וְטָמֵ֖א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Numbers 19:11",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ה֣וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "יִתְחַטָּא־",
+                "transliteration": "yiṯ·ḥaṭ·ṭā-",
+                "strong": "2398",
+                "translation": " must purify himself "
+            },
+            {
+                "token": "ב֞וֹ",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " with [the water] "
+            },
+            {
+                "token": "הַשְּׁלִישִׁ֛י",
+                "transliteration": "haš·šə·lî·šî",
+                "strong": "7992",
+                "translation": " on the third "
+            },
+            {
+                "token": "בַּיּ֧וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֖י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " and on the seventh "
+            },
+            {
+                "token": "וּבַיּ֥וֹם",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day ; "
+            },
+            {
+                "token": "יִטְהָ֑ר",
+                "transliteration": "yiṭ·hār",
+                "strong": "2891",
+                "translation": " then he will be clean . "
+            },
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " But if "
+            },
+            {
+                "token": "לֹ֨א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " he does not "
+            },
+            {
+                "token": "יִתְחַטָּ֜א",
+                "transliteration": "yiṯ·ḥaṭ·ṭā",
+                "strong": "2398",
+                "translation": " purify himself "
+            },
+            {
+                "token": "הַשְּׁלִישִׁ֛י",
+                "transliteration": "haš·šə·lî·šî",
+                "strong": "7992",
+                "translation": " on the third "
+            },
+            {
+                "token": "וּבַיּ֥וֹם",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֖י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " and seventh "
+            },
+            {
+                "token": "בַּיּ֧וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " days , "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " he will not "
+            },
+            {
+                "token": "יִטְהָֽר׃",
+                "transliteration": "yiṭ·hār",
+                "strong": "2891",
+                "translation": " be clean . "
+            }
+        ],
+        "verse_reference": "Numbers 19:12",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּֽל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Anyone "
+            },
+            {
+                "token": "הַנֹּגֵ֡עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " who touches "
+            },
+            {
+                "token": "הָאָדָ֨ם",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " a human "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יָמ֜וּת",
+                "transliteration": "yā·mūṯ",
+                "strong": "4191",
+                "translation": " - "
+            },
+            {
+                "token": "בְּמֵ֣ת",
+                "transliteration": "bə·mêṯ",
+                "strong": "4191",
+                "translation": " corpse "
+            },
+            {
+                "token": "בְּנֶפֶשׁ֩",
+                "transliteration": "bə·ne·p̄eš",
+                "strong": "5315",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and fails "
+            },
+            {
+                "token": "יִתְחַטָּ֗א",
+                "transliteration": "yiṯ·ḥaṭ·ṭā",
+                "strong": "2398",
+                "translation": " to purify "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " himself "
+            },
+            {
+                "token": "טִמֵּ֔א",
+                "transliteration": "ṭim·mê",
+                "strong": "2930",
+                "translation": " defiles "
+            },
+            {
+                "token": "מִשְׁכַּ֤ן",
+                "transliteration": "miš·kan",
+                "strong": "4908",
+                "translation": " the tabernacle "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            },
+            {
+                "token": "הַהִ֖וא",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " That "
+            },
+            {
+                "token": "הַנֶּ֥פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " person "
+            },
+            {
+                "token": "וְנִכְרְתָ֛ה",
+                "transliteration": "wə·niḵ·rə·ṯāh",
+                "strong": "3772",
+                "translation": " must be cut off "
+            },
+            {
+                "token": "מִיִּשְׂרָאֵ֑ל",
+                "transliteration": "mî·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " from Israel . "
+            },
+            {
+                "token": "יִהְיֶ֔ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " He remains "
+            },
+            {
+                "token": "טָמֵ֣א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " unclean , "
+            },
+            {
+                "token": "כִּי֩",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "מֵ֨י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " the water "
+            },
+            {
+                "token": "נִדָּ֜ה",
+                "transliteration": "nid·dāh",
+                "strong": "5079",
+                "translation": " of purification "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "זֹרַ֤ק",
+                "transliteration": "zō·raq",
+                "strong": "2236",
+                "translation": " been sprinkled "
+            },
+            {
+                "token": "עָלָיו֙",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on him , "
+            },
+            {
+                "token": "טֻמְאָת֥וֹ",
+                "transliteration": "ṭum·’ā·ṯōw",
+                "strong": "2932",
+                "translation": " and his uncleanness "
+            },
+            {
+                "token": "בֽוֹ׃",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "ע֖וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " is still on him . "
+            }
+        ],
+        "verse_reference": "Numbers 19:13",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹ֚את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " This "
+            },
+            {
+                "token": "הַתּוֹרָ֔ה",
+                "transliteration": "hat·tō·w·rāh",
+                "strong": "8451",
+                "translation": " is the law "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " when "
+            },
+            {
+                "token": "אָדָ֖ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " a person "
+            },
+            {
+                "token": "יָמ֣וּת",
+                "transliteration": "yā·mūṯ",
+                "strong": "4191",
+                "translation": " dies "
+            },
+            {
+                "token": "בְּאֹ֑הֶל",
+                "transliteration": "bə·’ō·hel",
+                "strong": "168",
+                "translation": " in a tent : "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Everyone "
+            },
+            {
+                "token": "הַבָּ֤א",
+                "transliteration": "hab·bā",
+                "strong": "935",
+                "translation": " who enters "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָאֹ֙הֶל֙",
+                "transliteration": "hā·’ō·hel",
+                "strong": "168",
+                "translation": " the tent "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and everyone "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בָּאֹ֔הֶל",
+                "transliteration": "bā·’ō·hel",
+                "strong": "168",
+                "translation": " already in the tent "
+            },
+            {
+                "token": "יִטְמָ֖א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days , "
+            }
+        ],
+        "verse_reference": "Numbers 19:14",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹל֙",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " and any "
+            },
+            {
+                "token": "פָת֔וּחַ",
+                "transliteration": "p̄ā·ṯū·aḥ",
+                "strong": "6605",
+                "translation": " open "
+            },
+            {
+                "token": "אֲשֶׁ֛ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "כְּלִ֣י",
+                "transliteration": "kə·lî",
+                "strong": "3627",
+                "translation": " container "
+            },
+            {
+                "token": "אֵין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " without "
+            },
+            {
+                "token": "צָמִ֥יד",
+                "transliteration": "ṣā·mîḏ",
+                "strong": "6781",
+                "translation": " a lid "
+            },
+            {
+                "token": "פָּתִ֖יל",
+                "transliteration": "pā·ṯîl",
+                "strong": "6616",
+                "translation": " fastened "
+            },
+            {
+                "token": "עָלָ֑יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on it "
+            },
+            {
+                "token": "טָמֵ֖א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 19:15",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹ֨ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " Anyone "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "פְּנֵ֣י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " the open field "
+            },
+            {
+                "token": "הַשָּׂדֶ֗ה",
+                "transliteration": "haś·śā·ḏeh",
+                "strong": "7704",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יִגַּ֜ע",
+                "transliteration": "yig·ga‘",
+                "strong": "5060",
+                "translation": " touches "
+            },
+            {
+                "token": "בַּֽחֲלַל־",
+                "transliteration": "ba·ḥă·lal-",
+                "strong": "2491",
+                "translation": " someone who has been killed "
+            },
+            {
+                "token": "חֶ֙רֶב֙",
+                "transliteration": "ḥe·reḇ",
+                "strong": "2719",
+                "translation": " by the sword "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְמֵ֔ת",
+                "transliteration": "ḇə·mêṯ",
+                "strong": "4191",
+                "translation": " has died of natural causes , "
+            },
+            {
+                "token": "אֽוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "אָדָ֖ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " anyone who touches a human "
+            },
+            {
+                "token": "בְעֶ֥צֶם",
+                "transliteration": "ḇə·‘e·ṣem",
+                "strong": "6106",
+                "translation": " bone "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בְקָ֑בֶר",
+                "transliteration": "ḇə·qā·ḇer",
+                "strong": "6913",
+                "translation": " a grave , "
+            },
+            {
+                "token": "יִטְמָ֖א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "שִׁבְעַ֥ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " for seven "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days . "
+            }
+        ],
+        "verse_reference": "Numbers 19:16",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לַטָּמֵ֔א",
+                "transliteration": "laṭ·ṭā·mê",
+                "strong": "2931",
+                "translation": " [For the purification] of the unclean person, "
+            },
+            {
+                "token": "וְלָֽקְחוּ֙",
+                "transliteration": "wə·lā·qə·ḥū",
+                "strong": "3947",
+                "translation": " take "
+            },
+            {
+                "token": "מֵעֲפַ֖ר",
+                "transliteration": "mê·‘ă·p̄ar",
+                "strong": "6083",
+                "translation": " some of the ashes "
+            },
+            {
+                "token": "שְׂרֵפַ֣ת",
+                "transliteration": "śə·rê·p̄aṯ",
+                "strong": "8316",
+                "translation": " of the burnt "
+            },
+            {
+                "token": "הַֽחַטָּ֑את",
+                "transliteration": "ha·ḥaṭ·ṭāṯ",
+                "strong": "2403",
+                "translation": " sin offering , "
+            },
+            {
+                "token": "וְנָתַ֥ן",
+                "transliteration": "wə·nā·ṯan",
+                "strong": "5414",
+                "translation": " put them "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " in "
+            },
+            {
+                "token": "כֶּֽלִי׃",
+                "transliteration": "ke·lî",
+                "strong": "3627",
+                "translation": " a jar , "
+            },
+            {
+                "token": "חַיִּ֖ים",
+                "transliteration": "ḥay·yîm",
+                "strong": "2416",
+                "translation": " and pour fresh "
+            },
+            {
+                "token": "מַ֥יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "עָלָ֛יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " over them . "
+            }
+        ],
+        "verse_reference": "Numbers 19:17",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " Then a man "
+            },
+            {
+                "token": "טָהוֹר֒",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " who is ceremonially clean "
+            },
+            {
+                "token": "וְלָקַ֨ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " is to take "
+            },
+            {
+                "token": "אֵז֜וֹב",
+                "transliteration": "’ê·zō·wḇ",
+                "strong": "231",
+                "translation": " some hyssop , "
+            },
+            {
+                "token": "וְטָבַ֣ל",
+                "transliteration": "wə·ṭā·ḇal",
+                "strong": "2881",
+                "translation": " dip "
+            },
+            {
+                "token": "בַּמַּיִם֮",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " it in the water , "
+            },
+            {
+                "token": "וְהִזָּ֤ה",
+                "transliteration": "wə·hiz·zāh",
+                "strong": "5137",
+                "translation": " and sprinkle "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָאֹ֙הֶל֙",
+                "transliteration": "hā·’ō·hel",
+                "strong": "168",
+                "translation": " the tent , "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַכֵּלִ֔ים",
+                "transliteration": "hak·kê·lîm",
+                "strong": "3627",
+                "translation": " the furnishings , "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַנְּפָשׁ֖וֹת",
+                "transliteration": "han·nə·p̄ā·šō·wṯ",
+                "strong": "5315",
+                "translation": " and the people "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "הָֽיוּ־",
+                "transliteration": "hā·yū-",
+                "strong": "1961",
+                "translation": " were "
+            },
+            {
+                "token": "שָׁ֑ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . . "
+            },
+            {
+                "token": "הַנֹּגֵ֗עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " He is also to sprinkle the one who touched "
+            },
+            {
+                "token": "בַּעֶ֙צֶם֙",
+                "transliteration": "ba·‘e·ṣem",
+                "strong": "6106",
+                "translation": " a bone , "
+            },
+            {
+                "token": "בַקָּֽבֶר׃",
+                "transliteration": "ḇaq·qā·ḇer",
+                "strong": "6913",
+                "translation": " a grave , "
+            },
+            {
+                "token": "בַמֵּ֖ת",
+                "transliteration": "ḇam·mêṯ",
+                "strong": "4191",
+                "translation": " or a person who has died "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " or "
+            },
+            {
+                "token": "בֶֽחָלָ֔ל",
+                "transliteration": "ḇe·ḥā·lāl",
+                "strong": "2491",
+                "translation": " been slain "
+            },
+            {
+                "token": "א֥וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Numbers 19:18",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַטָּהֹר֙",
+                "transliteration": "haṭ·ṭā·hōr",
+                "strong": "2889",
+                "translation": " The man who is ceremonially clean "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְהִזָּ֤ה",
+                "transliteration": "wə·hiz·zāh",
+                "strong": "5137",
+                "translation": " is to sprinkle "
+            },
+            {
+                "token": "הַטָּמֵ֔א",
+                "transliteration": "haṭ·ṭā·mê",
+                "strong": "2931",
+                "translation": " the unclean person "
+            },
+            {
+                "token": "הַשְּׁלִישִׁ֖י",
+                "transliteration": "haš·šə·lî·šî",
+                "strong": "7992",
+                "translation": " on the third "
+            },
+            {
+                "token": "בַּיּ֥וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֑י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " and on the seventh "
+            },
+            {
+                "token": "וּבַיּ֣וֹם",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            },
+            {
+                "token": "וְחִטְּאוֹ֙",
+                "transliteration": "wə·ḥiṭ·ṭə·’ōw",
+                "strong": "2398",
+                "translation": " After he purifies "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֔י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " the unclean person on the seventh "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "וְכִבֶּ֧ס",
+                "transliteration": "wə·ḵib·bes",
+                "strong": "3526",
+                "translation": " [the one being cleansed] must wash "
+            },
+            {
+                "token": "בְּגָדָ֛יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְרָחַ֥ץ",
+                "transliteration": "wə·rā·ḥaṣ",
+                "strong": "7364",
+                "translation": " and bathe "
+            },
+            {
+                "token": "בַּמַּ֖יִם",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " in water , "
+            },
+            {
+                "token": "בָּעָֽרֶב׃",
+                "transliteration": "bā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " and that evening "
+            },
+            {
+                "token": "וְטָהֵ֥ר",
+                "transliteration": "wə·ṭā·hêr",
+                "strong": "2891",
+                "translation": " he will be clean . "
+            }
+        ],
+        "verse_reference": "Numbers 19:19",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִ֤ישׁ",
+                "transliteration": "wə·’îš",
+                "strong": "376",
+                "translation": " But if a person "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יִטְמָא֙",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " is unclean "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " does not "
+            },
+            {
+                "token": "יִתְחַטָּ֔א",
+                "transliteration": "yiṯ·ḥaṭ·ṭā",
+                "strong": "2398",
+                "translation": " purify "
+            },
+            {
+                "token": "הַהִ֖וא",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " himself , "
+            },
+            {
+                "token": "הַנֶּ֥פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " [he] "
+            },
+            {
+                "token": "וְנִכְרְתָ֛ה",
+                "transliteration": "wə·niḵ·rə·ṯāh",
+                "strong": "3772",
+                "translation": " will be cut off "
+            },
+            {
+                "token": "מִתּ֣וֹךְ",
+                "transliteration": "mit·tō·wḵ",
+                "strong": "8432",
+                "translation": " from "
+            },
+            {
+                "token": "הַקָּהָ֑ל",
+                "transliteration": "haq·qā·hāl",
+                "strong": "6951",
+                "translation": " the assembly , "
+            },
+            {
+                "token": "כִּי֩",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "טִמֵּ֗א",
+                "transliteration": "ṭim·mê",
+                "strong": "2930",
+                "translation": " he has defiled "
+            },
+            {
+                "token": "מִקְדַּ֨שׁ",
+                "transliteration": "miq·daš",
+                "strong": "4720",
+                "translation": " the sanctuary "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            },
+            {
+                "token": "מֵ֥י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " The water "
+            },
+            {
+                "token": "נִדָּ֛ה",
+                "transliteration": "nid·dāh",
+                "strong": "5079",
+                "translation": " of [purification] "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " has not "
+            },
+            {
+                "token": "זֹרַ֥ק",
+                "transliteration": "zō·raq",
+                "strong": "2236",
+                "translation": " been sprinkled "
+            },
+            {
+                "token": "עָלָ֖יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on him ; "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean . "
+            }
+        ],
+        "verse_reference": "Numbers 19:20",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיְתָ֥ה",
+                "transliteration": "wə·hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " This "
+            },
+            {
+                "token": "עוֹלָ֑ם",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " is a permanent "
+            },
+            {
+                "token": "לְחֻקַּ֣ת",
+                "transliteration": "lə·ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " statute "
+            },
+            {
+                "token": "לָּהֶ֖ם",
+                "transliteration": "lå̄·hɛm",
+                "strong": "",
+                "translation": " for [the people] : "
+            },
+            {
+                "token": "וּמַזֵּ֤ה",
+                "transliteration": "ū·maz·zêh",
+                "strong": "5137",
+                "translation": " The one who sprinkles "
+            },
+            {
+                "token": "מֵֽי־",
+                "transliteration": "mê-",
+                "strong": "4325",
+                "translation": " the water "
+            },
+            {
+                "token": "הַנִּדָּה֙",
+                "transliteration": "han·nid·dāh",
+                "strong": "5079",
+                "translation": " of [purification] "
+            },
+            {
+                "token": "יְכַבֵּ֣ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֔יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes , "
+            },
+            {
+                "token": "וְהַנֹּגֵ֙עַ֙",
+                "transliteration": "wə·han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " and whoever touches "
+            },
+            {
+                "token": "בְּמֵ֣י",
+                "transliteration": "bə·mê",
+                "strong": "4325",
+                "translation": " the water "
+            },
+            {
+                "token": "הַנִּדָּ֔ה",
+                "transliteration": "han·nid·dāh",
+                "strong": "5079",
+                "translation": " of [purification] "
+            },
+            {
+                "token": "יִטְמָ֖א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Numbers 19:21",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹ֛ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " Anything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הַטָּמֵ֖א",
+                "transliteration": "haṭ·ṭā·mê",
+                "strong": "2931",
+                "translation": " the unclean "
+            },
+            {
+                "token": "יִגַּע־",
+                "transliteration": "yig·ga‘-",
+                "strong": "5060",
+                "translation": " person touches "
+            },
+            {
+                "token": "בּ֥וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "יִטְמָ֑א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will become unclean , "
+            },
+            {
+                "token": "וְהַנֶּ֥פֶשׁ",
+                "transliteration": "wə·han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " and anyone "
+            },
+            {
+                "token": "הַנֹּגַ֖עַת",
+                "transliteration": "han·nō·ḡa·‘aṯ",
+                "strong": "5060",
+                "translation": " who touches it "
+            },
+            {
+                "token": "תִּטְמָ֥א",
+                "transliteration": "tiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃פ",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . ” "
+            }
+        ],
+        "verse_reference": "Numbers 19:22",
+        "book": "Numbers",
+        "chapter": "19",
+        "verse": "22"
+    }
+]

@@ -1,0 +1,2366 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַֽלְלוּיָ֨הּ׀",
+                "transliteration": "hal·lū·yāh",
+                "strong": "1984",
+                "translation": " Hallelujah ! "
+            },
+            {
+                "token": "הוֹד֣וּ",
+                "transliteration": "hō·w·ḏū",
+                "strong": "3034",
+                "translation": " Give thanks "
+            },
+            {
+                "token": "לַיהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "ט֑וֹב",
+                "transliteration": "ṭō·wḇ",
+                "strong": "2896",
+                "translation": " He is good ; "
+            },
+            {
+                "token": "כִּ֖י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "חַסְדּֽוֹ׃",
+                "transliteration": "ḥas·dōw",
+                "strong": "2617",
+                "translation": " His loving devotion endures forever "
+            },
+            {
+                "token": "לְעוֹלָ֣ם",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Psalm 106:1",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִ֗י",
+                "transliteration": "mî",
+                "strong": "4310",
+                "translation": " Who "
+            },
+            {
+                "token": "יְ֭מַלֵּל",
+                "transliteration": "yə·mal·lêl",
+                "strong": "4448",
+                "translation": " can describe "
+            },
+            {
+                "token": "גְּבוּר֣וֹת",
+                "transliteration": "gə·ḇū·rō·wṯ",
+                "strong": "1369",
+                "translation": " the mighty acts "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "יַ֝שְׁמִ֗יעַ",
+                "transliteration": "yaš·mî·a‘",
+                "strong": "8085",
+                "translation": " or fully proclaim "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "תְּהִלָּתֽוֹ׃",
+                "transliteration": "tə·hil·lā·ṯōw",
+                "strong": "8416",
+                "translation": " His praise ? "
+            }
+        ],
+        "verse_reference": "Psalm 106:2",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֭שְׁרֵי",
+                "transliteration": "’aš·rê",
+                "strong": "835",
+                "translation": " Blessed [are] "
+            },
+            {
+                "token": "שֹׁמְרֵ֣י",
+                "transliteration": "šō·mə·rê",
+                "strong": "8104",
+                "translation": " those who uphold "
+            },
+            {
+                "token": "מִשְׁפָּ֑ט",
+                "transliteration": "miš·pāṭ",
+                "strong": "4941",
+                "translation": " justice , "
+            },
+            {
+                "token": "עֹשֵׂ֖ה",
+                "transliteration": "‘ō·śêh",
+                "strong": "6213",
+                "translation": " who practice "
+            },
+            {
+                "token": "צְדָקָ֣ה",
+                "transliteration": "ṣə·ḏā·qāh",
+                "strong": "6666",
+                "translation": " righteousness "
+            },
+            {
+                "token": "בְכָל־",
+                "transliteration": "ḇə·ḵāl-",
+                "strong": "3605",
+                "translation": " at all "
+            },
+            {
+                "token": "עֵֽת׃",
+                "transliteration": "‘êṯ",
+                "strong": "6256",
+                "translation": " times . "
+            }
+        ],
+        "verse_reference": "Psalm 106:3",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זָכְרֵ֣נִי",
+                "transliteration": "zā·ḵə·rê·nî",
+                "strong": "2142",
+                "translation": " Remember me , "
+            },
+            {
+                "token": "יְ֭הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD , "
+            },
+            {
+                "token": "בִּרְצ֣וֹן",
+                "transliteration": "bir·ṣō·wn",
+                "strong": "7522",
+                "translation": " in [Your] favor "
+            },
+            {
+                "token": "עַמֶּ֑ךָ",
+                "transliteration": "‘am·me·ḵā",
+                "strong": "5971",
+                "translation": " to Your people ; "
+            },
+            {
+                "token": "פָּ֝קְדֵ֗נִי",
+                "transliteration": "pā·qə·ḏê·nî",
+                "strong": "6485",
+                "translation": " visit me "
+            },
+            {
+                "token": "בִּישׁוּעָתֶֽךָ׃",
+                "transliteration": "bî·šū·‘ā·ṯe·ḵā",
+                "strong": "3444",
+                "translation": " with Your salvation , "
+            }
+        ],
+        "verse_reference": "Psalm 106:4",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לִרְא֤וֹת׀",
+                "transliteration": "lir·’ō·wṯ",
+                "strong": "7200",
+                "translation": " that I may see "
+            },
+            {
+                "token": "בְּט֘וֹבַ֤ת",
+                "transliteration": "bə·ṭō·w·ḇaṯ",
+                "strong": "2896",
+                "translation": " the prosperity "
+            },
+            {
+                "token": "בְּחִירֶ֗יךָ",
+                "transliteration": "bə·ḥî·re·ḵā",
+                "strong": "972",
+                "translation": " of Your chosen ones , "
+            },
+            {
+                "token": "לִ֭שְׂמֹחַ",
+                "transliteration": "liś·mō·aḥ",
+                "strong": "8055",
+                "translation": " and rejoice "
+            },
+            {
+                "token": "בְּשִׂמְחַ֣ת",
+                "transliteration": "bə·śim·ḥaṯ",
+                "strong": "8057",
+                "translation": " in the gladness "
+            },
+            {
+                "token": "גּוֹיֶ֑ךָ",
+                "transliteration": "gō·w·ye·ḵā",
+                "strong": "1471",
+                "translation": " of Your nation , "
+            },
+            {
+                "token": "לְ֝הִתְהַלֵּ֗ל",
+                "transliteration": "lə·hiṯ·hal·lêl",
+                "strong": "1984",
+                "translation": " and give glory "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "נַחֲלָתֶֽךָ׃",
+                "transliteration": "na·ḥă·lā·ṯe·ḵā",
+                "strong": "5159",
+                "translation": " Your inheritance . "
+            }
+        ],
+        "verse_reference": "Psalm 106:5",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חָטָ֥אנוּ",
+                "transliteration": "ḥā·ṭā·nū",
+                "strong": "2398",
+                "translation": " We have sinned "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " like "
+            },
+            {
+                "token": "אֲבוֹתֵ֗ינוּ",
+                "transliteration": "’ă·ḇō·w·ṯê·nū",
+                "strong": "1",
+                "translation": " our fathers ; "
+            },
+            {
+                "token": "הֶעֱוִ֥ינוּ",
+                "transliteration": "he·‘ĕ·wî·nū",
+                "strong": "5753",
+                "translation": " we have done wrong "
+            },
+            {
+                "token": "הִרְשָֽׁעְנוּ׃",
+                "transliteration": "hir·šā·‘ə·nū",
+                "strong": "7561",
+                "translation": " [and] acted wickedly . "
+            }
+        ],
+        "verse_reference": "Psalm 106:6",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲב֘וֹתֵ֤ינוּ",
+                "transliteration": "’ă·ḇō·w·ṯê·nū",
+                "strong": "1",
+                "translation": " Our fathers "
+            },
+            {
+                "token": "בְמִצְרַ֨יִם׀",
+                "transliteration": "ḇə·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " in Egypt "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " did not "
+            },
+            {
+                "token": "הִשְׂכִּ֬ילוּ",
+                "transliteration": "hiś·kî·lū",
+                "strong": "7919",
+                "translation": " grasp "
+            },
+            {
+                "token": "נִפְלְאוֹתֶ֗יךָ",
+                "transliteration": "nip̄·lə·’ō·w·ṯe·ḵā",
+                "strong": "6381",
+                "translation": " Your wonders "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "זָ֭כְרוּ",
+                "transliteration": "zā·ḵə·rū",
+                "strong": "2142",
+                "translation": " or remember "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רֹ֣ב",
+                "transliteration": "rōḇ",
+                "strong": "7230",
+                "translation": " Your abundant "
+            },
+            {
+                "token": "חֲסָדֶ֑יךָ",
+                "transliteration": "ḥă·sā·ḏe·ḵā",
+                "strong": "2617",
+                "translation": " kindness ; "
+            },
+            {
+                "token": "וַיַּמְר֖וּ",
+                "transliteration": "way·yam·rū",
+                "strong": "4784",
+                "translation": " but they rebelled "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " by "
+            },
+            {
+                "token": "יָ֣ם",
+                "transliteration": "yām",
+                "strong": "3220",
+                "translation": " the sea , "
+            },
+            {
+                "token": "סֽוּף׃",
+                "transliteration": "sūp̄",
+                "strong": "5488",
+                "translation": " [there] at the Red "
+            },
+            {
+                "token": "בְּיַם־",
+                "transliteration": "bə·yam-",
+                "strong": "3220",
+                "translation": " Sea . "
+            }
+        ],
+        "verse_reference": "Psalm 106:7",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽ֭יּוֹשִׁיעֵם",
+                "transliteration": "way·yō·wō·šî·‘êm",
+                "strong": "3467",
+                "translation": " Yet He saved them "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake of "
+            },
+            {
+                "token": "שְׁמ֑וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " His name , "
+            },
+            {
+                "token": "גְּבוּרָתֽוֹ׃",
+                "transliteration": "gə·ḇū·rā·ṯōw",
+                "strong": "1369",
+                "translation": " to make His power "
+            },
+            {
+                "token": "לְ֝הוֹדִ֗יעַ",
+                "transliteration": "lə·hō·w·ḏî·a‘",
+                "strong": "3045",
+                "translation": " known . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            }
+        ],
+        "verse_reference": "Psalm 106:8",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּגְעַ֣ר",
+                "transliteration": "way·yiḡ·‘ar",
+                "strong": "1605",
+                "translation": " He rebuked "
+            },
+            {
+                "token": "ס֭וּף",
+                "transliteration": "sūp̄",
+                "strong": "5488",
+                "translation": " the Red "
+            },
+            {
+                "token": "בְּיַם־",
+                "transliteration": "bə·yam-",
+                "strong": "3220",
+                "translation": " Sea , "
+            },
+            {
+                "token": "וַֽיֶּחֱרָ֑ב",
+                "transliteration": "way·ye·ḥĕ·rāḇ",
+                "strong": "2717",
+                "translation": " and it dried up ; "
+            },
+            {
+                "token": "וַיּוֹלִיכֵ֥ם",
+                "transliteration": "way·yō·w·lî·ḵêm",
+                "strong": "1980",
+                "translation": " He led them "
+            },
+            {
+                "token": "בַּ֝תְּהֹמ֗וֹת",
+                "transliteration": "bat·tə·hō·mō·wṯ",
+                "strong": "8415",
+                "translation": " through the depths "
+            },
+            {
+                "token": "כַּמִּדְבָּֽר׃",
+                "transliteration": "kam·miḏ·bār",
+                "strong": "4057",
+                "translation": " as through a desert . "
+            }
+        ],
+        "verse_reference": "Psalm 106:9",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽ֭יּוֹשִׁיעֵם",
+                "transliteration": "way·yō·wō·šî·‘êm",
+                "strong": "3467",
+                "translation": " He saved them "
+            },
+            {
+                "token": "מִיַּ֣ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " from the hand "
+            },
+            {
+                "token": "שׂוֹנֵ֑א",
+                "transliteration": "śō·w·nê",
+                "strong": "8130",
+                "translation": " that hated them ; "
+            },
+            {
+                "token": "וַ֝יִּגְאָלֵ֗ם",
+                "transliteration": "way·yiḡ·’ā·lêm",
+                "strong": "1350",
+                "translation": " He redeemed them "
+            },
+            {
+                "token": "מִיַּ֥ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " from the hand "
+            },
+            {
+                "token": "אוֹיֵֽב׃",
+                "transliteration": "’ō·w·yêḇ",
+                "strong": "341",
+                "translation": " of the enemy . "
+            }
+        ],
+        "verse_reference": "Psalm 106:10",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַ֥יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " The waters "
+            },
+            {
+                "token": "וַיְכַסּוּ־",
+                "transliteration": "way·ḵas·sū-",
+                "strong": "3680",
+                "translation": " covered "
+            },
+            {
+                "token": "צָרֵיהֶ֑ם",
+                "transliteration": "ṣā·rê·hem",
+                "strong": "6862",
+                "translation": " their foes ; "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "אֶחָ֥ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "מֵ֝הֶ֗ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " of them "
+            },
+            {
+                "token": "נוֹתָֽר׃",
+                "transliteration": "nō·w·ṯār",
+                "strong": "3498",
+                "translation": " remained . "
+            }
+        ],
+        "verse_reference": "Psalm 106:11",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּאֲמִ֥ינוּ",
+                "transliteration": "way·ya·’ă·mî·nū",
+                "strong": "539",
+                "translation": " Then they believed "
+            },
+            {
+                "token": "בִדְבָרָ֑יו",
+                "transliteration": "ḇiḏ·ḇā·rāw",
+                "strong": "1697",
+                "translation": " His promises "
+            },
+            {
+                "token": "יָ֝שִׁ֗ירוּ",
+                "transliteration": "yā·šî·rū",
+                "strong": "7891",
+                "translation": " [and] sang "
+            },
+            {
+                "token": "תְּהִלָּתֽוֹ׃",
+                "transliteration": "tə·hil·lā·ṯōw",
+                "strong": "8416",
+                "translation": " His praise . "
+            }
+        ],
+        "verse_reference": "Psalm 106:12",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִֽ֭הֲרוּ",
+                "transliteration": "mi·hă·rū",
+                "strong": "4116",
+                "translation": " [Yet] they soon "
+            },
+            {
+                "token": "שָׁכְח֣וּ",
+                "transliteration": "šā·ḵə·ḥū",
+                "strong": "7911",
+                "translation": " forgot "
+            },
+            {
+                "token": "מַעֲשָׂ֑יו",
+                "transliteration": "ma·‘ă·śāw",
+                "strong": "4639",
+                "translation": " His works "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " and failed "
+            },
+            {
+                "token": "חִ֝כּ֗וּ",
+                "transliteration": "ḥik·kū",
+                "strong": "2442",
+                "translation": " to wait "
+            },
+            {
+                "token": "לַעֲצָתֽוֹ׃",
+                "transliteration": "la·‘ă·ṣā·ṯōw",
+                "strong": "6098",
+                "translation": " for His counsel . "
+            }
+        ],
+        "verse_reference": "Psalm 106:13",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתְאַוּ֣וּ",
+                "transliteration": "way·yiṯ·’aw·wū",
+                "strong": "183",
+                "translation": " They craved "
+            },
+            {
+                "token": "תַ֭אֲוָה",
+                "transliteration": "ṯa·’ă·wāh",
+                "strong": "8378",
+                "translation": " intensely "
+            },
+            {
+                "token": "בַּמִּדְבָּ֑ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness "
+            },
+            {
+                "token": "וַיְנַסּוּ־",
+                "transliteration": "way·nas·sū-",
+                "strong": "5254",
+                "translation": " and tested "
+            },
+            {
+                "token": "אֵ֝֗ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "בִּֽישִׁימֽוֹן׃",
+                "transliteration": "bî·šî·mō·wn",
+                "strong": "3452",
+                "translation": " in the desert . "
+            }
+        ],
+        "verse_reference": "Psalm 106:14",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתֵּ֣ן",
+                "transliteration": "way·yit·tên",
+                "strong": "5414",
+                "translation": " So He granted "
+            },
+            {
+                "token": "לָ֭הֶם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "שֶׁאֱלָתָ֑ם",
+                "transliteration": "še·’ĕ·lā·ṯām",
+                "strong": "7596",
+                "translation": " their request , "
+            },
+            {
+                "token": "וַיְשַׁלַּ֖ח",
+                "transliteration": "way·šal·laḥ",
+                "strong": "7971",
+                "translation": " but sent "
+            },
+            {
+                "token": "רָז֣וֹן",
+                "transliteration": "rā·zō·wn",
+                "strong": "7332",
+                "translation": " a wasting disease "
+            },
+            {
+                "token": "בְּנַפְשָֽׁם׃",
+                "transliteration": "bə·nap̄·šām",
+                "strong": "5315",
+                "translation": " upon them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:15",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּֽמַּחֲנֶ֑ה",
+                "transliteration": "bam·ma·ḥă·neh",
+                "strong": "4264",
+                "translation": " In the camp "
+            },
+            {
+                "token": "וַיְקַנְא֣וּ",
+                "transliteration": "way·qan·’ū",
+                "strong": "7065",
+                "translation": " they envied "
+            },
+            {
+                "token": "לְ֭מֹשֶׁה",
+                "transliteration": "lə·mō·šeh",
+                "strong": "4872",
+                "translation": " Moses , "
+            },
+            {
+                "token": "לְ֝אַהֲרֹ֗ן",
+                "transliteration": "lə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " as well as Aaron , "
+            },
+            {
+                "token": "קְד֣וֹשׁ",
+                "transliteration": "qə·ḏō·wōš",
+                "strong": "6918",
+                "translation": " the holy one "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            }
+        ],
+        "verse_reference": "Psalm 106:16",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶ֭רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " The earth "
+            },
+            {
+                "token": "תִּפְתַּח־",
+                "transliteration": "tip̄·taḥ-",
+                "strong": "6605",
+                "translation": " opened up "
+            },
+            {
+                "token": "וַתִּבְלַ֣ע",
+                "transliteration": "wat·tiḇ·la‘",
+                "strong": "1104",
+                "translation": " and swallowed "
+            },
+            {
+                "token": "דָּתָ֑ן",
+                "transliteration": "dā·ṯān",
+                "strong": "1885",
+                "translation": " Dathan ; "
+            },
+            {
+                "token": "וַ֝תְּכַ֗ס",
+                "transliteration": "wat·tə·ḵas",
+                "strong": "3680",
+                "translation": " it covered "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֲדַ֥ת",
+                "transliteration": "‘ă·ḏaṯ",
+                "strong": "5712",
+                "translation": " the assembly "
+            },
+            {
+                "token": "אֲבִירָֽם׃",
+                "transliteration": "’ă·ḇî·rām",
+                "strong": "48",
+                "translation": " of Abiram . "
+            }
+        ],
+        "verse_reference": "Psalm 106:17",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֥שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " Then fire "
+            },
+            {
+                "token": "וַתִּבְעַר־",
+                "transliteration": "wat·tiḇ·‘ar-",
+                "strong": "1197",
+                "translation": " blazed "
+            },
+            {
+                "token": "בַּעֲדָתָ֑ם",
+                "transliteration": "ba·‘ă·ḏā·ṯām",
+                "strong": "5712",
+                "translation": " through their company ; "
+            },
+            {
+                "token": "לֶ֝הָבָ֗ה",
+                "transliteration": "le·hā·ḇāh",
+                "strong": "3852",
+                "translation": " flames "
+            },
+            {
+                "token": "תְּלַהֵ֥ט",
+                "transliteration": "tə·la·hêṭ",
+                "strong": "3857",
+                "translation": " consumed "
+            },
+            {
+                "token": "רְשָׁעִֽים׃",
+                "transliteration": "rə·šā·‘îm",
+                "strong": "7563",
+                "translation": " the wicked . "
+            }
+        ],
+        "verse_reference": "Psalm 106:18",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּחֹרֵ֑ב",
+                "transliteration": "bə·ḥō·rêḇ",
+                "strong": "2722",
+                "translation": " At Horeb "
+            },
+            {
+                "token": "יַעֲשׂוּ־",
+                "transliteration": "ya·‘ă·śū-",
+                "strong": "6213",
+                "translation": " they made "
+            },
+            {
+                "token": "עֵ֥גֶל",
+                "transliteration": "‘ê·ḡel",
+                "strong": "5695",
+                "translation": " a calf "
+            },
+            {
+                "token": "וַ֝יִּשְׁתַּחֲו֗וּ",
+                "transliteration": "way·yiš·ta·ḥă·wū",
+                "strong": "7812",
+                "translation": " and worshiped "
+            },
+            {
+                "token": "לְמַסֵּכָֽה׃",
+                "transliteration": "lə·mas·sê·ḵāh",
+                "strong": "4541",
+                "translation": " a molten image . "
+            }
+        ],
+        "verse_reference": "Psalm 106:19",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּמִ֥ירוּ",
+                "transliteration": "way·yā·mî·rū",
+                "strong": "4171",
+                "translation": " They exchanged "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כְּבוֹדָ֑ם",
+                "transliteration": "kə·ḇō·w·ḏām",
+                "strong": "3519",
+                "translation": " their Glory "
+            },
+            {
+                "token": "בְּתַבְנִ֥ית",
+                "transliteration": "bə·ṯaḇ·nîṯ",
+                "strong": "8403",
+                "translation": " for the image "
+            },
+            {
+                "token": "אֹכֵ֥ל",
+                "transliteration": "’ō·ḵêl",
+                "strong": "398",
+                "translation": " of a grass-eating "
+            },
+            {
+                "token": "עֵֽשֶׂב׃",
+                "transliteration": "‘ê·śeḇ",
+                "strong": "6212",
+                "translation": " . . . "
+            },
+            {
+                "token": "שׁ֥וֹר",
+                "transliteration": "šō·wr",
+                "strong": "7794",
+                "translation": " ox . "
+            }
+        ],
+        "verse_reference": "Psalm 106:20",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁ֭כְחוּ",
+                "transliteration": "ḵə·ḥū",
+                "strong": "7911",
+                "translation": " They forgot "
+            },
+            {
+                "token": "אֵ֣ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "מוֹשִׁיעָ֑ם",
+                "transliteration": "mō·wō·šî·‘ām",
+                "strong": "3467",
+                "translation": " their Savior , "
+            },
+            {
+                "token": "עֹשֶׂ֖ה",
+                "transliteration": "‘ō·śeh",
+                "strong": "6213",
+                "translation": " who did "
+            },
+            {
+                "token": "גְדֹל֣וֹת",
+                "transliteration": "ḡə·ḏō·lō·wṯ",
+                "strong": "1419",
+                "translation": " great "
+            },
+            {
+                "token": "בְּמִצְרָֽיִם׃",
+                "transliteration": "bə·miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " things in Egypt , "
+            }
+        ],
+        "verse_reference": "Psalm 106:21",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נִ֭פְלָאוֹת",
+                "transliteration": "nip̄·lā·’ō·wṯ",
+                "strong": "6381",
+                "translation": " wondrous works "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " in the land "
+            },
+            {
+                "token": "חָ֑ם",
+                "transliteration": "ḥām",
+                "strong": "2526",
+                "translation": " of Ham , "
+            },
+            {
+                "token": "נ֝וֹרָא֗וֹת",
+                "transliteration": "nō·w·rā·’ō·wṯ",
+                "strong": "3372",
+                "translation": " [and] awesome deeds "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " by "
+            },
+            {
+                "token": "סֽוּף׃",
+                "transliteration": "sūp̄",
+                "strong": "5488",
+                "translation": " the Red "
+            },
+            {
+                "token": "יַם־",
+                "transliteration": "yam-",
+                "strong": "3220",
+                "translation": " Sea . "
+            }
+        ],
+        "verse_reference": "Psalm 106:22",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּ֗אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " So He said "
+            },
+            {
+                "token": "לְֽהַשְׁמִ֫ידָ֥ם",
+                "transliteration": "lə·haš·mî·ḏām",
+                "strong": "8045",
+                "translation": " He would destroy them — "
+            },
+            {
+                "token": "לוּלֵ֡י",
+                "transliteration": "lū·lê",
+                "strong": "3884",
+                "translation": " had not "
+            },
+            {
+                "token": "מֹ֘שֶׁ֤ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "בְחִיר֗וֹ",
+                "transliteration": "ḇə·ḥî·rōw",
+                "strong": "972",
+                "translation": " His chosen one "
+            },
+            {
+                "token": "עָמַ֣ד",
+                "transliteration": "‘ā·maḏ",
+                "strong": "5975",
+                "translation": " stood "
+            },
+            {
+                "token": "לְפָנָ֑יו",
+                "transliteration": "lə·p̄ā·nāw",
+                "strong": "6440",
+                "translation": " before Him "
+            },
+            {
+                "token": "בַּפֶּ֣רֶץ",
+                "transliteration": "bap·pe·reṣ",
+                "strong": "6556",
+                "translation": " in the breach "
+            },
+            {
+                "token": "לְהָשִׁ֥יב",
+                "transliteration": "lə·hā·šîḇ",
+                "strong": "7725",
+                "translation": " to divert "
+            },
+            {
+                "token": "חֲ֝מָת֗וֹ",
+                "transliteration": "ḥă·mā·ṯōw",
+                "strong": "2534",
+                "translation": " His wrath "
+            },
+            {
+                "token": "מֵֽהַשְׁחִֽית׃",
+                "transliteration": "mê·haš·ḥîṯ",
+                "strong": "7843",
+                "translation": " from destroying them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:23",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽ֭יִּמְאֲסוּ",
+                "transliteration": "way·yim·’ă·sū",
+                "strong": "3988",
+                "translation": " They despised "
+            },
+            {
+                "token": "חֶמְדָּ֑ה",
+                "transliteration": "ḥem·dāh",
+                "strong": "2532",
+                "translation": " the pleasant "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " land ; "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " they did not "
+            },
+            {
+                "token": "הֶ֝אֱמִ֗ינוּ",
+                "transliteration": "he·’ĕ·mî·nū",
+                "strong": "539",
+                "translation": " believe "
+            },
+            {
+                "token": "לִדְבָרֽוֹ׃",
+                "transliteration": "liḏ·ḇā·rōw",
+                "strong": "1697",
+                "translation": " His promise . "
+            }
+        ],
+        "verse_reference": "Psalm 106:24",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֵּרָגְנ֥וּ",
+                "transliteration": "way·yê·rā·ḡə·nū",
+                "strong": "7279",
+                "translation": " They grumbled "
+            },
+            {
+                "token": "בְאָהֳלֵיהֶ֑ם",
+                "transliteration": "ḇə·’ā·ho·lê·hem",
+                "strong": "168",
+                "translation": " in their tents "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and did not "
+            },
+            {
+                "token": "שָׁ֝מְע֗וּ",
+                "transliteration": "mə·‘ū",
+                "strong": "8085",
+                "translation": " listen "
+            },
+            {
+                "token": "בְּק֣וֹל",
+                "transliteration": "bə·qō·wl",
+                "strong": "6963",
+                "translation": " to the voice "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            }
+        ],
+        "verse_reference": "Psalm 106:25",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּשָּׂ֣א",
+                "transliteration": "way·yiś·śā",
+                "strong": "5375",
+                "translation": " So He raised "
+            },
+            {
+                "token": "יָד֣וֹ",
+                "transliteration": "yā·ḏōw",
+                "strong": "3027",
+                "translation": " His hand "
+            },
+            {
+                "token": "לָהֶ֑ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " {and swore} "
+            },
+            {
+                "token": "לְהַפִּ֥יל",
+                "transliteration": "lə·hap·pîl",
+                "strong": "5307",
+                "translation": " to cast them down "
+            },
+            {
+                "token": "א֝וֹתָ֗ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בַּמִּדְבָּֽר׃",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness , "
+            }
+        ],
+        "verse_reference": "Psalm 106:26",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּלְהַפִּ֣יל",
+                "transliteration": "ū·lə·hap·pîl",
+                "strong": "5307",
+                "translation": " to disperse "
+            },
+            {
+                "token": "זַ֭רְעָם",
+                "transliteration": "zar·‘ām",
+                "strong": "2233",
+                "translation": " their offspring "
+            },
+            {
+                "token": "בַּגּוֹיִ֑ם",
+                "transliteration": "bag·gō·w·yim",
+                "strong": "1471",
+                "translation": " among the nations "
+            },
+            {
+                "token": "וּ֝לְזָרוֹתָ֗ם",
+                "transliteration": "ū·lə·zā·rō·w·ṯām",
+                "strong": "2219",
+                "translation": " and scatter them "
+            },
+            {
+                "token": "בָּאֲרָצֽוֹת׃",
+                "transliteration": "bā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " throughout the lands . "
+            }
+        ],
+        "verse_reference": "Psalm 106:27",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַ֭יִּצָּ֣מְדוּ",
+                "transliteration": "way·yiṣ·ṣā·mə·ḏū",
+                "strong": "6775",
+                "translation": " They yoked themselves "
+            },
+            {
+                "token": "לְבַ֣עַל",
+                "transliteration": "lə·ḇa·‘al",
+                "strong": "1187",
+                "translation": " to "
+            },
+            {
+                "token": "פְּע֑וֹר",
+                "transliteration": "pə·‘ō·wr",
+                "strong": "1187",
+                "translation": " Baal of Peor "
+            },
+            {
+                "token": "וַ֝יֹּאכְל֗וּ",
+                "transliteration": "way·yō·ḵə·lū",
+                "strong": "398",
+                "translation": " and ate "
+            },
+            {
+                "token": "זִבְחֵ֥י",
+                "transliteration": "ziḇ·ḥê",
+                "strong": "2077",
+                "translation": " sacrifices "
+            },
+            {
+                "token": "מֵתִֽים׃",
+                "transliteration": "mê·ṯîm",
+                "strong": "4191",
+                "translation": " offered to lifeless gods . "
+            }
+        ],
+        "verse_reference": "Psalm 106:28",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַ֭יַּכְעִיסוּ",
+                "transliteration": "way·yaḵ·‘î·sū",
+                "strong": "3707",
+                "translation": " So they provoked [the LORD] to anger "
+            },
+            {
+                "token": "בְּמַֽעַלְלֵיהֶ֑ם",
+                "transliteration": "bə·ma·‘al·lê·hem",
+                "strong": "4611",
+                "translation": " with their deeds , "
+            },
+            {
+                "token": "מַגֵּפָֽה׃",
+                "transliteration": "mag·gê·p̄āh",
+                "strong": "4046",
+                "translation": " and a plague "
+            },
+            {
+                "token": "וַתִּפְרָץ־",
+                "transliteration": "wat·tip̄·rāṣ-",
+                "strong": "6555",
+                "translation": " broke out "
+            },
+            {
+                "token": "בָּ֝֗ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " among them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:29",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "פִּֽ֭ינְחָס",
+                "transliteration": "pî·nə·ḥās",
+                "strong": "6372",
+                "translation": " But Phinehas "
+            },
+            {
+                "token": "וַיַּעֲמֹ֣ד",
+                "transliteration": "way·ya·‘ă·mōḏ",
+                "strong": "5975",
+                "translation": " stood "
+            },
+            {
+                "token": "וַיְפַלֵּ֑ל",
+                "transliteration": "way·p̄al·lêl",
+                "strong": "6419",
+                "translation": " and intervened , "
+            },
+            {
+                "token": "הַמַּגֵּפָֽה׃",
+                "transliteration": "ham·mag·gê·p̄āh",
+                "strong": "4046",
+                "translation": " and the plague "
+            },
+            {
+                "token": "וַ֝תֵּעָצַ֗ר",
+                "transliteration": "wat·tê·‘ā·ṣar",
+                "strong": "6113",
+                "translation": " was restrained . "
+            }
+        ],
+        "verse_reference": "Psalm 106:30",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַתֵּחָ֣שֶׁב",
+                "transliteration": "wat·tê·ḥā·šeḇ",
+                "strong": "2803",
+                "translation": " It was credited "
+            },
+            {
+                "token": "ל֭וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to him "
+            },
+            {
+                "token": "לִצְדָקָ֑ה",
+                "transliteration": "liṣ·ḏā·qāh",
+                "strong": "6666",
+                "translation": " as righteousness "
+            },
+            {
+                "token": "לְדֹ֥ר",
+                "transliteration": "lə·ḏōr",
+                "strong": "1755",
+                "translation": " for endless "
+            },
+            {
+                "token": "עוֹלָֽם׃",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " . . . "
+            },
+            {
+                "token": "וָ֝דֹ֗ר",
+                "transliteration": "wā·ḏōr",
+                "strong": "1755",
+                "translation": " generations "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to come . "
+            }
+        ],
+        "verse_reference": "Psalm 106:31",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מֵ֥י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " At the waters "
+            },
+            {
+                "token": "מְרִיבָ֑ה",
+                "transliteration": "mə·rî·ḇāh",
+                "strong": "4809",
+                "translation": " of Meribah "
+            },
+            {
+                "token": "וַ֭יַּקְצִיפוּ",
+                "transliteration": "way·yaq·ṣî·p̄ū",
+                "strong": "7107",
+                "translation": " they angered "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "וַיֵּ֥רַע",
+                "transliteration": "way·yê·ra‘",
+                "strong": "7489",
+                "translation": " and trouble came "
+            },
+            {
+                "token": "לְ֝מֹשֶׁ֗ה",
+                "transliteration": "lə·mō·šeh",
+                "strong": "4872",
+                "translation": " to Moses "
+            },
+            {
+                "token": "בַּעֲבוּרָֽם׃",
+                "transliteration": "ba·‘ă·ḇū·rām",
+                "strong": "5668",
+                "translation": " because of them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:32",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "הִמְר֥וּ",
+                "transliteration": "him·rū",
+                "strong": "4784",
+                "translation": " they rebelled against "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רוּח֑וֹ",
+                "transliteration": "rū·ḥōw",
+                "strong": "7307",
+                "translation": " His Spirit , "
+            },
+            {
+                "token": "וַ֝יְבַטֵּ֗א",
+                "transliteration": "way·ḇaṭ·ṭê",
+                "strong": "981",
+                "translation": " and [Moses] spoke rashly "
+            },
+            {
+                "token": "בִּשְׂפָתָֽיו׃",
+                "transliteration": "biś·p̄ā·ṯāw",
+                "strong": "8193",
+                "translation": " with his lips . "
+            }
+        ],
+        "verse_reference": "Psalm 106:33",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " They did not "
+            },
+            {
+                "token": "הִ֭שְׁמִידוּ",
+                "transliteration": "hiš·mî·ḏū",
+                "strong": "8045",
+                "translation": " destroy "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽעַמִּ֑ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " as "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אָמַ֖ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " had commanded "
+            },
+            {
+                "token": "לָהֶֽם׃",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them , "
+            }
+        ],
+        "verse_reference": "Psalm 106:34",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתְעָרְב֥וּ",
+                "transliteration": "way·yiṯ·‘ā·rə·ḇū",
+                "strong": "6148",
+                "translation": " but they mingled "
+            },
+            {
+                "token": "בַגּוֹיִ֑ם",
+                "transliteration": "ḇag·gō·w·yim",
+                "strong": "1471",
+                "translation": " with the nations "
+            },
+            {
+                "token": "וַֽ֝יִּלְמְד֗וּ",
+                "transliteration": "way·yil·mə·ḏū",
+                "strong": "3925",
+                "translation": " and adopted "
+            },
+            {
+                "token": "מַֽעֲשֵׂיהֶֽם׃",
+                "transliteration": "ma·‘ă·śê·hem",
+                "strong": "4639",
+                "translation": " their customs . "
+            }
+        ],
+        "verse_reference": "Psalm 106:35",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּעַבְד֥וּ",
+                "transliteration": "way·ya·‘aḇ·ḏū",
+                "strong": "5647",
+                "translation": " They worshiped "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "עֲצַבֵּיהֶ֑ם",
+                "transliteration": "‘ă·ṣab·bê·hem",
+                "strong": "6091",
+                "translation": " their idols , "
+            },
+            {
+                "token": "וַיִּהְי֖וּ",
+                "transliteration": "way·yih·yū",
+                "strong": "1961",
+                "translation": " which became "
+            },
+            {
+                "token": "לָהֶ֣ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְמוֹקֵֽשׁ׃",
+                "transliteration": "lə·mō·w·qêš",
+                "strong": "4170",
+                "translation": " a snare to them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:36",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּזְבְּח֣וּ",
+                "transliteration": "way·yiz·bə·ḥū",
+                "strong": "2076",
+                "translation": " They sacrificed "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּ֭נֵיהֶם",
+                "transliteration": "bə·nê·hem",
+                "strong": "1121",
+                "translation": " their sons "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "בְּנֽוֹתֵיהֶ֗ם",
+                "transliteration": "bə·nō·w·ṯê·hem",
+                "strong": "1323",
+                "translation": " their daughters "
+            },
+            {
+                "token": "לַשֵּֽׁדִים׃",
+                "transliteration": "laš·šê·ḏîm",
+                "strong": "7700",
+                "translation": " to demons . "
+            }
+        ],
+        "verse_reference": "Psalm 106:37",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּֽשְׁפְּכ֨וּ",
+                "transliteration": "way·yiš·pə·ḵū",
+                "strong": "8210",
+                "translation": " They shed "
+            },
+            {
+                "token": "נָקִ֡י",
+                "transliteration": "nā·qî",
+                "strong": "5355",
+                "translation": " innocent "
+            },
+            {
+                "token": "דָ֪ם",
+                "transliteration": "ḏām",
+                "strong": "1818",
+                "translation": " blood — "
+            },
+            {
+                "token": "דַּם־",
+                "transliteration": "dam-",
+                "strong": "1818",
+                "translation": " the blood "
+            },
+            {
+                "token": "בְּנֵ֘יהֶ֤ם",
+                "transliteration": "bə·nê·hem",
+                "strong": "1121",
+                "translation": " of their sons "
+            },
+            {
+                "token": "וּֽבְנוֹתֵיהֶ֗ם",
+                "transliteration": "ū·ḇə·nō·w·ṯê·hem",
+                "strong": "1323",
+                "translation": " and daughters , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " whom "
+            },
+            {
+                "token": "זִ֭בְּחוּ",
+                "transliteration": "zib·bə·ḥū",
+                "strong": "2076",
+                "translation": " they sacrificed "
+            },
+            {
+                "token": "לַעֲצַבֵּ֣י",
+                "transliteration": "la·‘ă·ṣab·bê",
+                "strong": "6091",
+                "translation": " to the idols "
+            },
+            {
+                "token": "כְנָ֑עַן",
+                "transliteration": "ḵə·nā·‘an",
+                "strong": "3667",
+                "translation": " of Canaan , "
+            },
+            {
+                "token": "הָ֝אָ֗רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " and the land "
+            },
+            {
+                "token": "וַתֶּחֱנַ֥ף",
+                "transliteration": "wat·te·ḥĕ·nap̄",
+                "strong": "2610",
+                "translation": " was polluted "
+            },
+            {
+                "token": "בַּדָּמִֽים׃",
+                "transliteration": "bad·dā·mîm",
+                "strong": "1818",
+                "translation": " with blood . "
+            }
+        ],
+        "verse_reference": "Psalm 106:38",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּטְמְא֥וּ",
+                "transliteration": "way·yiṭ·mə·’ū",
+                "strong": "2930",
+                "translation": " They defiled themselves "
+            },
+            {
+                "token": "בְמַעֲשֵׂיהֶ֑ם",
+                "transliteration": "ḇə·ma·‘ă·śê·hem",
+                "strong": "4639",
+                "translation": " by their actions "
+            },
+            {
+                "token": "וַ֝יִּזְנוּ֗",
+                "transliteration": "way·yiz·nū",
+                "strong": "2181",
+                "translation": " and prostituted themselves "
+            },
+            {
+                "token": "בְּמַֽעַלְלֵיהֶֽם׃",
+                "transliteration": "bə·ma·‘al·lê·hem",
+                "strong": "4611",
+                "translation": " by their deeds . "
+            }
+        ],
+        "verse_reference": "Psalm 106:39",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֣ף",
+                "transliteration": "’ap̄",
+                "strong": "639",
+                "translation": " So the anger "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וַיִּֽחַר־",
+                "transliteration": "way·yi·ḥar-",
+                "strong": "2734",
+                "translation": " burned "
+            },
+            {
+                "token": "בְּעַמּ֑וֹ",
+                "transliteration": "bə·‘am·mōw",
+                "strong": "5971",
+                "translation": " against His people , "
+            },
+            {
+                "token": "וַ֝יְתָעֵ֗ב",
+                "transliteration": "way·ṯā·‘êḇ",
+                "strong": "8581",
+                "translation": " and He abhorred "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נַחֲלָתֽוֹ׃",
+                "transliteration": "na·ḥă·lā·ṯōw",
+                "strong": "5159",
+                "translation": " His own inheritance . "
+            }
+        ],
+        "verse_reference": "Psalm 106:40",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתְּנֵ֥ם",
+                "transliteration": "way·yit·tə·nêm",
+                "strong": "5414",
+                "translation": " He delivered them "
+            },
+            {
+                "token": "בְּיַד־",
+                "transliteration": "bə·yaḏ-",
+                "strong": "3027",
+                "translation": " into the hand "
+            },
+            {
+                "token": "גּוֹיִ֑ם",
+                "transliteration": "gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations , "
+            },
+            {
+                "token": "שֹׂנְאֵיהֶֽם׃",
+                "transliteration": "śō·nə·’ê·hem",
+                "strong": "8130",
+                "translation": " and those who hated them "
+            },
+            {
+                "token": "וַֽיִּמְשְׁל֥וּ",
+                "transliteration": "way·yim·šə·lū",
+                "strong": "4910",
+                "translation": " ruled "
+            },
+            {
+                "token": "בָ֝הֶ֗ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " over them . "
+            }
+        ],
+        "verse_reference": "Psalm 106:41",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אוֹיְבֵיהֶ֑ם",
+                "transliteration": "’ō·wy·ḇê·hem",
+                "strong": "341",
+                "translation": " Their enemies "
+            },
+            {
+                "token": "וַיִּלְחָצ֥וּם",
+                "transliteration": "way·yil·ḥā·ṣūm",
+                "strong": "3905",
+                "translation": " oppressed them , "
+            },
+            {
+                "token": "וַ֝יִּכָּנְע֗וּ",
+                "transliteration": "way·yik·kā·nə·‘ū",
+                "strong": "3665",
+                "translation": " and subdued them "
+            },
+            {
+                "token": "תַּ֣חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " under "
+            },
+            {
+                "token": "יָדָֽם׃",
+                "transliteration": "yā·ḏām",
+                "strong": "3027",
+                "translation": " their hand . "
+            }
+        ],
+        "verse_reference": "Psalm 106:42",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רַבּ֗וֹת",
+                "transliteration": "rab·bō·wṯ",
+                "strong": "7227",
+                "translation": " Many "
+            },
+            {
+                "token": "פְּעָמִ֥ים",
+                "transliteration": "pə·‘ā·mîm",
+                "strong": "6471",
+                "translation": " times "
+            },
+            {
+                "token": "יַצִּ֫ילֵ֥ם",
+                "transliteration": "yaṣ·ṣî·lêm",
+                "strong": "5337",
+                "translation": " He rescued them , "
+            },
+            {
+                "token": "וְ֭הֵמָּה",
+                "transliteration": "wə·hêm·māh",
+                "strong": "1992",
+                "translation": " but they "
+            },
+            {
+                "token": "יַמְר֣וּ",
+                "transliteration": "yam·rū",
+                "strong": "4784",
+                "translation": " were bent "
+            },
+            {
+                "token": "בַעֲצָתָ֑ם",
+                "transliteration": "ḇa·‘ă·ṣā·ṯām",
+                "strong": "6098",
+                "translation": " on rebellion "
+            },
+            {
+                "token": "וַ֝יָּמֹ֗כּוּ",
+                "transliteration": "way·yā·mōk·kū",
+                "strong": "4355",
+                "translation": " and sank down "
+            },
+            {
+                "token": "בַּעֲוֺנָֽם׃",
+                "transliteration": "ba·‘ă·wō·nām",
+                "strong": "5771",
+                "translation": " in their iniquity . "
+            }
+        ],
+        "verse_reference": "Psalm 106:43",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּ֝שָׁמְע֗וֹ",
+                "transliteration": "bə·šā·mə·‘ōw",
+                "strong": "8085",
+                "translation": " Nevertheless He heard "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רִנָּתָֽם׃",
+                "transliteration": "rin·nā·ṯām",
+                "strong": "7440",
+                "translation": " their cry ; "
+            },
+            {
+                "token": "וַ֭יַּרְא",
+                "transliteration": "way·yar",
+                "strong": "7200",
+                "translation": " He took note "
+            },
+            {
+                "token": "בַּצַּ֣ר",
+                "transliteration": "baṣ·ṣar",
+                "strong": "6862",
+                "translation": " of their distress "
+            },
+            {
+                "token": "לָהֶ֑ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Psalm 106:44",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּזְכֹּ֣ר",
+                "transliteration": "way·yiz·kōr",
+                "strong": "2142",
+                "translation": " And He remembered "
+            },
+            {
+                "token": "בְּרִית֑וֹ",
+                "transliteration": "bə·rî·ṯōw",
+                "strong": "1285",
+                "translation": " His covenant "
+            },
+            {
+                "token": "לָהֶ֣ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " with them , "
+            },
+            {
+                "token": "וַ֝יִּנָּחֵ֗ם",
+                "transliteration": "way·yin·nā·ḥêm",
+                "strong": "5162",
+                "translation": " and relented "
+            },
+            {
+                "token": "כְּרֹ֣ב",
+                "transliteration": "kə·rōḇ",
+                "strong": "7230",
+                "translation": " by the abundance "
+            },
+            {
+                "token": "חַסְדּוֹ׃",
+                "transliteration": "ḥas·dō",
+                "strong": "2617",
+                "translation": " of His loving devotion . "
+            }
+        ],
+        "verse_reference": "Psalm 106:45",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתֵּ֣ן",
+                "transliteration": "way·yit·tên",
+                "strong": "5414",
+                "translation": " He made "
+            },
+            {
+                "token": "אוֹתָ֣ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "לְרַחֲמִ֑ים",
+                "transliteration": "lə·ra·ḥă·mîm",
+                "strong": "7356",
+                "translation": " objects of compassion "
+            },
+            {
+                "token": "לִ֝פְנֵ֗י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " to "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "שׁוֹבֵיהֶֽם׃",
+                "transliteration": "šō·w·ḇê·hem",
+                "strong": "7617",
+                "translation": " who held them captive . "
+            }
+        ],
+        "verse_reference": "Psalm 106:46",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הוֹשִׁיעֵ֨נוּ׀",
+                "transliteration": "hō·wō·šî·‘ê·nū",
+                "strong": "3467",
+                "translation": " Save us , "
+            },
+            {
+                "token": "יְה֘וָ֤ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God , "
+            },
+            {
+                "token": "וְקַבְּצֵנוּ֮",
+                "transliteration": "wə·qab·bə·ṣê·nū",
+                "strong": "6908",
+                "translation": " and gather us "
+            },
+            {
+                "token": "מִֽן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַגּ֫וֹיִ֥ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " the nations , "
+            },
+            {
+                "token": "לְ֭הֹדוֹת",
+                "transliteration": "lə·hō·ḏō·wṯ",
+                "strong": "3034",
+                "translation": " that we may give thanks "
+            },
+            {
+                "token": "קָדְשֶׁ֑ךָ",
+                "transliteration": "qāḏ·še·ḵā",
+                "strong": "6944",
+                "translation": " to Your holy "
+            },
+            {
+                "token": "לְשֵׁ֣ם",
+                "transliteration": "lə·šêm",
+                "strong": "8034",
+                "translation": " name , "
+            },
+            {
+                "token": "לְ֝הִשְׁתַּבֵּ֗חַ",
+                "transliteration": "lə·hiš·tab·bê·aḥ",
+                "strong": "7623",
+                "translation": " that we may glory "
+            },
+            {
+                "token": "בִּתְהִלָּתֶֽךָ׃",
+                "transliteration": "biṯ·hil·lā·ṯe·ḵā",
+                "strong": "8416",
+                "translation": " in Your praise . "
+            }
+        ],
+        "verse_reference": "Psalm 106:47",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "47"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בָּר֤וּךְ־",
+                "transliteration": "bā·rūḵ-",
+                "strong": "1288",
+                "translation": " Blessed [be] "
+            },
+            {
+                "token": "יְהוָ֨ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֪י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֡ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָ֤עוֹלָ֨ם׀",
+                "transliteration": "hā·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " everlasting "
+            },
+            {
+                "token": "וְעַ֬ד",
+                "transliteration": "wə·‘aḏ",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "הָעוֹלָ֗ם",
+                "transliteration": "hā·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " everlasting . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Let all "
+            },
+            {
+                "token": "הָעָ֥ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "וְאָמַ֖ר",
+                "transliteration": "wə·’ā·mar",
+                "strong": "559",
+                "translation": " say , "
+            },
+            {
+                "token": "אָמֵ֗ן",
+                "transliteration": "’ā·mên",
+                "strong": "543",
+                "translation": " “ Amen ! ” "
+            },
+            {
+                "token": "הַֽלְלוּ־",
+                "transliteration": "hal·lū-",
+                "strong": "1984",
+                "translation": " Hallelujah "
+            },
+            {
+                "token": "יָֽהּ׃",
+                "transliteration": "yāh",
+                "strong": "3050",
+                "translation": " . . . ! "
+            }
+        ],
+        "verse_reference": "Psalm 106:48",
+        "book": "Psalm",
+        "chapter": "106",
+        "verse": "48"
+    }
+]

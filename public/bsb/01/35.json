@@ -1,0 +1,2502 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהִים֙",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " Then God "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יַעֲקֹ֔ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob , "
+            },
+            {
+                "token": "ק֛וּם",
+                "transliteration": "qūm",
+                "strong": "6965",
+                "translation": " “ Arise , "
+            },
+            {
+                "token": "עֲלֵ֥ה",
+                "transliteration": "‘ă·lêh",
+                "strong": "5927",
+                "translation": " go up "
+            },
+            {
+                "token": "בֵֽית־",
+                "transliteration": "ḇêṯ-",
+                "strong": "1008",
+                "translation": " to "
+            },
+            {
+                "token": "אֵ֖ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel , "
+            },
+            {
+                "token": "וְשֶׁב־",
+                "transliteration": "wə·šeḇ-",
+                "strong": "3427",
+                "translation": " and settle "
+            },
+            {
+                "token": "שָׁ֑ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there . "
+            },
+            {
+                "token": "וַעֲשֵׂה־",
+                "transliteration": "wa·‘ă·śêh-",
+                "strong": "6213",
+                "translation": " Build "
+            },
+            {
+                "token": "מִזְבֵּ֔חַ",
+                "transliteration": "miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " an altar "
+            },
+            {
+                "token": "שָׁ֣ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "לָאֵל֙",
+                "transliteration": "lā·’êl",
+                "strong": "410",
+                "translation": " to the God "
+            },
+            {
+                "token": "הַנִּרְאֶ֣ה",
+                "transliteration": "han·nir·’eh",
+                "strong": "7200",
+                "translation": " who appeared "
+            },
+            {
+                "token": "אֵלֶ֔יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בְּבָרְחֲךָ֔",
+                "transliteration": "bə·ḇå̄·rə·ḥă·ḵå̄",
+                "strong": "1272",
+                "translation": " you when you fled "
+            },
+            {
+                "token": "מִפְּנֵ֖י",
+                "transliteration": "mip·pə·nê",
+                "strong": "6440",
+                "translation": " from "
+            },
+            {
+                "token": "אָחִֽיךָ׃",
+                "transliteration": "’ā·ḥî·ḵā",
+                "strong": "251",
+                "translation": " your brother "
+            },
+            {
+                "token": "עֵשָׂ֥ו",
+                "transliteration": "‘ê·śāw",
+                "strong": "6215",
+                "translation": " Esau . ” "
+            }
+        ],
+        "verse_reference": "Genesis 35:1",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹב֙",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " So Jacob "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " told "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֵּית֔וֹ",
+                "transliteration": "bê·ṯōw",
+                "strong": "1004",
+                "translation": " his household "
+            },
+            {
+                "token": "וְאֶ֖ל",
+                "transliteration": "wə·’el",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "עִמּ֑וֹ",
+                "transliteration": "‘im·mōw",
+                "strong": "5973",
+                "translation": " were with him , "
+            },
+            {
+                "token": "הָסִ֜רוּ",
+                "transliteration": "hā·si·rū",
+                "strong": "5493",
+                "translation": " “ Get rid of "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֵּכָר֙",
+                "transliteration": "han·nê·ḵār",
+                "strong": "5236",
+                "translation": " the foreign "
+            },
+            {
+                "token": "אֱלֹהֵ֤י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " gods "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "בְּתֹכְכֶ֔ם",
+                "transliteration": "bə·ṯō·ḵə·ḵem",
+                "strong": "8432",
+                "translation": " are among you . "
+            },
+            {
+                "token": "וְהִֽטַּהֲר֔וּ",
+                "transliteration": "wə·hiṭ·ṭa·hă·rū",
+                "strong": "2891",
+                "translation": " Purify yourselves "
+            },
+            {
+                "token": "וְהַחֲלִ֖יפוּ",
+                "transliteration": "wə·ha·ḥă·lî·p̄ū",
+                "strong": "2498",
+                "translation": " and change "
+            },
+            {
+                "token": "שִׂמְלֹתֵיכֶֽם׃",
+                "transliteration": "śim·lō·ṯê·ḵem",
+                "strong": "8071",
+                "translation": " your garments . "
+            }
+        ],
+        "verse_reference": "Genesis 35:2",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְנָק֥וּמָה",
+                "transliteration": "wə·nā·qū·māh",
+                "strong": "6965",
+                "translation": " Then let us arise "
+            },
+            {
+                "token": "וְנַעֲלֶ֖ה",
+                "transliteration": "wə·na·‘ă·leh",
+                "strong": "5927",
+                "translation": " and go "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "1008",
+                "translation": " to "
+            },
+            {
+                "token": "אֵ֑ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel . "
+            },
+            {
+                "token": "וְאֶֽעֱשֶׂה־",
+                "transliteration": "wə·’e·‘ĕ·śeh-",
+                "strong": "6213",
+                "translation": " I will build "
+            },
+            {
+                "token": "מִזְבֵּ֗חַ",
+                "transliteration": "miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " an altar "
+            },
+            {
+                "token": "שָּׁ֣ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "לָאֵ֞ל",
+                "transliteration": "lā·’êl",
+                "strong": "410",
+                "translation": " to God , "
+            },
+            {
+                "token": "הָעֹנֶ֤ה",
+                "transliteration": "hā·‘ō·neh",
+                "strong": "6030",
+                "translation": " who answered "
+            },
+            {
+                "token": "אֹתִי֙",
+                "transliteration": "’ō·ṯî",
+                "strong": "853",
+                "translation": " me "
+            },
+            {
+                "token": "בְּי֣וֹם",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " in my day "
+            },
+            {
+                "token": "צָֽרָתִ֔י",
+                "transliteration": "ṣā·rā·ṯî",
+                "strong": "6869",
+                "translation": " of distress . "
+            },
+            {
+                "token": "וַיְהִי֙",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " He has been "
+            },
+            {
+                "token": "עִמָּדִ֔י",
+                "transliteration": "‘im·mā·ḏî",
+                "strong": "5978",
+                "translation": " with me "
+            },
+            {
+                "token": "בַּדֶּ֖רֶךְ",
+                "transliteration": "bad·de·reḵ",
+                "strong": "1870",
+                "translation": " wherever "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָלָֽכְתִּי׃",
+                "transliteration": "hā·lā·ḵə·tî",
+                "strong": "1980",
+                "translation": " I have gone . ” "
+            }
+        ],
+        "verse_reference": "Genesis 35:3",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּתְּנ֣וּ",
+                "transliteration": "way·yit·tə·nū",
+                "strong": "5414",
+                "translation": " So they gave "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "יַעֲקֹ֗ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob "
+            },
+            {
+                "token": "אֵ֣ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " their "
+            },
+            {
+                "token": "בְּיָדָ֔ם",
+                "transliteration": "bə·yā·ḏām",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַנֵּכָר֙",
+                "transliteration": "han·nê·ḵār",
+                "strong": "5236",
+                "translation": " foreign "
+            },
+            {
+                "token": "אֱלֹהֵ֤י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " gods "
+            },
+            {
+                "token": "הַנְּזָמִ֖ים",
+                "transliteration": "han·nə·zā·mîm",
+                "strong": "5141",
+                "translation": " and [all their] earrings "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - , "
+            },
+            {
+                "token": "בְּאָזְנֵיהֶ֑ם",
+                "transliteration": "bə·’ā·zə·nê·hem",
+                "strong": "241",
+                "translation": " - "
+            },
+            {
+                "token": "יַעֲקֹ֔ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " and Jacob "
+            },
+            {
+                "token": "וַיִּטְמֹ֤ן",
+                "transliteration": "way·yiṭ·mōn",
+                "strong": "2934",
+                "translation": " buried "
+            },
+            {
+                "token": "אֹתָם֙",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "תַּ֥חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " under "
+            },
+            {
+                "token": "הָאֵלָ֖ה",
+                "transliteration": "hā·’ê·lāh",
+                "strong": "424",
+                "translation": " the oak "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " near "
+            },
+            {
+                "token": "שְׁכֶֽם׃",
+                "transliteration": "šə·ḵem",
+                "strong": "7927",
+                "translation": " Shechem . "
+            }
+        ],
+        "verse_reference": "Genesis 35:4",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּסָּ֑עוּ",
+                "transliteration": "way·yis·sā·‘ū",
+                "strong": "5265",
+                "translation": " As they set out , "
+            },
+            {
+                "token": "חִתַּ֣ת",
+                "transliteration": "ḥit·taṯ",
+                "strong": "2847",
+                "translation": " a terror "
+            },
+            {
+                "token": "אֱלֹהִ֗ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " from God "
+            },
+            {
+                "token": "וַיְהִ֣י׀",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " fell "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "אֲשֶׁר֙",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "סְבִיבֹ֣תֵיהֶ֔ם",
+                "transliteration": "sə·ḇî·ḇō·ṯê·hem",
+                "strong": "5439",
+                "translation": " the surrounding "
+            },
+            {
+                "token": "הֶֽעָרִים֙",
+                "transliteration": "he·‘ā·rîm",
+                "strong": "5892",
+                "translation": " cities , "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " so that they did not "
+            },
+            {
+                "token": "רָֽדְפ֔וּ",
+                "transliteration": "rā·ḏə·p̄ū",
+                "strong": "7291",
+                "translation": " pursue "
+            },
+            {
+                "token": "אַחֲרֵ֖י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " . . . "
+            },
+            {
+                "token": "יַעֲקֹֽב׃",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob’s "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " sons . "
+            }
+        ],
+        "verse_reference": "Genesis 35:5",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹ֜ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " So Jacob "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and everyone "
+            },
+            {
+                "token": "הָעָ֥ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עִמּֽוֹ׃",
+                "transliteration": "‘im·mōw",
+                "strong": "5973",
+                "translation": " with him "
+            },
+            {
+                "token": "וַיָּבֹ֨א",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " arrived "
+            },
+            {
+                "token": "ל֗וּזָה",
+                "transliteration": "lū·zāh",
+                "strong": "3870",
+                "translation": " in Luz "
+            },
+            {
+                "token": "אֲשֶׁר֙",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הִ֖וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "1008",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵ֑ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel) "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " in the land "
+            },
+            {
+                "token": "כְּנַ֔עַן",
+                "transliteration": "kə·na·‘an",
+                "strong": "3667",
+                "translation": " of Canaan . "
+            }
+        ],
+        "verse_reference": "Genesis 35:6",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁם֙",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " There "
+            },
+            {
+                "token": "וַיִּ֤בֶן",
+                "transliteration": "way·yi·ḇen",
+                "strong": "1129",
+                "translation": " Jacob built "
+            },
+            {
+                "token": "מִזְבֵּ֔חַ",
+                "transliteration": "miz·bê·aḥ",
+                "strong": "4196",
+                "translation": " an altar , "
+            },
+            {
+                "token": "וַיִּקְרָא֙",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " and he called "
+            },
+            {
+                "token": "לַמָּק֔וֹם",
+                "transliteration": "lam·mā·qō·wm",
+                "strong": "4725",
+                "translation": " that place "
+            },
+            {
+                "token": "אֵ֖ל",
+                "transliteration": "’êl",
+                "strong": "416",
+                "translation": " vvv "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "416",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֵ֑ל",
+                "transliteration": "’êl",
+                "strong": "416",
+                "translation": " El-bethel , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "שָׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " it was there "
+            },
+            {
+                "token": "הָֽאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " that God "
+            },
+            {
+                "token": "נִגְל֤וּ",
+                "transliteration": "niḡ·lū",
+                "strong": "1540",
+                "translation": " had revealed Himself "
+            },
+            {
+                "token": "אֵלָיו֙",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to [Jacob] "
+            },
+            {
+                "token": "בְּבָרְח֖וֹ",
+                "transliteration": "bə·ḇā·rə·ḥōw",
+                "strong": "1272",
+                "translation": " as he fled "
+            },
+            {
+                "token": "מִפְּנֵ֥י",
+                "transliteration": "mip·pə·nê",
+                "strong": "6440",
+                "translation": " from "
+            },
+            {
+                "token": "אָחִֽיו׃",
+                "transliteration": "’ā·ḥîw",
+                "strong": "251",
+                "translation": " his brother . "
+            }
+        ],
+        "verse_reference": "Genesis 35:7",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דְּבֹרָה֙",
+                "transliteration": "də·ḇō·rāh",
+                "strong": "1683",
+                "translation": " Now Deborah , "
+            },
+            {
+                "token": "רִבְקָ֔ה",
+                "transliteration": "riḇ·qāh",
+                "strong": "7259",
+                "translation": " Rebekah’s "
+            },
+            {
+                "token": "מֵינֶ֣קֶת",
+                "transliteration": "mê·ne·qeṯ",
+                "strong": "3243",
+                "translation": " nurse , "
+            },
+            {
+                "token": "וַתָּ֤מָת",
+                "transliteration": "wat·tā·māṯ",
+                "strong": "4191",
+                "translation": " died "
+            },
+            {
+                "token": "וַתִּקָּבֵ֛ר",
+                "transliteration": "wat·tiq·qā·ḇêr",
+                "strong": "6912",
+                "translation": " and was buried "
+            },
+            {
+                "token": "מִתַּ֥חַת",
+                "transliteration": "mit·ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " under "
+            },
+            {
+                "token": "הָֽאַלּ֑וֹן",
+                "transliteration": "hā·’al·lō·wn",
+                "strong": "437",
+                "translation": " the oak "
+            },
+            {
+                "token": "תַּ֣חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " below "
+            },
+            {
+                "token": "לְבֵֽית־",
+                "transliteration": "lə·ḇêṯ-",
+                "strong": "1008",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֵ֖ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel . "
+            },
+            {
+                "token": "וַיִּקְרָ֥א",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " So [Jacob] named "
+            },
+            {
+                "token": "שְׁמ֖וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " [it] "
+            },
+            {
+                "token": "אַלּ֥וֹן",
+                "transliteration": "’al·lō·wn",
+                "strong": "439",
+                "translation": " vvv "
+            },
+            {
+                "token": "בָּכֽוּת׃פ",
+                "transliteration": "bā·ḵūṯ",
+                "strong": "439",
+                "translation": " Allon-bachuth . "
+            }
+        ],
+        "verse_reference": "Genesis 35:8",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּבֹא֖וֹ",
+                "transliteration": "bə·ḇō·’ōw",
+                "strong": "935",
+                "translation": " After [Jacob] had returned "
+            },
+            {
+                "token": "מִפַּדַּ֣ן",
+                "transliteration": "mip·pad·dan",
+                "strong": "6307",
+                "translation": " from "
+            },
+            {
+                "token": "אֲרָ֑ם",
+                "transliteration": "’ă·rām",
+                "strong": "758",
+                "translation": " Paddan-aram , "
+            },
+            {
+                "token": "אֱלֹהִ֤ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "וַיֵּרָ֨א",
+                "transliteration": "way·yê·rā",
+                "strong": "7200",
+                "translation": " appeared "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יַעֲקֹב֙",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " [him] "
+            },
+            {
+                "token": "ע֔וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " again "
+            },
+            {
+                "token": "וַיְבָ֖רֶךְ",
+                "transliteration": "way·ḇā·reḵ",
+                "strong": "1288",
+                "translation": " and blessed "
+            },
+            {
+                "token": "אֹתֽוֹ׃",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " him . "
+            }
+        ],
+        "verse_reference": "Genesis 35:9",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהִ֖ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " And God "
+            },
+            {
+                "token": "וַיֹּֽאמֶר־",
+                "transliteration": "way·yō·mer-",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to him , "
+            },
+            {
+                "token": "שִׁמְךָ֣",
+                "transliteration": "šim·ḵā",
+                "strong": "8034",
+                "translation": " “ [Though] your name "
+            },
+            {
+                "token": "יַעֲקֹ֑ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " is Jacob , "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " you will no "
+            },
+            {
+                "token": "ע֜וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " longer "
+            },
+            {
+                "token": "יִקָּרֵא֩",
+                "transliteration": "yiq·qā·rê",
+                "strong": "7121",
+                "translation": " be called "
+            },
+            {
+                "token": "שִׁמְךָ֙",
+                "transliteration": "šim·ḵå̄",
+                "strong": "8034",
+                "translation": " . . . "
+            },
+            {
+                "token": "יַעֲקֹ֗ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob . "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Instead "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " . . . , "
+            },
+            {
+                "token": "שְׁמֶ֔ךָ",
+                "transliteration": "šə·me·ḵā",
+                "strong": "8034",
+                "translation": " your name "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " will be "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel . ” "
+            },
+            {
+                "token": "וַיִּקְרָ֥א",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " So [God] named "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁמ֖וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " him "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel . "
+            }
+        ],
+        "verse_reference": "Genesis 35:10",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהִ֜ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " And God "
+            },
+            {
+                "token": "וַיֹּאמֶר֩",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " told "
+            },
+            {
+                "token": "ל֨וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him , "
+            },
+            {
+                "token": "אֲנִ֨י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " “ I "
+            },
+            {
+                "token": "אֵ֤ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " am God "
+            },
+            {
+                "token": "שַׁדַּי֙",
+                "transliteration": "šad·day",
+                "strong": "7706",
+                "translation": " Almighty . "
+            },
+            {
+                "token": "פְּרֵ֣ה",
+                "transliteration": "pə·rêh",
+                "strong": "6509",
+                "translation": " Be fruitful "
+            },
+            {
+                "token": "וּרְבֵ֔ה",
+                "transliteration": "ū·rə·ḇêh",
+                "strong": "7235",
+                "translation": " and multiply . "
+            },
+            {
+                "token": "גּ֛וֹי",
+                "transliteration": "gō·w",
+                "strong": "1471",
+                "translation": " A nation — "
+            },
+            {
+                "token": "וּקְהַ֥ל",
+                "transliteration": "ū·qə·hal",
+                "strong": "6951",
+                "translation": " even a company "
+            },
+            {
+                "token": "גּוֹיִ֖ם",
+                "transliteration": "gō·w·yim",
+                "strong": "1471",
+                "translation": " of nations — "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " shall come "
+            },
+            {
+                "token": "מִמֶּ֑ךָּ",
+                "transliteration": "mim·me·kā",
+                "strong": "4480",
+                "translation": " from you , "
+            },
+            {
+                "token": "וּמְלָכִ֖ים",
+                "transliteration": "ū·mə·lā·ḵîm",
+                "strong": "4428",
+                "translation": " and kings "
+            },
+            {
+                "token": "יֵצֵֽאוּ׃",
+                "transliteration": "yê·ṣê·’ū",
+                "strong": "3318",
+                "translation": " shall descend "
+            },
+            {
+                "token": "מֵחֲלָצֶ֥יךָ",
+                "transliteration": "mê·ḥă·lā·ṣe·ḵā",
+                "strong": "2504",
+                "translation": " from you . "
+            }
+        ],
+        "verse_reference": "Genesis 35:11",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאָ֗רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " The land "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֶתְּנֶ֑נָּה",
+                "transliteration": "’et·tə·nen·nāh",
+                "strong": "5414",
+                "translation": " I gave "
+            },
+            {
+                "token": "לְאַבְרָהָ֥ם",
+                "transliteration": "lə·’aḇ·rā·hām",
+                "strong": "85",
+                "translation": " to Abraham "
+            },
+            {
+                "token": "וּלְיִצְחָ֖ק",
+                "transliteration": "ū·lə·yiṣ·ḥāq",
+                "strong": "3327",
+                "translation": " and Isaac "
+            },
+            {
+                "token": "נָתַ֛תִּי",
+                "transliteration": "nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " I will give "
+            },
+            {
+                "token": "לְךָ֣",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " to you , "
+            },
+            {
+                "token": "אֶתֵּ֥ן",
+                "transliteration": "’et·tên",
+                "strong": "5414",
+                "translation": " and I will give "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " this land "
+            },
+            {
+                "token": "וּֽלְזַרְעֲךָ֥",
+                "transliteration": "ū·lə·zar·‘ă·ḵā",
+                "strong": "2233",
+                "translation": " to your descendants "
+            },
+            {
+                "token": "אַחֲרֶ֖יךָ",
+                "transliteration": "’a·ḥă·re·ḵā",
+                "strong": "310",
+                "translation": " after you . ” "
+            }
+        ],
+        "verse_reference": "Genesis 35:12",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֱלֹהִ֑ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " Then God "
+            },
+            {
+                "token": "וַיַּ֥עַל",
+                "transliteration": "way·ya·‘al",
+                "strong": "5927",
+                "translation": " went up "
+            },
+            {
+                "token": "מֵעָלָ֖יו",
+                "transliteration": "mê·‘ā·lāw",
+                "strong": "5921",
+                "translation": " from "
+            },
+            {
+                "token": "בַּמָּק֖וֹם",
+                "transliteration": "bam·mā·qō·wm",
+                "strong": "4725",
+                "translation": " the place "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "דִּבֶּ֥ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " He had spoken "
+            },
+            {
+                "token": "אִתּֽוֹ׃",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " with him . "
+            }
+        ],
+        "verse_reference": "Genesis 35:13",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹ֜ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " So Jacob "
+            },
+            {
+                "token": "וַיַּצֵּ֨ב",
+                "transliteration": "way·yaṣ·ṣêḇ",
+                "strong": "5324",
+                "translation": " set up "
+            },
+            {
+                "token": "מַצֵּבָ֗ה",
+                "transliteration": "maṣ·ṣê·ḇāh",
+                "strong": "4676",
+                "translation": " a pillar "
+            },
+            {
+                "token": "בַּמָּק֛וֹם",
+                "transliteration": "bam·mā·qō·wm",
+                "strong": "4725",
+                "translation": " in the place "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "דִּבֶּ֥ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " [God] had spoken "
+            },
+            {
+                "token": "אִתּ֖וֹ",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " with him — "
+            },
+            {
+                "token": "אָ֑בֶן",
+                "transliteration": "’ā·ḇen",
+                "strong": "68",
+                "translation": " a stone "
+            },
+            {
+                "token": "מַצֶּ֣בֶת",
+                "transliteration": "maṣ·ṣe·ḇeṯ",
+                "strong": "4678",
+                "translation": " marker — "
+            },
+            {
+                "token": "וַיַּסֵּ֤ךְ",
+                "transliteration": "way·yas·sêḵ",
+                "strong": "5258",
+                "translation": " and he poured out "
+            },
+            {
+                "token": "נֶ֔סֶךְ",
+                "transliteration": "ne·seḵ",
+                "strong": "5262",
+                "translation": " a drink offering "
+            },
+            {
+                "token": "עָלֶ֙יהָ֙",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " on it "
+            },
+            {
+                "token": "וַיִּצֹ֥ק",
+                "transliteration": "way·yi·ṣōq",
+                "strong": "3332",
+                "translation": " and anointed it "
+            },
+            {
+                "token": "עָלֶ֖יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָֽׁמֶן׃",
+                "transliteration": "šā·men",
+                "strong": "8081",
+                "translation": " with oil . "
+            }
+        ],
+        "verse_reference": "Genesis 35:14",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹ֜ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּקְרָ֨א",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " called "
+            },
+            {
+                "token": "שֵׁ֣ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַמָּק֗וֹם",
+                "transliteration": "ham·mā·qō·wm",
+                "strong": "4725",
+                "translation": " the place "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "אֱלֹהִ֖ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "דִּבֶּ֨ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " had spoken "
+            },
+            {
+                "token": "אִתּ֥וֹ",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " with him "
+            },
+            {
+                "token": "שָׁ֛ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " vvv "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "1008",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֵֽל׃",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel . "
+            }
+        ],
+        "verse_reference": "Genesis 35:15",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּסְעוּ֙",
+                "transliteration": "way·yis·‘ū",
+                "strong": "5265",
+                "translation": " Later, they set out "
+            },
+            {
+                "token": "מִבֵּ֣ית",
+                "transliteration": "mib·bêṯ",
+                "strong": "1008",
+                "translation": " from "
+            },
+            {
+                "token": "אֵ֔ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " Bethel , "
+            },
+            {
+                "token": "וַֽיְהִי־",
+                "transliteration": "way·hî-",
+                "strong": "1961",
+                "translation": " and while they were "
+            },
+            {
+                "token": "ע֥וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " still "
+            },
+            {
+                "token": "כִּבְרַת־",
+                "transliteration": "kiḇ·raṯ-",
+                "strong": "3530",
+                "translation": " some distance "
+            },
+            {
+                "token": "הָאָ֖רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָב֣וֹא",
+                "transliteration": "lā·ḇō·w",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶפְרָ֑תָה",
+                "transliteration": "’ep̄·rā·ṯāh",
+                "strong": "672",
+                "translation": " from Ephrath , "
+            },
+            {
+                "token": "רָחֵ֖ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " Rachel "
+            },
+            {
+                "token": "וַתֵּ֥לֶד",
+                "transliteration": "wat·tê·leḏ",
+                "strong": "3205",
+                "translation": " began to give birth , "
+            },
+            {
+                "token": "בְּלִדְתָּֽהּ׃",
+                "transliteration": "bə·liḏ·tāh",
+                "strong": "3205",
+                "translation": " and her labor "
+            },
+            {
+                "token": "וַתְּקַ֥שׁ",
+                "transliteration": "wat·tə·qaš",
+                "strong": "7185",
+                "translation": " was difficult . "
+            }
+        ],
+        "verse_reference": "Genesis 35:16",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֥י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " During "
+            },
+            {
+                "token": "בְהַקְשֹׁתָ֖הּ",
+                "transliteration": "ḇə·haq·šō·ṯāh",
+                "strong": "7185",
+                "translation": " her severe "
+            },
+            {
+                "token": "בְּלִדְתָּ֑הּ",
+                "transliteration": "bə·liḏ·tāh",
+                "strong": "3205",
+                "translation": " labor , "
+            },
+            {
+                "token": "הַמְיַלֶּ֙דֶת֙",
+                "transliteration": "ham·yal·le·ḏeṯ",
+                "strong": "3205",
+                "translation": " the midwife "
+            },
+            {
+                "token": "וַתֹּ֨אמֶר",
+                "transliteration": "wat·tō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "לָ֤הּ",
+                "transliteration": "lāh",
+                "strong": "",
+                "translation": " to her , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " “ Do not "
+            },
+            {
+                "token": "תִּ֣ירְאִ֔י",
+                "transliteration": "tî·rə·’î",
+                "strong": "3372",
+                "translation": " be afraid , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "לָ֖ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "זֶ֥ה",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " are having "
+            },
+            {
+                "token": "גַם־",
+                "transliteration": "ḡam-",
+                "strong": "1571",
+                "translation": " another "
+            },
+            {
+                "token": "בֵּֽן׃",
+                "transliteration": "bên",
+                "strong": "1121",
+                "translation": " son . ” "
+            }
+        ],
+        "verse_reference": "Genesis 35:17",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֞י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "בְּצֵ֤את",
+                "transliteration": "bə·ṣêṯ",
+                "strong": "3318",
+                "translation": " with her last "
+            },
+            {
+                "token": "נַפְשָׁהּ֙",
+                "transliteration": "nap̄·šāh",
+                "strong": "5315",
+                "translation": " breath — "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "מֵ֔תָה",
+                "transliteration": "mê·ṯāh",
+                "strong": "4191",
+                "translation": " she was dying — "
+            },
+            {
+                "token": "וַתִּקְרָ֥א",
+                "transliteration": "wat·tiq·rā",
+                "strong": "7121",
+                "translation": " she named "
+            },
+            {
+                "token": "שְׁמ֖וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1126",
+                "translation": " vvv him "
+            },
+            {
+                "token": "אוֹנִ֑י",
+                "transliteration": "’ō·w·nî",
+                "strong": "1126",
+                "translation": " Ben-oni . "
+            },
+            {
+                "token": "וְאָבִ֖יו",
+                "transliteration": "wə·’ā·ḇîw",
+                "strong": "1",
+                "translation": " But his father "
+            },
+            {
+                "token": "קָֽרָא־",
+                "transliteration": "qā·rā-",
+                "strong": "7121",
+                "translation": " called "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him "
+            },
+            {
+                "token": "בִנְיָמִֽין׃",
+                "transliteration": "ḇin·yā·mîn",
+                "strong": "1144",
+                "translation": " Benjamin . "
+            }
+        ],
+        "verse_reference": "Genesis 35:18",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "רָחֵ֑ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " So Rachel "
+            },
+            {
+                "token": "וַתָּ֖מָת",
+                "transliteration": "wat·tā·māṯ",
+                "strong": "4191",
+                "translation": " died "
+            },
+            {
+                "token": "וַתִּקָּבֵר֙",
+                "transliteration": "wat·tiq·qā·ḇêr",
+                "strong": "6912",
+                "translation": " and was buried "
+            },
+            {
+                "token": "בְּדֶ֣רֶךְ",
+                "transliteration": "bə·ḏe·reḵ",
+                "strong": "1870",
+                "translation": " on the way "
+            },
+            {
+                "token": "אֶפְרָ֔תָה",
+                "transliteration": "’ep̄·rā·ṯāh",
+                "strong": "672",
+                "translation": " to Ephrath "
+            },
+            {
+                "token": "הִ֖וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1035",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָֽחֶם׃",
+                "transliteration": "lā·ḥem",
+                "strong": "1035",
+                "translation": " Bethlehem) . "
+            }
+        ],
+        "verse_reference": "Genesis 35:19",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹ֛ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob "
+            },
+            {
+                "token": "וַיַּצֵּ֧ב",
+                "transliteration": "way·yaṣ·ṣêḇ",
+                "strong": "5324",
+                "translation": " set up "
+            },
+            {
+                "token": "מַצֵּבָ֖ה",
+                "transliteration": "maṣ·ṣê·ḇāh",
+                "strong": "4676",
+                "translation": " a pillar "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on her "
+            },
+            {
+                "token": "קְבֻרָתָ֑הּ",
+                "transliteration": "qə·ḇu·rā·ṯāh",
+                "strong": "6900",
+                "translation": " grave ; "
+            },
+            {
+                "token": "הִ֛וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מַצֶּ֥בֶת",
+                "transliteration": "maṣ·ṣe·ḇeṯ",
+                "strong": "4678",
+                "translation": " marks "
+            },
+            {
+                "token": "רָחֵ֖ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " Rachel’s "
+            },
+            {
+                "token": "קְבֻֽרַת־",
+                "transliteration": "qə·ḇu·raṯ-",
+                "strong": "6900",
+                "translation": " tomb "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "הַיּֽוֹם׃",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " this day . "
+            }
+        ],
+        "verse_reference": "Genesis 35:20",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel again "
+            },
+            {
+                "token": "וַיִּסַּ֖ע",
+                "transliteration": "way·yis·sa‘",
+                "strong": "5265",
+                "translation": " set out "
+            },
+            {
+                "token": "וַיֵּ֣ט",
+                "transliteration": "way·yêṭ",
+                "strong": "5186",
+                "translation": " and pitched "
+            },
+            {
+                "token": "אָֽהֳלֹ֔ה",
+                "transliteration": "ʾå̄·ho·lōh",
+                "strong": "168",
+                "translation": " his tent "
+            },
+            {
+                "token": "מֵהָ֖לְאָה",
+                "transliteration": "mê·hā·lə·’āh",
+                "strong": "1973",
+                "translation": " beyond "
+            },
+            {
+                "token": "לְמִגְדַּל־",
+                "transliteration": "lə·miḡ·dal-",
+                "strong": "4029",
+                "translation": " - "
+            },
+            {
+                "token": "עֵֽדֶר׃",
+                "transliteration": "‘ê·ḏer",
+                "strong": "4029",
+                "translation": " the Tower of Eder . "
+            }
+        ],
+        "verse_reference": "Genesis 35:21",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " While "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "בִּשְׁכֹּ֤ן",
+                "transliteration": "biš·kōn",
+                "strong": "7931",
+                "translation": " was living "
+            },
+            {
+                "token": "הַהִ֔וא",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " in that "
+            },
+            {
+                "token": "בָּאָ֣רֶץ",
+                "transliteration": "bā·’ā·reṣ",
+                "strong": "776",
+                "translation": " region , "
+            },
+            {
+                "token": "רְאוּבֵ֔ן",
+                "transliteration": "rə·’ū·ḇên",
+                "strong": "7205",
+                "translation": " Reuben "
+            },
+            {
+                "token": "וַיֵּ֣לֶךְ",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " went in "
+            },
+            {
+                "token": "וַיִּשְׁכַּ֕ב֙",
+                "transliteration": "way·yiš·kaḇ",
+                "strong": "7901",
+                "translation": " and slept with "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אָבִ֑֔יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " his father’s "
+            },
+            {
+                "token": "פִּילֶ֣גֶשׁ",
+                "transliteration": "pî·le·ḡeš",
+                "strong": "6370",
+                "translation": " concubine "
+            },
+            {
+                "token": "בִּלְהָ֖ה֙",
+                "transliteration": "bil·hāh",
+                "strong": "1090",
+                "translation": " Bilhah , "
+            },
+            {
+                "token": "יִשְׂרָאֵֽ֑ל פ",
+                "transliteration": "yiś·rå̄·ʾēl p̄",
+                "strong": "3478",
+                "translation": " and Israel "
+            },
+            {
+                "token": "וַיִּֽהְי֥וּ",
+                "transliteration": "way·yih·yū",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּשְׁמַ֖ע",
+                "transliteration": "way·yiš·ma‘",
+                "strong": "8085",
+                "translation": " heard about it . "
+            },
+            {
+                "token": "יַעֲקֹ֖ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob had "
+            },
+            {
+                "token": "שְׁנֵ֥ים",
+                "transliteration": "šə·nêm",
+                "strong": "8147",
+                "translation": " twelve "
+            },
+            {
+                "token": "עָשָֽׂר׃",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " sons : "
+            }
+        ],
+        "verse_reference": "Genesis 35:22",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " The sons "
+            },
+            {
+                "token": "לֵאָ֔ה",
+                "transliteration": "lê·’āh",
+                "strong": "3812",
+                "translation": " of Leah "
+            },
+            {
+                "token": "רְאוּבֵ֑ן",
+                "transliteration": "rə·’ū·ḇên",
+                "strong": "7205",
+                "translation": " were Reuben "
+            },
+            {
+                "token": "בְּכ֥וֹר",
+                "transliteration": "bə·ḵō·wr",
+                "strong": "1060",
+                "translation": " the firstborn "
+            },
+            {
+                "token": "יַעֲקֹ֖ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob , "
+            },
+            {
+                "token": "וְשִׁמְעוֹן֙",
+                "transliteration": "wə·šim·‘ō·wn",
+                "strong": "8095",
+                "translation": " Simeon , "
+            },
+            {
+                "token": "וְלֵוִ֣י",
+                "transliteration": "wə·lê·wî",
+                "strong": "3878",
+                "translation": " Levi , "
+            },
+            {
+                "token": "וִֽיהוּדָ֔ה",
+                "transliteration": "wî·hū·ḏāh",
+                "strong": "3063",
+                "translation": " Judah , "
+            },
+            {
+                "token": "וְיִשָּׂשכָ֖ר",
+                "transliteration": "wə·yiś·śā·š·ḵār",
+                "strong": "3485",
+                "translation": " Issachar , "
+            },
+            {
+                "token": "וּזְבוּלֻֽן׃",
+                "transliteration": "ū·zə·ḇū·lun",
+                "strong": "2074",
+                "translation": " and Zebulun . "
+            }
+        ],
+        "verse_reference": "Genesis 35:23",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " The sons "
+            },
+            {
+                "token": "רָחֵ֔ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " of Rachel [were] "
+            },
+            {
+                "token": "יוֹסֵ֖ף",
+                "transliteration": "yō·w·sêp̄",
+                "strong": "3130",
+                "translation": " Joseph "
+            },
+            {
+                "token": "וּבִנְיָמִֽן׃",
+                "transliteration": "ū·ḇin·yā·min",
+                "strong": "1144",
+                "translation": " and Benjamin . "
+            }
+        ],
+        "verse_reference": "Genesis 35:24",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְנֵ֤י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " The sons "
+            },
+            {
+                "token": "רָחֵ֔ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " of Rachel’s "
+            },
+            {
+                "token": "שִׁפְחַ֣ת",
+                "transliteration": "šip̄·ḥaṯ",
+                "strong": "8198",
+                "translation": " maidservant "
+            },
+            {
+                "token": "בִלְהָה֙",
+                "transliteration": "ḇil·hāh",
+                "strong": "1090",
+                "translation": " Bilhah [were] "
+            },
+            {
+                "token": "דָּ֖ן",
+                "transliteration": "dān",
+                "strong": "1835",
+                "translation": " Dan "
+            },
+            {
+                "token": "וְנַפְתָּלִֽי׃",
+                "transliteration": "wə·nap̄·tā·lî",
+                "strong": "5321",
+                "translation": " and Naphtali . "
+            }
+        ],
+        "verse_reference": "Genesis 35:25",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְנֵ֥י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " And the sons "
+            },
+            {
+                "token": "לֵאָ֖ה",
+                "transliteration": "lê·’āh",
+                "strong": "3812",
+                "translation": " of Leah’s "
+            },
+            {
+                "token": "שִׁפְחַ֥ת",
+                "transliteration": "šip̄·ḥaṯ",
+                "strong": "8198",
+                "translation": " maidservant "
+            },
+            {
+                "token": "זִלְפָּ֛ה",
+                "transliteration": "zil·pāh",
+                "strong": "2153",
+                "translation": " Zilpah "
+            },
+            {
+                "token": "גָּ֣ד",
+                "transliteration": "gāḏ",
+                "strong": "1410",
+                "translation": " [were] Gad "
+            },
+            {
+                "token": "וְאָשֵׁ֑ר",
+                "transliteration": "wə·’ā·šêr",
+                "strong": "836",
+                "translation": " and Asher . "
+            },
+            {
+                "token": "אֵ֚לֶּה",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " These "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " are the sons "
+            },
+            {
+                "token": "יַעֲקֹ֔ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יֻלַּד־",
+                "transliteration": "yul·laḏ-",
+                "strong": "3205",
+                "translation": " were born "
+            },
+            {
+                "token": "ל֖וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to him "
+            },
+            {
+                "token": "בְּפַדַּ֥ן",
+                "transliteration": "bə·p̄ad·dan",
+                "strong": "6307",
+                "translation": " in "
+            },
+            {
+                "token": "אֲרָֽם׃",
+                "transliteration": "’ă·rām",
+                "strong": "758",
+                "translation": " Paddan-aram . "
+            }
+        ],
+        "verse_reference": "Genesis 35:26",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַעֲקֹב֙",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " Jacob "
+            },
+            {
+                "token": "וַיָּבֹ֤א",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " returned "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אָבִ֔יו",
+                "transliteration": "’ā·ḇîw",
+                "strong": "1",
+                "translation": " his father "
+            },
+            {
+                "token": "יִצְחָ֣ק",
+                "transliteration": "yiṣ·ḥāq",
+                "strong": "3327",
+                "translation": " Isaac "
+            },
+            {
+                "token": "מַמְרֵ֖א",
+                "transliteration": "mam·rê",
+                "strong": "4471",
+                "translation": " at Mamre , "
+            },
+            {
+                "token": "קִרְיַ֣ת",
+                "transliteration": "qir·yaṯ",
+                "strong": "7153",
+                "translation": " vvv "
+            },
+            {
+                "token": "הָֽאַרְבַּ֑ע",
+                "transliteration": "hā·’ar·ba‘",
+                "strong": "7153",
+                "translation": " near Kiriath-arba "
+            },
+            {
+                "token": "הִ֣וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "חֶבְר֔וֹן",
+                "transliteration": "ḥeḇ·rō·wn",
+                "strong": "2275",
+                "translation": " Hebron) , "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "אַבְרָהָ֖ם",
+                "transliteration": "’aḇ·rā·hām",
+                "strong": "85",
+                "translation": " Abraham "
+            },
+            {
+                "token": "וְיִצְחָֽק׃",
+                "transliteration": "wə·yiṣ·ḥāq",
+                "strong": "3327",
+                "translation": " and Isaac "
+            },
+            {
+                "token": "גָּֽר־",
+                "transliteration": "gār-",
+                "strong": "1481",
+                "translation": " had stayed "
+            },
+            {
+                "token": "שָׁ֥ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Genesis 35:27",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יִצְחָ֑ק",
+                "transliteration": "yiṣ·ḥāq",
+                "strong": "3327",
+                "translation": " And Isaac "
+            },
+            {
+                "token": "וַיִּֽהְי֖וּ",
+                "transliteration": "way·yih·yū",
+                "strong": "1961",
+                "translation": " lived "
+            },
+            {
+                "token": "יְמֵ֣י",
+                "transliteration": "yə·mê",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "מְאַ֥ת",
+                "transliteration": "mə·’aṯ",
+                "strong": "3967",
+                "translation": "180"
+            },
+            {
+                "token": "וּשְׁמֹנִ֥ים",
+                "transliteration": "ū·šə·mō·nîm",
+                "strong": "8084",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָֽה׃",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֖ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years . "
+            }
+        ],
+        "verse_reference": "Genesis 35:28",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יִצְחָ֤ק",
+                "transliteration": "yiṣ·ḥāq",
+                "strong": "3327",
+                "translation": " Then [he] "
+            },
+            {
+                "token": "וַיִּגְוַ֨ע",
+                "transliteration": "way·yiḡ·wa‘",
+                "strong": "1478",
+                "translation": " breathed his last "
+            },
+            {
+                "token": "וַיָּ֙מָת֙",
+                "transliteration": "way·yā·māṯ",
+                "strong": "4191",
+                "translation": " and died "
+            },
+            {
+                "token": "וַיֵּאָ֣סֶף",
+                "transliteration": "way·yê·’ā·sep̄",
+                "strong": "622",
+                "translation": " and was gathered "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עַמָּ֔יו",
+                "transliteration": "‘am·māw",
+                "strong": "5971",
+                "translation": " his people , "
+            },
+            {
+                "token": "זָקֵ֖ן",
+                "transliteration": "zā·qên",
+                "strong": "2205",
+                "translation": " old "
+            },
+            {
+                "token": "וּשְׂבַ֣ע",
+                "transliteration": "ū·śə·ḇa‘",
+                "strong": "7649",
+                "translation": " and full "
+            },
+            {
+                "token": "יָמִ֑ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " of years . "
+            },
+            {
+                "token": "בָּנָֽיו׃פ",
+                "transliteration": "bā·nāw",
+                "strong": "1121",
+                "translation": " And his sons "
+            },
+            {
+                "token": "עֵשָׂ֥ו",
+                "transliteration": "‘ê·śāw",
+                "strong": "6215",
+                "translation": " Esau "
+            },
+            {
+                "token": "וְיַעֲקֹ֖ב",
+                "transliteration": "wə·ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " and Jacob "
+            },
+            {
+                "token": "וַיִּקְבְּר֣וּ",
+                "transliteration": "way·yiq·bə·rū",
+                "strong": "6912",
+                "translation": " buried him "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Genesis 35:29",
+        "book": "Genesis",
+        "chapter": "35",
+        "verse": "29"
+    }
+]

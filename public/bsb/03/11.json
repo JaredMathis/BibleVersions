@@ -1,0 +1,3936 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "וַיְדַבֵּ֧ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " spoke again "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַהֲרֹ֖ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron , "
+            },
+            {
+                "token": "לֵאמֹ֥ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " telling "
+            },
+            {
+                "token": "אֲלֵהֶֽם׃",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " them , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:1",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דַּבְּר֛וּ",
+                "transliteration": "dab·bə·rū",
+                "strong": "1696",
+                "translation": " “ Say "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "לֵאמֹ֑ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " - , "
+            },
+            {
+                "token": "זֹ֤את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " ‘ - "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " Of all "
+            },
+            {
+                "token": "הַבְּהֵמָ֖ה",
+                "transliteration": "hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " the beasts "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " of "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the earth , "
+            },
+            {
+                "token": "הַֽחַיָּה֙",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " [these ones] "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "תֹּאכְל֔וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " you may eat : "
+            }
+        ],
+        "verse_reference": "Leviticus 11:2",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תֹּאכֵֽלוּ׃",
+                "transliteration": "tō·ḵê·lū",
+                "strong": "398",
+                "translation": " You may eat "
+            },
+            {
+                "token": "כֹּ֣ל׀",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "בַּבְּהֵמָ֑ה",
+                "transliteration": "bab·bə·hê·māh",
+                "strong": "929",
+                "translation": " animal "
+            },
+            {
+                "token": "אֹתָ֖הּ",
+                "transliteration": "’ō·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שֶׁ֙סַע֙",
+                "transliteration": "še·sa‘",
+                "strong": "8157",
+                "translation": " [that has] a split "
+            },
+            {
+                "token": "פְּרָסֹ֔ת",
+                "transliteration": "pə·rā·sōṯ",
+                "strong": "6541",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַפְרֶ֣סֶת",
+                "transliteration": "map̄·re·seṯ",
+                "strong": "6536",
+                "translation": " - "
+            },
+            {
+                "token": "פַּרְסָ֗ה",
+                "transliteration": "par·sāh",
+                "strong": "6541",
+                "translation": " hoof "
+            },
+            {
+                "token": "וְשֹׁסַ֤עַת",
+                "transliteration": "wə·šō·sa·‘aṯ",
+                "strong": "8156",
+                "translation": " completely divided "
+            },
+            {
+                "token": "מַעֲלַ֥ת",
+                "transliteration": "ma·‘ă·laṯ",
+                "strong": "5927",
+                "translation": " and that chews "
+            },
+            {
+                "token": "גֵּרָ֖ה",
+                "transliteration": "gê·rāh",
+                "strong": "1625",
+                "translation": " the cud . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:3",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֤ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " But "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " of those "
+            },
+            {
+                "token": "מִֽמַּעֲלֵי֙",
+                "transliteration": "mim·ma·‘ă·lê",
+                "strong": "5927",
+                "translation": " that [only] chew "
+            },
+            {
+                "token": "הַגֵּרָ֔ה",
+                "transliteration": "hag·gê·rāh",
+                "strong": "1625",
+                "translation": " the cud "
+            },
+            {
+                "token": "וּמִמַּפְרִיסֵ֖י",
+                "transliteration": "ū·mim·map̄·rî·sê",
+                "strong": "6536",
+                "translation": " or [only] have a divided "
+            },
+            {
+                "token": "הַפַּרְסָ֑ה",
+                "transliteration": "hap·par·sāh",
+                "strong": "6541",
+                "translation": " hoof , "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " you are not "
+            },
+            {
+                "token": "תֹֽאכְל֔וּ",
+                "transliteration": "ṯō·ḵə·lū",
+                "strong": "398",
+                "translation": " to eat "
+            },
+            {
+                "token": "זֶה֙",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " the following : "
+            },
+            {
+                "token": "הַ֠גָּמָל",
+                "transliteration": "hag·gā·māl",
+                "strong": "1581",
+                "translation": " The camel , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " though "
+            },
+            {
+                "token": "ה֗וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מַעֲלֵ֨ה",
+                "transliteration": "ma·‘ă·lêh",
+                "strong": "5927",
+                "translation": " chews "
+            },
+            {
+                "token": "גֵרָ֜ה",
+                "transliteration": "ḡê·rāh",
+                "strong": "1625",
+                "translation": " the cud , "
+            },
+            {
+                "token": "אֵינֶ֣נּוּ",
+                "transliteration": "’ê·nen·nū",
+                "strong": "369",
+                "translation": " does not "
+            },
+            {
+                "token": "מַפְרִ֔יס",
+                "transliteration": "map̄·rîs",
+                "strong": "6536",
+                "translation": " have a divided "
+            },
+            {
+                "token": "וּפַרְסָה֙",
+                "transliteration": "ū·p̄ar·sāh",
+                "strong": "6541",
+                "translation": " hoof ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:4",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשָּׁפָ֗ן",
+                "transliteration": "haš·šā·p̄ān",
+                "strong": "8227",
+                "translation": " The rock badger , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " though "
+            },
+            {
+                "token": "ה֔וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מַעֲלֵ֤ה",
+                "transliteration": "ma·‘ă·lêh",
+                "strong": "5927",
+                "translation": " chews "
+            },
+            {
+                "token": "גֵרָה֙",
+                "transliteration": "ḡê·rāh",
+                "strong": "1625",
+                "translation": " the cud , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " does not "
+            },
+            {
+                "token": "יַפְרִ֑יס",
+                "transliteration": "yap̄·rîs",
+                "strong": "6536",
+                "translation": " have a divided "
+            },
+            {
+                "token": "וּפַרְסָ֖ה",
+                "transliteration": "ū·p̄ar·sāh",
+                "strong": "6541",
+                "translation": " hoof ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:5",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאַרְנֶ֗בֶת",
+                "transliteration": "hā·’ar·ne·ḇeṯ",
+                "strong": "768",
+                "translation": " The rabbit , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " though "
+            },
+            {
+                "token": "הִ֔וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "מַעֲלַ֤ת",
+                "transliteration": "ma·‘ă·laṯ",
+                "strong": "5927",
+                "translation": " chews "
+            },
+            {
+                "token": "גֵּרָה֙",
+                "transliteration": "gê·rāh",
+                "strong": "1625",
+                "translation": " the cud , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " does not "
+            },
+            {
+                "token": "הִפְרִ֑יסָה",
+                "transliteration": "hip̄·rî·sāh",
+                "strong": "6536",
+                "translation": " have a divided "
+            },
+            {
+                "token": "וּפַרְסָ֖ה",
+                "transliteration": "ū·p̄ar·sāh",
+                "strong": "6541",
+                "translation": " hoof ; "
+            },
+            {
+                "token": "הִ֖וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "טְמֵאָ֥ה",
+                "transliteration": "ṭə·mê·’āh",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:6",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " And "
+            },
+            {
+                "token": "הַ֠חֲזִיר",
+                "transliteration": "ha·ḥă·zîr",
+                "strong": "2386",
+                "translation": " the pig , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " though "
+            },
+            {
+                "token": "ה֗וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it [has] "
+            },
+            {
+                "token": "שֶׁ֙סַע֙",
+                "transliteration": "še·sa‘",
+                "strong": "8157",
+                "translation": " a split "
+            },
+            {
+                "token": "פַּרְסָ֜ה",
+                "transliteration": "par·sāh",
+                "strong": "6541",
+                "translation": " hoof "
+            },
+            {
+                "token": "מַפְרִ֨יס",
+                "transliteration": "map̄·rîs",
+                "strong": "6536",
+                "translation": " completely divided "
+            },
+            {
+                "token": "וְשֹׁסַ֥ע",
+                "transliteration": "wə·šō·sa‘",
+                "strong": "8156",
+                "translation": " . . . "
+            },
+            {
+                "token": "פַּרְסָ֔ה",
+                "transliteration": "par·sāh",
+                "strong": "6541",
+                "translation": " - , "
+            },
+            {
+                "token": "וְה֖וּא",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " - "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " does not "
+            },
+            {
+                "token": "יִגָּ֑ר",
+                "transliteration": "yig·gār",
+                "strong": "1641",
+                "translation": " chew "
+            },
+            {
+                "token": "גֵּרָ֣ה",
+                "transliteration": "gê·rāh",
+                "strong": "1625",
+                "translation": " the cud ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it [is] "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:7",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " vvv "
+            },
+            {
+                "token": "תֹאכֵ֔לוּ",
+                "transliteration": "ṯō·ḵê·lū",
+                "strong": "398",
+                "translation": " You must not eat "
+            },
+            {
+                "token": "מִבְּשָׂרָם֙",
+                "transliteration": "mib·bə·śā·rām",
+                "strong": "1320",
+                "translation": " their meat "
+            },
+            {
+                "token": "תִגָּ֑עוּ",
+                "transliteration": "ṯig·gā·‘ū",
+                "strong": "5060",
+                "translation": " or touch "
+            },
+            {
+                "token": "וּבְנִבְלָתָ֖ם",
+                "transliteration": "ū·ḇə·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " their carcasses ; "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "הֵ֖ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " they "
+            },
+            {
+                "token": "טְמֵאִ֥ים",
+                "transliteration": "ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " are unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:8",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִכֹּ֖ל",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " Of all [the creatures] "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that [live] "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " in the water , "
+            },
+            {
+                "token": "בַּיַּמִּ֛ים",
+                "transliteration": "bay·yam·mîm",
+                "strong": "3220",
+                "translation": " whether in the seas "
+            },
+            {
+                "token": "וּבַנְּחָלִ֖ים",
+                "transliteration": "ū·ḇan·nə·ḥā·lîm",
+                "strong": "5158",
+                "translation": " or in the streams "
+            },
+            {
+                "token": "אֹתָ֥ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " - , "
+            },
+            {
+                "token": "תֹּאכֵֽלוּ׃",
+                "transliteration": "tō·ḵê·lū",
+                "strong": "398",
+                "translation": " - "
+            },
+            {
+                "token": "תֹּֽאכְל֔וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " you may eat "
+            },
+            {
+                "token": "זֶה֙",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " - "
+            },
+            {
+                "token": "כֹּ֣ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " anything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " "
+            },
+            {
+                "token": "לוֹ֩",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "סְנַפִּ֨יר",
+                "transliteration": "sə·nap·pîr",
+                "strong": "5579",
+                "translation": " with fins "
+            },
+            {
+                "token": "וְקַשְׂקֶ֜שֶׂת",
+                "transliteration": "wə·qaś·qe·śeṯ",
+                "strong": "7193",
+                "translation": " and scales "
+            },
+            {
+                "token": "בַּמַּ֗יִם",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:9",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֵ֖ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " But the following "
+            },
+            {
+                "token": "מִכֹּל֙",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " among all "
+            },
+            {
+                "token": "שֶׁ֣רֶץ",
+                "transliteration": "še·reṣ",
+                "strong": "8318",
+                "translation": " the teeming "
+            },
+            {
+                "token": "הַחַיָּ֖ה",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " life "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " - "
+            },
+            {
+                "token": "נֶ֥פֶשׁ",
+                "transliteration": "ne·p̄eš",
+                "strong": "5315",
+                "translation": " and creatures "
+            },
+            {
+                "token": "הַמַּ֔יִם",
+                "transliteration": "ham·ma·yim",
+                "strong": "4325",
+                "translation": " in the water "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " are detestable "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you : "
+            },
+            {
+                "token": "וְכֹל֩",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " everything "
+            },
+            {
+                "token": "בַּיַּמִּים֙",
+                "transliteration": "bay·yam·mîm",
+                "strong": "3220",
+                "translation": " in the seas "
+            },
+            {
+                "token": "וּבַנְּחָלִ֔ים",
+                "transliteration": "ū·ḇan·nə·ḥā·lîm",
+                "strong": "5158",
+                "translation": " or streams "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " does not "
+            },
+            {
+                "token": "ל֜וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "סְנַפִּ֣יר",
+                "transliteration": "sə·nap·pîr",
+                "strong": "5579",
+                "translation": " have fins "
+            },
+            {
+                "token": "וְקַשְׂקֶ֗שֶׂת",
+                "transliteration": "wə·qaś·qe·śeṯ",
+                "strong": "7193",
+                "translation": " and scales "
+            },
+            {
+                "token": "וּמִכֹּ֛ל",
+                "transliteration": "ū·mik·kōl",
+                "strong": "3605",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:10",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יִהְי֣וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " They shall be "
+            },
+            {
+                "token": "וְשֶׁ֖קֶץ",
+                "transliteration": "wə·še·qeṣ",
+                "strong": "8263",
+                "translation": " an abomination "
+            },
+            {
+                "token": "לָכֶ֑ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you ; "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " you must not "
+            },
+            {
+                "token": "תֹאכֵ֔לוּ",
+                "transliteration": "ṯō·ḵê·lū",
+                "strong": "398",
+                "translation": " eat "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִבְּשָׂרָם֙",
+                "transliteration": "mib·bə·śā·rām",
+                "strong": "1320",
+                "translation": " their meat , "
+            },
+            {
+                "token": "תְּשַׁקֵּֽצוּ׃",
+                "transliteration": "tə·šaq·qê·ṣū",
+                "strong": "8262",
+                "translation": " and you must detest "
+            },
+            {
+                "token": "נִבְלָתָ֖ם",
+                "transliteration": "niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " their carcasses . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:11",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּ֣ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " Everything "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " in the water "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " does not "
+            },
+            {
+                "token": "ל֛וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " have "
+            },
+            {
+                "token": "סְנַפִּ֥יר",
+                "transliteration": "sə·nap·pîr",
+                "strong": "5579",
+                "translation": " fins "
+            },
+            {
+                "token": "וְקַשְׂקֶ֖שֶׂת",
+                "transliteration": "wə·qaś·qe·śeṯ",
+                "strong": "7193",
+                "translation": " and scales "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " shall be detestable "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:12",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " Additionally , "
+            },
+            {
+                "token": "תְּשַׁקְּצ֣וּ",
+                "transliteration": "tə·šaq·qə·ṣū",
+                "strong": "8262",
+                "translation": " you are to detest "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵ֙לֶּה֙",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " the following "
+            },
+            {
+                "token": "הָע֔וֹף",
+                "transliteration": "hā·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " birds , "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and they must not "
+            },
+            {
+                "token": "יֵאָכְל֖וּ",
+                "transliteration": "yê·’ā·ḵə·lū",
+                "strong": "398",
+                "translation": " be eaten "
+            },
+            {
+                "token": "הֵ֑ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " because they "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שֶׁ֣קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " are detestable : "
+            },
+            {
+                "token": "הַנֶּ֙שֶׁר֙",
+                "transliteration": "han·ne·šer",
+                "strong": "5404",
+                "translation": " the eagle , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַפֶּ֔רֶס",
+                "transliteration": "hap·pe·res",
+                "strong": "6538",
+                "translation": " the bearded vulture , "
+            },
+            {
+                "token": "וְאֵ֖ת",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָעָזְנִיָּֽה׃",
+                "transliteration": "hā·‘ā·zə·nî·yāh",
+                "strong": "5822",
+                "translation": " the black vulture , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:13",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַ֨דָּאָ֔ה",
+                "transliteration": "had·dā·’āh",
+                "strong": "1676",
+                "translation": " the kite , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְמִינָֽהּ׃",
+                "transliteration": "lə·mî·nāh",
+                "strong": "4327",
+                "translation": " any kind "
+            },
+            {
+                "token": "הָאַיָּ֖ה",
+                "transliteration": "hā·’ay·yāh",
+                "strong": "344",
+                "translation": " of falcon , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:14",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֥ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "לְמִינֽוֹ׃",
+                "transliteration": "lə·mî·nōw",
+                "strong": "4327",
+                "translation": " kind "
+            },
+            {
+                "token": "עֹרֵ֖ב",
+                "transliteration": "‘ō·rêḇ",
+                "strong": "6158",
+                "translation": " of raven , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:15",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֵת֙",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בַּ֣ת",
+                "transliteration": "baṯ",
+                "strong": "1323",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַֽיַּעֲנָ֔ה",
+                "transliteration": "hay·ya·‘ă·nāh",
+                "strong": "3284",
+                "translation": " the ostrich , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַתַּחְמָ֖ס",
+                "transliteration": "hat·taḥ·mās",
+                "strong": "8464",
+                "translation": " the screech owl , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשָּׁ֑חַף",
+                "transliteration": "haš·šā·ḥap̄",
+                "strong": "7828",
+                "translation": " the gull , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְמִינֵֽהוּ׃",
+                "transliteration": "lə·mî·nê·hū",
+                "strong": "4327",
+                "translation": " any kind "
+            },
+            {
+                "token": "הַנֵּ֖ץ",
+                "transliteration": "han·nêṣ",
+                "strong": "5322",
+                "translation": " of hawk , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:16",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַכּ֥וֹס",
+                "transliteration": "hak·kō·ws",
+                "strong": "3563",
+                "translation": " the little owl , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַשָּׁלָ֖ךְ",
+                "transliteration": "haš·šā·lāḵ",
+                "strong": "7994",
+                "translation": " the cormorant , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַיַּנְשֽׁוּף׃",
+                "transliteration": "hay·yan·šūp̄",
+                "strong": "3244",
+                "translation": " the great owl , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:17",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַתִּנְשֶׁ֥מֶת",
+                "transliteration": "hat·tin·še·meṯ",
+                "strong": "8580",
+                "translation": " the white owl , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַקָּאָ֖ת",
+                "transliteration": "haq·qā·’āṯ",
+                "strong": "6893",
+                "translation": " the desert owl , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָרָחָֽם׃",
+                "transliteration": "hā·rā·ḥām",
+                "strong": "7360",
+                "translation": " the osprey , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:18",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֵת֙",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַחֲסִידָ֔ה",
+                "transliteration": "ha·ḥă·sî·ḏāh",
+                "strong": "2624",
+                "translation": " the stork , "
+            },
+            {
+                "token": "לְמִינָ֑הּ",
+                "transliteration": "lə·mî·nāh",
+                "strong": "4327",
+                "translation": " any kind "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאֲנָפָ֖ה",
+                "transliteration": "hā·’ă·nā·p̄āh",
+                "strong": "601",
+                "translation": " of heron , "
+            },
+            {
+                "token": "הַדּוּכִיפַ֖ת",
+                "transliteration": "had·dū·ḵî·p̄aṯ",
+                "strong": "1744",
+                "translation": " the hoopoe , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "הָעֲטַלֵּֽף׃",
+                "transliteration": "hā·‘ă·ṭal·lêp̄",
+                "strong": "5847",
+                "translation": " the bat . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:19",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּ֚ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "הָע֔וֹף",
+                "transliteration": "hā·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " flying "
+            },
+            {
+                "token": "שֶׁ֣רֶץ",
+                "transliteration": "še·reṣ",
+                "strong": "8318",
+                "translation": " insects "
+            },
+            {
+                "token": "הַהֹלֵ֖ךְ",
+                "transliteration": "ha·hō·lêḵ",
+                "strong": "1980",
+                "translation": " that walk "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "אַרְבַּ֑ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "702",
+                "translation": " [all] fours "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " are detestable "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶֽם׃ס",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:20",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֤ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " However , "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "תֹּֽאכְל֔וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " you may eat "
+            },
+            {
+                "token": "זֶה֙",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " the following "
+            },
+            {
+                "token": "מִכֹּל֙",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " kinds of "
+            },
+            {
+                "token": "הָע֔וֹף",
+                "transliteration": "hā·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " flying "
+            },
+            {
+                "token": "שֶׁ֣רֶץ",
+                "transliteration": "še·reṣ",
+                "strong": "8318",
+                "translation": " insects "
+            },
+            {
+                "token": "הַהֹלֵ֖ךְ",
+                "transliteration": "ha·hō·lêḵ",
+                "strong": "1980",
+                "translation": " that walk "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "אַרְבַּ֑ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "702",
+                "translation": " all fours : "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " those "
+            },
+            {
+                "token": "לֹא",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " - "
+            },
+            {
+                "token": "כְרָעַ֙יִם֙",
+                "transliteration": "ḵə·rā·‘a·yim",
+                "strong": "3767",
+                "translation": " having jointed legs "
+            },
+            {
+                "token": "מִמַּ֣עַל",
+                "transliteration": "mim·ma·‘al",
+                "strong": "4605",
+                "translation": " above "
+            },
+            {
+                "token": "לְרַגְלָ֔יו",
+                "transliteration": "lə·raḡ·lāw",
+                "strong": "7272",
+                "translation": " their feet "
+            },
+            {
+                "token": "לְנַתֵּ֥ר",
+                "transliteration": "lə·nat·têr",
+                "strong": "5425",
+                "translation": " for hopping "
+            },
+            {
+                "token": "בָּהֵ֖ן",
+                "transliteration": "bā·hên",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:21",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֵ֤לֶּה",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " Of these "
+            },
+            {
+                "token": "מֵהֶם֙",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "תֹּאכֵ֔לוּ",
+                "transliteration": "tō·ḵê·lū",
+                "strong": "398",
+                "translation": " you may eat "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְמִינ֔וֹ",
+                "transliteration": "lə·mî·nōw",
+                "strong": "4327",
+                "translation": " any kind "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽאַרְבֶּ֣ה",
+                "transliteration": "hā·’ar·beh",
+                "strong": "697",
+                "translation": " of locust , "
+            },
+            {
+                "token": "הַסָּלְעָ֖ם",
+                "transliteration": "has·sā·lə·‘ām",
+                "strong": "5556",
+                "translation": " katydid , "
+            },
+            {
+                "token": "לְמִינֵ֑הוּ",
+                "transliteration": "lə·mî·nê·hū",
+                "strong": "4327",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַחַרְגֹּ֣ל",
+                "transliteration": "ha·ḥar·gōl",
+                "strong": "2728",
+                "translation": " cricket , "
+            },
+            {
+                "token": "לְמִינֵ֔הוּ",
+                "transliteration": "lə·mî·nê·hū",
+                "strong": "4327",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הֶחָגָ֖ב",
+                "transliteration": "he·ḥā·ḡāḇ",
+                "strong": "2284",
+                "translation": " or grasshopper "
+            },
+            {
+                "token": "לְמִינֵֽהוּ׃",
+                "transliteration": "lə·mî·nê·hū",
+                "strong": "4327",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:22",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹל֙",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " All [other] "
+            },
+            {
+                "token": "הָע֔וֹף",
+                "transliteration": "hā·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " flying "
+            },
+            {
+                "token": "שֶׁ֣רֶץ",
+                "transliteration": "še·reṣ",
+                "strong": "8318",
+                "translation": " insects "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "ל֖וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " have "
+            },
+            {
+                "token": "אַרְבַּ֣ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "702",
+                "translation": " four "
+            },
+            {
+                "token": "רַגְלָ֑יִם",
+                "transliteration": "raḡ·lā·yim",
+                "strong": "7272",
+                "translation": " legs "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " are detestable "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:23",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּלְאֵ֖לֶּה",
+                "transliteration": "ū·lə·’êl·leh",
+                "strong": "428",
+                "translation": " These [creatures] "
+            },
+            {
+                "token": "תִּטַּמָּ֑אוּ",
+                "transliteration": "tiṭ·ṭam·mā·’ū",
+                "strong": "2930",
+                "translation": " will make you unclean . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Whoever "
+            },
+            {
+                "token": "הַנֹּגֵ֥עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " touches "
+            },
+            {
+                "token": "בְּנִבְלָתָ֖ם",
+                "transliteration": "bə·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " their carcasses "
+            },
+            {
+                "token": "יִטְמָ֥א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:24",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and whoever "
+            },
+            {
+                "token": "הַנֹּשֵׂ֖א",
+                "transliteration": "han·nō·śê",
+                "strong": "5375",
+                "translation": " picks up "
+            },
+            {
+                "token": "מִנִּבְלָתָ֑ם",
+                "transliteration": "min·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " one of their carcasses "
+            },
+            {
+                "token": "יְכַבֵּ֥ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes , "
+            },
+            {
+                "token": "וְטָמֵ֥א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and he will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:25",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְֽכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " Every "
+            },
+            {
+                "token": "הַבְּהֵמָ֡ה",
+                "transliteration": "hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " animal "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " with "
+            },
+            {
+                "token": "הִוא֩",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשֶׁ֣סַע׀",
+                "transliteration": "wə·še·sa‘",
+                "strong": "8157",
+                "translation": " vvv "
+            },
+            {
+                "token": "פַּרְסָ֜ה",
+                "transliteration": "par·sāh",
+                "strong": "6541",
+                "translation": " hooves "
+            },
+            {
+                "token": "אֵינֶ֣נָּה",
+                "transliteration": "’ê·nen·nāh",
+                "strong": "369",
+                "translation": " not "
+            },
+            {
+                "token": "מַפְרֶ֨סֶת",
+                "transliteration": "map̄·re·seṯ",
+                "strong": "6536",
+                "translation": " completely divided "
+            },
+            {
+                "token": "שֹׁסַ֗עַת",
+                "transliteration": "šō·sa·‘aṯ",
+                "strong": "8156",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֵינֶ֣נָּה",
+                "transliteration": "’ê·nen·nāh",
+                "strong": "369",
+                "translation": " or that does not "
+            },
+            {
+                "token": "מַעֲלָ֔ה",
+                "transliteration": "ma·‘ă·lāh",
+                "strong": "5927",
+                "translation": " chew "
+            },
+            {
+                "token": "וְגֵרָה֙",
+                "transliteration": "wə·ḡê·rāh",
+                "strong": "1625",
+                "translation": " the cud "
+            },
+            {
+                "token": "טְמֵאִ֥ים",
+                "transliteration": "ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "הֵ֖ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶ֑ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Whoever "
+            },
+            {
+                "token": "הַנֹּגֵ֥עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " touches "
+            },
+            {
+                "token": "בָּהֶ֖ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " any of them "
+            },
+            {
+                "token": "יִטְמָֽא׃",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:26",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹ֣ל׀",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "הוֹלֵ֣ךְ",
+                "transliteration": "hō·w·lêḵ",
+                "strong": "1980",
+                "translation": " the four-footed "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַרְבַּ֔ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַֽחַיָּה֙",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " animals "
+            },
+            {
+                "token": "הַהֹלֶ֣כֶת",
+                "transliteration": "ha·hō·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " that walk "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "כַּפָּ֗יו",
+                "transliteration": "kap·pāw",
+                "strong": "3709",
+                "translation": " their paws "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "טְמֵאִ֥ים",
+                "transliteration": "ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " are unclean "
+            },
+            {
+                "token": "הֵ֖ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶ֑ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you ; "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " whoever "
+            },
+            {
+                "token": "הַנֹּגֵ֥עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " touches "
+            },
+            {
+                "token": "בְּנִבְלָתָ֖ם",
+                "transliteration": "bə·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " their carcasses "
+            },
+            {
+                "token": "יִטְמָ֥א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:27",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַנֹּשֵׂא֙",
+                "transliteration": "wə·han·nō·śê",
+                "strong": "5375",
+                "translation": " and anyone who picks up "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִבְלָתָ֔ם",
+                "transliteration": "niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " a carcass "
+            },
+            {
+                "token": "יְכַבֵּ֥ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes , "
+            },
+            {
+                "token": "וְטָמֵ֣א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and he will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָ֑רֶב",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            },
+            {
+                "token": "הֵ֖מָּה",
+                "transliteration": "hêm·māh",
+                "strong": "1992",
+                "translation": " They "
+            },
+            {
+                "token": "טְמֵאִ֥ים",
+                "transliteration": "ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " are unclean "
+            },
+            {
+                "token": "לָכֶֽם׃ס",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:28",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְזֶ֤ה",
+                "transliteration": "wə·zeh",
+                "strong": "2088",
+                "translation": " The following "
+            },
+            {
+                "token": "בַּשֶּׁ֖רֶץ",
+                "transliteration": "baš·še·reṣ",
+                "strong": "8318",
+                "translation": " creatures "
+            },
+            {
+                "token": "הַשֹּׁרֵ֣ץ",
+                "transliteration": "haš·šō·rêṣ",
+                "strong": "8317",
+                "translation": " that move "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground "
+            },
+            {
+                "token": "הַטָּמֵ֔א",
+                "transliteration": "haṭ·ṭā·mê",
+                "strong": "2931",
+                "translation": " are unclean "
+            },
+            {
+                "token": "לָכֶם֙",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you : "
+            },
+            {
+                "token": "הַחֹ֥לֶד",
+                "transliteration": "ha·ḥō·leḏ",
+                "strong": "2467",
+                "translation": " the mole , "
+            },
+            {
+                "token": "וְהָעַכְבָּ֖ר",
+                "transliteration": "wə·hā·‘aḵ·bār",
+                "strong": "5909",
+                "translation": " the mouse , "
+            },
+            {
+                "token": "לְמִינֵֽהוּ׃",
+                "transliteration": "lə·mî·nê·hū",
+                "strong": "4327",
+                "translation": " any kind "
+            },
+            {
+                "token": "וְהַצָּ֥ב",
+                "transliteration": "wə·haṣ·ṣāḇ",
+                "strong": "6632",
+                "translation": " of great lizard , "
+            }
+        ],
+        "verse_reference": "Leviticus 11:29",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָאֲנָקָ֥ה",
+                "transliteration": "wə·hā·’ă·nā·qāh",
+                "strong": "604",
+                "translation": " the gecko , "
+            },
+            {
+                "token": "וְהַכֹּ֖חַ",
+                "transliteration": "wə·hak·kō·aḥ",
+                "strong": "3581",
+                "translation": " the monitor lizard , "
+            },
+            {
+                "token": "וְהַלְּטָאָ֑ה",
+                "transliteration": "wə·hal·lə·ṭā·’āh",
+                "strong": "3911",
+                "translation": " the common lizard , "
+            },
+            {
+                "token": "וְהַחֹ֖מֶט",
+                "transliteration": "wə·ha·ḥō·meṭ",
+                "strong": "2546",
+                "translation": " the skink , "
+            },
+            {
+                "token": "וְהַתִּנְשָֽׁמֶת׃",
+                "transliteration": "wə·hat·tin·šā·meṯ",
+                "strong": "8580",
+                "translation": " and the chameleon . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:30",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֛לֶּה",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " These [animals] "
+            },
+            {
+                "token": "הַטְּמֵאִ֥ים",
+                "transliteration": "haṭ·ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " are unclean "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " among all "
+            },
+            {
+                "token": "הַשָּׁ֑רֶץ",
+                "transliteration": "haš·šā·reṣ",
+                "strong": "8318",
+                "translation": " the crawling creatures . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Whoever "
+            },
+            {
+                "token": "הַנֹּגֵ֧עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " touches "
+            },
+            {
+                "token": "בָּהֶ֛ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "בְּמֹתָ֖ם",
+                "transliteration": "bə·mō·ṯām",
+                "strong": "4194",
+                "translation": " when they are dead "
+            },
+            {
+                "token": "יִטְמָ֥א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " shall be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:31",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכֹ֣ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " When "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " one of them "
+            },
+            {
+                "token": "בְּמֹתָ֜ם",
+                "transliteration": "bə·mō·ṯām",
+                "strong": "4194",
+                "translation": " dies "
+            },
+            {
+                "token": "יִפֹּל־",
+                "transliteration": "yip·pōl-",
+                "strong": "5307",
+                "translation": " and falls "
+            },
+            {
+                "token": "עָלָיו֩",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "מֵהֶ֨ם׀",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " something , "
+            },
+            {
+                "token": "יִטְמָ֗א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " [that article] becomes unclean ; "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " article "
+            },
+            {
+                "token": "עֵץ֙",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " of wood , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶ֤גֶד",
+                "transliteration": "ḇe·ḡeḏ",
+                "strong": "899",
+                "translation": " clothing , "
+            },
+            {
+                "token": "אוֹ־",
+                "transliteration": "’ōw-",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "עוֹר֙",
+                "transliteration": "‘ō·wr",
+                "strong": "5785",
+                "translation": " leather , "
+            },
+            {
+                "token": "א֣וֹ",
+                "transliteration": "’ōw",
+                "strong": "176",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׂ֔ק",
+                "transliteration": "śāq",
+                "strong": "8242",
+                "translation": " sackcloth , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " or any "
+            },
+            {
+                "token": "כְּלִ֕י",
+                "transliteration": "kə·lî",
+                "strong": "3627",
+                "translation": " implement "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יֵעָשֶׂ֥ה",
+                "transliteration": "yê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " used "
+            },
+            {
+                "token": "מְלָאכָ֖ה",
+                "transliteration": "mə·lā·ḵāh",
+                "strong": "4399",
+                "translation": " for work "
+            },
+            {
+                "token": "בָּהֶ֑ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "בַּמַּ֧יִם",
+                "transliteration": "bam·ma·yim",
+                "strong": "4325",
+                "translation": " must be rinsed with water "
+            },
+            {
+                "token": "יוּבָ֛א",
+                "transliteration": "yū·ḇā",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְטָמֵ֥א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and will remain unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעֶ֖רֶב",
+                "transliteration": "hā·‘e·reḇ",
+                "strong": "6153",
+                "translation": " evening ; "
+            },
+            {
+                "token": "וְטָהֵֽר׃",
+                "transliteration": "wə·ṭā·hêr",
+                "strong": "2891",
+                "translation": " then it will be clean . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:32",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מֵהֶ֖ם",
+                "transliteration": "mê·hem",
+                "strong": "",
+                "translation": " If any of them "
+            },
+            {
+                "token": "יִפֹּ֥ל",
+                "transliteration": "yip·pōl",
+                "strong": "5307",
+                "translation": " falls "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "תּוֹכ֑וֹ",
+                "transliteration": "tō·w·ḵōw",
+                "strong": "8432",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " a "
+            },
+            {
+                "token": "חֶ֔רֶשׂ",
+                "transliteration": "ḥe·reś",
+                "strong": "2789",
+                "translation": " clay "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "כְּלִי־",
+                "transliteration": "kə·lî-",
+                "strong": "3627",
+                "translation": " pot , "
+            },
+            {
+                "token": "כֹּ֣ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " everything "
+            },
+            {
+                "token": "אֲשֶׁ֧ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּתוֹכ֛וֹ",
+                "transliteration": "bə·ṯō·w·ḵōw",
+                "strong": "8432",
+                "translation": " in "
+            },
+            {
+                "token": "יִטְמָ֖א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " it will be unclean ; "
+            },
+            {
+                "token": "וְאֹת֥וֹ",
+                "transliteration": "wə·’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "תִשְׁבֹּֽרוּ׃",
+                "transliteration": "ṯiš·bō·rū",
+                "strong": "7665",
+                "translation": " you must break [the pot] . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:33",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " Any "
+            },
+            {
+                "token": "יֵאָכֵ֗ל",
+                "transliteration": "yê·’ā·ḵêl",
+                "strong": "398",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " vvv "
+            },
+            {
+                "token": "הָאֹ֜כֶל",
+                "transliteration": "hā·’ō·ḵel",
+                "strong": "400",
+                "translation": " food "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יָב֥וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " coming "
+            },
+            {
+                "token": "עָלָ֛יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " into contact "
+            },
+            {
+                "token": "מַ֖יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " with water [from that pot] "
+            },
+            {
+                "token": "יִטְמָ֑א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean , "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and any "
+            },
+            {
+                "token": "יִשָּׁתֶ֔ה",
+                "transliteration": "yiš·šā·ṯeh",
+                "strong": "8354",
+                "translation": " drink "
+            },
+            {
+                "token": "מַשְׁקֶה֙",
+                "transliteration": "maš·qeh",
+                "strong": "4945",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " in such a "
+            },
+            {
+                "token": "כְּלִ֖י",
+                "transliteration": "kə·lî",
+                "strong": "3627",
+                "translation": " container "
+            },
+            {
+                "token": "יִטְמָֽא׃",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:34",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְ֠כֹל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " Anything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " upon which "
+            },
+            {
+                "token": "מִנִּבְלָתָ֥ם׀",
+                "transliteration": "min·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " one of their carcasses "
+            },
+            {
+                "token": "יִפֹּ֨ל",
+                "transliteration": "yip·pōl",
+                "strong": "5307",
+                "translation": " falls "
+            },
+            {
+                "token": "עָלָיו֮",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " - "
+            },
+            {
+                "token": "יִטְמָא֒",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean . "
+            },
+            {
+                "token": "תַּנּ֧וּר",
+                "transliteration": "tan·nūr",
+                "strong": "8574",
+                "translation": " If it is an oven "
+            },
+            {
+                "token": "וְכִירַ֛יִם",
+                "transliteration": "wə·ḵî·ra·yim",
+                "strong": "3600",
+                "translation": " or cooking pot , "
+            },
+            {
+                "token": "יֻתָּ֖ץ",
+                "transliteration": "yut·tāṣ",
+                "strong": "5422",
+                "translation": " it must be smashed ; "
+            },
+            {
+                "token": "הֵ֑ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " it "
+            },
+            {
+                "token": "טְמֵאִ֣ים",
+                "transliteration": "ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "יִהְי֥וּ",
+                "transliteration": "yih·yū",
+                "strong": "1961",
+                "translation": " and will remain "
+            },
+            {
+                "token": "וּטְמֵאִ֖ים",
+                "transliteration": "ū·ṭə·mê·’îm",
+                "strong": "2931",
+                "translation": " unclean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:35",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֣ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " Nevertheless , "
+            },
+            {
+                "token": "מַעְיָ֥ן",
+                "transliteration": "ma‘·yān",
+                "strong": "4599",
+                "translation": " a spring "
+            },
+            {
+                "token": "וּב֛וֹר",
+                "transliteration": "ū·ḇō·wr",
+                "strong": "953",
+                "translation": " or cistern "
+            },
+            {
+                "token": "מִקְוֵה־",
+                "transliteration": "miq·wêh-",
+                "strong": "4723",
+                "translation": " containing "
+            },
+            {
+                "token": "מַ֖יִם",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " will remain "
+            },
+            {
+                "token": "טָה֑וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " clean , "
+            },
+            {
+                "token": "וְנֹגֵ֥עַ",
+                "transliteration": "wə·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " but one who touches "
+            },
+            {
+                "token": "בְּנִבְלָתָ֖ם",
+                "transliteration": "bə·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " a carcass in it "
+            },
+            {
+                "token": "יִטְמָֽא׃",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:36",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִ֤י",
+                "transliteration": "wə·ḵî",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "מִנִּבְלָתָ֔ם",
+                "transliteration": "min·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " a carcass "
+            },
+            {
+                "token": "יִפֹּל֙",
+                "transliteration": "yip·pōl",
+                "strong": "5307",
+                "translation": " falls "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "זֶ֥רַע",
+                "transliteration": "ze·ra‘",
+                "strong": "2233",
+                "translation": " seed "
+            },
+            {
+                "token": "זֵר֖וּעַ",
+                "transliteration": "zê·rū·a‘",
+                "strong": "2221",
+                "translation": " for sowing "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "יִזָּרֵ֑עַ",
+                "transliteration": "yiz·zā·rê·a‘",
+                "strong": "2232",
+                "translation": " - , "
+            },
+            {
+                "token": "הֽוּא׃",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " [the seed] "
+            },
+            {
+                "token": "טָה֖וֹר",
+                "transliteration": "ṭā·hō·wr",
+                "strong": "2889",
+                "translation": " is clean ; "
+            }
+        ],
+        "verse_reference": "Leviticus 11:37",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִ֤י",
+                "transliteration": "wə·ḵî",
+                "strong": "3588",
+                "translation": " but if "
+            },
+            {
+                "token": "מַ֙יִם֙",
+                "transliteration": "ma·yim",
+                "strong": "4325",
+                "translation": " water "
+            },
+            {
+                "token": "יֻתַּן־",
+                "transliteration": "yut·tan-",
+                "strong": "5414",
+                "translation": " has been put "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "זֶ֔רַע",
+                "transliteration": "ze·ra‘",
+                "strong": "2233",
+                "translation": " the seed "
+            },
+            {
+                "token": "מִנִּבְלָתָ֖ם",
+                "transliteration": "min·niḇ·lā·ṯām",
+                "strong": "5038",
+                "translation": " and a carcass "
+            },
+            {
+                "token": "וְנָפַ֥ל",
+                "transliteration": "wə·nā·p̄al",
+                "strong": "5307",
+                "translation": " falls "
+            },
+            {
+                "token": "עָלָ֑יו",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " on it , "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "טָמֵ֥א",
+                "transliteration": "ṭā·mê",
+                "strong": "2931",
+                "translation": " is unclean "
+            },
+            {
+                "token": "לָכֶֽם׃ס",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:38",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִ֤י",
+                "transliteration": "wə·ḵî",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " an "
+            },
+            {
+                "token": "הַבְּהֵמָ֔ה",
+                "transliteration": "hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " animal "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "הִ֥יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "לְאָכְלָ֑ה",
+                "transliteration": "lə·’āḵ·lāh",
+                "strong": "402",
+                "translation": " may eat "
+            },
+            {
+                "token": "יָמוּת֙",
+                "transliteration": "yā·mūṯ",
+                "strong": "4191",
+                "translation": " dies , "
+            },
+            {
+                "token": "הַנֹּגֵ֥עַ",
+                "transliteration": "han·nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " anyone who touches "
+            },
+            {
+                "token": "בְּנִבְלָתָ֖הּ",
+                "transliteration": "bə·niḇ·lā·ṯāh",
+                "strong": "5038",
+                "translation": " the carcass "
+            },
+            {
+                "token": "יִטְמָ֥א",
+                "transliteration": "yiṭ·mā",
+                "strong": "2930",
+                "translation": " will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:39",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָֽאֹכֵל֙",
+                "transliteration": "wə·hā·’ō·ḵêl",
+                "strong": "398",
+                "translation": " Whoever eats "
+            },
+            {
+                "token": "מִנִּבְלָתָ֔הּ",
+                "transliteration": "min·niḇ·lā·ṯāh",
+                "strong": "5038",
+                "translation": " from the carcass "
+            },
+            {
+                "token": "יְכַבֵּ֥ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְטָמֵ֣א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָ֑רֶב",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening , "
+            },
+            {
+                "token": "וְהַנֹּשֵׂא֙",
+                "transliteration": "wə·han·nō·śê",
+                "strong": "5375",
+                "translation": " and anyone who picks up "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִבְלָתָ֔הּ",
+                "transliteration": "niḇ·lā·ṯāh",
+                "strong": "5038",
+                "translation": " the carcass "
+            },
+            {
+                "token": "יְכַבֵּ֥ס",
+                "transliteration": "yə·ḵab·bês",
+                "strong": "3526",
+                "translation": " must wash "
+            },
+            {
+                "token": "בְּגָדָ֖יו",
+                "transliteration": "bə·ḡā·ḏāw",
+                "strong": "899",
+                "translation": " his clothes "
+            },
+            {
+                "token": "וְטָמֵ֥א",
+                "transliteration": "wə·ṭā·mê",
+                "strong": "2930",
+                "translation": " and will be unclean "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "הָעָֽרֶב׃",
+                "transliteration": "hā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " evening . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:40",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " Every "
+            },
+            {
+                "token": "הַשֶּׁ֖רֶץ",
+                "transliteration": "haš·še·reṣ",
+                "strong": "8318",
+                "translation": " creature "
+            },
+            {
+                "token": "הַשֹּׁרֵ֣ץ",
+                "transliteration": "haš·šō·rêṣ",
+                "strong": "8317",
+                "translation": " that moves "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " is detestable ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " must not "
+            },
+            {
+                "token": "יֵאָכֵֽל׃",
+                "transliteration": "yê·’ā·ḵêl",
+                "strong": "398",
+                "translation": " be eaten . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:41",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תֹאכְל֖וּם",
+                "transliteration": "ṯō·ḵə·lūm",
+                "strong": "398",
+                "translation": " eat "
+            },
+            {
+                "token": "הַשֶּׁ֖רֶץ",
+                "transliteration": "haš·še·reṣ",
+                "strong": "8318",
+                "translation": " any creature "
+            },
+            {
+                "token": "הַשֹּׁרֵ֣ץ",
+                "transliteration": "haš·šō·rêṣ",
+                "strong": "8317",
+                "translation": " that moves "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground , "
+            },
+            {
+                "token": "כֹּל֩",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " whether "
+            },
+            {
+                "token": "הוֹלֵ֨ךְ",
+                "transliteration": "hō·w·lêḵ",
+                "strong": "1980",
+                "translation": " it crawls "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "גָּח֜וֹן",
+                "transliteration": "gå̄·ḥōn",
+                "strong": "1512",
+                "translation": " its belly "
+            },
+            {
+                "token": "וְכֹ֣ל׀",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " or "
+            },
+            {
+                "token": "הוֹלֵ֣ךְ",
+                "transliteration": "hō·w·lêḵ",
+                "strong": "1980",
+                "translation": " walks "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "אַרְבַּ֗ע",
+                "transliteration": "’ar·ba‘",
+                "strong": "702",
+                "translation": " four "
+            },
+            {
+                "token": "עַ֚ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " or "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַרְבֵּ֣ה",
+                "transliteration": "mar·bêh",
+                "strong": "7235",
+                "translation": " more "
+            },
+            {
+                "token": "רַגְלַ֔יִם",
+                "transliteration": "raḡ·la·yim",
+                "strong": "7272",
+                "translation": " feet ; "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הֵֽם׃",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " such [creatures] "
+            },
+            {
+                "token": "שֶׁ֥קֶץ",
+                "transliteration": "še·qeṣ",
+                "strong": "8263",
+                "translation": " are detestable . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:42",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Do not "
+            },
+            {
+                "token": "תְּשַׁקְּצוּ֙",
+                "transliteration": "tə·šaq·qə·ṣū",
+                "strong": "8262",
+                "translation": " defile "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נַפְשֹׁ֣תֵיכֶ֔ם",
+                "transliteration": "nap̄·šō·ṯê·ḵem",
+                "strong": "5315",
+                "translation": " yourselves "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " by any "
+            },
+            {
+                "token": "הַשֶּׁ֖רֶץ",
+                "transliteration": "haš·še·reṣ",
+                "strong": "8318",
+                "translation": " crawling creature "
+            },
+            {
+                "token": "הַשֹּׁרֵ֑ץ",
+                "transliteration": "haš·šō·rêṣ",
+                "strong": "8317",
+                "translation": " . . . ; "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " do not "
+            },
+            {
+                "token": "תִֽטַּמְּאוּ֙",
+                "transliteration": "ṯiṭ·ṭam·mə·’ū",
+                "strong": "2930",
+                "translation": " become unclean "
+            },
+            {
+                "token": "בָּהֶ֔ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וְנִטְמֵתֶ֖ם",
+                "transliteration": "wə·niṭ·mê·ṯem",
+                "strong": "2930",
+                "translation": " or defiled "
+            },
+            {
+                "token": "בָּֽם׃",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " by them . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:43",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָה֮",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹֽהֵיכֶם֒",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God ; "
+            },
+            {
+                "token": "וְהִתְקַדִּשְׁתֶּם֙",
+                "transliteration": "wə·hiṯ·qad·diš·tem",
+                "strong": "6942",
+                "translation": " consecrate yourselves, therefore , "
+            },
+            {
+                "token": "וִהְיִיתֶ֣ם",
+                "transliteration": "wih·yî·ṯem",
+                "strong": "1961",
+                "translation": " and be "
+            },
+            {
+                "token": "קְדֹשִׁ֔ים",
+                "transliteration": "qə·ḏō·šîm",
+                "strong": "6918",
+                "translation": " holy , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "אָ֑נִי",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "קָד֖וֹשׁ",
+                "transliteration": "qā·ḏō·wōš",
+                "strong": "6918",
+                "translation": " am holy . "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " You must not "
+            },
+            {
+                "token": "תְטַמְּאוּ֙",
+                "transliteration": "ṯə·ṭam·mə·’ū",
+                "strong": "2930",
+                "translation": " defile "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נַפְשֹׁ֣תֵיכֶ֔ם",
+                "transliteration": "nap̄·šō·ṯê·ḵem",
+                "strong": "5315",
+                "translation": " yourselves "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " by any "
+            },
+            {
+                "token": "הַשֶּׁ֖רֶץ",
+                "transliteration": "haš·še·reṣ",
+                "strong": "8318",
+                "translation": " creature "
+            },
+            {
+                "token": "הָרֹמֵ֥שׂ",
+                "transliteration": "hā·rō·mêś",
+                "strong": "7430",
+                "translation": " that crawls "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:44",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י׀",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "הַֽמַּעֲלֶ֤ה",
+                "transliteration": "ham·ma·‘ă·leh",
+                "strong": "5927",
+                "translation": " who brought you up "
+            },
+            {
+                "token": "אֶתְכֶם֙",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "לִהְיֹ֥ת",
+                "transliteration": "lih·yōṯ",
+                "strong": "1961",
+                "translation": " so that I would be "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " your "
+            },
+            {
+                "token": "לֵאלֹהִ֑ים",
+                "transliteration": "lê·lō·hîm",
+                "strong": "430",
+                "translation": " God ; "
+            },
+            {
+                "token": "וִהְיִיתֶ֣ם",
+                "transliteration": "wih·yî·ṯem",
+                "strong": "1961",
+                "translation": " therefore be "
+            },
+            {
+                "token": "קְדֹשִׁ֔ים",
+                "transliteration": "qə·ḏō·šîm",
+                "strong": "6918",
+                "translation": " holy , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "אָֽנִי׃",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "קָד֖וֹשׁ",
+                "transliteration": "qā·ḏō·wōš",
+                "strong": "6918",
+                "translation": " am holy . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:45",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹ֣את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " This "
+            },
+            {
+                "token": "תּוֹרַ֤ת",
+                "transliteration": "tō·w·raṯ",
+                "strong": "8451",
+                "translation": " is the law "
+            },
+            {
+                "token": "הַבְּהֵמָה֙",
+                "transliteration": "hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " regarding animals , "
+            },
+            {
+                "token": "וְהָע֔וֹף",
+                "transliteration": "wə·hā·‘ō·wp̄",
+                "strong": "5775",
+                "translation": " birds , "
+            },
+            {
+                "token": "וְכֹל֙",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַֽחַיָּ֔ה",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " living "
+            },
+            {
+                "token": "נֶ֣פֶשׁ",
+                "transliteration": "ne·p̄eš",
+                "strong": "5315",
+                "translation": " creatures "
+            },
+            {
+                "token": "הָרֹמֶ֖שֶׂת",
+                "transliteration": "hā·rō·me·śeṯ",
+                "strong": "7430",
+                "translation": " that move "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " in the water , "
+            },
+            {
+                "token": "וּלְכָל־",
+                "transliteration": "ū·lə·ḵāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "נֶ֖פֶשׁ",
+                "transliteration": "ne·p̄eš",
+                "strong": "5315",
+                "translation": " creatures "
+            },
+            {
+                "token": "הַשֹּׁרֶ֥צֶת",
+                "transliteration": "haš·šō·re·ṣeṯ",
+                "strong": "8317",
+                "translation": " that crawl "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " along "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the ground . "
+            }
+        ],
+        "verse_reference": "Leviticus 11:46",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְהַבְדִּ֕יל",
+                "transliteration": "lə·haḇ·dîl",
+                "strong": "914",
+                "translation": " You must distinguish "
+            },
+            {
+                "token": "בֵּ֥ין",
+                "transliteration": "bên",
+                "strong": "996",
+                "translation": " between "
+            },
+            {
+                "token": "הַטָּמֵ֖א",
+                "transliteration": "haṭ·ṭā·mê",
+                "strong": "2931",
+                "translation": " the unclean "
+            },
+            {
+                "token": "הַטָּהֹ֑ר",
+                "transliteration": "haṭ·ṭā·hōr",
+                "strong": "2889",
+                "translation": " and the clean , "
+            },
+            {
+                "token": "וּבֵ֤ין",
+                "transliteration": "ū·ḇên",
+                "strong": "996",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּבֵ֣ין",
+                "transliteration": "ū·ḇên",
+                "strong": "996",
+                "translation": " between "
+            },
+            {
+                "token": "הַֽחַיָּה֙",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " animals "
+            },
+            {
+                "token": "הַֽנֶּאֱכֶ֔לֶת",
+                "transliteration": "han·ne·’ĕ·ḵe·leṯ",
+                "strong": "398",
+                "translation": " that may be eaten "
+            },
+            {
+                "token": "וּבֵין֙",
+                "transliteration": "ū·ḇên",
+                "strong": "996",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַֽחַיָּ֔ה",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " and those "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " may not "
+            },
+            {
+                "token": "תֵאָכֵֽל׃פ",
+                "transliteration": "ṯê·’ā·ḵêl",
+                "strong": "398",
+                "translation": " - . ’” "
+            }
+        ],
+        "verse_reference": "Leviticus 11:47",
+        "book": "Leviticus",
+        "chapter": "11",
+        "verse": "47"
+    }
+]

@@ -1,0 +1,2990 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "אַחַ֗ת",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " In the first "
+            },
+            {
+                "token": "בִּשְׁנַ֣ת",
+                "transliteration": "biš·naṯ",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "לְדָרְיָ֛וֶשׁ",
+                "transliteration": "lə·ḏā·rə·yā·weš",
+                "strong": "1867",
+                "translation": " of Darius "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "אֲחַשְׁוֵר֖וֹשׁ",
+                "transliteration": "’ă·ḥaš·wê·rō·wōš",
+                "strong": "325",
+                "translation": " of Xerxes , "
+            },
+            {
+                "token": "מָדָ֑י",
+                "transliteration": "mā·ḏāy",
+                "strong": "4074",
+                "translation": " a Mede "
+            },
+            {
+                "token": "מִזֶּ֣רַע",
+                "transliteration": "miz·ze·ra‘",
+                "strong": "2233",
+                "translation": " by descent , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "הָמְלַ֔ךְ",
+                "transliteration": "hā·mə·laḵ",
+                "strong": "4427",
+                "translation": " was made ruler "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "מַלְכ֥וּת",
+                "transliteration": "mal·ḵūṯ",
+                "strong": "4438",
+                "translation": " the kingdom "
+            },
+            {
+                "token": "כַּשְׂדִּֽים׃",
+                "transliteration": "kaś·dîm",
+                "strong": "3778",
+                "translation": " of the Chaldeans — "
+            }
+        ],
+        "verse_reference": "Daniel 9:1",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַחַת֙",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " in the first "
+            },
+            {
+                "token": "בִּשְׁנַ֤ת",
+                "transliteration": "biš·naṯ",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "לְמָלְכ֔וֹ",
+                "transliteration": "lə·mā·lə·ḵōw",
+                "strong": "4427",
+                "translation": " of his reign , "
+            },
+            {
+                "token": "אֲנִי֙",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "דָּֽנִיֵּ֔אל",
+                "transliteration": "dā·nî·yêl",
+                "strong": "1841",
+                "translation": " Daniel , "
+            },
+            {
+                "token": "בִּינֹ֖תִי",
+                "transliteration": "bî·nō·ṯî",
+                "strong": "995",
+                "translation": " understood "
+            },
+            {
+                "token": "בַּסְּפָרִ֑ים",
+                "transliteration": "bas·sə·p̄ā·rîm",
+                "strong": "5612",
+                "translation": " from the sacred books "
+            },
+            {
+                "token": "מִסְפַּ֣ר",
+                "transliteration": "mis·par",
+                "strong": "4557",
+                "translation": " - "
+            },
+            {
+                "token": "הַשָּׁנִ֗ים",
+                "transliteration": "haš·šā·nîm",
+                "strong": "8141",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָיָ֤ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " - , "
+            },
+            {
+                "token": "דְבַר־",
+                "transliteration": "ḏə·ḇar-",
+                "strong": "1697",
+                "translation": " according to the word "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יִרְמִיָ֣ה",
+                "transliteration": "yir·mi·yāh",
+                "strong": "3414",
+                "translation": " Jeremiah "
+            },
+            {
+                "token": "הַנָּבִ֔יא",
+                "transliteration": "han·nā·ḇî",
+                "strong": "5030",
+                "translation": " the prophet , "
+            },
+            {
+                "token": "לְחָרְב֥וֹת",
+                "transliteration": "lə·ḥā·rə·ḇō·wṯ",
+                "strong": "2723",
+                "translation": " that the desolation "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֖ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem "
+            },
+            {
+                "token": "לְמַלֹּ֛אות",
+                "transliteration": "lə·mal·lō·wṯ",
+                "strong": "4390",
+                "translation": " would last "
+            },
+            {
+                "token": "שִׁבְעִ֥ים",
+                "transliteration": "šiḇ·‘îm",
+                "strong": "7657",
+                "translation": " seventy "
+            },
+            {
+                "token": "שָׁנָֽה׃",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years . "
+            }
+        ],
+        "verse_reference": "Daniel 9:2",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֶתְּנָ֣ה",
+                "transliteration": "wā·’et·tə·nāh",
+                "strong": "5414",
+                "translation": " So I turned my attention "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "פָּנַ֗י",
+                "transliteration": "pā·nay",
+                "strong": "6440",
+                "translation": " - "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אֲדֹנָי֙",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "הָֽאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "לְבַקֵּ֥שׁ",
+                "transliteration": "lə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " to seek Him "
+            },
+            {
+                "token": "תְּפִלָּ֖ה",
+                "transliteration": "tə·p̄il·lāh",
+                "strong": "8605",
+                "translation": " by prayer "
+            },
+            {
+                "token": "וְתַחֲנוּנִ֑ים",
+                "transliteration": "wə·ṯa·ḥă·nū·nîm",
+                "strong": "8469",
+                "translation": " and petition , "
+            },
+            {
+                "token": "בְּצ֖וֹם",
+                "transliteration": "bə·ṣō·wm",
+                "strong": "6685",
+                "translation": " with fasting , "
+            },
+            {
+                "token": "וְשַׂ֥ק",
+                "transliteration": "wə·śaq",
+                "strong": "8242",
+                "translation": " sackcloth , "
+            },
+            {
+                "token": "וָאֵֽפֶר׃",
+                "transliteration": "wā·’ê·p̄er",
+                "strong": "665",
+                "translation": " and ashes . "
+            }
+        ],
+        "verse_reference": "Daniel 9:3",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָֽאֶתְפַּֽלְלָ֛ה",
+                "transliteration": "wā·’eṯ·pal·lāh",
+                "strong": "6419",
+                "translation": " And I prayed "
+            },
+            {
+                "token": "לַיהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD "
+            },
+            {
+                "token": "אֱלֹהַ֖י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " my God "
+            },
+            {
+                "token": "וָאֶתְוַדֶּ֑ה",
+                "transliteration": "wā·’eṯ·wad·deh",
+                "strong": "3034",
+                "translation": " and confessed "
+            },
+            {
+                "token": "וָאֹֽמְרָ֗ה",
+                "transliteration": "wā·’ō·mə·rāh",
+                "strong": "559",
+                "translation": " . . . , "
+            },
+            {
+                "token": "אָנָּ֤א",
+                "transliteration": "’ān·nā",
+                "strong": "577",
+                "translation": " “ O , "
+            },
+            {
+                "token": "אֲדֹנָי֙",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " Lord , "
+            },
+            {
+                "token": "הַגָּדוֹל֙",
+                "transliteration": "hag·gā·ḏō·wl",
+                "strong": "1419",
+                "translation": " the great "
+            },
+            {
+                "token": "וְהַנּוֹרָ֔א",
+                "transliteration": "wə·han·nō·w·rā",
+                "strong": "3372",
+                "translation": " and awesome "
+            },
+            {
+                "token": "הָאֵ֤ל",
+                "transliteration": "hā·’êl",
+                "strong": "410",
+                "translation": " God , "
+            },
+            {
+                "token": "שֹׁמֵ֤ר",
+                "transliteration": "šō·mêr",
+                "strong": "8104",
+                "translation": " who keeps "
+            },
+            {
+                "token": "הַבְּרִית֙",
+                "transliteration": "hab·bə·rîṯ",
+                "strong": "1285",
+                "translation": " His covenant "
+            },
+            {
+                "token": "וְֽהַחֶ֔סֶד",
+                "transliteration": "wə·ha·ḥe·seḏ",
+                "strong": "2617",
+                "translation": " of loving devotion "
+            },
+            {
+                "token": "לְאֹהֲבָ֖יו",
+                "transliteration": "lə·’ō·hă·ḇāw",
+                "strong": "157",
+                "translation": " to those who love Him "
+            },
+            {
+                "token": "וּלְשֹׁמְרֵ֥י",
+                "transliteration": "ū·lə·šō·mə·rê",
+                "strong": "8104",
+                "translation": " and keep "
+            },
+            {
+                "token": "מִצְוֺתָֽיו׃",
+                "transliteration": "miṣ·wō·ṯāw",
+                "strong": "4687",
+                "translation": " His commandments , "
+            }
+        ],
+        "verse_reference": "Daniel 9:4",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חָטָ֥אנוּ",
+                "transliteration": "ḥā·ṭā·nū",
+                "strong": "2398",
+                "translation": " we have sinned "
+            },
+            {
+                "token": "וְעָוִ֖ינוּ",
+                "transliteration": "wə·‘ā·wî·nū",
+                "strong": "5753",
+                "translation": " and done wrong . "
+            },
+            {
+                "token": "וְהִרְשַׁעְנוּ",
+                "transliteration": "wə·hir·šaʿ·nū",
+                "strong": "7561",
+                "translation": " We have acted wickedly "
+            },
+            {
+                "token": "וּמָרָ֑דְנוּ",
+                "transliteration": "ū·mā·rā·ḏə·nū",
+                "strong": "4775",
+                "translation": " and rebelled . "
+            },
+            {
+                "token": "וְס֥וֹר",
+                "transliteration": "wə·sō·wr",
+                "strong": "5493",
+                "translation": " We have turned away "
+            },
+            {
+                "token": "מִמִּצְוֺתֶ֖ךָ",
+                "transliteration": "mim·miṣ·wō·ṯe·ḵā",
+                "strong": "4687",
+                "translation": " from Your commandments "
+            },
+            {
+                "token": "וּמִמִּשְׁפָּטֶֽיךָ׃",
+                "transliteration": "ū·mim·miš·pā·ṭe·ḵā",
+                "strong": "4941",
+                "translation": " and ordinances . "
+            }
+        ],
+        "verse_reference": "Daniel 9:5",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " We have not "
+            },
+            {
+                "token": "שָׁמַ֙עְנוּ֙",
+                "transliteration": "šā·ma‘·nū",
+                "strong": "8085",
+                "translation": " listened "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עֲבָדֶ֣יךָ",
+                "transliteration": "‘ă·ḇā·ḏe·ḵā",
+                "strong": "5650",
+                "translation": " Your servants "
+            },
+            {
+                "token": "הַנְּבִיאִ֔ים",
+                "transliteration": "han·nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " the prophets , "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "דִּבְּרוּ֙",
+                "transliteration": "dib·bə·rū",
+                "strong": "1696",
+                "translation": " spoke "
+            },
+            {
+                "token": "בְּשִׁמְךָ֔",
+                "transliteration": "bə·šim·ḵā",
+                "strong": "8034",
+                "translation": " in Your name "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מְלָכֵ֥ינוּ",
+                "transliteration": "mə·lā·ḵê·nū",
+                "strong": "4428",
+                "translation": " our kings , "
+            },
+            {
+                "token": "שָׂרֵ֖ינוּ",
+                "transliteration": "śā·rê·nū",
+                "strong": "8269",
+                "translation": " leaders , "
+            },
+            {
+                "token": "וַאֲבֹתֵ֑ינוּ",
+                "transliteration": "wa·’ă·ḇō·ṯê·nū",
+                "strong": "1",
+                "translation": " and fathers , "
+            },
+            {
+                "token": "וְאֶ֖ל",
+                "transliteration": "wə·’el",
+                "strong": "413",
+                "translation": " and "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " to all "
+            },
+            {
+                "token": "עַ֥ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " of the land . "
+            }
+        ],
+        "verse_reference": "Daniel 9:6",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְךָ֤",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " To You , "
+            },
+            {
+                "token": "אֲדֹנָי֙",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "הַצְּדָקָ֔ה",
+                "transliteration": "haṣ·ṣə·ḏā·qāh",
+                "strong": "6666",
+                "translation": " [belongs] righteousness "
+            },
+            {
+                "token": "וְלָ֛נוּ",
+                "transliteration": "wə·lā·nū",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " but this "
+            },
+            {
+                "token": "כַּיּ֣וֹם",
+                "transliteration": "kay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַפָּנִ֖ים",
+                "transliteration": "hap·pā·nîm",
+                "strong": "6440",
+                "translation": " we are covered "
+            },
+            {
+                "token": "בֹּ֥שֶׁת",
+                "transliteration": "bō·šeṯ",
+                "strong": "1322",
+                "translation": " with shame — "
+            },
+            {
+                "token": "לְאִ֤ישׁ",
+                "transliteration": "lə·’îš",
+                "strong": "376",
+                "translation": " the men "
+            },
+            {
+                "token": "יְהוּדָה֙",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "וּלְיוֹשְׁבֵ֣י",
+                "transliteration": "ū·lə·yō·wō·šə·ḇê",
+                "strong": "3427",
+                "translation": " the people "
+            },
+            {
+                "token": "יְרֽוּשָׁלִַ֔ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " of Jerusalem , "
+            },
+            {
+                "token": "וּֽלְכָל־",
+                "transliteration": "ū·lə·ḵāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יִשְׂרָאֵ֞ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "הַקְּרֹבִ֣ים",
+                "transliteration": "haq·qə·rō·ḇîm",
+                "strong": "7138",
+                "translation": " near "
+            },
+            {
+                "token": "וְהָרְחֹקִ֗ים",
+                "transliteration": "wə·hā·rə·ḥō·qîm",
+                "strong": "7350",
+                "translation": " and far , "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " in all "
+            },
+            {
+                "token": "הָֽאֲרָצוֹת֙",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " the countries "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " to which "
+            },
+            {
+                "token": "הִדַּחְתָּ֣ם",
+                "transliteration": "hid·daḥ·tām",
+                "strong": "5080",
+                "translation": " You have driven us "
+            },
+            {
+                "token": "שָׁ֔ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּמַעֲלָ֖ם",
+                "transliteration": "bə·ma·‘ă·lām",
+                "strong": "4604",
+                "translation": " because of our unfaithfulness "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "מָֽעֲלוּ־",
+                "transliteration": "mā·‘ă·lū-",
+                "strong": "4603",
+                "translation": " "
+            },
+            {
+                "token": "בָֽךְ׃",
+                "transliteration": "ḇāḵ",
+                "strong": "",
+                "translation": " to You . "
+            }
+        ],
+        "verse_reference": "Daniel 9:7",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD , "
+            },
+            {
+                "token": "לָ֚נוּ",
+                "transliteration": "lā·nū",
+                "strong": "",
+                "translation": " we "
+            },
+            {
+                "token": "הַפָּנִ֔ים",
+                "transliteration": "hap·pā·nîm",
+                "strong": "6440",
+                "translation": " are covered "
+            },
+            {
+                "token": "בֹּ֣שֶׁת",
+                "transliteration": "bō·šeṯ",
+                "strong": "1322",
+                "translation": " with shame — "
+            },
+            {
+                "token": "לִמְלָכֵ֥ינוּ",
+                "transliteration": "lim·lā·ḵê·nū",
+                "strong": "4428",
+                "translation": " our kings , "
+            },
+            {
+                "token": "לְשָׂרֵ֖ינוּ",
+                "transliteration": "lə·śā·rê·nū",
+                "strong": "8269",
+                "translation": " our leaders , "
+            },
+            {
+                "token": "וְלַאֲבֹתֵ֑ינוּ",
+                "transliteration": "wə·la·’ă·ḇō·ṯê·nū",
+                "strong": "1",
+                "translation": " and our fathers — "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " because "
+            },
+            {
+                "token": "חָטָ֖אנוּ",
+                "transliteration": "ḥā·ṭā·nū",
+                "strong": "2398",
+                "translation": " we have sinned "
+            },
+            {
+                "token": "לָֽךְ׃",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " against You . "
+            }
+        ],
+        "verse_reference": "Daniel 9:8",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לַֽאדֹנָ֣י",
+                "transliteration": "la·ḏō·nāy",
+                "strong": "136",
+                "translation": " To the Lord "
+            },
+            {
+                "token": "אֱלֹהֵ֔ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God "
+            },
+            {
+                "token": "הָרַחֲמִ֖ים",
+                "transliteration": "hā·ra·ḥă·mîm",
+                "strong": "7356",
+                "translation": " [belong] compassion "
+            },
+            {
+                "token": "וְהַסְּלִח֑וֹת",
+                "transliteration": "wə·has·sə·li·ḥō·wṯ",
+                "strong": "5547",
+                "translation": " and forgiveness , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " even though "
+            },
+            {
+                "token": "מָרַ֖דְנוּ",
+                "transliteration": "mā·raḏ·nū",
+                "strong": "4775",
+                "translation": " we have rebelled "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " against Him "
+            }
+        ],
+        "verse_reference": "Daniel 9:9",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and have not "
+            },
+            {
+                "token": "שָׁמַ֔עְנוּ",
+                "transliteration": "šā·ma‘·nū",
+                "strong": "8085",
+                "translation": " obeyed "
+            },
+            {
+                "token": "בְּק֖וֹל",
+                "transliteration": "bə·qō·wl",
+                "strong": "6963",
+                "translation": " the voice "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֱלֹהֵ֑ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God "
+            },
+            {
+                "token": "לָלֶ֤כֶת",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to walk "
+            },
+            {
+                "token": "בְּתֽוֹרֹתָיו֙",
+                "transliteration": "bə·ṯō·w·rō·ṯāw",
+                "strong": "8451",
+                "translation": " in His laws , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which "
+            },
+            {
+                "token": "נָתַ֣ן",
+                "transliteration": "nā·ṯan",
+                "strong": "5414",
+                "translation": " He set "
+            },
+            {
+                "token": "לְפָנֵ֔ינוּ",
+                "transliteration": "lə·p̄ā·nê·nū",
+                "strong": "6440",
+                "translation": " before us "
+            },
+            {
+                "token": "בְּיַ֖ד",
+                "transliteration": "bə·yaḏ",
+                "strong": "3027",
+                "translation": " through "
+            },
+            {
+                "token": "עֲבָדָ֥יו",
+                "transliteration": "‘ă·ḇā·ḏāw",
+                "strong": "5650",
+                "translation": " His servants "
+            },
+            {
+                "token": "הַנְּבִיאִֽים׃",
+                "transliteration": "han·nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " the prophets . "
+            }
+        ],
+        "verse_reference": "Daniel 9:10",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " All "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "עָֽבְרוּ֙",
+                "transliteration": "‘ā·ḇə·rū",
+                "strong": "5674",
+                "translation": " has transgressed "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "תּ֣וֹרָתֶ֔ךָ",
+                "transliteration": "tō·w·rā·ṯe·ḵā",
+                "strong": "8451",
+                "translation": " Your law "
+            },
+            {
+                "token": "וְס֕וֹר",
+                "transliteration": "wə·sō·wr",
+                "strong": "5493",
+                "translation": " and turned away , "
+            },
+            {
+                "token": "לְבִלְתִּ֖י",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " refusing "
+            },
+            {
+                "token": "שְׁמ֣וֹעַ",
+                "transliteration": "šə·mō·w·a‘",
+                "strong": "8085",
+                "translation": " to obey "
+            },
+            {
+                "token": "בְּקֹלֶ֑ךָ",
+                "transliteration": "bə·qō·le·ḵā",
+                "strong": "6963",
+                "translation": " Your voice ; "
+            },
+            {
+                "token": "הָאָלָ֣ה",
+                "transliteration": "hā·’ā·lāh",
+                "strong": "423",
+                "translation": " so the oath "
+            },
+            {
+                "token": "וְהַשְּׁבֻעָ֗ה",
+                "transliteration": "wə·haš·šə·ḇu·‘āh",
+                "strong": "7621",
+                "translation": " and the curse "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " "
+            },
+            {
+                "token": "כְּתוּבָה֙",
+                "transliteration": "kə·ṯū·ḇāh",
+                "strong": "3789",
+                "translation": " written "
+            },
+            {
+                "token": "בְּתוֹרַת֙",
+                "transliteration": "bə·ṯō·w·raṯ",
+                "strong": "8451",
+                "translation": " in the Law "
+            },
+            {
+                "token": "מֹשֶׁ֣ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " of Moses "
+            },
+            {
+                "token": "עֶֽבֶד־",
+                "transliteration": "‘e·ḇeḏ-",
+                "strong": "5650",
+                "translation": " the servant "
+            },
+            {
+                "token": "הָֽאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "וַתִּתַּ֨ךְ",
+                "transliteration": "wat·tit·taḵ",
+                "strong": "5413",
+                "translation": " has been poured out "
+            },
+            {
+                "token": "עָלֵ֜ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " on us , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "חָטָ֖אנוּ",
+                "transliteration": "ḥā·ṭā·nū",
+                "strong": "2398",
+                "translation": " we have sinned "
+            },
+            {
+                "token": "לֽוֹ׃",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " against You . "
+            }
+        ],
+        "verse_reference": "Daniel 9:11",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּ֜קֶם",
+                "transliteration": "way·yā·qem",
+                "strong": "6965",
+                "translation": " You have carried out "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "דְּבָרָיו",
+                "transliteration": "də·ḇå̄·rå̄w",
+                "strong": "1697",
+                "translation": " the words "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "דִּבֶּ֣ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " spoken "
+            },
+            {
+                "token": "עָלֵ֗ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " against us "
+            },
+            {
+                "token": "וְעַ֤ל",
+                "transliteration": "wə·‘al",
+                "strong": "5921",
+                "translation": " and against "
+            },
+            {
+                "token": "שֹֽׁפְטֵ֙ינוּ֙",
+                "transliteration": "šō·p̄ə·ṭê·nū",
+                "strong": "8199",
+                "translation": " our rulers "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁפָט֔וּנוּ",
+                "transliteration": "šə·p̄ā·ṭū·nū",
+                "strong": "8199",
+                "translation": " - "
+            },
+            {
+                "token": "לְהָבִ֥יא",
+                "transliteration": "lə·hā·ḇî",
+                "strong": "935",
+                "translation": " by bringing "
+            },
+            {
+                "token": "עָלֵ֖ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " upon us "
+            },
+            {
+                "token": "גְדֹלָ֑ה",
+                "transliteration": "ḡə·ḏō·lāh",
+                "strong": "1419",
+                "translation": " a great "
+            },
+            {
+                "token": "רָעָ֣ה",
+                "transliteration": "rā·‘āh",
+                "strong": "7451",
+                "translation": " disaster . "
+            },
+            {
+                "token": "תַּ֚חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " For under "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַשָּׁמַ֔יִם",
+                "transliteration": "haš·šā·ma·yim",
+                "strong": "8064",
+                "translation": " of heaven , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " nothing "
+            },
+            {
+                "token": "נֶעֶשְׂתָ֗ה",
+                "transliteration": "ne·‘eś·ṯāh",
+                "strong": "6213",
+                "translation": " has ever been done "
+            },
+            {
+                "token": "כַּאֲשֶׁ֥ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " like what "
+            },
+            {
+                "token": "נֶעֶשְׂתָ֖ה",
+                "transliteration": "ne·‘eś·ṯāh",
+                "strong": "6213",
+                "translation": " has been done "
+            },
+            {
+                "token": "בִּירוּשָׁלִָֽם׃",
+                "transliteration": "bî·rū·šā·lim",
+                "strong": "3389",
+                "translation": " to Jerusalem . "
+            }
+        ],
+        "verse_reference": "Daniel 9:12",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כַּאֲשֶׁ֤ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " Just as "
+            },
+            {
+                "token": "כָּתוּב֙",
+                "transliteration": "kā·ṯūḇ",
+                "strong": "3789",
+                "translation": " it is written "
+            },
+            {
+                "token": "בְּתוֹרַ֣ת",
+                "transliteration": "bə·ṯō·w·raṯ",
+                "strong": "8451",
+                "translation": " in the Law "
+            },
+            {
+                "token": "מֹשֶׁ֔ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " of Moses , "
+            },
+            {
+                "token": "אֵ֛ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הַזֹּ֖את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "הָרָעָ֥ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " disaster "
+            },
+            {
+                "token": "בָּ֣אָה",
+                "transliteration": "bā·’āh",
+                "strong": "935",
+                "translation": " has come "
+            },
+            {
+                "token": "עָלֵ֑ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " upon us , "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " yet we have not "
+            },
+            {
+                "token": "חִלִּ֜ינוּ",
+                "transliteration": "ḥil·lî·nū",
+                "strong": "2470",
+                "translation": " sought the favor "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "פְּנֵ֣י׀",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God "
+            },
+            {
+                "token": "לָשׁוּב֙",
+                "transliteration": "lā·šūḇ",
+                "strong": "7725",
+                "translation": " by turning "
+            },
+            {
+                "token": "מֵֽעֲוֺנֵ֔נוּ",
+                "transliteration": "mê·‘ă·wō·nê·nū",
+                "strong": "5771",
+                "translation": " from our iniquities "
+            },
+            {
+                "token": "וּלְהַשְׂכִּ֖יל",
+                "transliteration": "ū·lə·haś·kîl",
+                "strong": "7919",
+                "translation": " and giving attention "
+            },
+            {
+                "token": "בַּאֲמִתֶּֽךָ׃",
+                "transliteration": "ba·’ă·mit·te·ḵā",
+                "strong": "571",
+                "translation": " to Your truth . "
+            }
+        ],
+        "verse_reference": "Daniel 9:13",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Therefore the LORD "
+            },
+            {
+                "token": "הָ֣רָעָ֔ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " has kept the calamity "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " "
+            },
+            {
+                "token": "וַיִּשְׁקֹ֤ד",
+                "transliteration": "way·yiš·qōḏ",
+                "strong": "8245",
+                "translation": " in store "
+            },
+            {
+                "token": "וַיְבִיאֶ֖הָ",
+                "transliteration": "way·ḇî·’e·hā",
+                "strong": "935",
+                "translation": " and brought it "
+            },
+            {
+                "token": "עָלֵ֑ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " upon us . "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God "
+            },
+            {
+                "token": "צַדִּ֞יק",
+                "transliteration": "ṣad·dîq",
+                "strong": "6662",
+                "translation": " is righteous "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "מַֽעֲשָׂיו֙",
+                "transliteration": "ma·‘ă·śāw",
+                "strong": "4639",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עָשָׂ֔ה",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " He does ; "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " yet we have not "
+            },
+            {
+                "token": "שָׁמַ֖עְנוּ",
+                "transliteration": "šā·ma‘·nū",
+                "strong": "8085",
+                "translation": " obeyed "
+            },
+            {
+                "token": "בְּקֹלֽוֹ׃",
+                "transliteration": "bə·qō·lōw",
+                "strong": "6963",
+                "translation": " His voice . "
+            }
+        ],
+        "verse_reference": "Daniel 9:14",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְעַתָּ֣ה׀",
+                "transliteration": "wə·‘at·tāh",
+                "strong": "6258",
+                "translation": " Now , "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God , "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "הוֹצֵ֨אתָ",
+                "transliteration": "hō·w·ṣê·ṯā",
+                "strong": "3318",
+                "translation": " brought "
+            },
+            {
+                "token": "עַמְּךָ֜",
+                "transliteration": "‘am·mə·ḵā",
+                "strong": "5971",
+                "translation": " Your people "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵאֶ֤רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרַ֙יִם֙",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "חֲזָקָ֔ה",
+                "transliteration": "ḥă·zā·qāh",
+                "strong": "2389",
+                "translation": " with a mighty "
+            },
+            {
+                "token": "בְּיָ֣ד",
+                "transliteration": "bə·yāḏ",
+                "strong": "3027",
+                "translation": " hand , "
+            },
+            {
+                "token": "וַתַּֽעַשׂ־",
+                "transliteration": "wat·ta·‘aś-",
+                "strong": "6213",
+                "translation": " and who made "
+            },
+            {
+                "token": "לְךָ֥",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " for Yourself "
+            },
+            {
+                "token": "שֵׁ֖ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " a name "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " renowned to this "
+            },
+            {
+                "token": "כַּיּ֣וֹם",
+                "transliteration": "kay·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "חָטָ֖אנוּ",
+                "transliteration": "ḥā·ṭā·nū",
+                "strong": "2398",
+                "translation": " we have sinned ; "
+            },
+            {
+                "token": "רָשָֽׁעְנוּ׃",
+                "transliteration": "rā·šā·‘ə·nū",
+                "strong": "7561",
+                "translation": " we have acted wickedly . "
+            }
+        ],
+        "verse_reference": "Daniel 9:15",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲדֹנָ֗י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "כְּכָל־",
+                "transliteration": "kə·ḵāl-",
+                "strong": "3605",
+                "translation": " in keeping with all "
+            },
+            {
+                "token": "צִדְקֹתֶ֙ךָ֙",
+                "transliteration": "ṣiḏ·qō·ṯe·ḵā",
+                "strong": "6666",
+                "translation": " Your righteous acts , "
+            },
+            {
+                "token": "נָ֤א",
+                "transliteration": "nā",
+                "strong": "4994",
+                "translation": " I pray "
+            },
+            {
+                "token": "אַפְּךָ֙",
+                "transliteration": "’ap·pə·ḵā",
+                "strong": "639",
+                "translation": " that Your anger "
+            },
+            {
+                "token": "וַחֲמָ֣תְךָ֔",
+                "transliteration": "wa·ḥă·mā·ṯə·ḵā",
+                "strong": "2534",
+                "translation": " and wrath "
+            },
+            {
+                "token": "יָֽשָׁב־",
+                "transliteration": "yā·šāḇ-",
+                "strong": "7725",
+                "translation": " may turn away "
+            },
+            {
+                "token": "מֵעִֽירְךָ֥",
+                "transliteration": "mê·‘î·rə·ḵā",
+                "strong": "5892",
+                "translation": " from Your city "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֖ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            },
+            {
+                "token": "קָדְשֶׁ֑ךָ",
+                "transliteration": "qāḏ·še·ḵā",
+                "strong": "6944",
+                "translation": " Your holy "
+            },
+            {
+                "token": "הַר־",
+                "transliteration": "har-",
+                "strong": "2022",
+                "translation": " mountain ; "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "בַחֲטָאֵ֙ינוּ֙",
+                "transliteration": "ḇa·ḥă·ṭā·’ê·nū",
+                "strong": "2399",
+                "translation": " because of our sins "
+            },
+            {
+                "token": "וּבַעֲוֺנ֣וֹת",
+                "transliteration": "ū·ḇa·‘ă·wō·nō·wṯ",
+                "strong": "5771",
+                "translation": " and the iniquities "
+            },
+            {
+                "token": "אֲבֹתֵ֔ינוּ",
+                "transliteration": "’ă·ḇō·ṯê·nū",
+                "strong": "1",
+                "translation": " of our fathers , "
+            },
+            {
+                "token": "יְרוּשָׁלִַ֧ם",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem "
+            },
+            {
+                "token": "וְעַמְּךָ֛",
+                "transliteration": "wə·‘am·mə·ḵā",
+                "strong": "5971",
+                "translation": " and Your people "
+            },
+            {
+                "token": "לְחֶרְפָּ֖ה",
+                "transliteration": "lə·ḥer·pāh",
+                "strong": "2781",
+                "translation": " [are] a reproach "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " to all "
+            },
+            {
+                "token": "סְבִיבֹתֵֽינוּ׃",
+                "transliteration": "sə·ḇî·ḇō·ṯê·nū",
+                "strong": "5439",
+                "translation": " around us . "
+            }
+        ],
+        "verse_reference": "Daniel 9:16",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְעַתָּ֣ה׀",
+                "transliteration": "wə·‘at·tāh",
+                "strong": "6258",
+                "translation": " So now , "
+            },
+            {
+                "token": "אֱלֹהֵ֗ינוּ",
+                "transliteration": "’ĕ·lō·hê·nū",
+                "strong": "430",
+                "translation": " our God , "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "שְׁמַ֣ע",
+                "transliteration": "šə·ma‘",
+                "strong": "8085",
+                "translation": " hear "
+            },
+            {
+                "token": "תְּפִלַּ֤ת",
+                "transliteration": "tə·p̄il·laṯ",
+                "strong": "8605",
+                "translation": " the prayers "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " and "
+            },
+            {
+                "token": "תַּ֣חֲנוּנָ֔יו",
+                "transliteration": "ta·ḥă·nū·nāw",
+                "strong": "8469",
+                "translation": " petitions "
+            },
+            {
+                "token": "עַבְדְּךָ֙",
+                "transliteration": "‘aḇ·də·ḵā",
+                "strong": "5650",
+                "translation": " of Your servant . "
+            },
+            {
+                "token": "לְמַ֖עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " For Your sake , "
+            },
+            {
+                "token": "אֲדֹנָֽי׃",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "פָּנֶ֔יךָ",
+                "transliteration": "pā·ne·ḵā",
+                "strong": "6440",
+                "translation": " cause Your face "
+            },
+            {
+                "token": "וְהָאֵ֣ר",
+                "transliteration": "wə·hā·’êr",
+                "strong": "215",
+                "translation": " to shine "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " upon "
+            },
+            {
+                "token": "הַשָּׁמֵ֑ם",
+                "transliteration": "haš·šā·mêm",
+                "strong": "8076",
+                "translation": " Your desolate "
+            },
+            {
+                "token": "מִקְדָּשְׁךָ֖",
+                "transliteration": "miq·dā·šə·ḵā",
+                "strong": "4720",
+                "translation": " sanctuary . "
+            }
+        ],
+        "verse_reference": "Daniel 9:17",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַטֵּ֨ה",
+                "transliteration": "haṭ·ṭêh",
+                "strong": "5186",
+                "translation": " Incline "
+            },
+            {
+                "token": "אָזְנְךָ֮",
+                "transliteration": "’ā·zə·nə·ḵā",
+                "strong": "241",
+                "translation": " Your ear , "
+            },
+            {
+                "token": "אֱלֹהַ֥י׀",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "וּֽשֲׁמָע֒",
+                "transliteration": "ū·šă·mā‘",
+                "strong": "8085",
+                "translation": " and hear ; "
+            },
+            {
+                "token": "פִּקְחָה",
+                "transliteration": "piq·ḥå̄h",
+                "strong": "6491",
+                "translation": " open "
+            },
+            {
+                "token": "עֵינֶ֗יךָ",
+                "transliteration": "‘ê·ne·ḵā",
+                "strong": "5869",
+                "translation": " Your eyes "
+            },
+            {
+                "token": "וּרְאֵה֙",
+                "transliteration": "ū·rə·’êh",
+                "strong": "7200",
+                "translation": " and see "
+            },
+            {
+                "token": "שֹֽׁמְמֹתֵ֔ינוּ",
+                "transliteration": "šō·mə·mō·ṯê·nū",
+                "strong": "8074",
+                "translation": " the desolation "
+            },
+            {
+                "token": "וְהָעִ֕יר",
+                "transliteration": "wə·hā·‘îr",
+                "strong": "5892",
+                "translation": " of the city "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "נִקְרָ֥א",
+                "transliteration": "niq·rā",
+                "strong": "7121",
+                "translation": " that bears "
+            },
+            {
+                "token": "שִׁמְךָ֖",
+                "transliteration": "šim·ḵā",
+                "strong": "8034",
+                "translation": " Your name "
+            },
+            {
+                "token": "עָלֶ֑יהָ",
+                "transliteration": "‘ā·le·hā",
+                "strong": "5921",
+                "translation": " . "
+            },
+            {
+                "token": "כִּ֣י׀",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "אֲנַ֨חְנוּ",
+                "transliteration": "’ă·naḥ·nū",
+                "strong": "587",
+                "translation": " we "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " are not "
+            },
+            {
+                "token": "מַפִּילִ֤ים",
+                "transliteration": "map·pî·lîm",
+                "strong": "5307",
+                "translation": " presenting "
+            },
+            {
+                "token": "תַּחֲנוּנֵ֙ינוּ֙",
+                "transliteration": "ta·ḥă·nū·nê·nū",
+                "strong": "8469",
+                "translation": " our petitions "
+            },
+            {
+                "token": "לְפָנֶ֔יךָ",
+                "transliteration": "lə·p̄ā·ne·ḵā",
+                "strong": "6440",
+                "translation": " before You "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " because of "
+            },
+            {
+                "token": "צִדְקֹתֵ֗ינוּ",
+                "transliteration": "ṣiḏ·qō·ṯê·nū",
+                "strong": "6666",
+                "translation": " our righteous acts , "
+            },
+            {
+                "token": "כִּ֖י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " because of "
+            },
+            {
+                "token": "הָרַבִּֽים׃",
+                "transliteration": "hā·rab·bîm",
+                "strong": "7227",
+                "translation": " Your great "
+            },
+            {
+                "token": "רַחֲמֶ֥יךָ",
+                "transliteration": "ra·ḥă·me·ḵā",
+                "strong": "7356",
+                "translation": " compassion . "
+            }
+        ],
+        "verse_reference": "Daniel 9:18",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲדֹנָ֤י׀",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "שְׁמָ֙עָה֙",
+                "transliteration": "šə·mā·‘āh",
+                "strong": "8085",
+                "translation": " listen ! "
+            },
+            {
+                "token": "אֲדֹנָ֣י׀",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "סְלָ֔חָה",
+                "transliteration": "sə·lā·ḥāh",
+                "strong": "5545",
+                "translation": " forgive ! "
+            },
+            {
+                "token": "אֲדֹנָ֛י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " O Lord , "
+            },
+            {
+                "token": "הַֽקֲשִׁ֥יבָה",
+                "transliteration": "ha·qă·šî·ḇāh",
+                "strong": "7181",
+                "translation": " hear "
+            },
+            {
+                "token": "וַעֲשֵׂ֖ה",
+                "transliteration": "wa·‘ă·śêh",
+                "strong": "6213",
+                "translation": " and act ! "
+            },
+            {
+                "token": "לְמַֽעֲנְךָ֣",
+                "transliteration": "lə·ma·‘ăn·ḵā",
+                "strong": "4616",
+                "translation": " For Your sake , "
+            },
+            {
+                "token": "אֱלֹהַ֔י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " O my God , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " do not "
+            },
+            {
+                "token": "תְּאַחַ֑ר",
+                "transliteration": "tə·’a·ḥar",
+                "strong": "309",
+                "translation": " delay , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "עִירְךָ֖",
+                "transliteration": "‘î·rə·ḵā",
+                "strong": "5892",
+                "translation": " Your city "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַמֶּֽךָ׃",
+                "transliteration": "‘am·me·ḵā",
+                "strong": "5971",
+                "translation": " and Your people "
+            },
+            {
+                "token": "נִקְרָ֔א",
+                "transliteration": "niq·rā",
+                "strong": "7121",
+                "translation": " bear "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "שִׁמְךָ֣",
+                "transliteration": "šim·ḵā",
+                "strong": "8034",
+                "translation": " Your name . ” "
+            }
+        ],
+        "verse_reference": "Daniel 9:19",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְע֨וֹד",
+                "transliteration": "wə·‘ō·wḏ",
+                "strong": "5750",
+                "translation": " While "
+            },
+            {
+                "token": "אֲנִ֤י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "מְדַבֵּר֙",
+                "transliteration": "mə·ḏab·bêr",
+                "strong": "1696",
+                "translation": " was speaking , "
+            },
+            {
+                "token": "וּמִתְפַּלֵּ֔ל",
+                "transliteration": "ū·miṯ·pal·lêl",
+                "strong": "6419",
+                "translation": " praying , "
+            },
+            {
+                "token": "וּמִתְוַדֶּה֙",
+                "transliteration": "ū·miṯ·wad·deh",
+                "strong": "3034",
+                "translation": " confessing "
+            },
+            {
+                "token": "חַטָּאתִ֔י",
+                "transliteration": "ḥaṭ·ṭā·ṯî",
+                "strong": "2403",
+                "translation": " my sin "
+            },
+            {
+                "token": "וְחַטַּ֖את",
+                "transliteration": "wə·ḥaṭ·ṭaṯ",
+                "strong": "2403",
+                "translation": " and [that] "
+            },
+            {
+                "token": "עַמִּ֣י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " of my people "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel , "
+            },
+            {
+                "token": "וּמַפִּ֣יל",
+                "transliteration": "ū·map·pîl",
+                "strong": "5307",
+                "translation": " and presenting "
+            },
+            {
+                "token": "תְּחִנָּתִ֗י",
+                "transliteration": "tə·ḥin·nā·ṯî",
+                "strong": "8467",
+                "translation": " my petition "
+            },
+            {
+                "token": "לִפְנֵי֙",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֱלֹהַ֔י",
+                "transliteration": "’ĕ·lō·hay",
+                "strong": "430",
+                "translation": " my God "
+            },
+            {
+                "token": "עַ֖ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " concerning "
+            },
+            {
+                "token": "אֱלֹהָֽי׃",
+                "transliteration": "’ĕ·lō·hāy",
+                "strong": "430",
+                "translation": " [His] "
+            },
+            {
+                "token": "קֹ֥דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " holy "
+            },
+            {
+                "token": "הַר־",
+                "transliteration": "har-",
+                "strong": "2022",
+                "translation": " mountain — "
+            }
+        ],
+        "verse_reference": "Daniel 9:20",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְע֛וֹד",
+                "transliteration": "wə·‘ō·wḏ",
+                "strong": "5750",
+                "translation": " while "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "מְדַבֵּ֖ר",
+                "transliteration": "mə·ḏab·bêr",
+                "strong": "1696",
+                "translation": " was still praying "
+            },
+            {
+                "token": "בַּתְּפִלָּ֑ה",
+                "transliteration": "bat·tə·p̄il·lāh",
+                "strong": "8605",
+                "translation": " . . . , "
+            },
+            {
+                "token": "גַּבְרִיאֵ֡ל",
+                "transliteration": "gaḇ·rî·’êl",
+                "strong": "1403",
+                "translation": " Gabriel , "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "וְהָאִ֣ישׁ",
+                "transliteration": "wə·hā·’îš",
+                "strong": "376",
+                "translation": " the man "
+            },
+            {
+                "token": "רָאִ֨יתִי",
+                "transliteration": "rā·’î·ṯî",
+                "strong": "7200",
+                "translation": " I had seen "
+            },
+            {
+                "token": "בַּתְּחִלָּה֙",
+                "transliteration": "bat·tə·ḥil·lāh",
+                "strong": "8462",
+                "translation": " in the earlier "
+            },
+            {
+                "token": "מֻעָ֣ף",
+                "transliteration": "mu·‘āp̄",
+                "strong": "3286",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶחָז֤וֹן",
+                "transliteration": "ḇe·ḥā·zō·wn",
+                "strong": "2377",
+                "translation": " vision , "
+            },
+            {
+                "token": "נֹגֵ֣עַ",
+                "transliteration": "nō·ḡê·a‘",
+                "strong": "5060",
+                "translation": " came "
+            },
+            {
+                "token": "אֵלַ֔י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to me "
+            },
+            {
+                "token": "בִּיעָ֔ף",
+                "transliteration": "bî·‘āp̄",
+                "strong": "3288",
+                "translation": " in swift flight "
+            },
+            {
+                "token": "כְּעֵ֖ת",
+                "transliteration": "kə·‘êṯ",
+                "strong": "6256",
+                "translation": " about the time "
+            },
+            {
+                "token": "עָֽרֶב׃",
+                "transliteration": "‘ā·reḇ",
+                "strong": "6153",
+                "translation": " of the evening "
+            },
+            {
+                "token": "מִנְחַת־",
+                "transliteration": "min·ḥaṯ-",
+                "strong": "4503",
+                "translation": " sacrifice . "
+            }
+        ],
+        "verse_reference": "Daniel 9:21",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּ֖בֶן",
+                "transliteration": "way·yā·ḇen",
+                "strong": "995",
+                "translation": " He instructed [me] "
+            },
+            {
+                "token": "וַיְדַבֵּ֣ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " and spoke "
+            },
+            {
+                "token": "עִמִּ֑י",
+                "transliteration": "‘im·mî",
+                "strong": "5973",
+                "translation": " with me , "
+            },
+            {
+                "token": "וַיֹּאמַ֕ר",
+                "transliteration": "way·yō·mar",
+                "strong": "559",
+                "translation": " saying : "
+            },
+            {
+                "token": "דָּנִיֵּ֕אל",
+                "transliteration": "dā·nî·yêl",
+                "strong": "1841",
+                "translation": " “ O Daniel , "
+            },
+            {
+                "token": "יָצָ֖אתִי",
+                "transliteration": "yā·ṣā·ṯî",
+                "strong": "3318",
+                "translation": " I have come "
+            },
+            {
+                "token": "עַתָּ֥ה",
+                "transliteration": "‘at·tāh",
+                "strong": "6258",
+                "translation": " now "
+            },
+            {
+                "token": "לְהַשְׂכִּילְךָ֥",
+                "transliteration": "lə·haś·kî·lə·ḵā",
+                "strong": "7919",
+                "translation": " to give you insight "
+            },
+            {
+                "token": "בִינָֽה׃",
+                "transliteration": "ḇî·nāh",
+                "strong": "998",
+                "translation": " and understanding . "
+            }
+        ],
+        "verse_reference": "Daniel 9:22",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בִּתְחִלַּ֨ת",
+                "transliteration": "biṯ·ḥil·laṯ",
+                "strong": "8462",
+                "translation": " At the beginning "
+            },
+            {
+                "token": "תַּחֲנוּנֶ֜יךָ",
+                "transliteration": "ta·ḥă·nū·ne·ḵā",
+                "strong": "8469",
+                "translation": " of your petitions , "
+            },
+            {
+                "token": "דָבָ֗ר",
+                "transliteration": "ḏā·ḇār",
+                "strong": "1697",
+                "translation": " an answer "
+            },
+            {
+                "token": "יָצָ֣א",
+                "transliteration": "yā·ṣā",
+                "strong": "3318",
+                "translation": " went out , "
+            },
+            {
+                "token": "וַאֲנִי֙",
+                "transliteration": "wa·’ă·nî",
+                "strong": "589",
+                "translation": " and I "
+            },
+            {
+                "token": "בָּ֣אתִי",
+                "transliteration": "bā·ṯî",
+                "strong": "935",
+                "translation": " have come "
+            },
+            {
+                "token": "לְהַגִּ֔יד",
+                "transliteration": "lə·hag·gîḏ",
+                "strong": "5046",
+                "translation": " to tell [you] , "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אָ֑תָּה",
+                "transliteration": "’āt·tāh",
+                "strong": "859",
+                "translation": " you [are] "
+            },
+            {
+                "token": "חֲמוּד֖וֹת",
+                "transliteration": "ḥă·mū·ḏō·wṯ",
+                "strong": "2530",
+                "translation": " highly precious . "
+            },
+            {
+                "token": "וּבִין֙",
+                "transliteration": "ū·ḇîn",
+                "strong": "995",
+                "translation": " So consider "
+            },
+            {
+                "token": "בַּדָּבָ֔ר",
+                "transliteration": "bad·dā·ḇār",
+                "strong": "1697",
+                "translation": " the message "
+            },
+            {
+                "token": "וְהָבֵ֖ן",
+                "transliteration": "wə·hā·ḇên",
+                "strong": "995",
+                "translation": " and understand "
+            },
+            {
+                "token": "בַּמַּרְאֶֽה׃",
+                "transliteration": "bam·mar·’eh",
+                "strong": "4758",
+                "translation": " the vision : "
+            }
+        ],
+        "verse_reference": "Daniel 9:23",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁבְעִ֜ים",
+                "transliteration": "šiḇ·‘îm",
+                "strong": "7657",
+                "translation": " Seventy "
+            },
+            {
+                "token": "שָׁבֻעִ֨ים",
+                "transliteration": "šā·ḇu·‘îm",
+                "strong": "7620",
+                "translation": " weeks "
+            },
+            {
+                "token": "נֶחְתַּ֥ךְ",
+                "transliteration": "neḥ·taḵ",
+                "strong": "2852",
+                "translation": " are decreed "
+            },
+            {
+                "token": "עַֽל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " for "
+            },
+            {
+                "token": "עַמְּךָ֣׀",
+                "transliteration": "‘am·mə·ḵā",
+                "strong": "5971",
+                "translation": " your people "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "קָדְשֶׁ֗ךָ",
+                "transliteration": "qāḏ·še·ḵā",
+                "strong": "6944",
+                "translation": " and your holy "
+            },
+            {
+                "token": "עִ֣יר",
+                "transliteration": "‘îr",
+                "strong": "5892",
+                "translation": " city "
+            },
+            {
+                "token": "לְכַלֵּ֨א",
+                "transliteration": "lə·ḵal·lê",
+                "strong": "3615",
+                "translation": " to stop "
+            },
+            {
+                "token": "הַפֶּ֜שַׁע",
+                "transliteration": "hap·pe·ša‘",
+                "strong": "6588",
+                "translation": " their transgression , "
+            },
+            {
+                "token": "וּלַחְתֹּם",
+                "transliteration": "ū·laḥ·tōm",
+                "strong": "2856",
+                "translation": " to put an end "
+            },
+            {
+                "token": "חַטָּאוֹת",
+                "transliteration": "ḥaṭ·ṭå̄·ʾōṯ",
+                "strong": "2403",
+                "translation": " to sin , "
+            },
+            {
+                "token": "וּלְכַפֵּ֣ר",
+                "transliteration": "ū·lə·ḵap·pêr",
+                "strong": "3722",
+                "translation": " to make atonement "
+            },
+            {
+                "token": "עָוֺ֔ן",
+                "transliteration": "‘ā·wōn",
+                "strong": "5771",
+                "translation": " for iniquity , "
+            },
+            {
+                "token": "וּלְהָבִ֖יא",
+                "transliteration": "ū·lə·hā·ḇî",
+                "strong": "935",
+                "translation": " to bring in "
+            },
+            {
+                "token": "עֹֽלָמִ֑ים",
+                "transliteration": "‘ō·lā·mîm",
+                "strong": "5769",
+                "translation": " everlasting "
+            },
+            {
+                "token": "צֶ֣דֶק",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " righteousness , "
+            },
+            {
+                "token": "וְלַחְתֹּם֙",
+                "transliteration": "wə·laḥ·tōm",
+                "strong": "2856",
+                "translation": " to seal up "
+            },
+            {
+                "token": "חָז֣וֹן",
+                "transliteration": "ḥā·zō·wn",
+                "strong": "2377",
+                "translation": " vision "
+            },
+            {
+                "token": "וְנָבִ֔יא",
+                "transliteration": "wə·nā·ḇî",
+                "strong": "5030",
+                "translation": " and prophecy , "
+            },
+            {
+                "token": "וְלִמְשֹׁ֖חַ",
+                "transliteration": "wə·lim·šō·aḥ",
+                "strong": "4886",
+                "translation": " and to anoint "
+            },
+            {
+                "token": "קֹ֥דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " the Most Holy [Place] "
+            },
+            {
+                "token": "קָֽדָשִֽׁים׃",
+                "transliteration": "qā·ḏā·šîm",
+                "strong": "6944",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Daniel 9:24",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְתֵדַ֨ע",
+                "transliteration": "wə·ṯê·ḏa‘",
+                "strong": "3045",
+                "translation": " Know "
+            },
+            {
+                "token": "וְתַשְׂכֵּ֜ל",
+                "transliteration": "wə·ṯaś·kêl",
+                "strong": "7919",
+                "translation": " and understand this : "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " From "
+            },
+            {
+                "token": "מֹצָ֣א",
+                "transliteration": "mō·ṣā",
+                "strong": "4161",
+                "translation": " the issuance "
+            },
+            {
+                "token": "דָבָ֗ר",
+                "transliteration": "ḏā·ḇār",
+                "strong": "1697",
+                "translation": " of the decree "
+            },
+            {
+                "token": "לְהָשִׁיב֙",
+                "transliteration": "lə·hā·šîḇ",
+                "strong": "7725",
+                "translation": " to restore "
+            },
+            {
+                "token": "וְלִבְנ֤וֹת",
+                "transliteration": "wə·liḇ·nō·wṯ",
+                "strong": "1129",
+                "translation": " and rebuild "
+            },
+            {
+                "token": "יְרֽוּשָׁלִַ֙ם֙",
+                "transliteration": "yə·rū·šā·lim",
+                "strong": "3389",
+                "translation": " Jerusalem , "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "מָשִׁ֣יחַ",
+                "transliteration": "mā·šî·aḥ",
+                "strong": "4899",
+                "translation": " the Messiah , "
+            },
+            {
+                "token": "נָגִ֔יד",
+                "transliteration": "nā·ḡîḏ",
+                "strong": "5057",
+                "translation": " the Prince , "
+            },
+            {
+                "token": "שִׁבְעָ֑ה",
+                "transliteration": "šiḇ·‘āh",
+                "strong": "7651",
+                "translation": " there will be seven "
+            },
+            {
+                "token": "שָׁבֻעִ֖ים",
+                "transliteration": "šā·ḇu·‘îm",
+                "strong": "7620",
+                "translation": " weeks "
+            },
+            {
+                "token": "שִׁשִּׁ֣ים",
+                "transliteration": "šiš·šîm",
+                "strong": "8346",
+                "translation": " and sixty-two "
+            },
+            {
+                "token": "וּשְׁנַ֗יִם",
+                "transliteration": "ū·šə·na·yim",
+                "strong": "8147",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְשָׁבֻעִ֞ים",
+                "transliteration": "wə·šā·ḇu·‘îm",
+                "strong": "7620",
+                "translation": " weeks . "
+            },
+            {
+                "token": "תָּשׁוּב֙",
+                "transliteration": "tā·šūḇ",
+                "strong": "7725",
+                "translation": " It will be rebuilt "
+            },
+            {
+                "token": "וְנִבְנְתָה֙",
+                "transliteration": "wə·niḇ·nə·ṯāh",
+                "strong": "1129",
+                "translation": " . . . "
+            },
+            {
+                "token": "רְח֣וֹב",
+                "transliteration": "rə·ḥō·wḇ",
+                "strong": "7339",
+                "translation": " with streets "
+            },
+            {
+                "token": "וְחָר֔וּץ",
+                "transliteration": "wə·ḥā·rūṣ",
+                "strong": "2742",
+                "translation": " and a trench , "
+            },
+            {
+                "token": "הָעִתִּֽים׃",
+                "transliteration": "hā·‘it·tîm",
+                "strong": "6256",
+                "translation": " but in times "
+            },
+            {
+                "token": "וּבְצ֖וֹק",
+                "transliteration": "ū·ḇə·ṣō·wq",
+                "strong": "6695",
+                "translation": " of distress . "
+            }
+        ],
+        "verse_reference": "Daniel 9:25",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאַחֲרֵ֤י",
+                "transliteration": "wə·’a·ḥă·rê",
+                "strong": "310",
+                "translation": " Then after "
+            },
+            {
+                "token": "שִׁשִּׁ֣ים",
+                "transliteration": "šiš·šîm",
+                "strong": "8346",
+                "translation": " the sixty-two "
+            },
+            {
+                "token": "וּשְׁנַ֔יִם",
+                "transliteration": "ū·šə·na·yim",
+                "strong": "8147",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַשָּׁבֻעִים֙",
+                "transliteration": "haš·šā·ḇu·‘îm",
+                "strong": "7620",
+                "translation": " weeks "
+            },
+            {
+                "token": "מָשִׁ֖יחַ",
+                "transliteration": "mā·šî·aḥ",
+                "strong": "4899",
+                "translation": " the Messiah "
+            },
+            {
+                "token": "יִכָּרֵ֥ת",
+                "transliteration": "yik·kā·rêṯ",
+                "strong": "3772",
+                "translation": " will be cut off "
+            },
+            {
+                "token": "וְאֵ֣ין",
+                "transliteration": "wə·’ên",
+                "strong": "369",
+                "translation": " and will have nothing "
+            },
+            {
+                "token": "ל֑וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " . "
+            },
+            {
+                "token": "עַ֣ם",
+                "transliteration": "‘am",
+                "strong": "5971",
+                "translation": " Then the people "
+            },
+            {
+                "token": "נָגִ֤יד",
+                "transliteration": "nā·ḡîḏ",
+                "strong": "5057",
+                "translation": " of the prince "
+            },
+            {
+                "token": "הַבָּא֙",
+                "transliteration": "hab·bā",
+                "strong": "935",
+                "translation": " who is to come "
+            },
+            {
+                "token": "יַ֠שְׁחִית",
+                "transliteration": "yaš·ḥîṯ",
+                "strong": "7843",
+                "translation": " will destroy "
+            },
+            {
+                "token": "וְהָעִ֨יר",
+                "transliteration": "wə·hā·‘îr",
+                "strong": "5892",
+                "translation": " the city "
+            },
+            {
+                "token": "וְהַקֹּ֜דֶשׁ",
+                "transliteration": "wə·haq·qō·ḏeš",
+                "strong": "6944",
+                "translation": " and the sanctuary . "
+            },
+            {
+                "token": "וְקִצּ֣וֹ",
+                "transliteration": "wə·qiṣ·ṣōw",
+                "strong": "7093",
+                "translation": " The end "
+            },
+            {
+                "token": "בַשֶּׁ֔טֶף",
+                "transliteration": "ḇaš·še·ṭep̄",
+                "strong": "7858",
+                "translation": " will come like a flood , "
+            },
+            {
+                "token": "וְעַד֙",
+                "transliteration": "wə·‘aḏ",
+                "strong": "5704",
+                "translation": " and until "
+            },
+            {
+                "token": "קֵ֣ץ",
+                "transliteration": "qêṣ",
+                "strong": "7093",
+                "translation": " the end "
+            },
+            {
+                "token": "מִלְחָמָ֔ה",
+                "transliteration": "mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " there will be war ; "
+            },
+            {
+                "token": "שֹׁמֵמֽוֹת׃",
+                "transliteration": "šō·mê·mō·wṯ",
+                "strong": "8074",
+                "translation": " desolations "
+            },
+            {
+                "token": "נֶחֱרֶ֖צֶת",
+                "transliteration": "ne·ḥĕ·re·ṣeṯ",
+                "strong": "2782",
+                "translation": " have been decreed . "
+            }
+        ],
+        "verse_reference": "Daniel 9:26",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהִגְבִּ֥יר",
+                "transliteration": "wə·hiḡ·bîr",
+                "strong": "1396",
+                "translation": " And he will confirm "
+            },
+            {
+                "token": "בְּרִ֛ית",
+                "transliteration": "bə·rîṯ",
+                "strong": "1285",
+                "translation": " a covenant "
+            },
+            {
+                "token": "לָרַבִּ֖ים",
+                "transliteration": "lā·rab·bîm",
+                "strong": "7227",
+                "translation": " with many "
+            },
+            {
+                "token": "אֶחָ֑ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " for one "
+            },
+            {
+                "token": "שָׁב֣וּעַ",
+                "transliteration": "šā·ḇū·a‘",
+                "strong": "7620",
+                "translation": " week , "
+            },
+            {
+                "token": "וַחֲצִ֨י",
+                "transliteration": "wa·ḥă·ṣî",
+                "strong": "2677",
+                "translation": " but in the middle "
+            },
+            {
+                "token": "הַשָּׁב֜וּעַ",
+                "transliteration": "haš·šā·ḇū·a‘",
+                "strong": "7620",
+                "translation": " of the week "
+            },
+            {
+                "token": "יַשְׁבִּ֣ית׀",
+                "transliteration": "yaš·bîṯ",
+                "strong": "7673",
+                "translation": " he will put an end "
+            },
+            {
+                "token": "זֶ֣בַח",
+                "transliteration": "ze·ḇaḥ",
+                "strong": "2077",
+                "translation": " to sacrifice "
+            },
+            {
+                "token": "וּמִנְחָ֗ה",
+                "transliteration": "ū·min·ḥāh",
+                "strong": "4503",
+                "translation": " and offering . "
+            },
+            {
+                "token": "וְעַ֨ל",
+                "transliteration": "wə·‘al",
+                "strong": "5921",
+                "translation": " And on "
+            },
+            {
+                "token": "כְּנַ֤ף",
+                "transliteration": "kə·nap̄",
+                "strong": "3671",
+                "translation": " the wing [of the temple] "
+            },
+            {
+                "token": "שִׁקּוּצִים֙",
+                "transliteration": "šiq·qū·ṣîm",
+                "strong": "8251",
+                "translation": " [will come] the abomination "
+            },
+            {
+                "token": "מְשֹׁמֵ֔ם",
+                "transliteration": "mə·šō·mêm",
+                "strong": "8074",
+                "translation": " that causes desolation , "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "וְנֶ֣חֱרָצָ֔ה",
+                "transliteration": "wə·ne·ḥĕ·rā·ṣāh",
+                "strong": "2782",
+                "translation": " the decreed "
+            },
+            {
+                "token": "כָּלָה֙",
+                "transliteration": "kā·lāh",
+                "strong": "3617",
+                "translation": " destruction "
+            },
+            {
+                "token": "תִּתַּ֖ךְ",
+                "transliteration": "tit·taḵ",
+                "strong": "5413",
+                "translation": " is poured out "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " upon "
+            },
+            {
+                "token": "שֹׁמֵֽם׃פ",
+                "transliteration": "šō·mêm",
+                "strong": "8074",
+                "translation": " [him] . ” "
+            }
+        ],
+        "verse_reference": "Daniel 9:27",
+        "book": "Daniel",
+        "chapter": "9",
+        "verse": "27"
+    }
+]

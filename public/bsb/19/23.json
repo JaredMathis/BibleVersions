@@ -1,0 +1,392 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "מִזְמ֥וֹר",
+                "transliteration": "miz·mō·wr",
+                "strong": "4210",
+                "translation": " A Psalm "
+            },
+            {
+                "token": "לְדָוִ֑ד",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " of David . "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "רֹ֝עִ֗י",
+                "transliteration": "rō·‘î",
+                "strong": "7462",
+                "translation": " is my shepherd ; "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I shall not "
+            },
+            {
+                "token": "אֶחְסָֽר׃",
+                "transliteration": "’eḥ·sār",
+                "strong": "2637",
+                "translation": " want . "
+            }
+        ],
+        "verse_reference": "Psalm 23:1",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַרְבִּיצֵ֑נִי",
+                "transliteration": "yar·bî·ṣê·nî",
+                "strong": "7257",
+                "translation": " He makes me lie down "
+            },
+            {
+                "token": "דֶּ֭שֶׁא",
+                "transliteration": "de·še",
+                "strong": "1877",
+                "translation": " in green "
+            },
+            {
+                "token": "בִּנְא֣וֹת",
+                "transliteration": "bin·’ō·wṯ",
+                "strong": "4999",
+                "translation": " pastures ; "
+            },
+            {
+                "token": "יְנַהֲלֵֽנִי׃",
+                "transliteration": "yə·na·hă·lê·nî",
+                "strong": "5095",
+                "translation": " He leads me "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " beside "
+            },
+            {
+                "token": "מְנֻח֣וֹת",
+                "transliteration": "mə·nu·ḥō·wṯ",
+                "strong": "4496",
+                "translation": " quiet "
+            },
+            {
+                "token": "מֵ֖י",
+                "transliteration": "mê",
+                "strong": "4325",
+                "translation": " waters . "
+            }
+        ],
+        "verse_reference": "Psalm 23:2",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְשׁוֹבֵ֑ב",
+                "transliteration": "yə·šō·w·ḇêḇ",
+                "strong": "7725",
+                "translation": " He restores "
+            },
+            {
+                "token": "נַפְשִׁ֥י",
+                "transliteration": "nap̄·šî",
+                "strong": "5315",
+                "translation": " my soul ; "
+            },
+            {
+                "token": "יַֽנְחֵ֥נִי",
+                "transliteration": "yan·ḥê·nî",
+                "strong": "5148",
+                "translation": " He guides me "
+            },
+            {
+                "token": "בְמַעְגְּלֵי־",
+                "transliteration": "ḇə·ma‘·gə·lê-",
+                "strong": "4570",
+                "translation": " in the paths "
+            },
+            {
+                "token": "צֶ֝֗דֶק",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " of righteousness "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמֽוֹ׃",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " of His name . "
+            }
+        ],
+        "verse_reference": "Psalm 23:3",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "גַּ֤ם",
+                "transliteration": "gam",
+                "strong": "1571",
+                "translation": " Even "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " though "
+            },
+            {
+                "token": "אֵלֵ֨ךְ",
+                "transliteration": "’ê·lêḵ",
+                "strong": "1980",
+                "translation": " I walk "
+            },
+            {
+                "token": "בְּגֵ֪יא",
+                "transliteration": "bə·ḡê",
+                "strong": "1516",
+                "translation": " through the valley "
+            },
+            {
+                "token": "צַלְמָ֡וֶת",
+                "transliteration": "ṣal·mā·weṯ",
+                "strong": "6757",
+                "translation": " of the shadow of death , "
+            },
+            {
+                "token": "אִ֘ירָ֤א",
+                "transliteration": "’î·rā",
+                "strong": "3372",
+                "translation": " I will fear "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "רָ֗ע",
+                "transliteration": "rā‘",
+                "strong": "7451",
+                "translation": " evil , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אַתָּ֥ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " You "
+            },
+            {
+                "token": "עִמָּדִ֑י",
+                "transliteration": "‘im·mā·ḏî",
+                "strong": "5978",
+                "translation": " are with me ; "
+            },
+            {
+                "token": "שִׁבְטְךָ֥",
+                "transliteration": "šiḇ·ṭə·ḵā",
+                "strong": "7626",
+                "translation": " Your rod "
+            },
+            {
+                "token": "וּ֝מִשְׁעַנְתֶּ֗ךָ",
+                "transliteration": "ū·miš·‘an·te·ḵā",
+                "strong": "4938",
+                "translation": " and Your staff , "
+            },
+            {
+                "token": "הֵ֣מָּה",
+                "transliteration": "hêm·māh",
+                "strong": "1992",
+                "translation": " they "
+            },
+            {
+                "token": "יְנַֽחֲמֻֽנִי׃",
+                "transliteration": "yə·na·ḥă·mu·nî",
+                "strong": "5162",
+                "translation": " comfort me . "
+            }
+        ],
+        "verse_reference": "Psalm 23:4",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תַּעֲרֹ֬ךְ",
+                "transliteration": "ta·‘ă·rōḵ",
+                "strong": "6186",
+                "translation": " You prepare "
+            },
+            {
+                "token": "שֻׁלְחָ֗ן",
+                "transliteration": "šul·ḥān",
+                "strong": "7979",
+                "translation": " a table "
+            },
+            {
+                "token": "לְפָנַ֨י׀",
+                "transliteration": "lə·p̄ā·nay",
+                "strong": "6440",
+                "translation": " before me "
+            },
+            {
+                "token": "נֶ֥גֶד",
+                "transliteration": "ne·ḡeḏ",
+                "strong": "5048",
+                "translation": " in the presence of "
+            },
+            {
+                "token": "צֹרְרָ֑י",
+                "transliteration": "ṣō·rə·rāy",
+                "strong": "6887",
+                "translation": " my enemies . "
+            },
+            {
+                "token": "דִּשַּׁ֖נְתָּ",
+                "transliteration": "diš·šan·tā",
+                "strong": "1878",
+                "translation": " You anoint "
+            },
+            {
+                "token": "רֹ֝אשִׁ֗י",
+                "transliteration": "rō·šî",
+                "strong": "7218",
+                "translation": " my head "
+            },
+            {
+                "token": "בַשֶּׁ֥מֶן",
+                "transliteration": "ḇaš·še·men",
+                "strong": "8081",
+                "translation": " with oil ; "
+            },
+            {
+                "token": "כּוֹסִ֥י",
+                "transliteration": "kō·w·sî",
+                "strong": "3563",
+                "translation": " my cup "
+            },
+            {
+                "token": "רְוָיָֽה׃",
+                "transliteration": "rə·wā·yāh",
+                "strong": "7310",
+                "translation": " overflows . "
+            }
+        ],
+        "verse_reference": "Psalm 23:5",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֤ךְ׀",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " Surely "
+            },
+            {
+                "token": "ט֤וֹב",
+                "transliteration": "ṭō·wḇ",
+                "strong": "2896",
+                "translation": " goodness "
+            },
+            {
+                "token": "וָחֶ֣סֶד",
+                "transliteration": "wā·ḥe·seḏ",
+                "strong": "2617",
+                "translation": " and mercy "
+            },
+            {
+                "token": "יִ֭רְדְּפוּנִי",
+                "transliteration": "yir·də·p̄ū·nî",
+                "strong": "7291",
+                "translation": " will follow me "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יְמֵ֣י",
+                "transliteration": "yə·mê",
+                "strong": "3117",
+                "translation": " the days "
+            },
+            {
+                "token": "חַיָּ֑י",
+                "transliteration": "ḥay·yāy",
+                "strong": "2416",
+                "translation": " of my life , "
+            },
+            {
+                "token": "וְשַׁבְתִּ֥י",
+                "transliteration": "wə·šaḇ·tî",
+                "strong": "7725",
+                "translation": " and I will dwell "
+            },
+            {
+                "token": "בְּבֵית־",
+                "transliteration": "bə·ḇêṯ-",
+                "strong": "1004",
+                "translation": " in the house "
+            },
+            {
+                "token": "יְ֝הוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "לְאֹ֣רֶךְ",
+                "transliteration": "lə·’ō·reḵ",
+                "strong": "753",
+                "translation": " forever "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Psalm 23:6",
+        "book": "Psalm",
+        "chapter": "23",
+        "verse": "6"
+    }
+]

@@ -1,0 +1,4238 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Now "
+            },
+            {
+                "token": "Ἦν",
+                "transliteration": "Ēn",
+                "strong": "1510",
+                "translation": " there was "
+            },
+            {
+                "token": "ἄνθρωπος",
+                "transliteration": "anthrōpos",
+                "strong": "444",
+                "translation": " a man "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Φαρισαίων",
+                "transliteration": "Pharisaiōn",
+                "strong": "5330",
+                "translation": " Pharisees "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " named "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "Νικόδημος",
+                "transliteration": "Nikodēmos",
+                "strong": "3530",
+                "translation": " Nicodemus , "
+            },
+            {
+                "token": "ἄρχων",
+                "transliteration": "archōn",
+                "strong": "758",
+                "translation": " a leader "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "Ἰουδαίων",
+                "transliteration": "Ioudaiōn",
+                "strong": "2453",
+                "translation": " Jews . "
+            }
+        ],
+        "verse_reference": "John 3:1",
+        "book": "John",
+        "chapter": "3",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὗτος",
+                "transliteration": "houtos",
+                "strong": "3778",
+                "translation": " He "
+            },
+            {
+                "token": "ἦλθεν",
+                "transliteration": "ēlthen",
+                "strong": "2064",
+                "translation": " came "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " [Jesus] "
+            },
+            {
+                "token": "νυκτὸς",
+                "transliteration": "nyktos",
+                "strong": "3571",
+                "translation": " at night "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " said "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " - , "
+            },
+            {
+                "token": "Ῥαββί",
+                "transliteration": "Rhabbi",
+                "strong": "4461",
+                "translation": " “ Rabbi , "
+            },
+            {
+                "token": "οἴδαμεν",
+                "transliteration": "oidamen",
+                "strong": "1492",
+                "translation": " we know "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "διδάσκαλος",
+                "transliteration": "didaskalos",
+                "strong": "1320",
+                "translation": " [You are] a teacher "
+            },
+            {
+                "token": "ἐλήλυθας",
+                "transliteration": "elēlythas",
+                "strong": "2064",
+                "translation": " who has come "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " God . "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "οὐδεὶς",
+                "transliteration": "oudeis",
+                "strong": "3762",
+                "translation": " no one "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " could "
+            },
+            {
+                "token": "ποιεῖν",
+                "transliteration": "poiein",
+                "strong": "4160",
+                "translation": " perform "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " [the] "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "σημεῖα",
+                "transliteration": "sēmeia",
+                "strong": "4592",
+                "translation": " signs "
+            },
+            {
+                "token": "ἃ",
+                "transliteration": "ha",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "σὺ",
+                "transliteration": "sy",
+                "strong": "4771",
+                "translation": " You "
+            },
+            {
+                "token": "ποιεῖς",
+                "transliteration": "poieis",
+                "strong": "4160",
+                "translation": " are doing "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " if "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ᾖ",
+                "transliteration": "ē",
+                "strong": "1510",
+                "translation": " were "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " not "
+            },
+            {
+                "token": "μετ’",
+                "transliteration": "met’",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " him . ” "
+            }
+        ],
+        "verse_reference": "John 3:2",
+        "book": "John",
+        "chapter": "3",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Ἀπεκρίθη",
+                "transliteration": "Apekrithē",
+                "strong": "611",
+                "translation": " replied "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "Ἀμὴν",
+                "transliteration": "Amēn",
+                "strong": "281",
+                "translation": " “ Truly , "
+            },
+            {
+                "token": "ἀμὴν",
+                "transliteration": "amēn",
+                "strong": "281",
+                "translation": " truly , "
+            },
+            {
+                "token": "λέγω",
+                "transliteration": "legō",
+                "strong": "3004",
+                "translation": " I tell "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " no "
+            },
+            {
+                "token": "τις",
+                "transliteration": "tis",
+                "strong": "5100",
+                "translation": " one "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "ἰδεῖν",
+                "transliteration": "idein",
+                "strong": "3708",
+                "translation": " see "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "βασιλείαν",
+                "transliteration": "basileian",
+                "strong": "932",
+                "translation": " kingdom "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " unless "
+            },
+            {
+                "token": "μή",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "γεννηθῇ",
+                "transliteration": "gennēthē",
+                "strong": "1080",
+                "translation": " he is born "
+            },
+            {
+                "token": "ἄνωθεν",
+                "transliteration": "anōthen",
+                "strong": "509",
+                "translation": " again . ” "
+            }
+        ],
+        "verse_reference": "John 3:3",
+        "book": "John",
+        "chapter": "3",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Πῶς",
+                "transliteration": "Pōs",
+                "strong": "4459",
+                "translation": " “ How "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "ἄνθρωπος",
+                "transliteration": "anthrōpos",
+                "strong": "444",
+                "translation": " a man "
+            },
+            {
+                "token": "γεννηθῆναι",
+                "transliteration": "gennēthēnai",
+                "strong": "1080",
+                "translation": " be born "
+            },
+            {
+                "token": "ὤν",
+                "transliteration": "ōn",
+                "strong": "1510",
+                "translation": " when he is "
+            },
+            {
+                "token": "γέρων",
+                "transliteration": "gerōn",
+                "strong": "1088",
+                "translation": " old ? ” "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Νικόδημος",
+                "transliteration": "Nikodēmos",
+                "strong": "3530",
+                "translation": " Nicodemus "
+            },
+            {
+                "token": "Λέγει",
+                "transliteration": "Legei",
+                "strong": "3004",
+                "translation": " asked "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " - . "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " “ Can he "
+            },
+            {
+                "token": "εἰσελθεῖν",
+                "transliteration": "eiselthein",
+                "strong": "1525",
+                "translation": " enter "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " . . . "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "μητρὸς",
+                "transliteration": "mētros",
+                "strong": "3384",
+                "translation": " mother’s "
+            },
+            {
+                "token": "κοιλίαν",
+                "transliteration": "koilian",
+                "strong": "2836",
+                "translation": " womb "
+            },
+            {
+                "token": "δεύτερον",
+                "transliteration": "deuteron",
+                "strong": "1208",
+                "translation": " a second time "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "γεννηθῆναι",
+                "transliteration": "gennēthēnai",
+                "strong": "1080",
+                "translation": " to be born ? ” "
+            }
+        ],
+        "verse_reference": "John 3:4",
+        "book": "John",
+        "chapter": "3",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "Ἀπεκρίθη",
+                "transliteration": "Apekrithē",
+                "strong": "611",
+                "translation": " answered , "
+            },
+            {
+                "token": "Ἀμὴν",
+                "transliteration": "Amēn",
+                "strong": "281",
+                "translation": " “ Truly , "
+            },
+            {
+                "token": "ἀμὴν",
+                "transliteration": "amēn",
+                "strong": "281",
+                "translation": " truly , "
+            },
+            {
+                "token": "λέγω",
+                "transliteration": "legō",
+                "strong": "3004",
+                "translation": " I tell "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " no "
+            },
+            {
+                "token": "τις",
+                "transliteration": "tis",
+                "strong": "5100",
+                "translation": " one "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "εἰσελθεῖν",
+                "transliteration": "eiselthein",
+                "strong": "1525",
+                "translation": " enter "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " . . . "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "βασιλείαν",
+                "transliteration": "basileian",
+                "strong": "932",
+                "translation": " kingdom "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " unless "
+            },
+            {
+                "token": "μή",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "γεννηθῇ",
+                "transliteration": "gennēthē",
+                "strong": "1080",
+                "translation": " he is born "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "ὕδατος",
+                "transliteration": "hydatos",
+                "strong": "5204",
+                "translation": " water "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Πνεύματος",
+                "transliteration": "Pneumatos",
+                "strong": "4151",
+                "translation": " [the] Spirit . "
+            }
+        ],
+        "verse_reference": "John 3:5",
+        "book": "John",
+        "chapter": "3",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "σάρξ",
+                "transliteration": "sarx",
+                "strong": "4561",
+                "translation": " Flesh "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γεγεννημένον",
+                "transliteration": "gegennēmenon",
+                "strong": "1080",
+                "translation": " born "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "σαρκὸς",
+                "transliteration": "sarkos",
+                "strong": "4561",
+                "translation": " flesh , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [but] "
+            },
+            {
+                "token": "πνεῦμά",
+                "transliteration": "pneuma",
+                "strong": "4151",
+                "translation": " spirit "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γεγεννημένον",
+                "transliteration": "gegennēmenon",
+                "strong": "1080",
+                "translation": " born "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Πνεύματος",
+                "transliteration": "Pneumatos",
+                "strong": "4151",
+                "translation": " Spirit . "
+            }
+        ],
+        "verse_reference": "John 3:6",
+        "book": "John",
+        "chapter": "3",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "θαυμάσῃς",
+                "transliteration": "thaumasēs",
+                "strong": "2296",
+                "translation": " Do not be amazed "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "εἶπόν",
+                "transliteration": "eipon",
+                "strong": "2036",
+                "translation": " I said "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " - , "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " ‘ You "
+            },
+            {
+                "token": "Δεῖ",
+                "transliteration": "Dei",
+                "strong": "1163",
+                "translation": " must "
+            },
+            {
+                "token": "γεννηθῆναι",
+                "transliteration": "gennēthēnai",
+                "strong": "1080",
+                "translation": " be born "
+            },
+            {
+                "token": "ἄνωθεν",
+                "transliteration": "anōthen",
+                "strong": "509",
+                "translation": " again . ’ "
+            }
+        ],
+        "verse_reference": "John 3:7",
+        "book": "John",
+        "chapter": "3",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "πνεῦμα",
+                "transliteration": "pneuma",
+                "strong": "4151",
+                "translation": " wind "
+            },
+            {
+                "token": "πνεῖ",
+                "transliteration": "pnei",
+                "strong": "4154",
+                "translation": " blows "
+            },
+            {
+                "token": "ὅπου",
+                "transliteration": "hopou",
+                "strong": "3699",
+                "translation": " where "
+            },
+            {
+                "token": "θέλει",
+                "transliteration": "thelei",
+                "strong": "2309",
+                "translation": " it wishes . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἀκούεις",
+                "transliteration": "akoueis",
+                "strong": "191",
+                "translation": " You hear "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " its "
+            },
+            {
+                "token": "φωνὴν",
+                "transliteration": "phōnēn",
+                "strong": "5456",
+                "translation": " sound , "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "οἶδας",
+                "transliteration": "oidas",
+                "strong": "1492",
+                "translation": " you do not know "
+            },
+            {
+                "token": "πόθεν",
+                "transliteration": "pothen",
+                "strong": "4159",
+                "translation": " where "
+            },
+            {
+                "token": "ἔρχεται",
+                "transliteration": "erchetai",
+                "strong": "2064",
+                "translation": " it comes {from} "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [or] "
+            },
+            {
+                "token": "ποῦ",
+                "transliteration": "pou",
+                "strong": "4226",
+                "translation": " where "
+            },
+            {
+                "token": "ὑπάγει",
+                "transliteration": "hypagei",
+                "strong": "5217",
+                "translation": " it is going . "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " So "
+            },
+            {
+                "token": "ἐστὶν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " it is "
+            },
+            {
+                "token": "πᾶς",
+                "transliteration": "pas",
+                "strong": "3956",
+                "translation": " with everyone "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γεγεννημένος",
+                "transliteration": "gegennēmenos",
+                "strong": "1080",
+                "translation": " born "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " of "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Πνεύματος",
+                "transliteration": "Pneumatos",
+                "strong": "4151",
+                "translation": " Spirit . ” "
+            }
+        ],
+        "verse_reference": "John 3:8",
+        "book": "John",
+        "chapter": "3",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Πῶς",
+                "transliteration": "Pōs",
+                "strong": "4459",
+                "translation": " “ How "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " this "
+            },
+            {
+                "token": "γενέσθαι",
+                "transliteration": "genesthai",
+                "strong": "1096",
+                "translation": " be ? ” "
+            },
+            {
+                "token": "Νικόδημος",
+                "transliteration": "Nikodēmos",
+                "strong": "3530",
+                "translation": " Nicodemus "
+            },
+            {
+                "token": "Ἀπεκρίθη",
+                "transliteration": "Apekrithē",
+                "strong": "611",
+                "translation": " asked "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "John 3:9",
+        "book": "John",
+        "chapter": "3",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Σὺ",
+                "transliteration": "Sy",
+                "strong": "4771",
+                "translation": " “ You "
+            },
+            {
+                "token": "εἶ",
+                "transliteration": "ei",
+                "strong": "1510",
+                "translation": " are "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰσραὴλ",
+                "transliteration": "Israēl",
+                "strong": "2474",
+                "translation": " Israel’s "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "διδάσκαλος",
+                "transliteration": "didaskalos",
+                "strong": "1320",
+                "translation": " teacher , ” "
+            },
+            {
+                "token": "Ἀπεκρίθη",
+                "transliteration": "Apekrithē",
+                "strong": "611",
+                "translation": " said "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " “ and "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "γινώσκεις",
+                "transliteration": "ginōskeis",
+                "strong": "1097",
+                "translation": " you do not understand "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " these things ? "
+            }
+        ],
+        "verse_reference": "John 3:10",
+        "book": "John",
+        "chapter": "3",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀμὴν",
+                "transliteration": "amēn",
+                "strong": "281",
+                "translation": " Truly , "
+            },
+            {
+                "token": "ἀμὴν",
+                "transliteration": "amēn",
+                "strong": "281",
+                "translation": " truly , "
+            },
+            {
+                "token": "λέγω",
+                "transliteration": "legō",
+                "strong": "3004",
+                "translation": " I tell "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " you , "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "λαλοῦμεν",
+                "transliteration": "laloumen",
+                "strong": "2980",
+                "translation": " we speak "
+            },
+            {
+                "token": "ὃ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " of what "
+            },
+            {
+                "token": "οἴδαμεν",
+                "transliteration": "oidamen",
+                "strong": "1492",
+                "translation": " we know , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "μαρτυροῦμεν",
+                "transliteration": "martyroumen",
+                "strong": "3140",
+                "translation": " we testify "
+            },
+            {
+                "token": "ὃ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " to what "
+            },
+            {
+                "token": "ἑωράκαμεν",
+                "transliteration": "heōrakamen",
+                "strong": "3708",
+                "translation": " we have seen , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and yet "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "λαμβάνετε",
+                "transliteration": "lambanete",
+                "strong": "2983",
+                "translation": " you people do not accept "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " our "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαρτυρίαν",
+                "transliteration": "martyrian",
+                "strong": "3141",
+                "translation": " testimony . "
+            }
+        ],
+        "verse_reference": "John 3:11",
+        "book": "John",
+        "chapter": "3",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Εἰ",
+                "transliteration": "Ei",
+                "strong": "1487",
+                "translation": " If "
+            },
+            {
+                "token": "εἶπον",
+                "transliteration": "eipon",
+                "strong": "2036",
+                "translation": " I have told "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you {about} "
+            },
+            {
+                "token": "ἐπίγεια",
+                "transliteration": "epigeia",
+                "strong": "1919",
+                "translation": " earthly "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " things "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "πιστεύετε",
+                "transliteration": "pisteuete",
+                "strong": "4100",
+                "translation": " you do not believe , "
+            },
+            {
+                "token": "πῶς",
+                "transliteration": "pōs",
+                "strong": "4459",
+                "translation": " how "
+            },
+            {
+                "token": "πιστεύσετε",
+                "transliteration": "pisteusete",
+                "strong": "4100",
+                "translation": " will you believe "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " if "
+            },
+            {
+                "token": "εἴπω",
+                "transliteration": "eipō",
+                "strong": "2036",
+                "translation": " I tell "
+            },
+            {
+                "token": "ὑμῖν",
+                "transliteration": "hymin",
+                "strong": "4771",
+                "translation": " you {about} "
+            },
+            {
+                "token": "ἐπουράνια",
+                "transliteration": "epourania",
+                "strong": "2032",
+                "translation": " heavenly "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " things ? "
+            }
+        ],
+        "verse_reference": "John 3:12",
+        "book": "John",
+        "chapter": "3",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "οὐδεὶς",
+                "transliteration": "oudeis",
+                "strong": "3762",
+                "translation": " No one "
+            },
+            {
+                "token": "ἀναβέβηκεν",
+                "transliteration": "anabebēken",
+                "strong": "305",
+                "translation": " has ascended "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οὐρανὸν",
+                "transliteration": "ouranon",
+                "strong": "3772",
+                "translation": " heaven "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " except "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the [One who] "
+            },
+            {
+                "token": "καταβάς",
+                "transliteration": "katabas",
+                "strong": "2597",
+                "translation": " descended "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οὐρανοῦ",
+                "transliteration": "ouranou",
+                "strong": "3772",
+                "translation": " heaven — "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱὸς",
+                "transliteration": "Huios",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπου",
+                "transliteration": "anthrōpou",
+                "strong": "444",
+                "translation": " of Man . "
+            }
+        ],
+        "verse_reference": "John 3:13",
+        "book": "John",
+        "chapter": "3",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " Just "
+            },
+            {
+                "token": "καθὼς",
+                "transliteration": "kathōs",
+                "strong": "2531",
+                "translation": " as "
+            },
+            {
+                "token": "Μωϋσῆς",
+                "transliteration": "Mōusēs",
+                "strong": "3475",
+                "translation": " Moses "
+            },
+            {
+                "token": "ὕψωσεν",
+                "transliteration": "hypsōsen",
+                "strong": "5312",
+                "translation": " lifted up "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄφιν",
+                "transliteration": "ophin",
+                "strong": "3789",
+                "translation": " snake "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἐρήμῳ",
+                "transliteration": "erēmō",
+                "strong": "2048",
+                "translation": " wilderness , "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " so "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱὸν",
+                "transliteration": "Huion",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀνθρώπου",
+                "transliteration": "anthrōpou",
+                "strong": "444",
+                "translation": " of Man "
+            },
+            {
+                "token": "δεῖ",
+                "transliteration": "dei",
+                "strong": "1163",
+                "translation": " must "
+            },
+            {
+                "token": "ὑψωθῆναι",
+                "transliteration": "hypsōthēnai",
+                "strong": "5312",
+                "translation": " be lifted up , "
+            }
+        ],
+        "verse_reference": "John 3:14",
+        "book": "John",
+        "chapter": "3",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " that "
+            },
+            {
+                "token": "πᾶς",
+                "transliteration": "pas",
+                "strong": "3956",
+                "translation": " everyone "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πιστεύων",
+                "transliteration": "pisteuōn",
+                "strong": "4100",
+                "translation": " believes "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "ἔχῃ",
+                "transliteration": "echē",
+                "strong": "2192",
+                "translation": " may have "
+            },
+            {
+                "token": "αἰώνιον",
+                "transliteration": "aiōnion",
+                "strong": "166",
+                "translation": " eternal "
+            },
+            {
+                "token": "ζωὴν",
+                "transliteration": "zōēn",
+                "strong": "2222",
+                "translation": " life . "
+            }
+        ],
+        "verse_reference": "John 3:15",
+        "book": "John",
+        "chapter": "3",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "Οὕτως",
+                "transliteration": "Houtōs",
+                "strong": "3779",
+                "translation": " so "
+            },
+            {
+                "token": "ἠγάπησεν",
+                "transliteration": "ēgapēsen",
+                "strong": "25",
+                "translation": " loved "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμον",
+                "transliteration": "kosmon",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "ὥστε",
+                "transliteration": "hōste",
+                "strong": "5620",
+                "translation": " that "
+            },
+            {
+                "token": "ἔδωκεν",
+                "transliteration": "edōken",
+                "strong": "1325",
+                "translation": " He gave "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " [His] "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μονογενῆ",
+                "transliteration": "monogenē",
+                "strong": "3439",
+                "translation": " one and only "
+            },
+            {
+                "token": "Υἱὸν",
+                "transliteration": "Huion",
+                "strong": "5207",
+                "translation": " Son , "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " that "
+            },
+            {
+                "token": "πᾶς",
+                "transliteration": "pas",
+                "strong": "3956",
+                "translation": " everyone "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πιστεύων",
+                "transliteration": "pisteuōn",
+                "strong": "4100",
+                "translation": " believes "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἀπόληται",
+                "transliteration": "apolētai",
+                "strong": "622",
+                "translation": " shall not perish "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ἔχῃ",
+                "transliteration": "echē",
+                "strong": "2192",
+                "translation": " have "
+            },
+            {
+                "token": "αἰώνιον",
+                "transliteration": "aiōnion",
+                "strong": "166",
+                "translation": " eternal "
+            },
+            {
+                "token": "ζωὴν",
+                "transliteration": "zōēn",
+                "strong": "2222",
+                "translation": " life . "
+            }
+        ],
+        "verse_reference": "John 3:16",
+        "book": "John",
+        "chapter": "3",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " {did} not "
+            },
+            {
+                "token": "ἀπέστειλεν",
+                "transliteration": "apesteilen",
+                "strong": "649",
+                "translation": " send "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Υἱὸν",
+                "transliteration": "Huion",
+                "strong": "5207",
+                "translation": " His Son "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμον",
+                "transliteration": "kosmon",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "κρίνῃ",
+                "transliteration": "krinē",
+                "strong": "2919",
+                "translation": " condemn "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμον",
+                "transliteration": "kosmon",
+                "strong": "2889",
+                "translation": " world , "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "σωθῇ",
+                "transliteration": "sōthē",
+                "strong": "4982",
+                "translation": " save "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμος",
+                "transliteration": "kosmos",
+                "strong": "2889",
+                "translation": " world "
+            },
+            {
+                "token": "δι’",
+                "transliteration": "di’",
+                "strong": "1223",
+                "translation": " through "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " Him . "
+            }
+        ],
+        "verse_reference": "John 3:17",
+        "book": "John",
+        "chapter": "3",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " Whoever "
+            },
+            {
+                "token": "πιστεύων",
+                "transliteration": "pisteuōn",
+                "strong": "4100",
+                "translation": " believes "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτὸν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " Him "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "κρίνεται",
+                "transliteration": "krinetai",
+                "strong": "2919",
+                "translation": " is not condemned , "
+            },
+            {
+                "token": "‹δὲ›",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " whoever "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "πιστεύων",
+                "transliteration": "pisteuōn",
+                "strong": "4100",
+                "translation": " does not believe "
+            },
+            {
+                "token": "ἤδη",
+                "transliteration": "ēdē",
+                "strong": "2235",
+                "translation": " vvv "
+            },
+            {
+                "token": "κέκριται",
+                "transliteration": "kekritai",
+                "strong": "2919",
+                "translation": " has already been condemned , "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " because "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "πεπίστευκεν",
+                "transliteration": "pepisteuken",
+                "strong": "4100",
+                "translation": " he has not believed "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " in "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὄνομα",
+                "transliteration": "onoma",
+                "strong": "3686",
+                "translation": " name "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God’s "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μονογενοῦς",
+                "transliteration": "monogenous",
+                "strong": "3439",
+                "translation": " one and only "
+            },
+            {
+                "token": "Υἱοῦ",
+                "transliteration": "Huiou",
+                "strong": "5207",
+                "translation": " Son . "
+            }
+        ],
+        "verse_reference": "John 3:18",
+        "book": "John",
+        "chapter": "3",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δέ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " And "
+            },
+            {
+                "token": "Αὕτη",
+                "transliteration": "Hautē",
+                "strong": "3778",
+                "translation": " this "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κρίσις",
+                "transliteration": "krisis",
+                "strong": "2920",
+                "translation": " verdict "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - : "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " Light "
+            },
+            {
+                "token": "ἐλήλυθεν",
+                "transliteration": "elēlythen",
+                "strong": "2064",
+                "translation": " has come "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "κόσμον",
+                "transliteration": "kosmon",
+                "strong": "2889",
+                "translation": " world , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " but "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἄνθρωποι",
+                "transliteration": "anthrōpoi",
+                "strong": "444",
+                "translation": " men "
+            },
+            {
+                "token": "ἠγάπησαν",
+                "transliteration": "ēgapēsan",
+                "strong": "25",
+                "translation": " loved "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σκότος",
+                "transliteration": "skotos",
+                "strong": "4655",
+                "translation": " darkness "
+            },
+            {
+                "token": "μᾶλλον",
+                "transliteration": "mallon",
+                "strong": "3123",
+                "translation": " rather "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " than "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " Light "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " because "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἔργα",
+                "transliteration": "erga",
+                "strong": "2041",
+                "translation": " deeds "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " were "
+            },
+            {
+                "token": "πονηρὰ",
+                "transliteration": "ponēra",
+                "strong": "4190",
+                "translation": " evil . "
+            }
+        ],
+        "verse_reference": "John 3:19",
+        "book": "John",
+        "chapter": "3",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "πᾶς",
+                "transliteration": "pas",
+                "strong": "3956",
+                "translation": " Everyone "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πράσσων",
+                "transliteration": "prassōn",
+                "strong": "4238",
+                "translation": " does "
+            },
+            {
+                "token": "φαῦλα",
+                "transliteration": "phaula",
+                "strong": "5337",
+                "translation": " evil "
+            },
+            {
+                "token": "μισεῖ",
+                "transliteration": "misei",
+                "strong": "3404",
+                "translation": " hates "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " Light , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " {does} not "
+            },
+            {
+                "token": "ἔρχεται",
+                "transliteration": "erchetai",
+                "strong": "2064",
+                "translation": " come "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " into "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " Light "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " for fear that "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " his "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἔργα",
+                "transliteration": "erga",
+                "strong": "2041",
+                "translation": " deeds "
+            },
+            {
+                "token": "ἐλεγχθῇ",
+                "transliteration": "elenchthē",
+                "strong": "1651",
+                "translation": " will be exposed . "
+            }
+        ],
+        "verse_reference": "John 3:20",
+        "book": "John",
+        "chapter": "3",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " whoever "
+            },
+            {
+                "token": "ποιῶν",
+                "transliteration": "poiōn",
+                "strong": "4160",
+                "translation": " practices "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀλήθειαν",
+                "transliteration": "alētheian",
+                "strong": "225",
+                "translation": " truth "
+            },
+            {
+                "token": "ἔρχεται",
+                "transliteration": "erchetai",
+                "strong": "2064",
+                "translation": " comes "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " into "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "φῶς",
+                "transliteration": "phōs",
+                "strong": "5457",
+                "translation": " Light , "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " so that "
+            },
+            {
+                "token": "φανερωθῇ",
+                "transliteration": "phanerōthē",
+                "strong": "5319",
+                "translation": " it may be seen clearly "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " [what] he "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἔργα",
+                "transliteration": "erga",
+                "strong": "2041",
+                "translation": " has done "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " has been "
+            },
+            {
+                "token": "εἰργασμένα",
+                "transliteration": "eirgasmena",
+                "strong": "2038",
+                "translation": " accomplished "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God .” "
+            }
+        ],
+        "verse_reference": "John 3:21",
+        "book": "John",
+        "chapter": "3",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Μετὰ",
+                "transliteration": "Meta",
+                "strong": "3326",
+                "translation": " After "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " this , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰησοῦς",
+                "transliteration": "Iēsous",
+                "strong": "2424",
+                "translation": " Jesus "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαθηταὶ",
+                "transliteration": "mathētai",
+                "strong": "3101",
+                "translation": " disciples "
+            },
+            {
+                "token": "ἦλθεν",
+                "transliteration": "ēlthen",
+                "strong": "2064",
+                "translation": " went "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Ἰουδαίαν",
+                "transliteration": "Ioudaian",
+                "strong": "2453",
+                "translation": " Judean "
+            },
+            {
+                "token": "γῆν",
+                "transliteration": "gēn",
+                "strong": "1093",
+                "translation": " countryside , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐκεῖ",
+                "transliteration": "ekei",
+                "strong": "1563",
+                "translation": " [where] "
+            },
+            {
+                "token": "διέτριβεν",
+                "transliteration": "dietriben",
+                "strong": "1304",
+                "translation": " He spent some time "
+            },
+            {
+                "token": "μετ’",
+                "transliteration": "met’",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " them "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἐβάπτιζεν",
+                "transliteration": "ebaptizen",
+                "strong": "907",
+                "translation": " baptized . "
+            }
+        ],
+        "verse_reference": "John 3:22",
+        "book": "John",
+        "chapter": "3",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Now "
+            },
+            {
+                "token": "‹ὁ›",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωάννης",
+                "transliteration": "Iōannēs",
+                "strong": "2491",
+                "translation": " John "
+            },
+            {
+                "token": "Ἦν",
+                "transliteration": "Ēn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " also "
+            },
+            {
+                "token": "βαπτίζων",
+                "transliteration": "baptizōn",
+                "strong": "907",
+                "translation": " baptizing "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " at "
+            },
+            {
+                "token": "Αἰνὼν",
+                "transliteration": "Ainōn",
+                "strong": "137",
+                "translation": " Aenon "
+            },
+            {
+                "token": "ἐγγὺς",
+                "transliteration": "engys",
+                "strong": "1451",
+                "translation": " near "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Σαλείμ",
+                "transliteration": "Saleim",
+                "strong": "4530",
+                "translation": " Salim , "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " because "
+            },
+            {
+                "token": "ὕδατα",
+                "transliteration": "hydata",
+                "strong": "5204",
+                "translation": " [the] water "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "πολλὰ",
+                "transliteration": "polla",
+                "strong": "4183",
+                "translation": " plentiful "
+            },
+            {
+                "token": "ἐκεῖ",
+                "transliteration": "ekei",
+                "strong": "1563",
+                "translation": " there , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "παρεγίνοντο",
+                "transliteration": "pareginonto",
+                "strong": "3854",
+                "translation": " [people] kept coming "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἐβαπτίζοντο",
+                "transliteration": "ebaptizonto",
+                "strong": "907",
+                "translation": " to be baptized . "
+            }
+        ],
+        "verse_reference": "John 3:23",
+        "book": "John",
+        "chapter": "3",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " (For "
+            },
+            {
+                "token": "‹ὁ›",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωάννης",
+                "transliteration": "Iōannēs",
+                "strong": "2491",
+                "translation": " John "
+            },
+            {
+                "token": "οὔπω",
+                "transliteration": "oupō",
+                "strong": "3768",
+                "translation": " {had} not yet "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " been "
+            },
+            {
+                "token": "βεβλημένος",
+                "transliteration": "beblēmenos",
+                "strong": "906",
+                "translation": " thrown "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "φυλακὴν",
+                "transliteration": "phylakēn",
+                "strong": "5438",
+                "translation": " prison .) "
+            }
+        ],
+        "verse_reference": "John 3:24",
+        "book": "John",
+        "chapter": "3",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "οὖν",
+                "transliteration": "oun",
+                "strong": "3767",
+                "translation": " Then "
+            },
+            {
+                "token": "ζήτησις",
+                "transliteration": "zētēsis",
+                "strong": "2214",
+                "translation": " a dispute "
+            },
+            {
+                "token": "Ἐγένετο",
+                "transliteration": "Egeneto",
+                "strong": "1096",
+                "translation": " arose "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " between "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωάννου",
+                "transliteration": "Iōannou",
+                "strong": "2491",
+                "translation": " John’s "
+            },
+            {
+                "token": "μαθητῶν",
+                "transliteration": "mathētōn",
+                "strong": "3101",
+                "translation": " disciples "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " [and] "
+            },
+            {
+                "token": "Ἰουδαίου",
+                "transliteration": "Ioudaiou",
+                "strong": "2453",
+                "translation": " [a certain] Jew "
+            },
+            {
+                "token": "περὶ",
+                "transliteration": "peri",
+                "strong": "4012",
+                "translation": " over [the issue of] "
+            },
+            {
+                "token": "καθαρισμοῦ",
+                "transliteration": "katharismou",
+                "strong": "2512",
+                "translation": " ceremonial washing . "
+            }
+        ],
+        "verse_reference": "John 3:25",
+        "book": "John",
+        "chapter": "3",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " So "
+            },
+            {
+                "token": "ἦλθον",
+                "transliteration": "ēlthon",
+                "strong": "2064",
+                "translation": " [John’s disciples] came "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰωάννην",
+                "transliteration": "Iōannēn",
+                "strong": "2491",
+                "translation": " [him] "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "εἶπαν",
+                "transliteration": "eipan",
+                "strong": "2036",
+                "translation": " said "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἴδε",
+                "transliteration": "ide",
+                "strong": "2400",
+                "translation": " “ Look , "
+            },
+            {
+                "token": "Ῥαββί",
+                "transliteration": "Rhabbi",
+                "strong": "4461",
+                "translation": " Rabbi , "
+            },
+            {
+                "token": "ὃς",
+                "transliteration": "hos",
+                "strong": "3739",
+                "translation": " the [One who] "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "σοῦ",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "πέραν",
+                "transliteration": "peran",
+                "strong": "4008",
+                "translation": " beyond "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Ἰορδάνου",
+                "transliteration": "Iordanou",
+                "strong": "2446",
+                "translation": " Jordan , "
+            },
+            {
+                "token": "ᾧ",
+                "transliteration": "hō",
+                "strong": "3739",
+                "translation": " the One "
+            },
+            {
+                "token": "σὺ",
+                "transliteration": "sy",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "μεμαρτύρηκας",
+                "transliteration": "memartyrēkas",
+                "strong": "3140",
+                "translation": " testified about — "
+            },
+            {
+                "token": "οὗτος",
+                "transliteration": "houtos",
+                "strong": "3778",
+                "translation": " He "
+            },
+            {
+                "token": "βαπτίζει",
+                "transliteration": "baptizei",
+                "strong": "907",
+                "translation": " is baptizing , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πάντες",
+                "transliteration": "pantes",
+                "strong": "3956",
+                "translation": " everyone "
+            },
+            {
+                "token": "ἔρχονται",
+                "transliteration": "erchontai",
+                "strong": "2064",
+                "translation": " is going "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "αὐτόν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " Him . ” "
+            }
+        ],
+        "verse_reference": "John 3:26",
+        "book": "John",
+        "chapter": "3",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ἰωάννης",
+                "transliteration": "Iōannēs",
+                "strong": "2491",
+                "translation": " John "
+            },
+            {
+                "token": "Ἀπεκρίθη",
+                "transliteration": "Apekrithē",
+                "strong": "611",
+                "translation": " replied "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἄνθρωπος",
+                "transliteration": "anthrōpos",
+                "strong": "444",
+                "translation": " “ A man "
+            },
+            {
+                "token": "Οὐ",
+                "transliteration": "Ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "δύναται",
+                "transliteration": "dynatai",
+                "strong": "1410",
+                "translation": " can "
+            },
+            {
+                "token": "λαμβάνειν",
+                "transliteration": "lambanein",
+                "strong": "2983",
+                "translation": " receive "
+            },
+            {
+                "token": "‹οὐδὲ",
+                "transliteration": "oude",
+                "strong": "3761",
+                "translation": " only what "
+            },
+            {
+                "token": "ἓν›",
+                "transliteration": "hen",
+                "strong": "1520",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐὰν",
+                "transliteration": "ean",
+                "strong": "1437",
+                "translation": " . . . "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "ᾖ",
+                "transliteration": "ē",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "δεδομένον",
+                "transliteration": "dedomenon",
+                "strong": "1325",
+                "translation": " given "
+            },
+            {
+                "token": "αὐτῷ",
+                "transliteration": "autō",
+                "strong": "846",
+                "translation": " him "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οὐρανοῦ",
+                "transliteration": "ouranou",
+                "strong": "3772",
+                "translation": " heaven . "
+            }
+        ],
+        "verse_reference": "John 3:27",
+        "book": "John",
+        "chapter": "3",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " You "
+            },
+            {
+                "token": "αὐτοὶ",
+                "transliteration": "autoi",
+                "strong": "846",
+                "translation": " yourselves "
+            },
+            {
+                "token": "μαρτυρεῖτε",
+                "transliteration": "martyreite",
+                "strong": "3140",
+                "translation": " can testify "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " - "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "εἶπον",
+                "transliteration": "eipon",
+                "strong": "2036",
+                "translation": " I said "
+            },
+            {
+                "token": "[ὅτι]",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - , "
+            },
+            {
+                "token": "ἐγὼ",
+                "transliteration": "egō",
+                "strong": "1473",
+                "translation": " ‘ I "
+            },
+            {
+                "token": "εἰμὶ",
+                "transliteration": "eimi",
+                "strong": "1510",
+                "translation": " am "
+            },
+            {
+                "token": "Οὐκ",
+                "transliteration": "Ouk",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Χριστός",
+                "transliteration": "Christos",
+                "strong": "5547",
+                "translation": " Christ , "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " - "
+            },
+            {
+                "token": "εἰμὶ",
+                "transliteration": "eimi",
+                "strong": "1510",
+                "translation": " am "
+            },
+            {
+                "token": "Ἀπεσταλμένος",
+                "transliteration": "Apestalmenos",
+                "strong": "649",
+                "translation": " sent "
+            },
+            {
+                "token": "ἔμπροσθεν",
+                "transliteration": "emprosthen",
+                "strong": "1715",
+                "translation": " ahead of "
+            },
+            {
+                "token": "ἐκείνου",
+                "transliteration": "ekeinou",
+                "strong": "1565",
+                "translation": " Him . ’ "
+            }
+        ],
+        "verse_reference": "John 3:28",
+        "book": "John",
+        "chapter": "3",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "νύμφην",
+                "transliteration": "nymphēn",
+                "strong": "3565",
+                "translation": " bride "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "HO",
+                "strong": "3588",
+                "translation": " belongs to "
+            },
+            {
+                "token": "ἔχων",
+                "transliteration": "echōn",
+                "strong": "2192",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐστίν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " . . . "
+            },
+            {
+                "token": "νυμφίος",
+                "transliteration": "nymphios",
+                "strong": "3566",
+                "translation": " [the] bridegroom . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "φίλος",
+                "transliteration": "philos",
+                "strong": "5384",
+                "translation": " friend "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "νυμφίου",
+                "transliteration": "nymphiou",
+                "strong": "3566",
+                "translation": " bridegroom "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἑστηκὼς",
+                "transliteration": "hestēkōs",
+                "strong": "2476",
+                "translation": " stands "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἀκούων",
+                "transliteration": "akouōn",
+                "strong": "191",
+                "translation": " listens for "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " him , "
+            },
+            {
+                "token": "χαίρει",
+                "transliteration": "chairei",
+                "strong": "5463",
+                "translation": " [and] is overjoyed "
+            },
+            {
+                "token": "χαρᾷ",
+                "transliteration": "chara",
+                "strong": "5479",
+                "translation": " . . . "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " [to hear] "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "νυμφίου",
+                "transliteration": "nymphiou",
+                "strong": "3566",
+                "translation": " bridegroom’s "
+            },
+            {
+                "token": "φωνὴν",
+                "transliteration": "phōnēn",
+                "strong": "5456",
+                "translation": " voice . "
+            },
+            {
+                "token": "οὖν",
+                "transliteration": "oun",
+                "strong": "3767",
+                "translation": " That "
+            },
+            {
+                "token": "αὕτη",
+                "transliteration": "hautē",
+                "strong": "3778",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "χαρὰ",
+                "transliteration": "chara",
+                "strong": "5479",
+                "translation": " joy "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἐμὴ",
+                "transliteration": "emē",
+                "strong": "1699",
+                "translation": " [is] mine , "
+            },
+            {
+                "token": "πεπλήρωται",
+                "transliteration": "peplērōtai",
+                "strong": "4137",
+                "translation": " [and] it is now complete . "
+            }
+        ],
+        "verse_reference": "John 3:29",
+        "book": "John",
+        "chapter": "3",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἐκεῖνον",
+                "transliteration": "ekeinon",
+                "strong": "1565",
+                "translation": " He "
+            },
+            {
+                "token": "δεῖ",
+                "transliteration": "dei",
+                "strong": "1163",
+                "translation": " must "
+            },
+            {
+                "token": "αὐξάνειν",
+                "transliteration": "auxanein",
+                "strong": "837",
+                "translation": " increase ; "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐμὲ",
+                "transliteration": "eme",
+                "strong": "1473",
+                "translation": " I "
+            },
+            {
+                "token": "ἐλαττοῦσθαι",
+                "transliteration": "elattousthai",
+                "strong": "1642",
+                "translation": " [must] decrease . "
+            }
+        ],
+        "verse_reference": "John 3:30",
+        "book": "John",
+        "chapter": "3",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " The [One who] "
+            },
+            {
+                "token": "ἐρχόμενος",
+                "transliteration": "erchomenos",
+                "strong": "2064",
+                "translation": " comes "
+            },
+            {
+                "token": "ἄνωθεν",
+                "transliteration": "anōthen",
+                "strong": "509",
+                "translation": " from above "
+            },
+            {
+                "token": "ἐστίν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἐπάνω",
+                "transliteration": "epanō",
+                "strong": "1883",
+                "translation": " above "
+            },
+            {
+                "token": "πάντων",
+                "transliteration": "pantōn",
+                "strong": "3956",
+                "translation": " all . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " The [one who] "
+            },
+            {
+                "token": "ὢν",
+                "transliteration": "ōn",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γῆς",
+                "transliteration": "gēs",
+                "strong": "1093",
+                "translation": " earth "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " belongs "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " to "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γῆς",
+                "transliteration": "gēs",
+                "strong": "1093",
+                "translation": " earth "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "λαλεῖ",
+                "transliteration": "lalei",
+                "strong": "2980",
+                "translation": " speaks [as one] "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γῆς",
+                "transliteration": "gēs",
+                "strong": "1093",
+                "translation": " earth . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " The [One who] "
+            },
+            {
+                "token": "ἐρχόμενος",
+                "transliteration": "erchomenos",
+                "strong": "2064",
+                "translation": " comes "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "οὐρανοῦ",
+                "transliteration": "ouranou",
+                "strong": "3772",
+                "translation": " heaven "
+            },
+            {
+                "token": "ἐστίν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἐπάνω",
+                "transliteration": "epanō",
+                "strong": "1883",
+                "translation": " above "
+            },
+            {
+                "token": "πάντων",
+                "transliteration": "pantōn",
+                "strong": "3956",
+                "translation": " all . "
+            }
+        ],
+        "verse_reference": "John 3:31",
+        "book": "John",
+        "chapter": "3",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "μαρτυρεῖ",
+                "transliteration": "martyrei",
+                "strong": "3140",
+                "translation": " He testifies "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " to "
+            },
+            {
+                "token": "ὃ",
+                "transliteration": "ho",
+                "strong": "3739",
+                "translation": " what "
+            },
+            {
+                "token": "ἑώρακεν",
+                "transliteration": "heōraken",
+                "strong": "3708",
+                "translation": " He has seen "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ἤκουσεν",
+                "transliteration": "ēkousen",
+                "strong": "191",
+                "translation": " heard , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " yet "
+            },
+            {
+                "token": "οὐδεὶς",
+                "transliteration": "oudeis",
+                "strong": "3762",
+                "translation": " no one "
+            },
+            {
+                "token": "λαμβάνει",
+                "transliteration": "lambanei",
+                "strong": "2983",
+                "translation": " accepts "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαρτυρίαν",
+                "transliteration": "martyrian",
+                "strong": "3141",
+                "translation": " testimony . "
+            }
+        ],
+        "verse_reference": "John 3:32",
+        "book": "John",
+        "chapter": "3",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " Whoever "
+            },
+            {
+                "token": "λαβὼν",
+                "transliteration": "labōn",
+                "strong": "2983",
+                "translation": " accepts "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "μαρτυρίαν",
+                "transliteration": "martyrian",
+                "strong": "3141",
+                "translation": " testimony "
+            },
+            {
+                "token": "ἐσφράγισεν",
+                "transliteration": "esphragisen",
+                "strong": "4972",
+                "translation": " has certified "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἐστιν",
+                "transliteration": "estin",
+                "strong": "1510",
+                "translation": " is "
+            },
+            {
+                "token": "ἀληθής",
+                "transliteration": "alēthēs",
+                "strong": "227",
+                "translation": " truthful . "
+            }
+        ],
+        "verse_reference": "John 3:33",
+        "book": "John",
+        "chapter": "3",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ὃν",
+                "transliteration": "hon",
+                "strong": "3739",
+                "translation": " the [One] "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " whom "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ἀπέστειλεν",
+                "transliteration": "apesteilen",
+                "strong": "649",
+                "translation": " has sent "
+            },
+            {
+                "token": "λαλεῖ",
+                "transliteration": "lalei",
+                "strong": "2980",
+                "translation": " speaks "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ῥήματα",
+                "transliteration": "rhēmata",
+                "strong": "4487",
+                "translation": " words "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " for "
+            },
+            {
+                "token": "δίδωσιν",
+                "transliteration": "didōsin",
+                "strong": "1325",
+                "translation": " [God] gives "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Πνεῦμα",
+                "transliteration": "Pneuma",
+                "strong": "4151",
+                "translation": " Spirit "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " without "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " . . . "
+            },
+            {
+                "token": "μέτρου",
+                "transliteration": "metrou",
+                "strong": "3358",
+                "translation": " limit . "
+            }
+        ],
+        "verse_reference": "John 3:34",
+        "book": "John",
+        "chapter": "3",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "Πατὴρ",
+                "transliteration": "Patēr",
+                "strong": "3962",
+                "translation": " Father "
+            },
+            {
+                "token": "ἀγαπᾷ",
+                "transliteration": "agapa",
+                "strong": "25",
+                "translation": " loves "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱόν",
+                "transliteration": "Huion",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "δέδωκεν",
+                "transliteration": "dedōken",
+                "strong": "1325",
+                "translation": " has placed "
+            },
+            {
+                "token": "πάντα",
+                "transliteration": "panta",
+                "strong": "3956",
+                "translation": " all things "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " in "
+            },
+            {
+                "token": "αὐτοῦ",
+                "transliteration": "autou",
+                "strong": "846",
+                "translation": " His "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "χειρὶ",
+                "transliteration": "cheiri",
+                "strong": "5495",
+                "translation": " hands . "
+            }
+        ],
+        "verse_reference": "John 3:35",
+        "book": "John",
+        "chapter": "3",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " Whoever "
+            },
+            {
+                "token": "πιστεύων",
+                "transliteration": "pisteuōn",
+                "strong": "4100",
+                "translation": " believes "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " in "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱὸν",
+                "transliteration": "Huion",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "ἔχει",
+                "transliteration": "echei",
+                "strong": "2192",
+                "translation": " has "
+            },
+            {
+                "token": "αἰώνιον",
+                "transliteration": "aiōnion",
+                "strong": "166",
+                "translation": " eternal "
+            },
+            {
+                "token": "ζωὴν",
+                "transliteration": "zōēn",
+                "strong": "2222",
+                "translation": " life . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " Whoever "
+            },
+            {
+                "token": "ἀπειθῶν",
+                "transliteration": "apeithōn",
+                "strong": "544",
+                "translation": " rejects "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Υἱῷ",
+                "transliteration": "Huiō",
+                "strong": "5207",
+                "translation": " Son "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὄψεται",
+                "transliteration": "opsetai",
+                "strong": "3708",
+                "translation": " will not see "
+            },
+            {
+                "token": "ζωήν",
+                "transliteration": "zōēn",
+                "strong": "2222",
+                "translation": " life . "
+            },
+            {
+                "token": "ἀλλ’",
+                "transliteration": "all’",
+                "strong": "235",
+                "translation": " Instead , "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ὀργὴ",
+                "transliteration": "orgē",
+                "strong": "3709",
+                "translation": " wrath "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God "
+            },
+            {
+                "token": "μένει",
+                "transliteration": "menei",
+                "strong": "3306",
+                "translation": " remains "
+            },
+            {
+                "token": "ἐπ’",
+                "transliteration": "ep’",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "αὐτόν",
+                "transliteration": "auton",
+                "strong": "846",
+                "translation": " him .” "
+            }
+        ],
+        "verse_reference": "John 3:36",
+        "book": "John",
+        "chapter": "3",
+        "verse": "36"
+    }
+]

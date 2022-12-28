@@ -1,0 +1,604 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "לַמְנַצֵּ֥חַ",
+                "transliteration": "lam·naṣ·ṣê·aḥ",
+                "strong": "5329",
+                "translation": " For the choirmaster : "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "516",
+                "translation": " vvv "
+            },
+            {
+                "token": "תַּשְׁחֵ֑ת",
+                "transliteration": "taš·ḥêṯ",
+                "strong": "516",
+                "translation": " [To the tune of] “Do Not Destroy . ” "
+            },
+            {
+                "token": "מִזְמ֖וֹר",
+                "transliteration": "miz·mō·wr",
+                "strong": "4210",
+                "translation": " A Psalm "
+            },
+            {
+                "token": "לְאָסָ֣ף",
+                "transliteration": "lə·’ā·sāp̄",
+                "strong": "623",
+                "translation": " of Asaph . "
+            },
+            {
+                "token": "שִֽׁיר׃",
+                "transliteration": "šîr",
+                "strong": "7892",
+                "translation": " A song . "
+            },
+            {
+                "token": "ה֘וֹדִ֤ינוּ",
+                "transliteration": "hō·w·ḏî·nū",
+                "strong": "3034",
+                "translation": " We give thanks "
+            },
+            {
+                "token": "לְּךָ֨׀",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " to You , "
+            },
+            {
+                "token": "אֱ‍ֽלֹהִ֗ים",
+                "transliteration": "’ĕlō·hîm",
+                "strong": "430",
+                "translation": " O God ; "
+            },
+            {
+                "token": "ה֭וֹדִינוּ",
+                "transliteration": "hō·w·ḏî·nū",
+                "strong": "3034",
+                "translation": " we give thanks , "
+            },
+            {
+                "token": "שְׁמֶ֑ךָ",
+                "transliteration": "šə·me·ḵā",
+                "strong": "8034",
+                "translation": " for Your Name "
+            },
+            {
+                "token": "וְקָר֣וֹב",
+                "transliteration": "wə·qā·rō·wḇ",
+                "strong": "7138",
+                "translation": " is near . "
+            },
+            {
+                "token": "סִ֝פְּר֗וּ",
+                "transliteration": "sip·pə·rū",
+                "strong": "5608",
+                "translation": " The people declare "
+            },
+            {
+                "token": "נִפְלְאוֹתֶֽיךָ׃",
+                "transliteration": "nip̄·lə·’ō·w·ṯe·ḵā",
+                "strong": "6381",
+                "translation": " Your wondrous works . "
+            }
+        ],
+        "verse_reference": "Psalm 75:1",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֭י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " “ When "
+            },
+            {
+                "token": "אֶקַּ֣ח",
+                "transliteration": "’eq·qaḥ",
+                "strong": "3947",
+                "translation": " I choose "
+            },
+            {
+                "token": "מוֹעֵ֑ד",
+                "transliteration": "mō·w·‘êḏ",
+                "strong": "4150",
+                "translation": " a time , "
+            },
+            {
+                "token": "אֲ֝נִ֗י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "אֶשְׁפֹּֽט׃",
+                "transliteration": "’eš·pōṭ",
+                "strong": "8199",
+                "translation": " will judge "
+            },
+            {
+                "token": "מֵישָׁרִ֥ים",
+                "transliteration": "mê·šā·rîm",
+                "strong": "4339",
+                "translation": " fairly . "
+            }
+        ],
+        "verse_reference": "Psalm 75:2",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶ֥רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " When the earth "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "יֹשְׁבֶ֑יהָ",
+                "transliteration": "yō·šə·ḇe·hā",
+                "strong": "3427",
+                "translation": " its dwellers "
+            },
+            {
+                "token": "נְֽמֹגִ֗ים",
+                "transliteration": "nə·mō·ḡîm",
+                "strong": "4127",
+                "translation": " quake , "
+            },
+            {
+                "token": "אָנֹכִ֨י",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " it is I "
+            },
+            {
+                "token": "תִכַּ֖נְתִּי",
+                "transliteration": "ṯik·kan·tî",
+                "strong": "8505",
+                "translation": " who bear up "
+            },
+            {
+                "token": "עַמּוּדֶ֣יהָ",
+                "transliteration": "‘am·mū·ḏe·hā",
+                "strong": "5982",
+                "translation": " its pillars . "
+            },
+            {
+                "token": "סֶּֽלָה׃",
+                "transliteration": "se·lāh",
+                "strong": "5542",
+                "translation": " Selah "
+            }
+        ],
+        "verse_reference": "Psalm 75:3",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָמַ֣רְתִּי",
+                "transliteration": "’ā·mar·tî",
+                "strong": "559",
+                "translation": " I say "
+            },
+            {
+                "token": "לַֽ֭הוֹלְלִים",
+                "transliteration": "la·hō·wl·lîm",
+                "strong": "1984",
+                "translation": " to the proud , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " ‘ Do not "
+            },
+            {
+                "token": "תָּהֹ֑לּוּ",
+                "transliteration": "tā·hōl·lū",
+                "strong": "1984",
+                "translation": " boast , ’ "
+            },
+            {
+                "token": "וְ֝לָרְשָׁעִ֗ים",
+                "transliteration": "wə·lā·rə·šā·‘îm",
+                "strong": "7563",
+                "translation": " and to the wicked , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " ‘ Do not "
+            },
+            {
+                "token": "תָּרִ֥ימוּ",
+                "transliteration": "tā·rî·mū",
+                "strong": "7311",
+                "translation": " lift up "
+            },
+            {
+                "token": "קָֽרֶן׃",
+                "transliteration": "qā·ren",
+                "strong": "7161",
+                "translation": " your horn . "
+            }
+        ],
+        "verse_reference": "Psalm 75:4",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Do not "
+            },
+            {
+                "token": "תָּרִ֣ימוּ",
+                "transliteration": "tā·rî·mū",
+                "strong": "7311",
+                "translation": " lift up "
+            },
+            {
+                "token": "קַרְנְכֶ֑ם",
+                "transliteration": "qar·nə·ḵem",
+                "strong": "7161",
+                "translation": " your horn "
+            },
+            {
+                "token": "לַמָּר֣וֹם",
+                "transliteration": "lam·mā·rō·wm",
+                "strong": "4791",
+                "translation": " against heaven "
+            },
+            {
+                "token": "תְּדַבְּר֖וּ",
+                "transliteration": "tə·ḏab·bə·rū",
+                "strong": "1696",
+                "translation": " or speak "
+            },
+            {
+                "token": "עָתָֽק׃",
+                "transliteration": "‘ā·ṯāq",
+                "strong": "6277",
+                "translation": " with an outstretched "
+            },
+            {
+                "token": "בְצַוָּ֣אר",
+                "transliteration": "ḇə·ṣaw·wār",
+                "strong": "6677",
+                "translation": " neck . ’” "
+            }
+        ],
+        "verse_reference": "Psalm 75:5",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "הָרִֽים׃",
+                "transliteration": "hā·rîm",
+                "strong": "7311",
+                "translation": " exaltation "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " comes neither "
+            },
+            {
+                "token": "מִ֭מּוֹצָא",
+                "transliteration": "mim·mō·w·ṣā",
+                "strong": "4161",
+                "translation": " from east "
+            },
+            {
+                "token": "וּמִֽמַּעֲרָ֑ב",
+                "transliteration": "ū·mim·ma·‘ă·rāḇ",
+                "strong": "4628",
+                "translation": " nor west , "
+            },
+            {
+                "token": "וְ֝לֹ֗א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " nor "
+            },
+            {
+                "token": "מִמִּדְבַּ֥ר",
+                "transliteration": "mim·miḏ·bar",
+                "strong": "4057",
+                "translation": " out of the desert , "
+            }
+        ],
+        "verse_reference": "Psalm 75:6",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " but "
+            },
+            {
+                "token": "אֱלֹהִ֥ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " it is God "
+            },
+            {
+                "token": "שֹׁפֵ֑ט",
+                "transliteration": "šō·p̄êṭ",
+                "strong": "8199",
+                "translation": " who judges ; "
+            },
+            {
+                "token": "יַ֝שְׁפִּ֗יל",
+                "transliteration": "yaš·pîl",
+                "strong": "8213",
+                "translation": " He brings down "
+            },
+            {
+                "token": "זֶ֥ה",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " one "
+            },
+            {
+                "token": "יָרִֽים׃",
+                "transliteration": "yā·rîm",
+                "strong": "7311",
+                "translation": " and exalts "
+            },
+            {
+                "token": "וְזֶ֣ה",
+                "transliteration": "wə·zeh",
+                "strong": "2088",
+                "translation": " another . "
+            }
+        ],
+        "verse_reference": "Psalm 75:7",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "כ֪וֹס",
+                "transliteration": "ḵō·ws",
+                "strong": "3563",
+                "translation": " a cup "
+            },
+            {
+                "token": "בְּֽיַד־",
+                "transliteration": "bə·yaḏ-",
+                "strong": "3027",
+                "translation": " is in the hand "
+            },
+            {
+                "token": "יְהוָ֡ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD , "
+            },
+            {
+                "token": "מָ֥לֵא",
+                "transliteration": "mā·lê",
+                "strong": "4392",
+                "translation": " full of "
+            },
+            {
+                "token": "חָמַ֨ר׀",
+                "transliteration": "ḥā·mar",
+                "strong": "2560",
+                "translation": " foaming "
+            },
+            {
+                "token": "וְיַ֤יִן",
+                "transliteration": "wə·ya·yin",
+                "strong": "3196",
+                "translation": " wine "
+            },
+            {
+                "token": "מֶסֶךְ֮",
+                "transliteration": "me·seḵ",
+                "strong": "4538",
+                "translation": " mixed with spices . "
+            },
+            {
+                "token": "וַיַּגֵּ֪ר",
+                "transliteration": "way·yag·gêr",
+                "strong": "5064",
+                "translation": " He pours "
+            },
+            {
+                "token": "מִ֫זֶּ֥ה",
+                "transliteration": "miz·zeh",
+                "strong": "2088",
+                "translation": " from [His cup] , "
+            },
+            {
+                "token": "אַךְ־",
+                "transliteration": "’a·ḵōš-",
+                "strong": "389",
+                "translation": " and "
+            },
+            {
+                "token": "כֹּ֝֗ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "רִשְׁעֵי־",
+                "transliteration": "riš·‘ê-",
+                "strong": "7563",
+                "translation": " the wicked "
+            },
+            {
+                "token": "אָֽרֶץ׃",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth "
+            },
+            {
+                "token": "יִשְׁתּ֑וּ",
+                "transliteration": "yiš·tū",
+                "strong": "8354",
+                "translation": " drink it down "
+            },
+            {
+                "token": "יִמְצ֣וּ",
+                "transliteration": "yim·ṣū",
+                "strong": "4680",
+                "translation": " . . . "
+            },
+            {
+                "token": "שְׁ֭מָרֶיהָ",
+                "transliteration": "mā·re·hā",
+                "strong": "8105",
+                "translation": " to the dregs . "
+            }
+        ],
+        "verse_reference": "Psalm 75:8",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַ֭אֲנִי",
+                "transliteration": "wa·’ă·nî",
+                "strong": "589",
+                "translation": " But I "
+            },
+            {
+                "token": "אַגִּ֣יד",
+                "transliteration": "’ag·gîḏ",
+                "strong": "5046",
+                "translation": " will proclaim Him "
+            },
+            {
+                "token": "לְעֹלָ֑ם",
+                "transliteration": "lə·‘ō·lām",
+                "strong": "5769",
+                "translation": " forever ; "
+            },
+            {
+                "token": "אֲ֝זַמְּרָ֗ה",
+                "transliteration": "’ă·zam·mə·rāh",
+                "strong": "2167",
+                "translation": " I will sing praise "
+            },
+            {
+                "token": "לֵאלֹהֵ֥י",
+                "transliteration": "lê·lō·hê",
+                "strong": "430",
+                "translation": " to the God "
+            },
+            {
+                "token": "יַעֲקֹֽב׃",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob . "
+            }
+        ],
+        "verse_reference": "Psalm 75:9",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " “ All "
+            },
+            {
+                "token": "קַרְנֵ֣י",
+                "transliteration": "qar·nê",
+                "strong": "7161",
+                "translation": " the horns "
+            },
+            {
+                "token": "רְשָׁעִ֣ים",
+                "transliteration": "rə·šā·‘îm",
+                "strong": "7563",
+                "translation": " of the wicked "
+            },
+            {
+                "token": "אֲגַדֵּ֑עַ",
+                "transliteration": "’ă·ḡad·dê·a‘",
+                "strong": "1438",
+                "translation": " I will cut off , "
+            },
+            {
+                "token": "קַֽרְנ֥וֹת",
+                "transliteration": "qar·nō·wṯ",
+                "strong": "7161",
+                "translation": " but the horns "
+            },
+            {
+                "token": "צַדִּֽיק׃",
+                "transliteration": "ṣad·dîq",
+                "strong": "6662",
+                "translation": " of the righteous "
+            },
+            {
+                "token": "תְּ֝רוֹמַ֗מְנָה",
+                "transliteration": "tə·rō·w·mam·nāh",
+                "strong": "7311",
+                "translation": " will be exalted . ” "
+            }
+        ],
+        "verse_reference": "Psalm 75:10",
+        "book": "Psalm",
+        "chapter": "75",
+        "verse": "10"
+    }
+]

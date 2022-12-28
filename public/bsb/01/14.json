@@ -1,0 +1,2246 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "בִּימֵי֙",
+                "transliteration": "bî·mê",
+                "strong": "3117",
+                "translation": " In those days "
+            },
+            {
+                "token": "אַמְרָפֶ֣ל",
+                "transliteration": "’am·rā·p̄el",
+                "strong": "569",
+                "translation": " Amraphel "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "שִׁנְעָ֔ר",
+                "transliteration": "šin·‘ār",
+                "strong": "8152",
+                "translation": " of Shinar , "
+            },
+            {
+                "token": "אַרְי֖וֹךְ",
+                "transliteration": "’ar·yō·wḵ",
+                "strong": "746",
+                "translation": " Arioch "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "אֶלָּסָ֑ר",
+                "transliteration": "’el·lā·sār",
+                "strong": "495",
+                "translation": " of Ellasar , "
+            },
+            {
+                "token": "כְּדָרְלָעֹ֙מֶר֙",
+                "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+                "strong": "3540",
+                "translation": " Chedorlaomer "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "עֵילָ֔ם",
+                "transliteration": "‘ê·lām",
+                "strong": "5867",
+                "translation": " of Elam , "
+            },
+            {
+                "token": "וְתִדְעָ֖ל",
+                "transliteration": "wə·ṯiḏ·‘āl",
+                "strong": "8413",
+                "translation": " and Tidal "
+            },
+            {
+                "token": "מֶ֥לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "גּוֹיִֽם׃",
+                "transliteration": "gō·w·yim",
+                "strong": "1471",
+                "translation": " of Goiim "
+            }
+        ],
+        "verse_reference": "Genesis 14:1",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עָשׂ֣וּ",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " went to "
+            },
+            {
+                "token": "מִלְחָמָ֗ה",
+                "transliteration": "mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " war "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " against "
+            },
+            {
+                "token": "בֶּ֙רַע֙",
+                "transliteration": "be·ra‘",
+                "strong": "1298",
+                "translation": " Bera "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "סְדֹ֔ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "854",
+                "translation": " . . . "
+            },
+            {
+                "token": "בִּרְשַׁ֖ע",
+                "transliteration": "bir·ša‘",
+                "strong": "1306",
+                "translation": " Birsha "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "עֲמֹרָ֑ה",
+                "transliteration": "‘ă·mō·rāh",
+                "strong": "6017",
+                "translation": " of Gomorrah , "
+            },
+            {
+                "token": "שִׁנְאָ֣ב׀",
+                "transliteration": "šin·’āḇ",
+                "strong": "8134",
+                "translation": " Shinab "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "אַדְמָ֗ה",
+                "transliteration": "’aḏ·māh",
+                "strong": "126",
+                "translation": " of Admah , "
+            },
+            {
+                "token": "וְשֶׁמְאֵ֙בֶר֙",
+                "transliteration": "wə·šem·’ê·ḇer",
+                "strong": "8038",
+                "translation": " Shemeber "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "צְבֹיִים",
+                "transliteration": "ṣə·ḇō·yīm",
+                "strong": "6636",
+                "translation": " of Zeboiim , "
+            },
+            {
+                "token": "וּמֶ֥לֶךְ",
+                "transliteration": "ū·me·leḵ",
+                "strong": "4428",
+                "translation": " and the king "
+            },
+            {
+                "token": "בֶּ֖לַע",
+                "transliteration": "be·la‘",
+                "strong": "1106",
+                "translation": " of Bela "
+            },
+            {
+                "token": "הִיא־",
+                "transliteration": "hî-",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "צֹֽעַר׃",
+                "transliteration": "ṣō·‘ar",
+                "strong": "6820",
+                "translation": " Zoar) . "
+            }
+        ],
+        "verse_reference": "Genesis 14:2",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֙לֶּה֙",
+                "transliteration": "’êl·leh",
+                "strong": "428",
+                "translation": " The latter "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " [five] "
+            },
+            {
+                "token": "חָֽבְר֔וּ",
+                "transliteration": "ḥā·ḇə·rū",
+                "strong": "2266",
+                "translation": " came as allies "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "עֵ֖מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " the Valley "
+            },
+            {
+                "token": "הַשִּׂדִּ֑ים",
+                "transliteration": "haś·śid·dîm",
+                "strong": "7708",
+                "translation": " of Siddim "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "הַמֶּֽלַח׃",
+                "transliteration": "ham·me·laḥ",
+                "strong": "4417",
+                "translation": " the Salt "
+            },
+            {
+                "token": "יָ֥ם",
+                "transliteration": "yām",
+                "strong": "3220",
+                "translation": " Sea ). "
+            }
+        ],
+        "verse_reference": "Genesis 14:3",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁתֵּ֤ים",
+                "transliteration": "šə·têm",
+                "strong": "8147",
+                "translation": " For twelve "
+            },
+            {
+                "token": "עֶשְׂרֵה֙",
+                "transliteration": "‘eś·rêh",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֔ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years "
+            },
+            {
+                "token": "עָבְד֖וּ",
+                "transliteration": "‘ā·ḇə·ḏū",
+                "strong": "5647",
+                "translation": " they had been subject "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כְּדָרְלָעֹ֑מֶר",
+                "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+                "strong": "3540",
+                "translation": " to Chedorlaomer , "
+            },
+            {
+                "token": "וּשְׁלֹשׁ־",
+                "transliteration": "ū·šə·lōš-",
+                "strong": "7969",
+                "translation": " but in the thirteenth "
+            },
+            {
+                "token": "עֶשְׂרֵ֥ה",
+                "transliteration": "‘eś·rêh",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֖ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "מָרָֽדוּ׃",
+                "transliteration": "mā·rā·ḏū",
+                "strong": "4775",
+                "translation": " they rebelled . "
+            }
+        ],
+        "verse_reference": "Genesis 14:4",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְאַרְבַּע֩",
+                "transliteration": "ū·ḇə·’ar·ba‘",
+                "strong": "702",
+                "translation": " In the fourteenth "
+            },
+            {
+                "token": "עֶשְׂרֵ֨ה",
+                "transliteration": "‘eś·rêh",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֜ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " year , "
+            },
+            {
+                "token": "כְדָרְלָעֹ֗מֶר",
+                "transliteration": "ḵə·ḏā·rə·lā·‘ō·mer",
+                "strong": "3540",
+                "translation": " Chedorlaomer "
+            },
+            {
+                "token": "וְהַמְּלָכִים֙",
+                "transliteration": "wə·ham·mə·lā·ḵîm",
+                "strong": "4428",
+                "translation": " and the kings "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "אִתּ֔וֹ",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " allied with him "
+            },
+            {
+                "token": "בָּ֣א",
+                "transliteration": "bā",
+                "strong": "935",
+                "translation": " went out "
+            },
+            {
+                "token": "וַיַּכּ֤וּ",
+                "transliteration": "way·yak·kū",
+                "strong": "5221",
+                "translation": " and defeated "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רְפָאִים֙",
+                "transliteration": "rə·p̄ā·’îm",
+                "strong": "7497",
+                "translation": " the Rephaites "
+            },
+            {
+                "token": "בְּעַשְׁתְּרֹ֣ת",
+                "transliteration": "bə·‘aš·tə·rōṯ",
+                "strong": "6255",
+                "translation": " in "
+            },
+            {
+                "token": "קַרְנַ֔יִם",
+                "transliteration": "qar·na·yim",
+                "strong": "6255",
+                "translation": " Ashteroth-karnaim , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַזּוּזִ֖ים",
+                "transliteration": "haz·zū·zîm",
+                "strong": "2104",
+                "translation": " the Zuzites "
+            },
+            {
+                "token": "בְּהָ֑ם",
+                "transliteration": "bə·hām",
+                "strong": "1990",
+                "translation": " in Ham , "
+            },
+            {
+                "token": "וְאֵת֙",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָֽאֵימִ֔ים",
+                "transliteration": "hā·’ê·mîm",
+                "strong": "368",
+                "translation": " the Emites "
+            },
+            {
+                "token": "בְּשָׁוֵ֖ה",
+                "transliteration": "bə·šā·wêh",
+                "strong": "7740",
+                "translation": " in Shaveh-kiriathaim "
+            },
+            {
+                "token": "קִרְיָתָֽיִם׃",
+                "transliteration": "qir·yā·ṯā·yim",
+                "strong": "7156",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Genesis 14:5",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "הַחֹרִ֖י",
+                "transliteration": "ha·ḥō·rî",
+                "strong": "2752",
+                "translation": " the Horites "
+            },
+            {
+                "token": "בְּהַרְרָ֣ם",
+                "transliteration": "bə·har·rām",
+                "strong": "2022",
+                "translation": " in [the area of] Mount "
+            },
+            {
+                "token": "שֵׂעִ֑יר",
+                "transliteration": "śê·‘îr",
+                "strong": "8165",
+                "translation": " Seir , "
+            },
+            {
+                "token": "עַ֚ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " as far as "
+            },
+            {
+                "token": "אֵ֣יל",
+                "transliteration": "’êl",
+                "strong": "364",
+                "translation": " vvv "
+            },
+            {
+                "token": "פָּארָ֔ן",
+                "transliteration": "pā·rān",
+                "strong": "364",
+                "translation": " El-paran , "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which [is] "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " near "
+            },
+            {
+                "token": "הַמִּדְבָּֽר׃",
+                "transliteration": "ham·miḏ·bār",
+                "strong": "4057",
+                "translation": " the desert . "
+            }
+        ],
+        "verse_reference": "Genesis 14:6",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַ֠יָּשֻׁבוּ",
+                "transliteration": "way·yā·šu·ḇū",
+                "strong": "7725",
+                "translation": " Then they turned back "
+            },
+            {
+                "token": "וַיָּבֹ֜אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " to invade "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֵ֤ין",
+                "transliteration": "‘ên",
+                "strong": "5880",
+                "translation": " vvv "
+            },
+            {
+                "token": "מִשְׁפָּט֙",
+                "transliteration": "miš·pāṭ",
+                "strong": "5880",
+                "translation": " En-mishpat "
+            },
+            {
+                "token": "הִ֣וא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "קָדֵ֔שׁ",
+                "transliteration": "qā·ḏêš",
+                "strong": "6946",
+                "translation": " Kadesh) , "
+            },
+            {
+                "token": "וַיַּכּ֕וּ",
+                "transliteration": "way·yak·kū",
+                "strong": "5221",
+                "translation": " and they conquered "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "שְׂדֵ֖ה",
+                "transliteration": "śə·ḏêh",
+                "strong": "7704",
+                "translation": " territory "
+            },
+            {
+                "token": "הָעֲמָלֵקִ֑י",
+                "transliteration": "hā·‘ă·mā·lê·qî",
+                "strong": "6003",
+                "translation": " of the Amalekites , "
+            },
+            {
+                "token": "וְגַם֙",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " as "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָ֣אֱמֹרִ֔י",
+                "transliteration": "hā·’ĕ·mō·rî",
+                "strong": "567",
+                "translation": " well as the Amorites "
+            },
+            {
+                "token": "הַיֹּשֵׁ֖ב",
+                "transliteration": "hay·yō·šêḇ",
+                "strong": "3427",
+                "translation": " who lived "
+            },
+            {
+                "token": "בְּחַֽצְצֹ֥ן",
+                "transliteration": "bə·ḥaṣ·ṣōn",
+                "strong": "2688",
+                "translation": " vvv "
+            },
+            {
+                "token": "תָּמָֽר׃",
+                "transliteration": "tā·mār",
+                "strong": "2688",
+                "translation": " in Hazazon-tamar . "
+            }
+        ],
+        "verse_reference": "Genesis 14:7",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " Then the king "
+            },
+            {
+                "token": "סְדֹ֜ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom , "
+            },
+            {
+                "token": "וּמֶ֣לֶךְ",
+                "transliteration": "ū·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "עֲמֹרָ֗ה",
+                "transliteration": "‘ă·mō·rāh",
+                "strong": "6017",
+                "translation": " of Gomorrah , "
+            },
+            {
+                "token": "וּמֶ֤לֶךְ",
+                "transliteration": "ū·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "אַדְמָה֙",
+                "transliteration": "’aḏ·māh",
+                "strong": "126",
+                "translation": " of Admah , "
+            },
+            {
+                "token": "וּמֶ֣לֶךְ",
+                "transliteration": "ū·me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "צְבֹיִים",
+                "transliteration": "ṣə·ḇō·yīm",
+                "strong": "6636",
+                "translation": " of Zeboiim , "
+            },
+            {
+                "token": "וּמֶ֥לֶךְ",
+                "transliteration": "ū·me·leḵ",
+                "strong": "4428",
+                "translation": " and the king "
+            },
+            {
+                "token": "בֶּ֖לַע",
+                "transliteration": "be·la‘",
+                "strong": "1106",
+                "translation": " of Bela "
+            },
+            {
+                "token": "הִוא־",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "צֹ֑עַר",
+                "transliteration": "ṣō·‘ar",
+                "strong": "6820",
+                "translation": " Zoar ) "
+            },
+            {
+                "token": "וַיֵּצֵ֨א",
+                "transliteration": "way·yê·ṣê",
+                "strong": "3318",
+                "translation": " marched out "
+            },
+            {
+                "token": "וַיַּֽעַרְכ֤וּ",
+                "transliteration": "way·ya·‘ar·ḵū",
+                "strong": "6186",
+                "translation": " and arrayed "
+            },
+            {
+                "token": "אִתָּם֙",
+                "transliteration": "’it·tām",
+                "strong": "854",
+                "translation": " themselves "
+            },
+            {
+                "token": "מִלְחָמָ֔ה",
+                "transliteration": "mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " for battle "
+            },
+            {
+                "token": "בְּעֵ֖מֶק",
+                "transliteration": "bə·‘ê·meq",
+                "strong": "6010",
+                "translation": " in the Valley "
+            },
+            {
+                "token": "הַשִּׂדִּֽים׃",
+                "transliteration": "haś·śid·dîm",
+                "strong": "7708",
+                "translation": " of Siddim "
+            }
+        ],
+        "verse_reference": "Genesis 14:8",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֣ת",
+                "transliteration": "’êṯ",
+                "strong": "854",
+                "translation": " against "
+            },
+            {
+                "token": "כְּדָרְלָעֹ֜מֶר",
+                "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+                "strong": "3540",
+                "translation": " Chedorlaomer "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "עֵילָ֗ם",
+                "transliteration": "‘ê·lām",
+                "strong": "5867",
+                "translation": " of Elam , "
+            },
+            {
+                "token": "וְתִדְעָל֙",
+                "transliteration": "wə·ṯiḏ·‘āl",
+                "strong": "8413",
+                "translation": " Tidal "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "גּוֹיִ֔ם",
+                "transliteration": "gō·w·yim",
+                "strong": "1471",
+                "translation": " of Goiim , "
+            },
+            {
+                "token": "וְאַמְרָפֶל֙",
+                "transliteration": "wə·’am·rā·p̄el",
+                "strong": "569",
+                "translation": " Amraphel "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "שִׁנְעָ֔ר",
+                "transliteration": "šin·‘ār",
+                "strong": "8152",
+                "translation": " of Shinar , "
+            },
+            {
+                "token": "וְאַרְי֖וֹךְ",
+                "transliteration": "wə·’ar·yō·wḵ",
+                "strong": "746",
+                "translation": " and Arioch "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "אֶלָּסָ֑ר",
+                "transliteration": "’el·lā·sār",
+                "strong": "495",
+                "translation": " of Ellasar — "
+            },
+            {
+                "token": "אַרְבָּעָ֥ה",
+                "transliteration": "’ar·bā·‘āh",
+                "strong": "702",
+                "translation": " four "
+            },
+            {
+                "token": "מְלָכִ֖ים",
+                "transliteration": "mə·lā·ḵîm",
+                "strong": "4428",
+                "translation": " kings "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " against "
+            },
+            {
+                "token": "הַחֲמִשָּֽׁה׃",
+                "transliteration": "ha·ḥă·miš·šāh",
+                "strong": "2568",
+                "translation": " five . "
+            }
+        ],
+        "verse_reference": "Genesis 14:9",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְעֵ֣מֶק",
+                "transliteration": "wə·‘ê·meq",
+                "strong": "6010",
+                "translation": " Now the Valley "
+            },
+            {
+                "token": "הַשִׂדִּ֗ים",
+                "transliteration": "ha·śid·dīm",
+                "strong": "7708",
+                "translation": " of Siddim "
+            },
+            {
+                "token": "חֵמָ֔ר",
+                "transliteration": "ḥê·mār",
+                "strong": "2564",
+                "translation": " was full of tar "
+            },
+            {
+                "token": "בֶּֽאֱרֹ֤ת",
+                "transliteration": "be·’ĕ·rōṯ",
+                "strong": "875",
+                "translation": " pits "
+            },
+            {
+                "token": "בֶּאֱרֹת֙",
+                "transliteration": "be·’ĕ·rōṯ",
+                "strong": "875",
+                "translation": " . . . , "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " and as the kings "
+            },
+            {
+                "token": "סְדֹ֥ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom "
+            },
+            {
+                "token": "וַעֲמֹרָ֖ה",
+                "transliteration": "wa·‘ă·mō·rāh",
+                "strong": "6017",
+                "translation": " and Gomorrah "
+            },
+            {
+                "token": "וַיָּנֻ֛סוּ",
+                "transliteration": "way·yā·nu·sū",
+                "strong": "5127",
+                "translation": " fled , "
+            },
+            {
+                "token": "וַיִּפְּלוּ־",
+                "transliteration": "way·yip·pə·lū-",
+                "strong": "5307",
+                "translation": " some men fell "
+            },
+            {
+                "token": "שָׁ֑מָּה",
+                "transliteration": "šām·māh",
+                "strong": "8033",
+                "translation": " into [the pits] , "
+            },
+            {
+                "token": "וְהַנִּשְׁאָרִ֖ים",
+                "transliteration": "wə·han·niš·’ā·rîm",
+                "strong": "7604",
+                "translation": " but the survivors "
+            },
+            {
+                "token": "נָּֽסוּ׃",
+                "transliteration": "nā·sū",
+                "strong": "5127",
+                "translation": " fled "
+            },
+            {
+                "token": "הֶ֥רָה",
+                "transliteration": "he·rāh",
+                "strong": "2022",
+                "translation": " to the hill country . "
+            }
+        ],
+        "verse_reference": "Genesis 14:10",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַ֠יִּקְחוּ",
+                "transliteration": "way·yiq·ḥū",
+                "strong": "3947",
+                "translation": " The [four kings] seized "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "רְכֻ֨שׁ",
+                "transliteration": "rə·ḵuš",
+                "strong": "7399",
+                "translation": " the goods "
+            },
+            {
+                "token": "סְדֹ֧ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom "
+            },
+            {
+                "token": "וַעֲמֹרָ֛ה",
+                "transliteration": "wa·‘ă·mō·rāh",
+                "strong": "6017",
+                "translation": " and Gomorrah "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "אָכְלָ֖ם",
+                "transliteration": "’ā·ḵə·lām",
+                "strong": "400",
+                "translation": " their food , "
+            },
+            {
+                "token": "וַיֵּלֵֽכוּ׃",
+                "transliteration": "way·yê·lê·ḵū",
+                "strong": "1980",
+                "translation": " and they went on their way . "
+            }
+        ],
+        "verse_reference": "Genesis 14:11",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּקְח֨וּ",
+                "transliteration": "way·yiq·ḥū",
+                "strong": "3947",
+                "translation": " They also carried off "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיֵּלֵ֑כוּ",
+                "transliteration": "way·yê·lê·ḵū",
+                "strong": "1980",
+                "translation": " - "
+            },
+            {
+                "token": "אַבְרָ֖ם",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " Abram’s "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " nephew "
+            },
+            {
+                "token": "אֲחִ֥י",
+                "transliteration": "’ă·ḥî",
+                "strong": "251",
+                "translation": " . . . "
+            },
+            {
+                "token": "ל֧וֹט",
+                "transliteration": "lō·wṭ",
+                "strong": "3876",
+                "translation": " Lot "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רְכֻשׁ֛וֹ",
+                "transliteration": "rə·ḵu·šōw",
+                "strong": "7399",
+                "translation": " and his possessions , "
+            },
+            {
+                "token": "וְה֥וּא",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " since [Lot] "
+            },
+            {
+                "token": "יֹשֵׁ֖ב",
+                "transliteration": "yō·šêḇ",
+                "strong": "3427",
+                "translation": " was living "
+            },
+            {
+                "token": "בִּסְדֹֽם׃",
+                "transliteration": "bis·ḏōm",
+                "strong": "5467",
+                "translation": " in Sodom . "
+            }
+        ],
+        "verse_reference": "Genesis 14:12",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַפָּלִ֔יט",
+                "transliteration": "hap·pā·lîṭ",
+                "strong": "6412",
+                "translation": " Then an escapee "
+            },
+            {
+                "token": "וַיָּבֹא֙",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " came "
+            },
+            {
+                "token": "וַיַּגֵּ֖ד",
+                "transliteration": "way·yag·gêḏ",
+                "strong": "5046",
+                "translation": " and reported [this] "
+            },
+            {
+                "token": "לְאַבְרָ֣ם",
+                "transliteration": "lə·’aḇ·rām",
+                "strong": "87",
+                "translation": " to Abram "
+            },
+            {
+                "token": "הָעִבְרִ֑י",
+                "transliteration": "hā·‘iḇ·rî",
+                "strong": "5680",
+                "translation": " the Hebrew . "
+            },
+            {
+                "token": "וְהוּא֩",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " Now [Abram] "
+            },
+            {
+                "token": "שֹׁכֵ֨ן",
+                "transliteration": "šō·ḵên",
+                "strong": "7931",
+                "translation": " was living "
+            },
+            {
+                "token": "בְּאֵֽלֹנֵ֜י",
+                "transliteration": "bə·’ê·lō·nê",
+                "strong": "436",
+                "translation": " near the Oaks "
+            },
+            {
+                "token": "מַמְרֵ֣א",
+                "transliteration": "mam·rê",
+                "strong": "4471",
+                "translation": " of Mamre "
+            },
+            {
+                "token": "הָאֱמֹרִ֗י",
+                "transliteration": "hā·’ĕ·mō·rî",
+                "strong": "567",
+                "translation": " the Amorite , "
+            },
+            {
+                "token": "אֲחִ֤י",
+                "transliteration": "’ă·ḥî",
+                "strong": "251",
+                "translation": " a brother "
+            },
+            {
+                "token": "אֶשְׁכֹּל֙",
+                "transliteration": "’eš·kōl",
+                "strong": "812",
+                "translation": " of Eshcol "
+            },
+            {
+                "token": "וַאֲחִ֣י",
+                "transliteration": "wa·’ă·ḥî",
+                "strong": "251",
+                "translation": " [and] "
+            },
+            {
+                "token": "עָנֵ֔ר",
+                "transliteration": "‘ā·nêr",
+                "strong": "6063",
+                "translation": " Aner , "
+            },
+            {
+                "token": "וְהֵ֖ם",
+                "transliteration": "wə·hêm",
+                "strong": "1992",
+                "translation": " all of whom "
+            },
+            {
+                "token": "בַּעֲלֵ֥י",
+                "transliteration": "ba·‘ă·lê",
+                "strong": "1167",
+                "translation": " were bound "
+            },
+            {
+                "token": "בְרִית־",
+                "transliteration": "ḇə·rîṯ-",
+                "strong": "1285",
+                "translation": " by treaty "
+            },
+            {
+                "token": "אַבְרָֽם׃",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " to Abram . "
+            }
+        ],
+        "verse_reference": "Genesis 14:13",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַבְרָ֔ם",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " And when Abram "
+            },
+            {
+                "token": "וַיִּשְׁמַ֣ע",
+                "transliteration": "way·yiš·ma‘",
+                "strong": "8085",
+                "translation": " heard "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אָחִ֑יו",
+                "transliteration": "’ā·ḥîw",
+                "strong": "251",
+                "translation": " his relative "
+            },
+            {
+                "token": "נִשְׁבָּ֖ה",
+                "transliteration": "niš·bāh",
+                "strong": "7617",
+                "translation": " had been captured , "
+            },
+            {
+                "token": "וַיָּ֨רֶק",
+                "transliteration": "way·yā·req",
+                "strong": "7324",
+                "translation": " he mobilized "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שְׁמֹנָ֤ה",
+                "transliteration": "šə·mō·nāh",
+                "strong": "8083",
+                "translation": " the 318 "
+            },
+            {
+                "token": "עָשָׂר֙",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּשְׁלֹ֣שׁ",
+                "transliteration": "ū·šə·lōš",
+                "strong": "7969",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֔וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֲנִיכָ֜יו",
+                "transliteration": "ḥă·nî·ḵāw",
+                "strong": "2593",
+                "translation": " trained men "
+            },
+            {
+                "token": "יְלִידֵ֣י",
+                "transliteration": "yə·lî·ḏê",
+                "strong": "3211",
+                "translation": " born "
+            },
+            {
+                "token": "בֵית֗וֹ",
+                "transliteration": "ḇê·ṯōw",
+                "strong": "1004",
+                "translation": " in his household , "
+            },
+            {
+                "token": "וַיִּרְדֹּ֖ף",
+                "transliteration": "way·yir·dōp̄",
+                "strong": "7291",
+                "translation": " and they set out in pursuit "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " as "
+            },
+            {
+                "token": "דָּֽן׃",
+                "transliteration": "dān",
+                "strong": "1835",
+                "translation": " far as Dan . "
+            }
+        ],
+        "verse_reference": "Genesis 14:14",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לַ֛יְלָה",
+                "transliteration": "lay·lāh",
+                "strong": "3915",
+                "translation": " During the night , "
+            },
+            {
+                "token": "ה֥וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " [Abram] "
+            },
+            {
+                "token": "וַיֵּחָלֵ֨ק",
+                "transliteration": "way·yê·ḥā·lêq",
+                "strong": "2505",
+                "translation": " divided "
+            },
+            {
+                "token": "עֲלֵיהֶ֧ם׀",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַעֲבָדָ֖יו",
+                "transliteration": "wa·‘ă·ḇā·ḏāw",
+                "strong": "5650",
+                "translation": " his forces "
+            },
+            {
+                "token": "וַיַּכֵּ֑ם",
+                "transliteration": "way·yak·kêm",
+                "strong": "5221",
+                "translation": " and routed [Chedorlaomer’s army] , "
+            },
+            {
+                "token": "וַֽיִּרְדְּפֵם֙",
+                "transliteration": "way·yir·də·p̄êm",
+                "strong": "7291",
+                "translation": " pursuing them "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " as far as "
+            },
+            {
+                "token": "חוֹבָ֔ה",
+                "transliteration": "ḥō·w·ḇāh",
+                "strong": "2327",
+                "translation": " Hobah , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "מִשְּׂמֹ֖אל",
+                "transliteration": "miś·śə·mōl",
+                "strong": "8040",
+                "translation": " north "
+            },
+            {
+                "token": "לְדַמָּֽשֶׂק׃",
+                "transliteration": "lə·ḏam·mā·śeq",
+                "strong": "1834",
+                "translation": " of Damascus . "
+            }
+        ],
+        "verse_reference": "Genesis 14:15",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּ֕שֶׁב",
+                "transliteration": "way·yā·šeḇ",
+                "strong": "7725",
+                "translation": " He retrieved "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הָרְכֻ֑שׁ",
+                "transliteration": "hā·rə·ḵuš",
+                "strong": "7399",
+                "translation": " the goods , "
+            },
+            {
+                "token": "וְגַם֩",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " as well as "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אָחִ֤יו",
+                "transliteration": "’ā·ḥîw",
+                "strong": "251",
+                "translation": " his relative "
+            },
+            {
+                "token": "ל֨וֹט",
+                "transliteration": "lō·wṭ",
+                "strong": "3876",
+                "translation": " Lot "
+            },
+            {
+                "token": "וּרְכֻשׁוֹ֙",
+                "transliteration": "ū·rə·ḵu·šōw",
+                "strong": "7399",
+                "translation": " and his possessions , "
+            },
+            {
+                "token": "הֵשִׁ֔יב",
+                "transliteration": "hê·šîḇ",
+                "strong": "7725",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְגַ֥ם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " together with "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַנָּשִׁ֖ים",
+                "transliteration": "han·nā·šîm",
+                "strong": "802",
+                "translation": " the women "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָעָֽם׃",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " and the rest of the people . "
+            }
+        ],
+        "verse_reference": "Genesis 14:16",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַחֲרֵ֣י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " After "
+            },
+            {
+                "token": "שׁוּב֗וֹ",
+                "transliteration": "šū·ḇōw",
+                "strong": "7725",
+                "translation": " Abram returned "
+            },
+            {
+                "token": "מֵֽהַכּוֹת֙",
+                "transliteration": "mê·hak·kō·wṯ",
+                "strong": "5221",
+                "translation": " from defeating "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כְּדָר־",
+                "transliteration": "kə·ḏå̄r-",
+                "strong": "3540",
+                "translation": " vvv "
+            },
+            {
+                "token": "לָעֹ֔מֶר",
+                "transliteration": "lå̄·ʿō·mɛr",
+                "strong": "3540",
+                "translation": " Chedorlaomer "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמְּלָכִ֖ים",
+                "transliteration": "ham·mə·lā·ḵîm",
+                "strong": "4428",
+                "translation": " and the kings "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " vvv "
+            },
+            {
+                "token": "אִתּ֑וֹ",
+                "transliteration": "’it·tōw",
+                "strong": "854",
+                "translation": " allied with him , "
+            },
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "סְדֹם֮",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom "
+            },
+            {
+                "token": "וַיֵּצֵ֣א",
+                "transliteration": "way·yê·ṣê",
+                "strong": "3318",
+                "translation": " went out "
+            },
+            {
+                "token": "לִקְרָאתוֹ֒",
+                "transliteration": "liq·rā·ṯōw",
+                "strong": "7122",
+                "translation": " to meet him "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " in "
+            },
+            {
+                "token": "עֵ֣מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " the Valley "
+            },
+            {
+                "token": "שָׁוֵ֔ה",
+                "transliteration": "šā·wêh",
+                "strong": "7740",
+                "translation": " of Shaveh "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " (that is , "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the King’s "
+            },
+            {
+                "token": "עֵ֥מֶק",
+                "transliteration": "‘ê·meq",
+                "strong": "6010",
+                "translation": " Valley) . "
+            }
+        ],
+        "verse_reference": "Genesis 14:17",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמַלְכִּי־",
+                "transliteration": "ū·mal·kî-",
+                "strong": "4442",
+                "translation": " vvv "
+            },
+            {
+                "token": "צֶ֙דֶק֙",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "4442",
+                "translation": " Then Melchizedek "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "שָׁלֵ֔ם",
+                "transliteration": "šā·lêm",
+                "strong": "8004",
+                "translation": " of Salem "
+            },
+            {
+                "token": "הוֹצִ֖יא",
+                "transliteration": "hō·w·ṣî",
+                "strong": "3318",
+                "translation": " brought out "
+            },
+            {
+                "token": "לֶ֣חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "3899",
+                "translation": " bread "
+            },
+            {
+                "token": "וָיָ֑יִן",
+                "transliteration": "wā·yā·yin",
+                "strong": "3196",
+                "translation": " and wine — "
+            },
+            {
+                "token": "וְה֥וּא",
+                "transliteration": "wə·hū",
+                "strong": "1931",
+                "translation": " since he "
+            },
+            {
+                "token": "כֹהֵ֖ן",
+                "transliteration": "ḵō·hên",
+                "strong": "3548",
+                "translation": " was priest "
+            },
+            {
+                "token": "לְאֵ֥ל",
+                "transliteration": "lə·’êl",
+                "strong": "410",
+                "translation": " of God "
+            },
+            {
+                "token": "עֶלְיֽוֹן׃",
+                "transliteration": "‘el·yō·wn",
+                "strong": "5945",
+                "translation": " Most High — "
+            }
+        ],
+        "verse_reference": "Genesis 14:18",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽיְבָרְכֵ֖הוּ",
+                "transliteration": "way·ḇā·rə·ḵê·hū",
+                "strong": "1288",
+                "translation": " and he blessed [Abram] "
+            },
+            {
+                "token": "וַיֹּאמַ֑ר",
+                "transliteration": "way·yō·mar",
+                "strong": "559",
+                "translation": " and said : "
+            },
+            {
+                "token": "בָּר֤וּךְ",
+                "transliteration": "bā·rūḵ",
+                "strong": "1288",
+                "translation": " “ Blessed be "
+            },
+            {
+                "token": "אַבְרָם֙",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " Abram "
+            },
+            {
+                "token": "לְאֵ֣ל",
+                "transliteration": "lə·’êl",
+                "strong": "410",
+                "translation": " by God "
+            },
+            {
+                "token": "עֶלְי֔וֹן",
+                "transliteration": "‘el·yō·wn",
+                "strong": "5945",
+                "translation": " Most High , "
+            },
+            {
+                "token": "קֹנֵ֖ה",
+                "transliteration": "qō·nêh",
+                "strong": "7069",
+                "translation": " Creator "
+            },
+            {
+                "token": "שָׁמַ֥יִם",
+                "transliteration": "šā·ma·yim",
+                "strong": "8064",
+                "translation": " of heaven "
+            },
+            {
+                "token": "וָאָֽרֶץ׃",
+                "transliteration": "wā·’ā·reṣ",
+                "strong": "776",
+                "translation": " and earth , "
+            }
+        ],
+        "verse_reference": "Genesis 14:19",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבָרוּךְ֙",
+                "transliteration": "ū·ḇā·rūḵ",
+                "strong": "1288",
+                "translation": " and blessed be "
+            },
+            {
+                "token": "אֵ֣ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "עֶלְי֔וֹן",
+                "transliteration": "‘el·yō·wn",
+                "strong": "5945",
+                "translation": " Most High , "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "מִגֵּ֥ן",
+                "transliteration": "mig·gên",
+                "strong": "4042",
+                "translation": " has delivered "
+            },
+            {
+                "token": "צָרֶ֖יךָ",
+                "transliteration": "ṣā·re·ḵā",
+                "strong": "6862",
+                "translation": " your enemies "
+            },
+            {
+                "token": "בְּיָדֶ֑ךָ",
+                "transliteration": "bə·yā·ḏe·ḵā",
+                "strong": "3027",
+                "translation": " into your hand . ” "
+            },
+            {
+                "token": "וַיִּתֶּן־",
+                "transliteration": "way·yit·ten-",
+                "strong": "5414",
+                "translation": " Then Abram gave "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " [Melchizedek] "
+            },
+            {
+                "token": "מַעֲשֵׂ֖ר",
+                "transliteration": "ma·‘ă·śêr",
+                "strong": "4643",
+                "translation": " a tenth "
+            },
+            {
+                "token": "מִכֹּֽל׃",
+                "transliteration": "mik·kōl",
+                "strong": "3605",
+                "translation": " of everything . "
+            }
+        ],
+        "verse_reference": "Genesis 14:20",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מֶֽלֶךְ־",
+                "transliteration": "me·leḵ-",
+                "strong": "4428",
+                "translation": " The king "
+            },
+            {
+                "token": "סְדֹ֖ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom "
+            },
+            {
+                "token": "וַיֹּ֥אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אַבְרָ֑ם",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " Abram , "
+            },
+            {
+                "token": "תֶּן־",
+                "transliteration": "ten-",
+                "strong": "5414",
+                "translation": " “ Give "
+            },
+            {
+                "token": "לִ֣י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "הַנֶּ֔פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " the people , "
+            },
+            {
+                "token": "קַֽח־",
+                "transliteration": "qaḥ-",
+                "strong": "3947",
+                "translation": " but take "
+            },
+            {
+                "token": "וְהָרְכֻ֖שׁ",
+                "transliteration": "wə·hā·rə·ḵuš",
+                "strong": "7399",
+                "translation": " the goods "
+            },
+            {
+                "token": "לָֽךְ׃",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " for yourself . ” "
+            }
+        ],
+        "verse_reference": "Genesis 14:21",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַבְרָ֖ם",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " But Abram "
+            },
+            {
+                "token": "וַיֹּ֥אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " replied "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֶ֣לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "סְדֹ֑ם",
+                "transliteration": "sə·ḏōm",
+                "strong": "5467",
+                "translation": " of Sodom , "
+            },
+            {
+                "token": "הֲרִימֹ֨תִי",
+                "transliteration": "hă·rî·mō·ṯî",
+                "strong": "7311",
+                "translation": " “ I have raised "
+            },
+            {
+                "token": "יָדִ֤י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " my hand "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֵ֣ל",
+                "transliteration": "’êl",
+                "strong": "410",
+                "translation": " God "
+            },
+            {
+                "token": "עֶלְי֔וֹן",
+                "transliteration": "‘el·yō·wn",
+                "strong": "5945",
+                "translation": " Most High , "
+            },
+            {
+                "token": "קֹנֵ֖ה",
+                "transliteration": "qō·nêh",
+                "strong": "7069",
+                "translation": " Creator "
+            },
+            {
+                "token": "שָׁמַ֥יִם",
+                "transliteration": "šā·ma·yim",
+                "strong": "8064",
+                "translation": " of heaven "
+            },
+            {
+                "token": "וָאָֽרֶץ׃",
+                "transliteration": "wā·’ā·reṣ",
+                "strong": "776",
+                "translation": " and earth , "
+            }
+        ],
+        "verse_reference": "Genesis 14:22",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " that "
+            },
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " I will not "
+            },
+            {
+                "token": "אֶקַּ֖ח",
+                "transliteration": "’eq·qaḥ",
+                "strong": "3947",
+                "translation": " accept "
+            },
+            {
+                "token": "וְעַ֣ד",
+                "transliteration": "wə·‘aḏ",
+                "strong": "5704",
+                "translation": " even "
+            },
+            {
+                "token": "מִחוּט֙",
+                "transliteration": "mi·ḥūṭ",
+                "strong": "2339",
+                "translation": " a thread , "
+            },
+            {
+                "token": "שְׂרֽוֹךְ־",
+                "transliteration": "śə·rō·wḵ-",
+                "strong": "8288",
+                "translation": " or a strap "
+            },
+            {
+                "token": "נַ֔עַל",
+                "transliteration": "na·‘al",
+                "strong": "5275",
+                "translation": " of a sandal , "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " or anything "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "לָ֑ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " belongs to you , "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " lest "
+            },
+            {
+                "token": "תֹאמַ֔ר",
+                "transliteration": "ṯō·mar",
+                "strong": "559",
+                "translation": " you should say , "
+            },
+            {
+                "token": "אֲנִ֖י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " ‘ I {have made} "
+            },
+            {
+                "token": "אַבְרָֽם׃",
+                "transliteration": "’aḇ·rām",
+                "strong": "87",
+                "translation": " Abram "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הֶעֱשַׁ֥רְתִּי",
+                "transliteration": "he·‘ĕ·šar·tî",
+                "strong": "6238",
+                "translation": " rich . ’ "
+            }
+        ],
+        "verse_reference": "Genesis 14:23",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בִּלְעָדַ֗י",
+                "transliteration": "bil·‘ā·ḏay",
+                "strong": "1107",
+                "translation": " I will accept nothing "
+            },
+            {
+                "token": "רַ֚ק",
+                "transliteration": "raq",
+                "strong": "7535",
+                "translation": " but "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "הַנְּעָרִ֔ים",
+                "transliteration": "han·nə·‘ā·rîm",
+                "strong": "5288",
+                "translation": " my men "
+            },
+            {
+                "token": "אָֽכְל֣וּ",
+                "transliteration": "’ā·ḵə·lū",
+                "strong": "398",
+                "translation": " have eaten "
+            },
+            {
+                "token": "וְחֵ֙לֶק֙",
+                "transliteration": "wə·ḥê·leq",
+                "strong": "2506",
+                "translation": " and the share "
+            },
+            {
+                "token": "הָֽאֲנָשִׁ֔ים",
+                "transliteration": "hā·’ă·nā·šîm",
+                "strong": "582",
+                "translation": " for the men "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "הָלְכ֖וּ",
+                "transliteration": "hā·lə·ḵū",
+                "strong": "1980",
+                "translation": " went "
+            },
+            {
+                "token": "אִתִּ֑י",
+                "transliteration": "’it·tî",
+                "strong": "854",
+                "translation": " with me — "
+            },
+            {
+                "token": "עָנֵר֙",
+                "transliteration": "‘ā·nêr",
+                "strong": "6063",
+                "translation": " Aner , "
+            },
+            {
+                "token": "אֶשְׁכֹּ֣ל",
+                "transliteration": "’eš·kōl",
+                "strong": "812",
+                "translation": " Eshcol , "
+            },
+            {
+                "token": "וּמַמְרֵ֔א",
+                "transliteration": "ū·mam·rê",
+                "strong": "4471",
+                "translation": " and Mamre . "
+            },
+            {
+                "token": "הֵ֖ם",
+                "transliteration": "hêm",
+                "strong": "1992",
+                "translation": " They "
+            },
+            {
+                "token": "יִקְח֥וּ",
+                "transliteration": "yiq·ḥū",
+                "strong": "3947",
+                "translation": " may take "
+            },
+            {
+                "token": "חֶלְקָֽם׃ס",
+                "transliteration": "ḥel·qām",
+                "strong": "2506",
+                "translation": " their portion . ” "
+            }
+        ],
+        "verse_reference": "Genesis 14:24",
+        "book": "Genesis",
+        "chapter": "14",
+        "verse": "24"
+    }
+]

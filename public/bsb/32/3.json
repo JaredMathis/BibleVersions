@@ -1,0 +1,916 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "דְבַר־",
+                "transliteration": "ḏə·ḇar-",
+                "strong": "1697",
+                "translation": " Then the word "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וַיְהִ֧י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יוֹנָ֖ה",
+                "transliteration": "yō·w·nāh",
+                "strong": "3124",
+                "translation": " Jonah "
+            },
+            {
+                "token": "שֵׁנִ֥ית",
+                "transliteration": "šê·nîṯ",
+                "strong": "8145",
+                "translation": " a second time "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . : "
+            }
+        ],
+        "verse_reference": "Jonah 3:1",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ק֛וּם",
+                "transliteration": "qūm",
+                "strong": "6965",
+                "translation": " “ Get up ! "
+            },
+            {
+                "token": "לֵ֥ךְ",
+                "transliteration": "lêḵ",
+                "strong": "1980",
+                "translation": " Go "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הַגְּדוֹלָ֑ה",
+                "transliteration": "hag·gə·ḏō·w·lāh",
+                "strong": "1419",
+                "translation": " the great "
+            },
+            {
+                "token": "הָעִ֣יר",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " city "
+            },
+            {
+                "token": "נִֽינְוֵ֖ה",
+                "transliteration": "nî·nə·wêh",
+                "strong": "5210",
+                "translation": " of Nineveh "
+            },
+            {
+                "token": "וִּקְרָ֤א",
+                "transliteration": "wiq·rå̄",
+                "strong": "7121",
+                "translation": " and proclaim "
+            },
+            {
+                "token": "אֵלֶ֙יהָ֙",
+                "transliteration": "’ê·le·hā",
+                "strong": "413",
+                "translation": " to it "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַקְּרִיאָ֔ה",
+                "transliteration": "haq·qə·rî·’āh",
+                "strong": "7150",
+                "translation": " the message "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אָנֹכִ֖י",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " I "
+            },
+            {
+                "token": "דֹּבֵ֥ר",
+                "transliteration": "dō·ḇêr",
+                "strong": "1696",
+                "translation": " give "
+            },
+            {
+                "token": "אֵלֶֽיךָ׃",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " you . ” "
+            }
+        ],
+        "verse_reference": "Jonah 3:2",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יוֹנָ֗ה",
+                "transliteration": "yō·w·nāh",
+                "strong": "3124",
+                "translation": " This time Jonah "
+            },
+            {
+                "token": "וַיָּ֣קָם",
+                "transliteration": "way·yā·qām",
+                "strong": "6965",
+                "translation": " got up "
+            },
+            {
+                "token": "וַיֵּ֛לֶךְ",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " and went "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "נִֽינְוֶ֖ה",
+                "transliteration": "nī·nə·wɛh",
+                "strong": "5210",
+                "translation": " Nineveh , "
+            },
+            {
+                "token": "כִּדְבַ֣ר",
+                "transliteration": "kiḏ·ḇar",
+                "strong": "1697",
+                "translation": " in accordance with the word "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD . "
+            },
+            {
+                "token": "וְנִֽינְוֵ֗ה",
+                "transliteration": "wə·nî·nə·wêh",
+                "strong": "5210",
+                "translation": " Now Nineveh "
+            },
+            {
+                "token": "הָיְתָ֤ה",
+                "transliteration": "hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " was "
+            },
+            {
+                "token": "לֵֽאלֹהִ֔ים",
+                "transliteration": "lê·lō·hîm",
+                "strong": "430",
+                "translation": " an exceedingly "
+            },
+            {
+                "token": "גְּדוֹלָה֙",
+                "transliteration": "gə·ḏō·w·lāh",
+                "strong": "1419",
+                "translation": " great "
+            },
+            {
+                "token": "עִיר־",
+                "transliteration": "‘îr-",
+                "strong": "5892",
+                "translation": " city , "
+            },
+            {
+                "token": "שְׁלֹ֥שֶׁת",
+                "transliteration": "šə·lō·šeṯ",
+                "strong": "7969",
+                "translation": " [requiring] a three-day "
+            },
+            {
+                "token": "יָמִֽים׃",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַהֲלַ֖ךְ",
+                "transliteration": "ma·hă·laḵ",
+                "strong": "4109",
+                "translation": " journey . "
+            }
+        ],
+        "verse_reference": "Jonah 3:3",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֶחָ֑ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " On the first "
+            },
+            {
+                "token": "י֣וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "מַהֲלַ֖ךְ",
+                "transliteration": "ma·hă·laḵ",
+                "strong": "4109",
+                "translation": " of his journey , "
+            },
+            {
+                "token": "יוֹנָה֙",
+                "transliteration": "yō·w·nāh",
+                "strong": "3124",
+                "translation": " Jonah "
+            },
+            {
+                "token": "לָב֣וֹא",
+                "transliteration": "lā·ḇō·w",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיָּ֤חֶל",
+                "transliteration": "way·yā·ḥel",
+                "strong": "2490",
+                "translation": " set out "
+            },
+            {
+                "token": "בָעִ֔יר",
+                "transliteration": "ḇā·‘îr",
+                "strong": "5892",
+                "translation": " into the city "
+            },
+            {
+                "token": "וַיִּקְרָא֙",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " and proclaimed "
+            },
+            {
+                "token": "וַיֹּאמַ֔ר",
+                "transliteration": "way·yō·mar",
+                "strong": "559",
+                "translation": " . . . , "
+            },
+            {
+                "token": "אַרְבָּעִ֣ים",
+                "transliteration": "’ar·bā·‘îm",
+                "strong": "705",
+                "translation": " “ Forty "
+            },
+            {
+                "token": "ע֚וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " more "
+            },
+            {
+                "token": "י֔וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "וְנִֽינְוֵ֖ה",
+                "transliteration": "wə·nî·nə·wêh",
+                "strong": "5210",
+                "translation": " and Nineveh "
+            },
+            {
+                "token": "נֶהְפָּֽכֶת׃",
+                "transliteration": "neh·pā·ḵeṯ",
+                "strong": "2015",
+                "translation": " will be overturned ! ” "
+            }
+        ],
+        "verse_reference": "Jonah 3:4",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַנְשֵׁ֥י",
+                "transliteration": "’an·šê",
+                "strong": "582",
+                "translation": " vvv "
+            },
+            {
+                "token": "נִֽינְוֵ֖ה",
+                "transliteration": "nî·nə·wêh",
+                "strong": "5210",
+                "translation": " And the Ninevites "
+            },
+            {
+                "token": "וַֽיַּאֲמִ֛ינוּ",
+                "transliteration": "way·ya·’ă·mî·nū",
+                "strong": "539",
+                "translation": " believed "
+            },
+            {
+                "token": "בֵּֽאלֹהִ֑ים",
+                "transliteration": "bê·lō·hîm",
+                "strong": "430",
+                "translation": " God . "
+            },
+            {
+                "token": "וַיִּקְרְאוּ־",
+                "transliteration": "way·yiq·rə·’ū-",
+                "strong": "7121",
+                "translation": " They proclaimed "
+            },
+            {
+                "token": "צוֹם֙",
+                "transliteration": "ṣō·wm",
+                "strong": "6685",
+                "translation": " a fast "
+            },
+            {
+                "token": "וַיִּלְבְּשׁ֣וּ",
+                "transliteration": "way·yil·bə·šū",
+                "strong": "3847",
+                "translation": " and dressed "
+            },
+            {
+                "token": "שַׂקִּ֔ים",
+                "transliteration": "śaq·qîm",
+                "strong": "8242",
+                "translation": " in sackcloth , "
+            },
+            {
+                "token": "מִגְּדוֹלָ֖ם",
+                "transliteration": "mig·gə·ḏō·w·lām",
+                "strong": "1419",
+                "translation": " from the greatest "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " of them to "
+            },
+            {
+                "token": "קְטַנָּֽם׃",
+                "transliteration": "qə·ṭan·nām",
+                "strong": "6996",
+                "translation": " the least . "
+            }
+        ],
+        "verse_reference": "Jonah 3:5",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַדָּבָר֙",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " When word "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּגַּ֤ע",
+                "transliteration": "way·yig·ga‘",
+                "strong": "5060",
+                "translation": " reached "
+            },
+            {
+                "token": "מֶ֣לֶך",
+                "transliteration": "mɛ·lɛḵ",
+                "strong": "4428",
+                "translation": " the king "
+            },
+            {
+                "token": "נִֽינְוֵ֔ה",
+                "transliteration": "nî·nə·wêh",
+                "strong": "5210",
+                "translation": " of Nineveh , "
+            },
+            {
+                "token": "וַיָּ֙קָם֙",
+                "transliteration": "way·yā·qām",
+                "strong": "6965",
+                "translation": " he got up "
+            },
+            {
+                "token": "מִכִּסְא֔וֹ",
+                "transliteration": "mik·kis·’ōw",
+                "strong": "3678",
+                "translation": " from his throne , "
+            },
+            {
+                "token": "וַיַּעֲבֵ֥ר",
+                "transliteration": "way·ya·‘ă·ḇêr",
+                "strong": "5674",
+                "translation": " took off "
+            },
+            {
+                "token": "אַדַּרְתּ֖וֹ",
+                "transliteration": "’ad·dar·tōw",
+                "strong": "155",
+                "translation": " his royal robe , "
+            },
+            {
+                "token": "וַיְכַ֣ס",
+                "transliteration": "way·ḵas",
+                "strong": "3680",
+                "translation": " covered [himself] "
+            },
+            {
+                "token": "שַׂ֔ק",
+                "transliteration": "śaq",
+                "strong": "8242",
+                "translation": " with sackcloth , "
+            },
+            {
+                "token": "וַיֵּ֖שֶׁב",
+                "transliteration": "way·yê·šeḇ",
+                "strong": "3427",
+                "translation": " and sat "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵֽעָלָ֑יו",
+                "transliteration": "mê·‘ā·lāw",
+                "strong": "5921",
+                "translation": " in "
+            },
+            {
+                "token": "הָאֵֽפֶר׃",
+                "transliteration": "hā·’ê·p̄er",
+                "strong": "665",
+                "translation": " ashes . "
+            }
+        ],
+        "verse_reference": "Jonah 3:6",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּזְעֵ֗ק",
+                "transliteration": "way·yaz·‘êq",
+                "strong": "2199",
+                "translation": " Then he issued a proclamation "
+            },
+            {
+                "token": "וַיֹּ֙אמֶר֙",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנִֽינְוֵ֔ה",
+                "transliteration": "bə·nî·nə·wêh",
+                "strong": "5210",
+                "translation": " in Nineveh : "
+            },
+            {
+                "token": "מִטַּ֧עַם",
+                "transliteration": "miṭ·ṭa·‘am",
+                "strong": "2940",
+                "translation": " “ By the decree "
+            },
+            {
+                "token": "הַמֶּ֛לֶךְ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " of the king "
+            },
+            {
+                "token": "וּגְדֹלָ֖יו",
+                "transliteration": "ū·ḡə·ḏō·lāw",
+                "strong": "1419",
+                "translation": " and his nobles "
+            },
+            {
+                "token": "לֵאמֹ֑ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . : "
+            },
+            {
+                "token": "אַֽל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Let no "
+            },
+            {
+                "token": "הָאָדָ֨ם",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " man "
+            },
+            {
+                "token": "וְהַבְּהֵמָ֜ה",
+                "transliteration": "wə·hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " or beast , "
+            },
+            {
+                "token": "הַבָּקָ֣ר",
+                "transliteration": "hab·bā·qār",
+                "strong": "1241",
+                "translation": " herd "
+            },
+            {
+                "token": "וְהַצֹּ֗אן",
+                "transliteration": "wə·haṣ·ṣōn",
+                "strong": "6629",
+                "translation": " or flock , "
+            },
+            {
+                "token": "יִטְעֲמוּ֙",
+                "transliteration": "yiṭ·‘ă·mū",
+                "strong": "2938",
+                "translation": " taste "
+            },
+            {
+                "token": "מְא֔וּמָה",
+                "transliteration": "mə·’ū·māh",
+                "strong": "3972",
+                "translation": " anything at all . "
+            },
+            {
+                "token": "אַ֨ל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " They must not "
+            },
+            {
+                "token": "יִרְע֔וּ",
+                "transliteration": "yir·‘ū",
+                "strong": "7462",
+                "translation": " eat "
+            },
+            {
+                "token": "יִשְׁתּֽוּ׃",
+                "transliteration": "yiš·tū",
+                "strong": "8354",
+                "translation": " or drink "
+            },
+            {
+                "token": "וּמַ֖יִם",
+                "transliteration": "ū·ma·yim",
+                "strong": "4325",
+                "translation": " . . . . "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " . . . "
+            }
+        ],
+        "verse_reference": "Jonah 3:7",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָֽאָדָם֙",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " Furthermore, let both man "
+            },
+            {
+                "token": "וְהַבְּהֵמָ֔ה",
+                "transliteration": "wə·hab·bə·hê·māh",
+                "strong": "929",
+                "translation": " and beast "
+            },
+            {
+                "token": "וְיִתְכַּסּ֣וּ",
+                "transliteration": "wə·yiṯ·kas·sū",
+                "strong": "3680",
+                "translation": " be covered "
+            },
+            {
+                "token": "שַׂקִּ֗ים",
+                "transliteration": "śaq·qîm",
+                "strong": "8242",
+                "translation": " with sackcloth , "
+            },
+            {
+                "token": "וְיִקְרְא֥וּ",
+                "transliteration": "wə·yiq·rə·’ū",
+                "strong": "7121",
+                "translation": " and have everyone call out "
+            },
+            {
+                "token": "בְּחָזְקָ֑ה",
+                "transliteration": "bə·ḥā·zə·qāh",
+                "strong": "2394",
+                "translation": " earnestly "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "אֱלֹהִ֖ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God . "
+            },
+            {
+                "token": "אִ֚ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " Let each one "
+            },
+            {
+                "token": "וְיָשֻׁ֗בוּ",
+                "transliteration": "wə·yā·šu·ḇū",
+                "strong": "7725",
+                "translation": " turn "
+            },
+            {
+                "token": "וּמִן־",
+                "transliteration": "ū·min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָֽרָעָ֔ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " his evil "
+            },
+            {
+                "token": "מִדַּרְכּ֣וֹ",
+                "transliteration": "mid·dar·kōw",
+                "strong": "1870",
+                "translation": " ways "
+            },
+            {
+                "token": "הֶחָמָ֖ס",
+                "transliteration": "he·ḥā·mās",
+                "strong": "2555",
+                "translation": " and from the violence "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּכַפֵּיהֶֽם׃",
+                "transliteration": "bə·ḵap·pê·hem",
+                "strong": "3709",
+                "translation": " in his hands . "
+            }
+        ],
+        "verse_reference": "Jonah 3:8",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִֽי־",
+                "transliteration": "mî-",
+                "strong": "4310",
+                "translation": " Who "
+            },
+            {
+                "token": "יוֹדֵ֣עַ",
+                "transliteration": "yō·w·ḏê·a‘",
+                "strong": "3045",
+                "translation": " knows ? "
+            },
+            {
+                "token": "הָאֱלֹהִ֑ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "יָשׁ֔וּב",
+                "transliteration": "yā·šūḇ",
+                "strong": "7725",
+                "translation": " may turn "
+            },
+            {
+                "token": "וְנִחַ֖ם",
+                "transliteration": "wə·ni·ḥam",
+                "strong": "5162",
+                "translation": " and relent ; "
+            },
+            {
+                "token": "וְשָׁ֛ב",
+                "transliteration": "wə·šāḇ",
+                "strong": "7725",
+                "translation": " He may turn "
+            },
+            {
+                "token": "מֵחֲר֥וֹן",
+                "transliteration": "mê·ḥă·rō·wn",
+                "strong": "2740",
+                "translation": " from His fierce "
+            },
+            {
+                "token": "אַפּ֖וֹ",
+                "transliteration": "’ap·pōw",
+                "strong": "639",
+                "translation": " anger , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " so that we will not "
+            },
+            {
+                "token": "נֹאבֵֽד׃",
+                "transliteration": "nō·ḇêḏ",
+                "strong": "6",
+                "translation": " perish . ” "
+            }
+        ],
+        "verse_reference": "Jonah 3:9",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָֽאֱלֹהִים֙",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " When God "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיַּ֤רְא",
+                "transliteration": "way·yar",
+                "strong": "7200",
+                "translation": " saw "
+            },
+            {
+                "token": "מַ֣עֲשֵׂיהֶ֔ם",
+                "transliteration": "ma·‘ă·śê·hem",
+                "strong": "4639",
+                "translation": " their actions — "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "שָׁ֖בוּ",
+                "transliteration": "šā·ḇū",
+                "strong": "7725",
+                "translation": " they had turned "
+            },
+            {
+                "token": "הָרָעָ֑ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " from their evil "
+            },
+            {
+                "token": "מִדַּרְכָּ֣ם",
+                "transliteration": "mid·dar·kām",
+                "strong": "1870",
+                "translation": " ways — "
+            },
+            {
+                "token": "הָאֱלֹהִ֗ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " [He] "
+            },
+            {
+                "token": "וַיִּנָּ֣חֶם",
+                "transliteration": "way·yin·nā·ḥem",
+                "strong": "5162",
+                "translation": " relented "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " from "
+            },
+            {
+                "token": "הָרָעָ֛ה",
+                "transliteration": "hā·rā·‘āh",
+                "strong": "7451",
+                "translation": " the disaster "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "דִּבֶּ֥ר",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " He had threatened "
+            },
+            {
+                "token": "לַעֲשׂוֹת־",
+                "transliteration": "la·‘ă·śō·wṯ-",
+                "strong": "6213",
+                "translation": " to bring "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " upon them "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " - "
+            },
+            {
+                "token": "עָשָֽׂה׃",
+                "transliteration": "‘ā·śāh",
+                "strong": "6213",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Jonah 3:10",
+        "book": "Jonah",
+        "chapter": "3",
+        "verse": "10"
+    }
+]

@@ -1,0 +1,600 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַדָּבָ֗ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " This is the word "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "יִרְמְיָ֣הוּ",
+                "transliteration": "yir·mə·yā·hū",
+                "strong": "3414",
+                "translation": " Jeremiah "
+            },
+            {
+                "token": "הַנָּבִ֔יא",
+                "transliteration": "han·nā·ḇî",
+                "strong": "5030",
+                "translation": " the prophet "
+            },
+            {
+                "token": "דִּבֶּר֙",
+                "transliteration": "dib·ber",
+                "strong": "1696",
+                "translation": " spoke "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בָּר֖וּךְ",
+                "transliteration": "bā·rūḵ",
+                "strong": "1263",
+                "translation": " Baruch "
+            },
+            {
+                "token": "בֶּֽן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "נֵֽרִיָּ֑ה",
+                "transliteration": "nê·rî·yāh",
+                "strong": "5374",
+                "translation": " of Neriah "
+            },
+            {
+                "token": "בְּכָתְבוֹ֩",
+                "transliteration": "bə·ḵā·ṯə·ḇōw",
+                "strong": "3789",
+                "translation": " when he wrote "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָאֵ֤לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " these "
+            },
+            {
+                "token": "הַדְּבָרִ֨ים",
+                "transliteration": "had·də·ḇā·rîm",
+                "strong": "1697",
+                "translation": " words "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "סֵ֙פֶר֙",
+                "transliteration": "sê·p̄er",
+                "strong": "5612",
+                "translation": " a scroll "
+            },
+            {
+                "token": "מִפִּ֣י",
+                "transliteration": "mip·pî",
+                "strong": "6310",
+                "translation": " at the dictation "
+            },
+            {
+                "token": "יִרְמְיָ֔הוּ",
+                "transliteration": "yir·mə·yā·hū",
+                "strong": "3414",
+                "translation": " of Jeremiah "
+            },
+            {
+                "token": "הָֽרְבִעִ֔ית",
+                "transliteration": "hā·rə·ḇi·‘îṯ",
+                "strong": "7243",
+                "translation": " in the fourth "
+            },
+            {
+                "token": "בַּשָּׁנָה֙",
+                "transliteration": "baš·šā·nāh",
+                "strong": "8141",
+                "translation": " year "
+            },
+            {
+                "token": "לִיהוֹיָקִ֧ים",
+                "transliteration": "lî·hō·w·yā·qîm",
+                "strong": "3079",
+                "translation": " of Jehoiakim "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "יֹאשִׁיָּ֛הוּ",
+                "transliteration": "yō·šî·yā·hū",
+                "strong": "2977",
+                "translation": " of Josiah , "
+            },
+            {
+                "token": "מֶ֥לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "יְהוּדָ֖ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "לֵאמֹֽר׃ס",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . : "
+            }
+        ],
+        "verse_reference": "Jeremiah 45:1",
+        "book": "Jeremiah",
+        "chapter": "45",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " “ This is what "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "אָמַ֥ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says "
+            },
+            {
+                "token": "עָלֶ֖יךָ",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " to you , "
+            },
+            {
+                "token": "בָּרֽוּךְ׃",
+                "transliteration": "bā·rūḵ",
+                "strong": "1263",
+                "translation": " Baruch : "
+            }
+        ],
+        "verse_reference": "Jeremiah 45:2",
+        "book": "Jeremiah",
+        "chapter": "45",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָמַ֙רְתָּ֙",
+                "transliteration": "’ā·mar·tā",
+                "strong": "559",
+                "translation": " You have said , "
+            },
+            {
+                "token": "אֽוֹי־",
+                "transliteration": "’ō·w-",
+                "strong": "188",
+                "translation": " ‘ Woe is "
+            },
+            {
+                "token": "נָ֣א",
+                "transliteration": "nā",
+                "strong": "4994",
+                "translation": " . . . "
+            },
+            {
+                "token": "לִ֔י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "יָסַ֧ף",
+                "transliteration": "yā·sap̄",
+                "strong": "3254",
+                "translation": " has added "
+            },
+            {
+                "token": "יָג֖וֹן",
+                "transliteration": "yā·ḡō·wn",
+                "strong": "3015",
+                "translation": " sorrow "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " to "
+            },
+            {
+                "token": "מַכְאֹבִ֑י",
+                "transliteration": "maḵ·’ō·ḇî",
+                "strong": "4341",
+                "translation": " my pain ! "
+            },
+            {
+                "token": "יָגַ֙עְתִּי֙",
+                "transliteration": "yā·ḡa‘·tî",
+                "strong": "3021",
+                "translation": " I am worn out "
+            },
+            {
+                "token": "בְּאַנְחָתִ֔י",
+                "transliteration": "bə·’an·ḥā·ṯî",
+                "strong": "585",
+                "translation": " with groaning "
+            },
+            {
+                "token": "מָצָֽאתִי׃ס",
+                "transliteration": "mā·ṣā·ṯî",
+                "strong": "4672",
+                "translation": " and have found "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "וּמְנוּחָ֖ה",
+                "transliteration": "ū·mə·nū·ḥāh",
+                "strong": "4496",
+                "translation": " rest . ’” "
+            }
+        ],
+        "verse_reference": "Jeremiah 45:3",
+        "book": "Jeremiah",
+        "chapter": "45",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּ֣ה׀",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " Thus "
+            },
+            {
+                "token": "תֹּאמַ֣ר",
+                "transliteration": "tō·mar",
+                "strong": "559",
+                "translation": " [Jeremiah] was to say "
+            },
+            {
+                "token": "אֵלָ֗יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to [Baruch} : "
+            },
+            {
+                "token": "כֹּ֚ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " “ This is what "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "הִנֵּ֤ה",
+                "transliteration": "hin·nêh",
+                "strong": "2009",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָמַ֣ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Throughout "
+            },
+            {
+                "token": "הָאָ֖רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "הִֽיא׃",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "הֹרֵ֔ס",
+                "transliteration": "hō·rês",
+                "strong": "2040",
+                "translation": " will demolish "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "בָּנִ֙יתִי֙",
+                "transliteration": "bā·nî·ṯî",
+                "strong": "1129",
+                "translation": " I have built "
+            },
+            {
+                "token": "נֹתֵ֑שׁ",
+                "transliteration": "nō·ṯêš",
+                "strong": "5428",
+                "translation": " and uproot "
+            },
+            {
+                "token": "וְאֵ֥ת",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "נָטַ֖עְתִּי",
+                "transliteration": "nā·ṭa‘·tî",
+                "strong": "5193",
+                "translation": " I have planted "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " - "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Jeremiah 45:4",
+        "book": "Jeremiah",
+        "chapter": "45",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאַתָּ֛ה",
+                "transliteration": "wə·’at·tāh",
+                "strong": "859",
+                "translation": " But as for you , "
+            },
+            {
+                "token": "תְּבַקֶּשׁ־",
+                "transliteration": "tə·ḇaq·qeš-",
+                "strong": "1245",
+                "translation": " do you seek "
+            },
+            {
+                "token": "גְדֹל֖וֹת",
+                "transliteration": "ḡə·ḏō·lō·wṯ",
+                "strong": "1419",
+                "translation": " great things "
+            },
+            {
+                "token": "לְךָ֥",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " for yourself ? "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Stop "
+            },
+            {
+                "token": "תְּבַקֵּ֑שׁ",
+                "transliteration": "tə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " seeking ! "
+            },
+            {
+                "token": "כִּ֡י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "הִנְנִי֩",
+                "transliteration": "hin·nî",
+                "strong": "2005",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵבִ֨יא",
+                "transliteration": "mê·ḇî",
+                "strong": "935",
+                "translation": " I will bring "
+            },
+            {
+                "token": "רָעָ֤ה",
+                "transliteration": "rā·‘āh",
+                "strong": "7451",
+                "translation": " disaster "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "בָּשָׂר֙",
+                "transliteration": "bā·śār",
+                "strong": "1320",
+                "translation": " living creature , "
+            },
+            {
+                "token": "נְאֻם־",
+                "transliteration": "nə·’um-",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " but wherever "
+            },
+            {
+                "token": "הַמְּקֹמ֖וֹת",
+                "transliteration": "ham·mə·qō·mō·wṯ",
+                "strong": "4725",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "תֵּֽלֶךְ־",
+                "transliteration": "tê·leḵ-",
+                "strong": "1980",
+                "translation": " you go , "
+            },
+            {
+                "token": "וְנָתַתִּ֨י",
+                "transliteration": "wə·nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " I will grant "
+            },
+            {
+                "token": "לְךָ֤",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "אֶֽת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נַפְשְׁךָ֙",
+                "transliteration": "nap̄·šə·ḵā",
+                "strong": "5315",
+                "translation": " your life "
+            },
+            {
+                "token": "לְשָׁלָ֔ל",
+                "transliteration": "lə·šā·lāl",
+                "strong": "7998",
+                "translation": " as a spoil of war "
+            },
+            {
+                "token": "עַ֥ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָֽׁם׃ס",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . . ” "
+            }
+        ],
+        "verse_reference": "Jeremiah 45:5",
+        "book": "Jeremiah",
+        "chapter": "45",
+        "verse": "5"
+    }
+]

@@ -1,0 +1,4884 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ὡς",
+                "transliteration": "Hōs",
+                "strong": "5613",
+                "translation": " When "
+            },
+            {
+                "token": "ἐκρίθη",
+                "transliteration": "ekrithē",
+                "strong": "2919",
+                "translation": " it was decided "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " [that] "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "ἀποπλεῖν",
+                "transliteration": "apoplein",
+                "strong": "636",
+                "translation": " would sail "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰταλίαν",
+                "transliteration": "Italian",
+                "strong": "2482",
+                "translation": " Italy , "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "τόν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλον",
+                "transliteration": "Paulon",
+                "strong": "3972",
+                "translation": " Paul "
+            },
+            {
+                "token": "καί",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τινας",
+                "transliteration": "tinas",
+                "strong": "5100",
+                "translation": " some "
+            },
+            {
+                "token": "ἑτέρους",
+                "transliteration": "heterous",
+                "strong": "2087",
+                "translation": " other "
+            },
+            {
+                "token": "δεσμώτας",
+                "transliteration": "desmōtas",
+                "strong": "1202",
+                "translation": " prisoners "
+            },
+            {
+                "token": "παρεδίδουν",
+                "transliteration": "paredidoun",
+                "strong": "3860",
+                "translation": " were handed over "
+            },
+            {
+                "token": "ἑκατοντάρχῃ",
+                "transliteration": "hekatontarchē",
+                "strong": "1543",
+                "translation": " to a centurion "
+            },
+            {
+                "token": "ὀνόματι",
+                "transliteration": "onomati",
+                "strong": "3686",
+                "translation": " named "
+            },
+            {
+                "token": "Ἰουλίῳ",
+                "transliteration": "Iouliō",
+                "strong": "2457",
+                "translation": " Julius , "
+            },
+            {
+                "token": "Σεβαστῆς",
+                "transliteration": "Sebastēs",
+                "strong": "4575",
+                "translation": " [who belonged to the] Imperial "
+            },
+            {
+                "token": "σπείρης",
+                "transliteration": "speirēs",
+                "strong": "4686",
+                "translation": " Regiment . "
+            }
+        ],
+        "verse_reference": "Acts 27:1",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπιβάντες",
+                "transliteration": "epibantes",
+                "strong": "1910",
+                "translation": " We boarded "
+            },
+            {
+                "token": "Ἀδραμυττηνῷ",
+                "transliteration": "Adramyttēnō",
+                "strong": "98",
+                "translation": " an Adramyttian "
+            },
+            {
+                "token": "πλοίῳ",
+                "transliteration": "ploiō",
+                "strong": "4143",
+                "translation": " ship "
+            },
+            {
+                "token": "μέλλοντι",
+                "transliteration": "mellonti",
+                "strong": "3195",
+                "translation": " about "
+            },
+            {
+                "token": "πλεῖν",
+                "transliteration": "plein",
+                "strong": "4126",
+                "translation": " to sail "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "τόπους",
+                "transliteration": "topous",
+                "strong": "5117",
+                "translation": " ports "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " along "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἀσίαν",
+                "transliteration": "Asian",
+                "strong": "773",
+                "translation": " [the coast of] Asia , "
+            },
+            {
+                "token": "ἀνήχθημεν",
+                "transliteration": "anēchthēmen",
+                "strong": "321",
+                "translation": " [and] we put out to sea . "
+            },
+            {
+                "token": "Ἀριστάρχου",
+                "transliteration": "Aristarchou",
+                "strong": "708",
+                "translation": " Aristarchus , "
+            },
+            {
+                "token": "Μακεδόνος",
+                "transliteration": "Makedonos",
+                "strong": "3110",
+                "translation": " a Macedonian "
+            },
+            {
+                "token": "Θεσσαλονικέως",
+                "transliteration": "Thessalonikeōs",
+                "strong": "2331",
+                "translation": " from Thessalonica , "
+            },
+            {
+                "token": "ὄντος",
+                "transliteration": "ontos",
+                "strong": "1510",
+                "translation": " was "
+            },
+            {
+                "token": "σὺν",
+                "transliteration": "syn",
+                "strong": "4862",
+                "translation": " with "
+            },
+            {
+                "token": "ἡμῖν",
+                "transliteration": "hēmin",
+                "strong": "1473",
+                "translation": " us . "
+            }
+        ],
+        "verse_reference": "Acts 27:2",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "Τῇ",
+                "transliteration": "Tē",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "ἑτέρᾳ",
+                "transliteration": "hetera",
+                "strong": "2087",
+                "translation": " next [day] "
+            },
+            {
+                "token": "κατήχθημεν",
+                "transliteration": "katēchthēmen",
+                "strong": "2609",
+                "translation": " we landed "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " at "
+            },
+            {
+                "token": "Σιδῶνα",
+                "transliteration": "Sidōna",
+                "strong": "4605",
+                "translation": " Sidon , "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " and "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰούλιος",
+                "transliteration": "Ioulios",
+                "strong": "2457",
+                "translation": " Julius "
+            },
+            {
+                "token": "χρησάμενος",
+                "transliteration": "chrēsamenos",
+                "strong": "5530",
+                "translation": " treated "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παύλῳ",
+                "transliteration": "Paulō",
+                "strong": "3972",
+                "translation": " Paul "
+            },
+            {
+                "token": "φιλανθρώπως",
+                "transliteration": "philanthrōpōs",
+                "strong": "5364",
+                "translation": " with consideration , "
+            },
+            {
+                "token": "ἐπέτρεψεν",
+                "transliteration": "epetrepsen",
+                "strong": "2010",
+                "translation": " allowing [him] "
+            },
+            {
+                "token": "πορευθέντι",
+                "transliteration": "poreuthenti",
+                "strong": "4198",
+                "translation": " to visit "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " . . . "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " his "
+            },
+            {
+                "token": "φίλους",
+                "transliteration": "philous",
+                "strong": "5384",
+                "translation": " friends "
+            },
+            {
+                "token": "τυχεῖν",
+                "transliteration": "tychein",
+                "strong": "5177",
+                "translation": " [and] receive "
+            },
+            {
+                "token": "ἐπιμελείας",
+                "transliteration": "epimeleias",
+                "strong": "1958",
+                "translation": " [their] care . "
+            }
+        ],
+        "verse_reference": "Acts 27:3",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἀναχθέντες",
+                "transliteration": "anachthentes",
+                "strong": "321",
+                "translation": " [After] putting out "
+            },
+            {
+                "token": "κἀκεῖθεν",
+                "transliteration": "kakeithen",
+                "strong": "2547",
+                "translation": " from there , "
+            },
+            {
+                "token": "ὑπεπλεύσαμεν",
+                "transliteration": "hypepleusamen",
+                "strong": "5284",
+                "translation": " we sailed to the lee "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κύπρον",
+                "transliteration": "Kypron",
+                "strong": "2954",
+                "translation": " of Cyprus "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " because "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀνέμους",
+                "transliteration": "anemous",
+                "strong": "417",
+                "translation": " winds "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "εἶναι",
+                "transliteration": "einai",
+                "strong": "1510",
+                "translation": " were "
+            },
+            {
+                "token": "ἐναντίους",
+                "transliteration": "enantious",
+                "strong": "1727",
+                "translation": " against us . "
+            }
+        ],
+        "verse_reference": "Acts 27:4",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " And [when] "
+            },
+            {
+                "token": "διαπλεύσαντες",
+                "transliteration": "diapleusantes",
+                "strong": "1277",
+                "translation": " we had sailed across "
+            },
+            {
+                "token": "τό",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πέλαγος",
+                "transliteration": "pelagos",
+                "strong": "3989",
+                "translation": " the open sea "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " off the coast "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κιλικίαν",
+                "transliteration": "Kilikian",
+                "strong": "2791",
+                "translation": " of Cilicia "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "Παμφυλίαν",
+                "transliteration": "Pamphylian",
+                "strong": "3828",
+                "translation": " Pamphylia , "
+            },
+            {
+                "token": "κατήλθομεν*",
+                "transliteration": "katēlthomen",
+                "strong": "2718",
+                "translation": " we came "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " to "
+            },
+            {
+                "token": "Μύρα*",
+                "transliteration": "Myra",
+                "strong": "3460",
+                "translation": " Myra "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Λυκίας",
+                "transliteration": "Lykias",
+                "strong": "3073",
+                "translation": " in Lycia . "
+            }
+        ],
+        "verse_reference": "Acts 27:5",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Κἀκεῖ",
+                "transliteration": "Kakei",
+                "strong": "2546",
+                "translation": " There "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἑκατοντάρχης",
+                "transliteration": "hekatontarchēs",
+                "strong": "1543",
+                "translation": " centurion "
+            },
+            {
+                "token": "εὑρὼν",
+                "transliteration": "heurōn",
+                "strong": "2147",
+                "translation": " found "
+            },
+            {
+                "token": "Ἀλεξανδρῖνον",
+                "transliteration": "Alexandrinon",
+                "strong": "222",
+                "translation": " an Alexandrian "
+            },
+            {
+                "token": "πλοῖον",
+                "transliteration": "ploion",
+                "strong": "4143",
+                "translation": " ship "
+            },
+            {
+                "token": "πλέον",
+                "transliteration": "pleon",
+                "strong": "4126",
+                "translation": " sailing "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Ἰταλίαν",
+                "transliteration": "Italian",
+                "strong": "2482",
+                "translation": " Italy "
+            },
+            {
+                "token": "ἐνεβίβασεν",
+                "transliteration": "enebibasen",
+                "strong": "1688",
+                "translation": " [and] put "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " us "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " on "
+            },
+            {
+                "token": "αὐτό",
+                "transliteration": "auto",
+                "strong": "846",
+                "translation": " [board] . "
+            }
+        ],
+        "verse_reference": "Acts 27:6",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [After] "
+            },
+            {
+                "token": "βραδυπλοοῦντες",
+                "transliteration": "bradyploountes",
+                "strong": "1020",
+                "translation": " sailing slowly "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " . . . "
+            },
+            {
+                "token": "μόλις",
+                "transliteration": "molis",
+                "strong": "3433",
+                "translation": " . . . "
+            },
+            {
+                "token": "Ἐν",
+                "transliteration": "En",
+                "strong": "1722",
+                "translation": " for "
+            },
+            {
+                "token": "ἱκαναῖς",
+                "transliteration": "hikanais",
+                "strong": "2425",
+                "translation": " many "
+            },
+            {
+                "token": "ἡμέραις",
+                "transliteration": "hēmerais",
+                "strong": "2250",
+                "translation": " days , "
+            },
+            {
+                "token": "γενόμενοι",
+                "transliteration": "genomenoi",
+                "strong": "1096",
+                "translation": " we arrived "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " off "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κνίδον",
+                "transliteration": "Knidon",
+                "strong": "2834",
+                "translation": " Cnidus . "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " [When] the "
+            },
+            {
+                "token": "ἀνέμου",
+                "transliteration": "anemou",
+                "strong": "417",
+                "translation": " wind "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "προσεῶντος",
+                "transliteration": "proseōntos",
+                "strong": "4330",
+                "translation": " impeded "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " us , "
+            },
+            {
+                "token": "ὑπεπλεύσαμεν",
+                "transliteration": "hypepleusamen",
+                "strong": "5284",
+                "translation": " we sailed to the lee "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κρήτην",
+                "transliteration": "Krētēn",
+                "strong": "2914",
+                "translation": " of Crete , "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " opposite "
+            },
+            {
+                "token": "Σαλμώνην",
+                "transliteration": "Salmōnēn",
+                "strong": "4534",
+                "translation": " Salmone . "
+            }
+        ],
+        "verse_reference": "Acts 27:7",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " [After] "
+            },
+            {
+                "token": "παραλεγόμενοι",
+                "transliteration": "paralegomenoi",
+                "strong": "3881",
+                "translation": " we had moved along the coast "
+            },
+            {
+                "token": "αὐτὴν",
+                "transliteration": "autēn",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "μόλις",
+                "transliteration": "molis",
+                "strong": "3433",
+                "translation": " with difficulty , "
+            },
+            {
+                "token": "ἤλθομεν",
+                "transliteration": "ēlthomen",
+                "strong": "2064",
+                "translation": " we came "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " to "
+            },
+            {
+                "token": "τινὰ",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " a "
+            },
+            {
+                "token": "τόπον",
+                "transliteration": "topon",
+                "strong": "5117",
+                "translation": " place "
+            },
+            {
+                "token": "καλούμενον",
+                "transliteration": "kaloumenon",
+                "strong": "2564",
+                "translation": " called "
+            },
+            {
+                "token": "Καλοὺς",
+                "transliteration": "Kalous",
+                "strong": "2570",
+                "translation": " Fair "
+            },
+            {
+                "token": "Λιμένας",
+                "transliteration": "Limenas",
+                "strong": "3040",
+                "translation": " Havens , "
+            },
+            {
+                "token": "ἐγγὺς",
+                "transliteration": "engys",
+                "strong": "1451",
+                "translation": " near "
+            },
+            {
+                "token": "ᾧ",
+                "transliteration": "hō",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἦν",
+                "transliteration": "ēn",
+                "strong": "1510",
+                "translation": " - "
+            },
+            {
+                "token": "πόλις",
+                "transliteration": "polis",
+                "strong": "4172",
+                "translation": " [the] town "
+            },
+            {
+                "token": "Λασαία",
+                "transliteration": "Lasaia",
+                "strong": "2996",
+                "translation": " of Lasea . "
+            }
+        ],
+        "verse_reference": "Acts 27:8",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " By now "
+            },
+            {
+                "token": "Ἱκανοῦ",
+                "transliteration": "Hikanou",
+                "strong": "2425",
+                "translation": " much "
+            },
+            {
+                "token": "χρόνου",
+                "transliteration": "chronou",
+                "strong": "5550",
+                "translation": " time "
+            },
+            {
+                "token": "διαγενομένου",
+                "transliteration": "diagenomenou",
+                "strong": "1230",
+                "translation": " had passed , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοὸς",
+                "transliteration": "ploos",
+                "strong": "4144",
+                "translation": " voyage "
+            },
+            {
+                "token": "ἤδη",
+                "transliteration": "ēdē",
+                "strong": "2235",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὄντος",
+                "transliteration": "ontos",
+                "strong": "1510",
+                "translation": " had already become "
+            },
+            {
+                "token": "ἐπισφαλοῦς",
+                "transliteration": "episphalous",
+                "strong": "2000",
+                "translation": " dangerous "
+            },
+            {
+                "token": "διὰ",
+                "transliteration": "dia",
+                "strong": "1223",
+                "translation": " because "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "ἤδη",
+                "transliteration": "ēdē",
+                "strong": "2235",
+                "translation": " - "
+            },
+            {
+                "token": "παρεληλυθέναι",
+                "transliteration": "parelēlythenai",
+                "strong": "3928",
+                "translation": " it was after "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Νηστείαν",
+                "transliteration": "Nēsteian",
+                "strong": "3521",
+                "translation": " Fast . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " [So] Paul "
+            },
+            {
+                "token": "παρῄνει",
+                "transliteration": "parēnei",
+                "strong": "3867",
+                "translation": " advised [them] , "
+            }
+        ],
+        "verse_reference": "Acts 27:9",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " - "
+            },
+            {
+                "token": "αὐτοῖς",
+                "transliteration": "autois",
+                "strong": "846",
+                "translation": " - "
+            },
+            {
+                "token": "Ἄνδρες",
+                "transliteration": "Andres",
+                "strong": "435",
+                "translation": " “ Men , "
+            },
+            {
+                "token": "θεωρῶ",
+                "transliteration": "theōrō",
+                "strong": "2334",
+                "translation": " I can see "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " [our] "
+            },
+            {
+                "token": "πλοῦν",
+                "transliteration": "ploun",
+                "strong": "4144",
+                "translation": " voyage "
+            },
+            {
+                "token": "μέλλειν",
+                "transliteration": "mellein",
+                "strong": "3195",
+                "translation": " will "
+            },
+            {
+                "token": "ἔσεσθαι",
+                "transliteration": "esesthai",
+                "strong": "1510",
+                "translation": " be [filled] "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "ὕβρεως",
+                "transliteration": "hybreōs",
+                "strong": "5196",
+                "translation": " disaster "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "πολλῆς",
+                "transliteration": "pollēs",
+                "strong": "4183",
+                "translation": " great "
+            },
+            {
+                "token": "ζημίας",
+                "transliteration": "zēmias",
+                "strong": "2209",
+                "translation": " loss , "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " not "
+            },
+            {
+                "token": "μόνον",
+                "transliteration": "monon",
+                "strong": "3440",
+                "translation": " only "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " to "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "φορτίου",
+                "transliteration": "phortiou",
+                "strong": "5413",
+                "translation": " cargo , "
+            },
+            {
+                "token": "ἀλλὰ",
+                "transliteration": "alla",
+                "strong": "235",
+                "translation": " but "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " to our "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " [own] "
+            },
+            {
+                "token": "ψυχῶν",
+                "transliteration": "psychōn",
+                "strong": "5590",
+                "translation": " lives "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " as well . ” "
+            }
+        ],
+        "verse_reference": "Acts 27:10",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "μᾶλλον",
+                "transliteration": "mallon",
+                "strong": "3123",
+                "translation": " contrary to "
+            },
+            {
+                "token": "ἢ",
+                "transliteration": "ē",
+                "strong": "2228",
+                "translation": " . . . "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " - "
+            },
+            {
+                "token": "Παύλου",
+                "transliteration": "Paulou",
+                "strong": "3972",
+                "translation": " Paul’s "
+            },
+            {
+                "token": "λεγομένοις",
+                "transliteration": "legomenois",
+                "strong": "3004",
+                "translation": " advice , "
+            },
+            {
+                "token": "Ὁ",
+                "transliteration": "Ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἑκατοντάρχης",
+                "transliteration": "hekatontarchēs",
+                "strong": "1543",
+                "translation": " centurion "
+            },
+            {
+                "token": "ἐπείθετο",
+                "transliteration": "epeitheto",
+                "strong": "3982",
+                "translation": " was persuaded "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " by the "
+            },
+            {
+                "token": "κυβερνήτῃ",
+                "transliteration": "kybernētē",
+                "strong": "2942",
+                "translation": " pilot "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " by the "
+            },
+            {
+                "token": "ναυκλήρῳ",
+                "transliteration": "nauklērō",
+                "strong": "3490",
+                "translation": " owner of the ship . "
+            }
+        ],
+        "verse_reference": "Acts 27:11",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Since "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "λιμένος",
+                "transliteration": "limenos",
+                "strong": "3040",
+                "translation": " harbor "
+            },
+            {
+                "token": "ὑπάρχοντος",
+                "transliteration": "hyparchontos",
+                "strong": "5225",
+                "translation": " was "
+            },
+            {
+                "token": "ἀνευθέτου",
+                "transliteration": "aneuthetou",
+                "strong": "428",
+                "translation": " unsuitable "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " to "
+            },
+            {
+                "token": "παραχειμασίαν",
+                "transliteration": "paracheimasian",
+                "strong": "3915",
+                "translation": " winter in , "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλείονες",
+                "transliteration": "pleiones",
+                "strong": "4119",
+                "translation": " majority "
+            },
+            {
+                "token": "ἔθεντο",
+                "transliteration": "ethento",
+                "strong": "5087",
+                "translation": " vvv "
+            },
+            {
+                "token": "βουλὴν",
+                "transliteration": "boulēn",
+                "strong": "1012",
+                "translation": " decided "
+            },
+            {
+                "token": "ἀναχθῆναι",
+                "transliteration": "anachthēnai",
+                "strong": "321",
+                "translation": " to sail "
+            },
+            {
+                "token": "ἐκεῖθεν",
+                "transliteration": "ekeithen",
+                "strong": "1564",
+                "translation": " on , "
+            },
+            {
+                "token": "εἴ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " if "
+            },
+            {
+                "token": "πως",
+                "transliteration": "pōs",
+                "strong": "4459",
+                "translation": " somehow "
+            },
+            {
+                "token": "δύναιντο",
+                "transliteration": "dynainto",
+                "strong": "1410",
+                "translation": " they could "
+            },
+            {
+                "token": "καταντήσαντες",
+                "transliteration": "katantēsantes",
+                "strong": "2658",
+                "translation": " reach "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " . . . "
+            },
+            {
+                "token": "Φοίνικα",
+                "transliteration": "Phoinika",
+                "strong": "5405",
+                "translation": " Phoenix "
+            },
+            {
+                "token": "παραχειμάσαι",
+                "transliteration": "paracheimasai",
+                "strong": "3914",
+                "translation": " to winter [there] . "
+            },
+            {
+                "token": "λιμένα",
+                "transliteration": "limena",
+                "strong": "3040",
+                "translation": " [Phoenix was] a harbor "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κρήτης",
+                "transliteration": "Krētēs",
+                "strong": "2914",
+                "translation": " in Crete "
+            },
+            {
+                "token": "βλέποντα",
+                "transliteration": "bleponta",
+                "strong": "991",
+                "translation": " facing "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " [both] "
+            },
+            {
+                "token": "λίβα",
+                "transliteration": "liba",
+                "strong": "3047",
+                "translation": " southwest "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " - "
+            },
+            {
+                "token": "χῶρον",
+                "transliteration": "chōron",
+                "strong": "5566",
+                "translation": " northwest . "
+            }
+        ],
+        "verse_reference": "Acts 27:12",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [When] "
+            },
+            {
+                "token": "νότου",
+                "transliteration": "notou",
+                "strong": "3558",
+                "translation": " a {gentle} south wind "
+            },
+            {
+                "token": "Ὑποπνεύσαντος",
+                "transliteration": "Hypopneusantos",
+                "strong": "5285",
+                "translation": " began to blow , "
+            },
+            {
+                "token": "δόξαντες",
+                "transliteration": "doxantes",
+                "strong": "1380",
+                "translation": " they thought "
+            },
+            {
+                "token": "κεκρατηκέναι",
+                "transliteration": "kekratēkenai",
+                "strong": "2902",
+                "translation": " they had "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " [their] "
+            },
+            {
+                "token": "προθέσεως",
+                "transliteration": "protheseōs",
+                "strong": "4286",
+                "translation": " opportunity . "
+            },
+            {
+                "token": "ἄραντες",
+                "transliteration": "arantes",
+                "strong": "142",
+                "translation": " [So] they weighed [anchor] "
+            },
+            {
+                "token": "παρελέγοντο",
+                "transliteration": "parelegonto",
+                "strong": "3881",
+                "translation": " [and] sailed along , "
+            },
+            {
+                "token": "ἆσσον",
+                "transliteration": "asson",
+                "strong": "788",
+                "translation": " hugging {the coast} "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κρήτην",
+                "transliteration": "Krētēn",
+                "strong": "2914",
+                "translation": " of Crete . "
+            }
+        ],
+        "verse_reference": "Acts 27:13",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " [it was] not "
+            },
+            {
+                "token": "πολὺ",
+                "transliteration": "poly",
+                "strong": "4183",
+                "translation": " long "
+            },
+            {
+                "token": "μετ’",
+                "transliteration": "met’",
+                "strong": "3326",
+                "translation": " [before] "
+            },
+            {
+                "token": "τυφωνικὸς",
+                "transliteration": "typhōnikos",
+                "strong": "5189",
+                "translation": " a cyclone "
+            },
+            {
+                "token": "ἄνεμος",
+                "transliteration": "anemos",
+                "strong": "417",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "καλούμενος",
+                "transliteration": "kaloumenos",
+                "strong": "2564",
+                "translation": " called "
+            },
+            {
+                "token": "Εὐρακύλων",
+                "transliteration": "Eurakylōn",
+                "strong": "2148",
+                "translation": " the Northeaster "
+            },
+            {
+                "token": "ἔβαλεν",
+                "transliteration": "ebalen",
+                "strong": "906",
+                "translation": " swept "
+            },
+            {
+                "token": "κατ’",
+                "transliteration": "kat’",
+                "strong": "2596",
+                "translation": " down across "
+            },
+            {
+                "token": "αὐτῆς",
+                "transliteration": "autēs",
+                "strong": "846",
+                "translation": " [the island] . "
+            }
+        ],
+        "verse_reference": "Acts 27:14",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " vvv "
+            },
+            {
+                "token": "δυναμένου",
+                "transliteration": "dynamenou",
+                "strong": "1410",
+                "translation": " Unable "
+            },
+            {
+                "token": "ἀντοφθαλμεῖν",
+                "transliteration": "antophthalmein",
+                "strong": "503",
+                "translation": " to head into "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀνέμῳ",
+                "transliteration": "anemō",
+                "strong": "417",
+                "translation": " wind , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship "
+            },
+            {
+                "token": "συναρπασθέντος",
+                "transliteration": "synarpasthentos",
+                "strong": "4884",
+                "translation": " was caught up . "
+            },
+            {
+                "token": "ἐπιδόντες",
+                "transliteration": "epidontes",
+                "strong": "1929",
+                "translation": " [So] we gave way "
+            },
+            {
+                "token": "ἐφερόμεθα",
+                "transliteration": "epherometha",
+                "strong": "5342",
+                "translation": " [and] let ourselves be driven along . "
+            }
+        ],
+        "verse_reference": "Acts 27:15",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δέ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ὑποδραμόντες",
+                "transliteration": "hypodramontes",
+                "strong": "5295",
+                "translation": " Passing to the lee "
+            },
+            {
+                "token": "τι",
+                "transliteration": "ti",
+                "strong": "5100",
+                "translation": " of a small "
+            },
+            {
+                "token": "Νησίον",
+                "transliteration": "Nēsion",
+                "strong": "3519",
+                "translation": " island "
+            },
+            {
+                "token": "καλούμενον",
+                "transliteration": "kaloumenon",
+                "strong": "2564",
+                "translation": " called "
+            },
+            {
+                "token": "Καῦδα",
+                "transliteration": "Kauda",
+                "strong": "2802",
+                "translation": " Cauda , "
+            },
+            {
+                "token": "ἰσχύσαμεν",
+                "transliteration": "ischysamen",
+                "strong": "2480",
+                "translation": " we barely managed "
+            },
+            {
+                "token": "μόλις",
+                "transliteration": "molis",
+                "strong": "3433",
+                "translation": " . . . "
+            },
+            {
+                "token": "γενέσθαι",
+                "transliteration": "genesthai",
+                "strong": "1096",
+                "translation": " to secure "
+            },
+            {
+                "token": "περικρατεῖς",
+                "transliteration": "perikrateis",
+                "strong": "4031",
+                "translation": " . . . "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σκάφης",
+                "transliteration": "skaphēs",
+                "strong": "4627",
+                "translation": " lifeboat . "
+            }
+        ],
+        "verse_reference": "Acts 27:16",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ἣν",
+                "transliteration": "hēn",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἄραντες",
+                "transliteration": "arantes",
+                "strong": "142",
+                "translation": " After hoisting it up , "
+            },
+            {
+                "token": "ἐχρῶντο",
+                "transliteration": "echrōnto",
+                "strong": "5530",
+                "translation": " [the crew] used "
+            },
+            {
+                "token": "βοηθείαις",
+                "transliteration": "boētheiais",
+                "strong": "996",
+                "translation": " ropes "
+            },
+            {
+                "token": "ὑποζωννύντες",
+                "transliteration": "hypozōnnyntes",
+                "strong": "5269",
+                "translation": " to undergird "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοῖον",
+                "transliteration": "ploion",
+                "strong": "4143",
+                "translation": " ship . "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " And "
+            },
+            {
+                "token": "φοβούμενοί",
+                "transliteration": "phoboumenoi",
+                "strong": "5399",
+                "translation": " fearing "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " that "
+            },
+            {
+                "token": "ἐκπέσωσιν",
+                "transliteration": "ekpesōsin",
+                "strong": "1601",
+                "translation": " they would run aground "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " on "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Σύρτιν",
+                "transliteration": "Syrtin",
+                "strong": "4950",
+                "translation": " sandbars of Syrtis , "
+            },
+            {
+                "token": "χαλάσαντες",
+                "transliteration": "chalasantes",
+                "strong": "5465",
+                "translation": " they lowered "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σκεῦος",
+                "transliteration": "skeuos",
+                "strong": "4632",
+                "translation": " sea anchor "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " [and] "
+            },
+            {
+                "token": "ἐφέροντο",
+                "transliteration": "epheronto",
+                "strong": "5342",
+                "translation": " were driven along . "
+            }
+        ],
+        "verse_reference": "Acts 27:17",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " We "
+            },
+            {
+                "token": "χειμαζομένων",
+                "transliteration": "cheimazomenōn",
+                "strong": "5492",
+                "translation": " were tossed so "
+            },
+            {
+                "token": "Σφοδρῶς",
+                "transliteration": "Sphodrōs",
+                "strong": "4971",
+                "translation": " violently "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " [that] the "
+            },
+            {
+                "token": "ἑξῆς",
+                "transliteration": "hexēs",
+                "strong": "1836",
+                "translation": " next [day] "
+            },
+            {
+                "token": "ἐποιοῦντο",
+                "transliteration": "epoiounto",
+                "strong": "4160",
+                "translation": " [the men] began "
+            },
+            {
+                "token": "ἐκβολὴν",
+                "transliteration": "ekbolēn",
+                "strong": "1546",
+                "translation": " to jettison the cargo . "
+            }
+        ],
+        "verse_reference": "Acts 27:18",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " On the "
+            },
+            {
+                "token": "τρίτῃ",
+                "transliteration": "tritē",
+                "strong": "5154",
+                "translation": " third [day] , "
+            },
+            {
+                "token": "ἔρριψαν*",
+                "transliteration": "erripsan",
+                "strong": "4496",
+                "translation": " they threw "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship’s "
+            },
+            {
+                "token": "σκευὴν",
+                "transliteration": "skeuēn",
+                "strong": "4631",
+                "translation": " tackle {overboard} "
+            },
+            {
+                "token": "αὐτόχειρες",
+                "transliteration": "autocheires",
+                "strong": "849",
+                "translation": " with [their] own hands . "
+            }
+        ],
+        "verse_reference": "Acts 27:19",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [When] "
+            },
+            {
+                "token": "μήτε",
+                "transliteration": "mēte",
+                "strong": "3383",
+                "translation": " neither "
+            },
+            {
+                "token": "ἡλίου",
+                "transliteration": "hēliou",
+                "strong": "2246",
+                "translation": " sun "
+            },
+            {
+                "token": "μήτε",
+                "transliteration": "mēte",
+                "strong": "3383",
+                "translation": " nor "
+            },
+            {
+                "token": "ἄστρων",
+                "transliteration": "astrōn",
+                "strong": "798",
+                "translation": " stars "
+            },
+            {
+                "token": "ἐπιφαινόντων",
+                "transliteration": "epiphainontōn",
+                "strong": "2014",
+                "translation": " appeared "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " for "
+            },
+            {
+                "token": "πλείονας",
+                "transliteration": "pleionas",
+                "strong": "4119",
+                "translation": " many "
+            },
+            {
+                "token": "ἡμέρας",
+                "transliteration": "hēmeras",
+                "strong": "2250",
+                "translation": " days "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " and "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὀλίγου",
+                "transliteration": "oligou",
+                "strong": "3641",
+                "translation": " [the great] "
+            },
+            {
+                "token": "χειμῶνός",
+                "transliteration": "cheimōnos",
+                "strong": "5494",
+                "translation": " storm "
+            },
+            {
+                "token": "ἐπικειμένου",
+                "transliteration": "epikeimenou",
+                "strong": "1945",
+                "translation": " continued to batter us , "
+            },
+            {
+                "token": "λοιπὸν",
+                "transliteration": "loipon",
+                "strong": "3063",
+                "translation": " - "
+            },
+            {
+                "token": "περιῃρεῖτο",
+                "transliteration": "periēreito",
+                "strong": "4014",
+                "translation": " we abandoned "
+            },
+            {
+                "token": "πᾶσα",
+                "transliteration": "pasa",
+                "strong": "3956",
+                "translation": " all "
+            },
+            {
+                "token": "ἐλπὶς",
+                "transliteration": "elpis",
+                "strong": "1680",
+                "translation": " hope "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " of "
+            },
+            {
+                "token": "σῴζεσθαι",
+                "transliteration": "sōzesthai",
+                "strong": "4982",
+                "translation": " being saved . "
+            }
+        ],
+        "verse_reference": "Acts 27:20",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " [After] "
+            },
+            {
+                "token": "τότε",
+                "transliteration": "tote",
+                "strong": "5119",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὑπαρχούσης",
+                "transliteration": "hyparchousēs",
+                "strong": "5225",
+                "translation": " [the men] had gone "
+            },
+            {
+                "token": "Πολλῆς",
+                "transliteration": "Pollēs",
+                "strong": "4183",
+                "translation": " a long "
+            },
+            {
+                "token": "ἀσιτίας",
+                "transliteration": "asitias",
+                "strong": "776",
+                "translation": " time without food , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " Paul "
+            },
+            {
+                "token": "σταθεὶς",
+                "transliteration": "statheis",
+                "strong": "2476",
+                "translation": " stood up "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " among them "
+            },
+            {
+                "token": "αὐτῶν",
+                "transliteration": "autōn",
+                "strong": "846",
+                "translation": " . . . "
+            },
+            {
+                "token": "μέσῳ",
+                "transliteration": "mesō",
+                "strong": "3319",
+                "translation": " . . . "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " [and] said , "
+            },
+            {
+                "token": "ὦ",
+                "transliteration": "ō",
+                "strong": "5599",
+                "translation": " - "
+            },
+            {
+                "token": "ἄνδρες",
+                "transliteration": "andres",
+                "strong": "435",
+                "translation": " “ Men , "
+            },
+            {
+                "token": "Ἔδει",
+                "transliteration": "Edei",
+                "strong": "1163",
+                "translation": " you should have "
+            },
+            {
+                "token": "μέν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "πειθαρχήσαντάς",
+                "transliteration": "peitharchēsantas",
+                "strong": "3980",
+                "translation": " followed my advice "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " . . . "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " not "
+            },
+            {
+                "token": "ἀνάγεσθαι",
+                "transliteration": "anagesthai",
+                "strong": "321",
+                "translation": " to sail "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " from "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Κρήτης",
+                "transliteration": "Krētēs",
+                "strong": "2914",
+                "translation": " Crete . "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " Then "
+            },
+            {
+                "token": "κερδῆσαί",
+                "transliteration": "kerdēsai",
+                "strong": "2770",
+                "translation": " [you would have averted] "
+            },
+            {
+                "token": "ταύτην",
+                "transliteration": "tautēn",
+                "strong": "3778",
+                "translation": " this "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ὕβριν",
+                "transliteration": "hybrin",
+                "strong": "5196",
+                "translation": " disaster "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ζημίαν",
+                "transliteration": "zēmian",
+                "strong": "2209",
+                "translation": " loss . "
+            }
+        ],
+        "verse_reference": "Acts 27:21",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " [But] "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "νῦν",
+                "transliteration": "nyn",
+                "strong": "3568",
+                "translation": " now "
+            },
+            {
+                "token": "παραινῶ",
+                "transliteration": "parainō",
+                "strong": "3867",
+                "translation": " I urge "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "εὐθυμεῖν",
+                "transliteration": "euthymein",
+                "strong": "2114",
+                "translation": " to keep up your courage , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " because "
+            },
+            {
+                "token": "ἐξ",
+                "transliteration": "ex",
+                "strong": "1537",
+                "translation": " - "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "ἔσται",
+                "transliteration": "estai",
+                "strong": "1510",
+                "translation": " will not experience "
+            },
+            {
+                "token": "οὐδεμία",
+                "transliteration": "oudemia",
+                "strong": "3762",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἀποβολὴ",
+                "transliteration": "apobolē",
+                "strong": "580",
+                "translation": " [any] loss "
+            },
+            {
+                "token": "ψυχῆς",
+                "transliteration": "psychēs",
+                "strong": "5590",
+                "translation": " of life , "
+            },
+            {
+                "token": "πλὴν",
+                "transliteration": "plēn",
+                "strong": "4133",
+                "translation": " but only "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship . "
+            }
+        ],
+        "verse_reference": "Acts 27:22",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "γάρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " For "
+            },
+            {
+                "token": "ταύτῃ",
+                "transliteration": "tautē",
+                "strong": "3778",
+                "translation": " [just last] "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "νυκτὶ",
+                "transliteration": "nykti",
+                "strong": "3571",
+                "translation": " night "
+            },
+            {
+                "token": "ἄγγελος",
+                "transliteration": "angelos",
+                "strong": "32",
+                "translation": " an angel "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεοῦ",
+                "transliteration": "Theou",
+                "strong": "2316",
+                "translation": " of God , "
+            },
+            {
+                "token": "οὗ",
+                "transliteration": "hou",
+                "strong": "3739",
+                "translation": " whose "
+            },
+            {
+                "token": "[ἐγώ]",
+                "transliteration": "egō",
+                "strong": "1473",
+                "translation": " I "
+            },
+            {
+                "token": "εἰμι",
+                "transliteration": "eimi",
+                "strong": "1510",
+                "translation": " am "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "ᾧ",
+                "transliteration": "hō",
+                "strong": "3739",
+                "translation": " whom "
+            },
+            {
+                "token": "λατρεύω",
+                "transliteration": "latreuō",
+                "strong": "3000",
+                "translation": " I serve , "
+            },
+            {
+                "token": "παρέστη",
+                "transliteration": "parestē",
+                "strong": "3936",
+                "translation": " stood beside "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " me "
+            }
+        ],
+        "verse_reference": "Acts 27:23",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " [and] said , "
+            },
+            {
+                "token": "Μὴ",
+                "transliteration": "Mē",
+                "strong": "3361",
+                "translation": " ‘ {Do} not "
+            },
+            {
+                "token": "φοβοῦ",
+                "transliteration": "phobou",
+                "strong": "5399",
+                "translation": " be afraid , "
+            },
+            {
+                "token": "Παῦλε",
+                "transliteration": "Paule",
+                "strong": "3972",
+                "translation": " Paul ; "
+            },
+            {
+                "token": "σε",
+                "transliteration": "se",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "δεῖ",
+                "transliteration": "dei",
+                "strong": "1163",
+                "translation": " must "
+            },
+            {
+                "token": "παραστῆναι",
+                "transliteration": "parastēnai",
+                "strong": "3936",
+                "translation": " stand before "
+            },
+            {
+                "token": "Καίσαρί",
+                "transliteration": "Kaisari",
+                "strong": "2541",
+                "translation": " Caesar . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " And "
+            },
+            {
+                "token": "ἰδοὺ",
+                "transliteration": "idou",
+                "strong": "2400",
+                "translation": " look , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεὸς",
+                "transliteration": "Theos",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "κεχάρισταί",
+                "transliteration": "kecharistai",
+                "strong": "5483",
+                "translation": " has granted "
+            },
+            {
+                "token": "σοι",
+                "transliteration": "soi",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "πάντας",
+                "transliteration": "pantas",
+                "strong": "3956",
+                "translation": " [the lives of] all "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " who "
+            },
+            {
+                "token": "πλέοντας",
+                "transliteration": "pleontas",
+                "strong": "4126",
+                "translation": " sail "
+            },
+            {
+                "token": "μετὰ",
+                "transliteration": "meta",
+                "strong": "3326",
+                "translation": " with "
+            },
+            {
+                "token": "σοῦ",
+                "transliteration": "sou",
+                "strong": "4771",
+                "translation": " you . ’ "
+            }
+        ],
+        "verse_reference": "Acts 27:24",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "Διὸ",
+                "transliteration": "Dio",
+                "strong": "1352",
+                "translation": " So "
+            },
+            {
+                "token": "εὐθυμεῖτε",
+                "transliteration": "euthymeite",
+                "strong": "2114",
+                "translation": " take courage , "
+            },
+            {
+                "token": "ἄνδρες",
+                "transliteration": "andres",
+                "strong": "435",
+                "translation": " men , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " for "
+            },
+            {
+                "token": "πιστεύω",
+                "transliteration": "pisteuō",
+                "strong": "4100",
+                "translation": " I believe "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " God "
+            },
+            {
+                "token": "ὅτι",
+                "transliteration": "hoti",
+                "strong": "3754",
+                "translation": " that "
+            },
+            {
+                "token": "ἔσται",
+                "transliteration": "estai",
+                "strong": "1510",
+                "translation": " it will happen "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " just "
+            },
+            {
+                "token": "καθ’",
+                "transliteration": "kath’",
+                "strong": "2596",
+                "translation": " . . . "
+            },
+            {
+                "token": "ὃν",
+                "transliteration": "hon",
+                "strong": "3739",
+                "translation": " vvv "
+            },
+            {
+                "token": "τρόπον",
+                "transliteration": "tropon",
+                "strong": "5158",
+                "translation": " as "
+            },
+            {
+                "token": "λελάληταί",
+                "transliteration": "lelalētai",
+                "strong": "2980",
+                "translation": " He told "
+            },
+            {
+                "token": "μοι",
+                "transliteration": "moi",
+                "strong": "1473",
+                "translation": " me . "
+            }
+        ],
+        "verse_reference": "Acts 27:25",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δέ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " However , "
+            },
+            {
+                "token": "ἡμᾶς",
+                "transliteration": "hēmas",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "δεῖ",
+                "transliteration": "dei",
+                "strong": "1163",
+                "translation": " must "
+            },
+            {
+                "token": "ἐκπεσεῖν",
+                "transliteration": "ekpesein",
+                "strong": "1601",
+                "translation": " run aground "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " on "
+            },
+            {
+                "token": "τινα",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " some "
+            },
+            {
+                "token": "νῆσον",
+                "transliteration": "nēson",
+                "strong": "3520",
+                "translation": " island . ” "
+            }
+        ],
+        "verse_reference": "Acts 27:26",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ὡς",
+                "transliteration": "Hōs",
+                "strong": "5613",
+                "translation": " [On] "
+            },
+            {
+                "token": "τεσσαρεσκαιδεκάτη",
+                "transliteration": "tessareskaidekatē",
+                "strong": "5065",
+                "translation": " the fourteenth "
+            },
+            {
+                "token": "νὺξ",
+                "transliteration": "nyx",
+                "strong": "3571",
+                "translation": " night "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " - "
+            },
+            {
+                "token": "ἡμῶν",
+                "transliteration": "hēmōn",
+                "strong": "1473",
+                "translation": " we "
+            },
+            {
+                "token": "διαφερομένων",
+                "transliteration": "diapheromenōn",
+                "strong": "1308",
+                "translation": " were still being driven "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " across "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "Ἀδρίᾳ",
+                "transliteration": "Adria",
+                "strong": "99",
+                "translation": " Adriatic Sea . "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " About "
+            },
+            {
+                "token": "μέσον",
+                "transliteration": "meson",
+                "strong": "3319",
+                "translation": " midnight "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "νυκτὸς",
+                "transliteration": "nyktos",
+                "strong": "3571",
+                "translation": " . . . "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ναῦται",
+                "transliteration": "nautai",
+                "strong": "3492",
+                "translation": " sailors "
+            },
+            {
+                "token": "ὑπενόουν",
+                "transliteration": "hypenooun",
+                "strong": "5282",
+                "translation": " sensed "
+            },
+            {
+                "token": "αὐτοῖς",
+                "transliteration": "autois",
+                "strong": "846",
+                "translation": " they "
+            },
+            {
+                "token": "προσάγειν",
+                "transliteration": "prosagein",
+                "strong": "4317",
+                "translation": " were approaching "
+            },
+            {
+                "token": "τινὰ",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " vvv "
+            },
+            {
+                "token": "χώραν",
+                "transliteration": "chōran",
+                "strong": "5561",
+                "translation": " land . "
+            }
+        ],
+        "verse_reference": "Acts 27:27",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "βολίσαντες",
+                "transliteration": "bolisantes",
+                "strong": "1001",
+                "translation": " They took soundings "
+            },
+            {
+                "token": "εὗρον",
+                "transliteration": "heuron",
+                "strong": "2147",
+                "translation": " [and] found that [the water] "
+            },
+            {
+                "token": "εἴκοσι",
+                "transliteration": "eikosi",
+                "strong": "1501",
+                "translation": " [was] twenty "
+            },
+            {
+                "token": "ὀργυιὰς",
+                "transliteration": "orguias",
+                "strong": "3712",
+                "translation": " fathoms [deep] . "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "διαστήσαντες",
+                "transliteration": "diastēsantes",
+                "strong": "1339",
+                "translation": " Going "
+            },
+            {
+                "token": "βραχὺ",
+                "transliteration": "brachy",
+                "strong": "1024",
+                "translation": " a little farther , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "βολίσαντες",
+                "transliteration": "bolisantes",
+                "strong": "1001",
+                "translation": " they took another set of soundings "
+            },
+            {
+                "token": "πάλιν",
+                "transliteration": "palin",
+                "strong": "3825",
+                "translation": " . . . "
+            },
+            {
+                "token": "εὗρον",
+                "transliteration": "heuron",
+                "strong": "2147",
+                "translation": " that read "
+            },
+            {
+                "token": "δεκαπέντε",
+                "transliteration": "dekapente",
+                "strong": "1178",
+                "translation": " fifteen "
+            },
+            {
+                "token": "ὀργυιὰς",
+                "transliteration": "orguias",
+                "strong": "3712",
+                "translation": " fathoms . "
+            }
+        ],
+        "verse_reference": "Acts 27:28",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "φοβούμενοί",
+                "transliteration": "phoboumenoi",
+                "strong": "5399",
+                "translation": " Fearing that "
+            },
+            {
+                "token": "μή",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐκπέσωμεν",
+                "transliteration": "ekpesōmen",
+                "strong": "1601",
+                "translation": " we would run aground "
+            },
+            {
+                "token": "που",
+                "transliteration": "pou",
+                "strong": "4225",
+                "translation": " . . . "
+            },
+            {
+                "token": "κατὰ",
+                "transliteration": "kata",
+                "strong": "2596",
+                "translation": " on "
+            },
+            {
+                "token": "τραχεῖς",
+                "transliteration": "tracheis",
+                "strong": "5138",
+                "translation": " [the] rocks "
+            },
+            {
+                "token": "τόπους",
+                "transliteration": "topous",
+                "strong": "5117",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ῥίψαντες",
+                "transliteration": "rhipsantes",
+                "strong": "4496",
+                "translation": " they dropped "
+            },
+            {
+                "token": "τέσσαρας",
+                "transliteration": "tessaras",
+                "strong": "5064",
+                "translation": " four "
+            },
+            {
+                "token": "ἀγκύρας",
+                "transliteration": "ankyras",
+                "strong": "45",
+                "translation": " anchors "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "πρύμνης",
+                "transliteration": "prymnēs",
+                "strong": "4403",
+                "translation": " [the] stern "
+            },
+            {
+                "token": "ηὔχοντο",
+                "transliteration": "ēuchonto",
+                "strong": "2172",
+                "translation": " [and] prayed for "
+            },
+            {
+                "token": "ἡμέραν",
+                "transliteration": "hēmeran",
+                "strong": "2250",
+                "translation": " daybreak "
+            },
+            {
+                "token": "γενέσθαι",
+                "transliteration": "genesthai",
+                "strong": "1096",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Acts 27:29",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Meanwhile , "
+            },
+            {
+                "token": "Τῶν",
+                "transliteration": "Tōn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ναυτῶν",
+                "transliteration": "nautōn",
+                "strong": "3492",
+                "translation": " sailors "
+            },
+            {
+                "token": "ζητούντων",
+                "transliteration": "zētountōn",
+                "strong": "2212",
+                "translation": " attempted "
+            },
+            {
+                "token": "φυγεῖν",
+                "transliteration": "phygein",
+                "strong": "5343",
+                "translation": " to escape "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship . "
+            },
+            {
+                "token": "προφάσει",
+                "transliteration": "prophasei",
+                "strong": "4392",
+                "translation": " Pretending "
+            },
+            {
+                "token": "ὡς",
+                "transliteration": "hōs",
+                "strong": "5613",
+                "translation": " . . . "
+            },
+            {
+                "token": "μελλόντων",
+                "transliteration": "mellontōn",
+                "strong": "3195",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐκτείνειν",
+                "transliteration": "ekteinein",
+                "strong": "1614",
+                "translation": " to lower "
+            },
+            {
+                "token": "ἀγκύρας",
+                "transliteration": "ankyras",
+                "strong": "45",
+                "translation": " anchors "
+            },
+            {
+                "token": "ἐκ",
+                "transliteration": "ek",
+                "strong": "1537",
+                "translation": " from "
+            },
+            {
+                "token": "πρῴρης",
+                "transliteration": "prōrēs",
+                "strong": "4408",
+                "translation": " [the] bow , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "χαλασάντων",
+                "transliteration": "chalasantōn",
+                "strong": "5465",
+                "translation": " they let "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σκάφην",
+                "transliteration": "skaphēn",
+                "strong": "4627",
+                "translation": " lifeboat "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " {down} into "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "θάλασσαν",
+                "transliteration": "thalassan",
+                "strong": "2281",
+                "translation": " sea . "
+            }
+        ],
+        "verse_reference": "Acts 27:30",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " [But] Paul "
+            },
+            {
+                "token": "εἶπεν",
+                "transliteration": "eipen",
+                "strong": "2036",
+                "translation": " said "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " to the "
+            },
+            {
+                "token": "ἑκατοντάρχῃ",
+                "transliteration": "hekatontarchē",
+                "strong": "1543",
+                "translation": " centurion "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "τοῖς",
+                "transliteration": "tois",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "στρατιώταις",
+                "transliteration": "stratiōtais",
+                "strong": "4757",
+                "translation": " soldiers , "
+            },
+            {
+                "token": "Ἐὰν",
+                "transliteration": "Ean",
+                "strong": "1437",
+                "translation": " “ Unless "
+            },
+            {
+                "token": "μὴ",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " . . . "
+            },
+            {
+                "token": "οὗτοι",
+                "transliteration": "houtoi",
+                "strong": "3778",
+                "translation": " these [men] "
+            },
+            {
+                "token": "μείνωσιν",
+                "transliteration": "meinōsin",
+                "strong": "3306",
+                "translation": " remain "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " with "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίῳ",
+                "transliteration": "ploiō",
+                "strong": "4143",
+                "translation": " ship , "
+            },
+            {
+                "token": "ὑμεῖς",
+                "transliteration": "hymeis",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "οὐ",
+                "transliteration": "ou",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "δύνασθε",
+                "transliteration": "dynasthe",
+                "strong": "1410",
+                "translation": " cannot "
+            },
+            {
+                "token": "σωθῆναι",
+                "transliteration": "sōthēnai",
+                "strong": "4982",
+                "translation": " be saved . ” "
+            }
+        ],
+        "verse_reference": "Acts 27:31",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "τότε",
+                "transliteration": "tote",
+                "strong": "5119",
+                "translation": " [So] "
+            },
+            {
+                "token": "οἱ",
+                "transliteration": "hoi",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "στρατιῶται",
+                "transliteration": "stratiōtai",
+                "strong": "4757",
+                "translation": " soldiers "
+            },
+            {
+                "token": "ἀπέκοψαν",
+                "transliteration": "apekopsan",
+                "strong": "609",
+                "translation": " cut "
+            },
+            {
+                "token": "τὰ",
+                "transliteration": "ta",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σχοινία",
+                "transliteration": "schoinia",
+                "strong": "4979",
+                "translation": " ropes "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " to the "
+            },
+            {
+                "token": "σκάφης",
+                "transliteration": "skaphēs",
+                "strong": "4627",
+                "translation": " lifeboat "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "εἴασαν",
+                "transliteration": "eiasan",
+                "strong": "1439",
+                "translation": " set "
+            },
+            {
+                "token": "αὐτὴν",
+                "transliteration": "autēn",
+                "strong": "846",
+                "translation": " it "
+            },
+            {
+                "token": "ἐκπεσεῖν",
+                "transliteration": "ekpesein",
+                "strong": "1601",
+                "translation": " adrift . "
+            }
+        ],
+        "verse_reference": "Acts 27:32",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " Right "
+            },
+            {
+                "token": "Ἄχρι",
+                "transliteration": "Achri",
+                "strong": "891",
+                "translation": " up to "
+            },
+            {
+                "token": "οὗ",
+                "transliteration": "hou",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἡμέρα",
+                "transliteration": "hēmera",
+                "strong": "2250",
+                "translation": " daybreak "
+            },
+            {
+                "token": "ἤμελλεν",
+                "transliteration": "ēmellen",
+                "strong": "3195",
+                "translation": " . . . "
+            },
+            {
+                "token": "γίνεσθαι",
+                "transliteration": "ginesthai",
+                "strong": "1096",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλος",
+                "transliteration": "Paulos",
+                "strong": "3972",
+                "translation": " Paul "
+            },
+            {
+                "token": "παρεκάλει",
+                "transliteration": "parekalei",
+                "strong": "3870",
+                "translation": " kept urging "
+            },
+            {
+                "token": "ἅπαντας",
+                "transliteration": "hapantas",
+                "strong": "537",
+                "translation": " them all "
+            },
+            {
+                "token": "μεταλαβεῖν",
+                "transliteration": "metalabein",
+                "strong": "3335",
+                "translation": " to eat "
+            },
+            {
+                "token": "τροφῆς",
+                "transliteration": "trophēs",
+                "strong": "5160",
+                "translation": " . . . "
+            },
+            {
+                "token": "λέγων",
+                "transliteration": "legōn",
+                "strong": "3004",
+                "translation": " - : "
+            },
+            {
+                "token": "σήμερον",
+                "transliteration": "sēmeron",
+                "strong": "4594",
+                "translation": " “ Today "
+            },
+            {
+                "token": "Τεσσαρεσκαιδεκάτην",
+                "transliteration": "Tessareskaidekatēn",
+                "strong": "5065",
+                "translation": " [is your] fourteenth "
+            },
+            {
+                "token": "ἡμέραν",
+                "transliteration": "hēmeran",
+                "strong": "2250",
+                "translation": " day "
+            },
+            {
+                "token": "προσδοκῶντες",
+                "transliteration": "prosdokōntes",
+                "strong": "4328",
+                "translation": " in constant suspense , "
+            },
+            {
+                "token": "διατελεῖτε",
+                "transliteration": "diateleite",
+                "strong": "1300",
+                "translation": " vvv "
+            },
+            {
+                "token": "προσλαβόμενοι",
+                "transliteration": "proslabomenoi",
+                "strong": "4355",
+                "translation": " without taking any food "
+            },
+            {
+                "token": "μηθὲν",
+                "transliteration": "mēthen",
+                "strong": "3367",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἄσιτοι",
+                "transliteration": "asitoi",
+                "strong": "777",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Acts 27:33",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "διὸ",
+                "transliteration": "dio",
+                "strong": "1352",
+                "translation": " So "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " - "
+            },
+            {
+                "token": "τοῦτο",
+                "transliteration": "touto",
+                "strong": "3778",
+                "translation": " - "
+            },
+            {
+                "token": "ὑπάρχει",
+                "transliteration": "hyparchei",
+                "strong": "5225",
+                "translation": " - "
+            },
+            {
+                "token": "πρὸς",
+                "transliteration": "pros",
+                "strong": "4314",
+                "translation": " for "
+            },
+            {
+                "token": "ὑμετέρας",
+                "transliteration": "hymeteras",
+                "strong": "5212",
+                "translation": " your "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " [own] "
+            },
+            {
+                "token": "σωτηρίας",
+                "transliteration": "sōtērias",
+                "strong": "4991",
+                "translation": " preservation , "
+            },
+            {
+                "token": "παρακαλῶ",
+                "transliteration": "parakalō",
+                "strong": "3870",
+                "translation": " I urge "
+            },
+            {
+                "token": "ὑμᾶς",
+                "transliteration": "hymas",
+                "strong": "4771",
+                "translation": " you "
+            },
+            {
+                "token": "μεταλαβεῖν",
+                "transliteration": "metalabein",
+                "strong": "3335",
+                "translation": " to eat something "
+            },
+            {
+                "token": "τροφῆς",
+                "transliteration": "trophēs",
+                "strong": "5160",
+                "translation": " . . . , "
+            },
+            {
+                "token": "γὰρ",
+                "transliteration": "gar",
+                "strong": "1063",
+                "translation": " because "
+            },
+            {
+                "token": "οὐδενὸς",
+                "transliteration": "oudenos",
+                "strong": "3762",
+                "translation": " not a single "
+            },
+            {
+                "token": "θρὶξ",
+                "transliteration": "thrix",
+                "strong": "2359",
+                "translation": " hair "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " of "
+            },
+            {
+                "token": "ὑμῶν",
+                "transliteration": "hymōn",
+                "strong": "4771",
+                "translation": " your "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "κεφαλῆς",
+                "transliteration": "kephalēs",
+                "strong": "2776",
+                "translation": " head "
+            },
+            {
+                "token": "ἀπολεῖται",
+                "transliteration": "apoleitai",
+                "strong": "622",
+                "translation": " will be lost . ” "
+            }
+        ],
+        "verse_reference": "Acts 27:34",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [After] "
+            },
+            {
+                "token": "Εἴπας",
+                "transliteration": "Eipas",
+                "strong": "2036",
+                "translation": " he had said "
+            },
+            {
+                "token": "ταῦτα",
+                "transliteration": "tauta",
+                "strong": "3778",
+                "translation": " this , "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "λαβὼν",
+                "transliteration": "labōn",
+                "strong": "2983",
+                "translation": " [Paul] took "
+            },
+            {
+                "token": "ἄρτον",
+                "transliteration": "arton",
+                "strong": "740",
+                "translation": " bread "
+            },
+            {
+                "token": "εὐχαρίστησεν",
+                "transliteration": "eucharistēsen",
+                "strong": "2168",
+                "translation": " [and] gave thanks "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Θεῷ",
+                "transliteration": "Theō",
+                "strong": "2316",
+                "translation": " to God "
+            },
+            {
+                "token": "ἐνώπιον",
+                "transliteration": "enōpion",
+                "strong": "1799",
+                "translation": " in front of "
+            },
+            {
+                "token": "πάντων",
+                "transliteration": "pantōn",
+                "strong": "3956",
+                "translation": " them all . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " Then "
+            },
+            {
+                "token": "κλάσας",
+                "transliteration": "klasas",
+                "strong": "2806",
+                "translation": " he broke [it] "
+            },
+            {
+                "token": "ἤρξατο",
+                "transliteration": "ērxato",
+                "strong": "756",
+                "translation": " [and] began "
+            },
+            {
+                "token": "ἐσθίειν",
+                "transliteration": "esthiein",
+                "strong": "2068",
+                "translation": " to eat . "
+            }
+        ],
+        "verse_reference": "Acts 27:35",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "γενόμενοι",
+                "transliteration": "genomenoi",
+                "strong": "1096",
+                "translation": " They were "
+            },
+            {
+                "token": "πάντες",
+                "transliteration": "pantes",
+                "strong": "3956",
+                "translation": " all "
+            },
+            {
+                "token": "εὔθυμοι",
+                "transliteration": "euthymoi",
+                "strong": "2115",
+                "translation": " encouraged "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " and "
+            },
+            {
+                "token": "προσελάβοντο",
+                "transliteration": "proselabonto",
+                "strong": "4355",
+                "translation": " took "
+            },
+            {
+                "token": "τροφῆς",
+                "transliteration": "trophēs",
+                "strong": "5160",
+                "translation": " [some] food "
+            },
+            {
+                "token": "αὐτοὶ",
+                "transliteration": "autoi",
+                "strong": "846",
+                "translation": " themselves . "
+            }
+        ],
+        "verse_reference": "Acts 27:36",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "πᾶσαι",
+                "transliteration": "pasai",
+                "strong": "3956",
+                "translation": " In all , "
+            },
+            {
+                "token": "ἤμεθα",
+                "transliteration": "ēmetha",
+                "strong": "1510",
+                "translation": " there were "
+            },
+            {
+                "token": "διακόσιαι",
+                "transliteration": "diakosiai",
+                "strong": "1250",
+                "translation": " 276 {} "
+            },
+            {
+                "token": "ἑβδομήκοντα",
+                "transliteration": "hebdomēkonta",
+                "strong": "1440",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἕξ",
+                "transliteration": "hex",
+                "strong": "1803",
+                "translation": " . . . "
+            },
+            {
+                "token": "αἱ",
+                "transliteration": "hai",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ψυχαὶ",
+                "transliteration": "psychai",
+                "strong": "5590",
+                "translation": " of us "
+            },
+            {
+                "token": "ἐν",
+                "transliteration": "en",
+                "strong": "1722",
+                "translation": " on "
+            },
+            {
+                "token": "τῷ",
+                "transliteration": "tō",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "πλοίῳ",
+                "transliteration": "ploiō",
+                "strong": "4143",
+                "translation": " [board] . "
+            }
+        ],
+        "verse_reference": "Acts 27:37",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " [After] "
+            },
+            {
+                "token": "κορεσθέντες",
+                "transliteration": "koresthentes",
+                "strong": "2880",
+                "translation": " [the men] had eaten their fill "
+            },
+            {
+                "token": "τροφῆς",
+                "transliteration": "trophēs",
+                "strong": "5160",
+                "translation": " . . . , "
+            },
+            {
+                "token": "ἐκούφιζον",
+                "transliteration": "ekouphizon",
+                "strong": "2893",
+                "translation": " they lightened "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοῖον",
+                "transliteration": "ploion",
+                "strong": "4143",
+                "translation": " ship "
+            },
+            {
+                "token": "ἐκβαλλόμενοι",
+                "transliteration": "ekballomenoi",
+                "strong": "1544",
+                "translation": " by throwing "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "σῖτον",
+                "transliteration": "siton",
+                "strong": "4621",
+                "translation": " grain "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " into "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "θάλασσαν",
+                "transliteration": "thalassan",
+                "strong": "2281",
+                "translation": " sea . "
+            }
+        ],
+        "verse_reference": "Acts 27:38",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Ὅτε",
+                "transliteration": "Hote",
+                "strong": "3753",
+                "translation": " When "
+            },
+            {
+                "token": "ἡμέρα",
+                "transliteration": "hēmera",
+                "strong": "2250",
+                "translation": " daylight "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " came , "
+            },
+            {
+                "token": "οὐκ",
+                "transliteration": "ouk",
+                "strong": "3756",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἐπεγίνωσκον",
+                "transliteration": "epeginōskon",
+                "strong": "1921",
+                "translation": " they did not recognize "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "γῆν",
+                "transliteration": "gēn",
+                "strong": "1093",
+                "translation": " land , "
+            },
+            {
+                "token": "δέ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " but "
+            },
+            {
+                "token": "κατενόουν",
+                "transliteration": "katenooun",
+                "strong": "2657",
+                "translation": " they sighted "
+            },
+            {
+                "token": "τινα",
+                "transliteration": "tina",
+                "strong": "5100",
+                "translation": " a "
+            },
+            {
+                "token": "κόλπον",
+                "transliteration": "kolpon",
+                "strong": "2859",
+                "translation": " bay "
+            },
+            {
+                "token": "ἔχοντα",
+                "transliteration": "echonta",
+                "strong": "2192",
+                "translation": " with "
+            },
+            {
+                "token": "αἰγιαλὸν",
+                "transliteration": "aigialon",
+                "strong": "123",
+                "translation": " a sandy beach , "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " vvv "
+            },
+            {
+                "token": "ὃν",
+                "transliteration": "hon",
+                "strong": "3739",
+                "translation": " where "
+            },
+            {
+                "token": "ἐβουλεύοντο",
+                "transliteration": "ebouleuonto",
+                "strong": "1011",
+                "translation": " they decided "
+            },
+            {
+                "token": "ἐξῶσαι",
+                "transliteration": "exōsai",
+                "strong": "1856",
+                "translation": " to run "
+            },
+            {
+                "token": "τὸ",
+                "transliteration": "to",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοῖον",
+                "transliteration": "ploion",
+                "strong": "4143",
+                "translation": " ship {aground} "
+            },
+            {
+                "token": "εἰ",
+                "transliteration": "ei",
+                "strong": "1487",
+                "translation": " if "
+            },
+            {
+                "token": "δύναιντο",
+                "transliteration": "dynainto",
+                "strong": "1410",
+                "translation": " they could . "
+            }
+        ],
+        "verse_reference": "Acts 27:39",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "περιελόντες",
+                "transliteration": "perielontes",
+                "strong": "4014",
+                "translation": " Cutting away "
+            },
+            {
+                "token": "τὰς",
+                "transliteration": "tas",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀγκύρας",
+                "transliteration": "ankyras",
+                "strong": "45",
+                "translation": " anchors , "
+            },
+            {
+                "token": "εἴων",
+                "transliteration": "eiōn",
+                "strong": "1439",
+                "translation": " they left [them] "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " in "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "θάλασσαν",
+                "transliteration": "thalassan",
+                "strong": "2281",
+                "translation": " sea "
+            },
+            {
+                "token": "ἅμα",
+                "transliteration": "hama",
+                "strong": "260",
+                "translation": " as "
+            },
+            {
+                "token": "ἀνέντες",
+                "transliteration": "anentes",
+                "strong": "447",
+                "translation": " they loosened "
+            },
+            {
+                "token": "τὰς",
+                "transliteration": "tas",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ζευκτηρίας",
+                "transliteration": "zeuktērias",
+                "strong": "2202",
+                "translation": " ropes "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " [that held] the "
+            },
+            {
+                "token": "πηδαλίων",
+                "transliteration": "pēdaliōn",
+                "strong": "4079",
+                "translation": " rudders . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " Then "
+            },
+            {
+                "token": "ἐπάραντες",
+                "transliteration": "eparantes",
+                "strong": "1869",
+                "translation": " they hoisted "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἀρτέμωνα",
+                "transliteration": "artemōna",
+                "strong": "736",
+                "translation": " foresail "
+            },
+            {
+                "token": "τῇ",
+                "transliteration": "tē",
+                "strong": "3588",
+                "translation": " to the "
+            },
+            {
+                "token": "πνεούσῃ",
+                "transliteration": "pneousē",
+                "strong": "4154",
+                "translation": " [wind] "
+            },
+            {
+                "token": "κατεῖχον",
+                "transliteration": "kateichon",
+                "strong": "2722",
+                "translation": " [and] made "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " for "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "αἰγιαλόν",
+                "transliteration": "aigialon",
+                "strong": "123",
+                "translation": " beach . "
+            }
+        ],
+        "verse_reference": "Acts 27:40",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ναῦν",
+                "transliteration": "naun",
+                "strong": "3491",
+                "translation": " vessel "
+            },
+            {
+                "token": "περιπεσόντες",
+                "transliteration": "peripesontes",
+                "strong": "4045",
+                "translation": " struck "
+            },
+            {
+                "token": "εἰς",
+                "transliteration": "eis",
+                "strong": "1519",
+                "translation": " . . . "
+            },
+            {
+                "token": "τόπον",
+                "transliteration": "topon",
+                "strong": "5117",
+                "translation": " a sandbar "
+            },
+            {
+                "token": "διθάλασσον",
+                "transliteration": "dithalasson",
+                "strong": "1337",
+                "translation": " . . . "
+            },
+            {
+                "token": "ἐπέκειλαν",
+                "transliteration": "epekeilan",
+                "strong": "2027",
+                "translation": " [and] ran aground . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "πρῷρα",
+                "transliteration": "prōra",
+                "strong": "4408",
+                "translation": " bow "
+            },
+            {
+                "token": "ἐρείσασα",
+                "transliteration": "ereisasa",
+                "strong": "2043",
+                "translation": " stuck fast "
+            },
+            {
+                "token": "ἔμεινεν",
+                "transliteration": "emeinen",
+                "strong": "3306",
+                "translation": " vvv "
+            },
+            {
+                "token": "ἀσάλευτος",
+                "transliteration": "asaleutos",
+                "strong": "761",
+                "translation": " [and] would not move , "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "ἡ",
+                "transliteration": "hē",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πρύμνα",
+                "transliteration": "prymna",
+                "strong": "4403",
+                "translation": " stern "
+            },
+            {
+                "token": "ἐλύετο",
+                "transliteration": "elyeto",
+                "strong": "3089",
+                "translation": " was being broken up "
+            },
+            {
+                "token": "ὑπὸ",
+                "transliteration": "hypo",
+                "strong": "5259",
+                "translation": " by "
+            },
+            {
+                "token": "τῆς",
+                "transliteration": "tēs",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "βίας",
+                "transliteration": "bias",
+                "strong": "970",
+                "translation": " pounding "
+            },
+            {
+                "token": "[τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " of the "
+            },
+            {
+                "token": "κυμάτων]",
+                "transliteration": "kymatōn",
+                "strong": "2949",
+                "translation": " waves . "
+            }
+        ],
+        "verse_reference": "Acts 27:41",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " - "
+            },
+            {
+                "token": "Τῶν",
+                "transliteration": "Tōn",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "στρατιωτῶν",
+                "transliteration": "stratiōtōn",
+                "strong": "4757",
+                "translation": " soldiers "
+            },
+            {
+                "token": "βουλὴ",
+                "transliteration": "boulē",
+                "strong": "1012",
+                "translation": " planned "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " - "
+            },
+            {
+                "token": "ἵνα",
+                "transliteration": "hina",
+                "strong": "2443",
+                "translation": " to "
+            },
+            {
+                "token": "ἀποκτείνωσιν",
+                "transliteration": "apokteinōsin",
+                "strong": "615",
+                "translation": " kill "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "δεσμώτας",
+                "transliteration": "desmōtas",
+                "strong": "1202",
+                "translation": " prisoners "
+            },
+            {
+                "token": "μή",
+                "transliteration": "mē",
+                "strong": "3361",
+                "translation": " so none "
+            },
+            {
+                "token": "τις",
+                "transliteration": "tis",
+                "strong": "5100",
+                "translation": " of them "
+            },
+            {
+                "token": "ἐκκολυμβήσας",
+                "transliteration": "ekkolymbēsas",
+                "strong": "1579",
+                "translation": " could swim "
+            },
+            {
+                "token": "διαφύγῃ",
+                "transliteration": "diaphygē",
+                "strong": "1309",
+                "translation": " to freedom . "
+            }
+        ],
+        "verse_reference": "Acts 27:42",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " But "
+            },
+            {
+                "token": "ὁ",
+                "transliteration": "ho",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "ἑκατοντάρχης",
+                "transliteration": "hekatontarchēs",
+                "strong": "1543",
+                "translation": " centurion , "
+            },
+            {
+                "token": "βουλόμενος",
+                "transliteration": "boulomenos",
+                "strong": "1014",
+                "translation": " wanting "
+            },
+            {
+                "token": "διασῶσαι",
+                "transliteration": "diasōsai",
+                "strong": "1295",
+                "translation": " to spare "
+            },
+            {
+                "token": "τὸν",
+                "transliteration": "ton",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "Παῦλον",
+                "transliteration": "Paulon",
+                "strong": "3972",
+                "translation": " Paul’s [ life ] , "
+            },
+            {
+                "token": "ἐκώλυσεν",
+                "transliteration": "ekōlysen",
+                "strong": "2967",
+                "translation": " thwarted "
+            },
+            {
+                "token": "αὐτοὺς",
+                "transliteration": "autous",
+                "strong": "846",
+                "translation": " their "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " vvv "
+            },
+            {
+                "token": "βουλήματος",
+                "transliteration": "boulēmatos",
+                "strong": "1013",
+                "translation": " plan . "
+            },
+            {
+                "token": "τε",
+                "transliteration": "te",
+                "strong": "5037",
+                "translation": " - "
+            },
+            {
+                "token": "ἐκέλευσέν",
+                "transliteration": "ekeleusen",
+                "strong": "2753",
+                "translation": " He commanded "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " those "
+            },
+            {
+                "token": "δυναμένους",
+                "transliteration": "dynamenous",
+                "strong": "1410",
+                "translation": " who could "
+            },
+            {
+                "token": "κολυμβᾶν",
+                "transliteration": "kolymban",
+                "strong": "2860",
+                "translation": " swim "
+            },
+            {
+                "token": "ἀπορίψαντας",
+                "transliteration": "aporipsantas",
+                "strong": "641",
+                "translation": " to jump overboard "
+            },
+            {
+                "token": "πρώτους",
+                "transliteration": "prōtous",
+                "strong": "4413",
+                "translation": " first "
+            },
+            {
+                "token": "ἐξιέναι",
+                "transliteration": "exienai",
+                "strong": "1826",
+                "translation": " [and] get "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " to "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γῆν",
+                "transliteration": "gēn",
+                "strong": "1093",
+                "translation": " land . "
+            }
+        ],
+        "verse_reference": "Acts 27:43",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "τοὺς",
+                "transliteration": "tous",
+                "strong": "3588",
+                "translation": " The "
+            },
+            {
+                "token": "λοιποὺς",
+                "transliteration": "loipous",
+                "strong": "3062",
+                "translation": " rest [were to follow] "
+            },
+            {
+                "token": "οὓς",
+                "transliteration": "hous",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "μὲν",
+                "transliteration": "men",
+                "strong": "3303",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " on "
+            },
+            {
+                "token": "σανίσιν",
+                "transliteration": "sanisin",
+                "strong": "4548",
+                "translation": " planks "
+            },
+            {
+                "token": "δὲ",
+                "transliteration": "de",
+                "strong": "1161",
+                "translation": " and "
+            },
+            {
+                "token": "οὓς",
+                "transliteration": "hous",
+                "strong": "3739",
+                "translation": " - "
+            },
+            {
+                "token": "ἐπί",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " - "
+            },
+            {
+                "token": "τινων",
+                "transliteration": "tinōn",
+                "strong": "5100",
+                "translation": " various parts "
+            },
+            {
+                "token": "τῶν",
+                "transliteration": "tōn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "ἀπὸ",
+                "transliteration": "apo",
+                "strong": "575",
+                "translation": " of "
+            },
+            {
+                "token": "τοῦ",
+                "transliteration": "tou",
+                "strong": "3588",
+                "translation": " the "
+            },
+            {
+                "token": "πλοίου",
+                "transliteration": "ploiou",
+                "strong": "4143",
+                "translation": " ship . "
+            },
+            {
+                "token": "καὶ",
+                "transliteration": "kai",
+                "strong": "2532",
+                "translation": " - "
+            },
+            {
+                "token": "οὕτως",
+                "transliteration": "houtōs",
+                "strong": "3779",
+                "translation": " In this way "
+            },
+            {
+                "token": "ἐγένετο",
+                "transliteration": "egeneto",
+                "strong": "1096",
+                "translation": " . . . "
+            },
+            {
+                "token": "πάντας",
+                "transliteration": "pantas",
+                "strong": "3956",
+                "translation": " everyone "
+            },
+            {
+                "token": "διασωθῆναι",
+                "transliteration": "diasōthēnai",
+                "strong": "1295",
+                "translation": " was brought safely "
+            },
+            {
+                "token": "ἐπὶ",
+                "transliteration": "epi",
+                "strong": "1909",
+                "translation": " to "
+            },
+            {
+                "token": "τὴν",
+                "transliteration": "tēn",
+                "strong": "3588",
+                "translation": " - "
+            },
+            {
+                "token": "γῆν",
+                "transliteration": "gēn",
+                "strong": "1093",
+                "translation": " land . "
+            }
+        ],
+        "verse_reference": "Acts 27:44",
+        "book": "Acts",
+        "chapter": "27",
+        "verse": "44"
+    }
+]

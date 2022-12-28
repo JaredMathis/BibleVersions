@@ -1,0 +1,4916 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Now the LORD "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֣ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַהֲרֹ֔ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "בְּאֶ֥רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " in the land "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . , "
+            }
+        ],
+        "verse_reference": "Exodus 12:1",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַזֶּ֛ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " “ This "
+            },
+            {
+                "token": "הַחֹ֧דֶשׁ",
+                "transliteration": "ha·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month "
+            },
+            {
+                "token": "רֹ֣אשׁ",
+                "transliteration": "rōš",
+                "strong": "7218",
+                "translation": " is the beginning "
+            },
+            {
+                "token": "חֳדָשִׁ֑ים",
+                "transliteration": "ḥo·ḏā·šîm",
+                "strong": "2320",
+                "translation": " of months "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you ; "
+            },
+            {
+                "token": "הוּא֙",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it [shall be] "
+            },
+            {
+                "token": "רִאשׁ֥וֹן",
+                "transliteration": "ri·šō·wn",
+                "strong": "7223",
+                "translation": " the first "
+            },
+            {
+                "token": "לְחָדְשֵׁ֖י",
+                "transliteration": "lə·ḥā·ḏə·šê",
+                "strong": "2320",
+                "translation": " month "
+            },
+            {
+                "token": "לָכֶ֔ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " of your "
+            },
+            {
+                "token": "הַשָּׁנָֽה׃",
+                "transliteration": "haš·šā·nāh",
+                "strong": "8141",
+                "translation": " year . "
+            }
+        ],
+        "verse_reference": "Exodus 12:2",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דַּבְּר֗וּ",
+                "transliteration": "dab·bə·rū",
+                "strong": "1696",
+                "translation": " Tell "
+            },
+            {
+                "token": "אֶֽל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "עֲדַ֤ת",
+                "transliteration": "‘ă·ḏaṯ",
+                "strong": "5712",
+                "translation": " congregation "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "לֵאמֹ֔ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶּעָשֹׂ֖ר",
+                "transliteration": "be·‘ā·śōr",
+                "strong": "6218",
+                "translation": " that on the tenth "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " day of this "
+            },
+            {
+                "token": "לַחֹ֣דֶשׁ",
+                "transliteration": "la·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month "
+            },
+            {
+                "token": "אִ֛ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " each man "
+            },
+            {
+                "token": "וְיִקְח֣וּ",
+                "transliteration": "wə·yiq·ḥū",
+                "strong": "3947",
+                "translation": " must select "
+            },
+            {
+                "token": "לָהֶ֗ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "שֶׂ֥ה",
+                "transliteration": "śeh",
+                "strong": "7716",
+                "translation": " a lamb "
+            },
+            {
+                "token": "אָבֹ֖ת",
+                "transliteration": "’ā·ḇōṯ",
+                "strong": "1",
+                "translation": " for his family "
+            },
+            {
+                "token": "לְבֵית־",
+                "transliteration": "lə·ḇêṯ-",
+                "strong": "1004",
+                "translation": " . . . , "
+            },
+            {
+                "token": "שֶׂ֥ה",
+                "transliteration": "śeh",
+                "strong": "7716",
+                "translation": " one "
+            },
+            {
+                "token": "לַבָּֽיִת׃",
+                "transliteration": "lab·bā·yiṯ",
+                "strong": "1004",
+                "translation": " per household . "
+            }
+        ],
+        "verse_reference": "Exodus 12:3",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאִם־",
+                "transliteration": "wə·’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "הַבַּיִת֮",
+                "transliteration": "hab·ba·yiṯ",
+                "strong": "1004",
+                "translation": " the household "
+            },
+            {
+                "token": "מִהְיֹ֣ת",
+                "transliteration": "mih·yōṯ",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִמְעַ֣ט",
+                "transliteration": "yim·‘aṭ",
+                "strong": "4591",
+                "translation": " is too small "
+            },
+            {
+                "token": "מִשֶּׂה֒",
+                "transliteration": "miś·śeh",
+                "strong": "7716",
+                "translation": " for a whole lamb , "
+            },
+            {
+                "token": "ה֗וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " they are to "
+            },
+            {
+                "token": "וְלָקַ֣ח",
+                "transliteration": "wə·lā·qaḥ",
+                "strong": "3947",
+                "translation": " share with "
+            },
+            {
+                "token": "הַקָּרֹ֥ב",
+                "transliteration": "haq·qā·rōḇ",
+                "strong": "7138",
+                "translation": " the nearest "
+            },
+            {
+                "token": "וּשְׁכֵנ֛וֹ",
+                "transliteration": "ū·šə·ḵê·nōw",
+                "strong": "7934",
+                "translation": " neighbor "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֵּית֖וֹ",
+                "transliteration": "bê·ṯōw",
+                "strong": "1004",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּמִכְסַ֣ת",
+                "transliteration": "bə·miḵ·saṯ",
+                "strong": "4373",
+                "translation": " based on the number "
+            },
+            {
+                "token": "נְפָשֹׁ֑ת",
+                "transliteration": "nə·p̄ā·šōṯ",
+                "strong": "5315",
+                "translation": " of people , "
+            },
+            {
+                "token": "תָּכֹ֖סּוּ",
+                "transliteration": "tā·ḵōs·sū",
+                "strong": "3699",
+                "translation": " and apportion "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַשֶּֽׂה׃",
+                "transliteration": "haś·śeh",
+                "strong": "7716",
+                "translation": " the lamb "
+            },
+            {
+                "token": "אִ֚ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " accordingly "
+            },
+            {
+                "token": "לְפִ֣י",
+                "transliteration": "lə·p̄î",
+                "strong": "6310",
+                "translation": " "
+            },
+            {
+                "token": "אָכְל֔וֹ",
+                "transliteration": "’ā·ḵə·lōw",
+                "strong": "400",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Exodus 12:4",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֶ֑ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " Your "
+            },
+            {
+                "token": "שֶׂ֥ה",
+                "transliteration": "śeh",
+                "strong": "7716",
+                "translation": " lamb "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " must be "
+            },
+            {
+                "token": "תָמִ֛ים",
+                "transliteration": "ṯā·mîm",
+                "strong": "8549",
+                "translation": " an unblemished "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " year-old "
+            },
+            {
+                "token": "שָׁנָ֖ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " . . . "
+            },
+            {
+                "token": "זָכָ֥ר",
+                "transliteration": "zā·ḵār",
+                "strong": "2145",
+                "translation": " male , "
+            },
+            {
+                "token": "תִּקָּֽחוּ׃",
+                "transliteration": "tiq·qā·ḥū",
+                "strong": "3947",
+                "translation": " [and] you may take "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " it from "
+            },
+            {
+                "token": "הַכְּבָשִׂ֥ים",
+                "transliteration": "hak·kə·ḇā·śîm",
+                "strong": "3532",
+                "translation": " the sheep "
+            },
+            {
+                "token": "וּמִן־",
+                "transliteration": "ū·min-",
+                "strong": "4480",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָעִזִּ֖ים",
+                "transliteration": "hā·‘iz·zîm",
+                "strong": "5795",
+                "translation": " or the goats . "
+            }
+        ],
+        "verse_reference": "Exodus 12:5",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֤ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " You must "
+            },
+            {
+                "token": "לְמִשְׁמֶ֔רֶת",
+                "transliteration": "lə·miš·me·reṯ",
+                "strong": "4931",
+                "translation": " keep "
+            },
+            {
+                "token": "לָכֶם֙",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " it "
+            },
+            {
+                "token": "עַ֣ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "אַרְבָּעָ֥ה",
+                "transliteration": "’ar·bā·‘āh",
+                "strong": "702",
+                "translation": " the fourteenth "
+            },
+            {
+                "token": "עָשָׂ֛ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "י֖וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " of the "
+            },
+            {
+                "token": "לַחֹ֣דֶשׁ",
+                "transliteration": "la·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " month , "
+            },
+            {
+                "token": "כֹּ֛ל",
+                "transliteration": "kōl",
+                "strong": "3605",
+                "translation": " when the whole "
+            },
+            {
+                "token": "קְהַ֥ל",
+                "transliteration": "qə·hal",
+                "strong": "6951",
+                "translation": " assembly "
+            },
+            {
+                "token": "עֲדַֽת־",
+                "transliteration": "‘ă·ḏaṯ-",
+                "strong": "5712",
+                "translation": " of the congregation "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וְשָׁחֲט֣וּ",
+                "transliteration": "wə·šā·ḥă·ṭū",
+                "strong": "7819",
+                "translation": " will slaughter "
+            },
+            {
+                "token": "אֹת֗וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " [the animals] "
+            },
+            {
+                "token": "בֵּ֥ין",
+                "transliteration": "bên",
+                "strong": "996",
+                "translation": " at "
+            },
+            {
+                "token": "הָעַרְבָּֽיִם׃",
+                "transliteration": "hā·‘ar·bā·yim",
+                "strong": "6153",
+                "translation": " twilight . "
+            }
+        ],
+        "verse_reference": "Exodus 12:6",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלָֽקְחוּ֙",
+                "transliteration": "wə·lā·qə·ḥū",
+                "strong": "3947",
+                "translation": " They are to take "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " some of "
+            },
+            {
+                "token": "הַדָּ֔ם",
+                "transliteration": "had·dām",
+                "strong": "1818",
+                "translation": " the blood "
+            },
+            {
+                "token": "וְנָֽתְנ֛וּ",
+                "transliteration": "wə·nā·ṯə·nū",
+                "strong": "5414",
+                "translation": " and put "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " it on "
+            },
+            {
+                "token": "שְׁתֵּ֥י",
+                "transliteration": "šə·tê",
+                "strong": "8147",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַמְּזוּזֹ֖ת",
+                "transliteration": "ham·mə·zū·zōṯ",
+                "strong": "4201",
+                "translation": " the sides "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " and "
+            },
+            {
+                "token": "הַמַּשְׁק֑וֹף",
+                "transliteration": "ham·maš·qō·wp̄",
+                "strong": "4947",
+                "translation": " tops of the doorframes "
+            },
+            {
+                "token": "עַ֚ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " of "
+            },
+            {
+                "token": "הַבָּ֣תִּ֔ים",
+                "transliteration": "hab·bāt·tîm",
+                "strong": "1004",
+                "translation": " the houses "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "יֹאכְל֥וּ",
+                "transliteration": "yō·ḵə·lū",
+                "strong": "398",
+                "translation": " they eat [the lambs] "
+            },
+            {
+                "token": "אֹת֖וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בָּהֶֽם׃",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Exodus 12:7",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָכְל֥וּ",
+                "transliteration": "wə·’ā·ḵə·lū",
+                "strong": "398",
+                "translation": " They are to eat "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַבָּשָׂ֖ר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " the meat "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " that "
+            },
+            {
+                "token": "בַּלַּ֣יְלָה",
+                "transliteration": "bal·lay·lāh",
+                "strong": "3915",
+                "translation": " night , "
+            },
+            {
+                "token": "צְלִי־",
+                "transliteration": "ṣə·lî-",
+                "strong": "6748",
+                "translation": " roasted "
+            },
+            {
+                "token": "אֵ֣שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " over the fire , "
+            },
+            {
+                "token": "וּמַצּ֔וֹת",
+                "transliteration": "ū·maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " along with unleavened bread "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "מְרֹרִ֖ים",
+                "transliteration": "mə·rō·rîm",
+                "strong": "4844",
+                "translation": " and bitter herbs "
+            },
+            {
+                "token": "יֹאכְלֻֽהוּ׃",
+                "transliteration": "yō·ḵə·lu·hū",
+                "strong": "398",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Exodus 12:8",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " Do not "
+            },
+            {
+                "token": "תֹּאכְל֤וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " eat "
+            },
+            {
+                "token": "מִמֶּ֙נּוּ֙",
+                "transliteration": "mim·men·nū",
+                "strong": "4480",
+                "translation": " any of "
+            },
+            {
+                "token": "נָ֔א",
+                "transliteration": "nā",
+                "strong": "4995",
+                "translation": " [the meat] raw "
+            },
+            {
+                "token": "מְבֻשָּׁ֖ל",
+                "transliteration": "mə·ḇuš·šāl",
+                "strong": "1310",
+                "translation": " or cooked "
+            },
+            {
+                "token": "וּבָשֵׁ֥ל",
+                "transliteration": "ū·ḇā·šêl",
+                "strong": "1311",
+                "translation": " in boiling "
+            },
+            {
+                "token": "בַּמָּ֑יִם",
+                "transliteration": "bam·mā·yim",
+                "strong": "4325",
+                "translation": " water , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " but only "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " . . . "
+            },
+            {
+                "token": "צְלִי־",
+                "transliteration": "ṣə·lî-",
+                "strong": "6748",
+                "translation": " roasted "
+            },
+            {
+                "token": "אֵ֔שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " over the fire — "
+            },
+            {
+                "token": "רֹאשׁ֥וֹ",
+                "transliteration": "rō·šōw",
+                "strong": "7218",
+                "translation": " its head "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " and "
+            },
+            {
+                "token": "כְּרָעָ֖יו",
+                "transliteration": "kə·rā·‘āw",
+                "strong": "3767",
+                "translation": " legs "
+            },
+            {
+                "token": "וְעַל־",
+                "transliteration": "wə·‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "קִרְבּֽוֹ׃",
+                "transliteration": "qir·bōw",
+                "strong": "7130",
+                "translation": " and inner parts . "
+            }
+        ],
+        "verse_reference": "Exodus 12:9",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְלֹא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " Do not "
+            },
+            {
+                "token": "תוֹתִ֥ירוּ",
+                "transliteration": "ṯō·w·ṯî·rū",
+                "strong": "3498",
+                "translation": " leave "
+            },
+            {
+                "token": "מִמֶּ֖נּוּ",
+                "transliteration": "mim·men·nū",
+                "strong": "4480",
+                "translation": " any of it "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "בֹּ֑קֶר",
+                "transliteration": "bō·qer",
+                "strong": "1242",
+                "translation": " morning ; "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " before "
+            },
+            {
+                "token": "בֹּ֖קֶר",
+                "transliteration": "bō·qer",
+                "strong": "1242",
+                "translation": " the morning "
+            },
+            {
+                "token": "בָּאֵ֥שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " you must burn up "
+            },
+            {
+                "token": "תִּשְׂרֹֽפוּ׃",
+                "transliteration": "tiś·rō·p̄ū",
+                "strong": "8313",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִמֶּ֛נּוּ",
+                "transliteration": "mim·men·nū",
+                "strong": "4480",
+                "translation": " any part "
+            },
+            {
+                "token": "וְהַנֹּתָ֥ר",
+                "transliteration": "wə·han·nō·ṯār",
+                "strong": "3498",
+                "translation": " that is left over . "
+            }
+        ],
+        "verse_reference": "Exodus 12:10",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָכָה֮",
+                "transliteration": "wə·ḵā·ḵāh",
+                "strong": "3602",
+                "translation": " This is how "
+            },
+            {
+                "token": "תֹּאכְל֣וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " you are to eat it : "
+            },
+            {
+                "token": "אֹתוֹ֒",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מָתְנֵיכֶ֣ם",
+                "transliteration": "mā·ṯə·nê·ḵem",
+                "strong": "4975",
+                "translation": " You must be fully dressed for travel "
+            },
+            {
+                "token": "חֲגֻרִ֔ים",
+                "transliteration": "ḥă·ḡu·rîm",
+                "strong": "2296",
+                "translation": " . . . , "
+            },
+            {
+                "token": "נַֽעֲלֵיכֶם֙",
+                "transliteration": "na·‘ă·lê·ḵem",
+                "strong": "5275",
+                "translation": " with your sandals "
+            },
+            {
+                "token": "בְּרַגְלֵיכֶ֔ם",
+                "transliteration": "bə·raḡ·lê·ḵem",
+                "strong": "7272",
+                "translation": " on your feet "
+            },
+            {
+                "token": "וּמַקֶּלְכֶ֖ם",
+                "transliteration": "ū·maq·qel·ḵem",
+                "strong": "4731",
+                "translation": " and your staff "
+            },
+            {
+                "token": "בְּיֶדְכֶ֑ם",
+                "transliteration": "bə·yeḏ·ḵem",
+                "strong": "3027",
+                "translation": " in your hand . "
+            },
+            {
+                "token": "וַאֲכַלְתֶּ֤ם",
+                "transliteration": "wa·’ă·ḵal·tem",
+                "strong": "398",
+                "translation": " You are to eat "
+            },
+            {
+                "token": "אֹתוֹ֙",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּחִפָּז֔וֹן",
+                "transliteration": "bə·ḥip·pā·zō·wn",
+                "strong": "2649",
+                "translation": " in haste ; "
+            },
+            {
+                "token": "ה֖וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " it "
+            },
+            {
+                "token": "לַיהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " is the LORD’s "
+            },
+            {
+                "token": "פֶּ֥סַח",
+                "transliteration": "pe·saḥ",
+                "strong": "6453",
+                "translation": " Passover . "
+            }
+        ],
+        "verse_reference": "Exodus 12:11",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַזֶּה֒",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " On that "
+            },
+            {
+                "token": "בַּלַּ֣יְלָה",
+                "transliteration": "bal·lay·lāh",
+                "strong": "3915",
+                "translation": " night "
+            },
+            {
+                "token": "וְעָבַרְתִּ֣י",
+                "transliteration": "wə·‘ā·ḇar·tî",
+                "strong": "5674",
+                "translation": " I will pass "
+            },
+            {
+                "token": "בְאֶֽרֶץ־",
+                "transliteration": "ḇə·’e·reṣ-",
+                "strong": "776",
+                "translation": " through the land "
+            },
+            {
+                "token": "מִצְרַיִם֮",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "וְהִכֵּיתִ֤י",
+                "transliteration": "wə·hik·kê·ṯî",
+                "strong": "5221",
+                "translation": " and strike down "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "בְּכוֹר֙",
+                "transliteration": "bə·ḵō·wr",
+                "strong": "1060",
+                "translation": " firstborn male "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " - "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " - , "
+            },
+            {
+                "token": "מֵאָדָ֖ם",
+                "transliteration": "mê·’ā·ḏām",
+                "strong": "120",
+                "translation": " both man "
+            },
+            {
+                "token": "וְעַד־",
+                "transliteration": "wə·‘aḏ-",
+                "strong": "5704",
+                "translation": " and "
+            },
+            {
+                "token": "בְּהֵמָ֑ה",
+                "transliteration": "bə·hê·māh",
+                "strong": "929",
+                "translation": " beast , "
+            },
+            {
+                "token": "אֶֽעֱשֶׂ֥ה",
+                "transliteration": "’e·‘ĕ·śeh",
+                "strong": "6213",
+                "translation": " and I will execute "
+            },
+            {
+                "token": "שְׁפָטִ֖ים",
+                "transliteration": "šə·p̄ā·ṭîm",
+                "strong": "8201",
+                "translation": " judgment "
+            },
+            {
+                "token": "וּבְכָל־",
+                "transliteration": "ū·ḇə·ḵāl",
+                "strong": "3605",
+                "translation": " against all "
+            },
+            {
+                "token": "אֱלֹהֵ֥י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the gods "
+            },
+            {
+                "token": "מִצְרַ֛יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD . "
+            }
+        ],
+        "verse_reference": "Exodus 12:12",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַדָּ֨ם",
+                "transliteration": "had·dām",
+                "strong": "1818",
+                "translation": " The blood "
+            },
+            {
+                "token": "לָכֶ֜ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "עַ֤ל",
+                "transliteration": "‘al",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "הַבָּתִּים֙",
+                "transliteration": "hab·bāt·tîm",
+                "strong": "1004",
+                "translation": " the houses "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "אַתֶּ֣ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "שָׁ֔ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " are staying "
+            },
+            {
+                "token": "וְהָיָה֩",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " will "
+            },
+            {
+                "token": "לְאֹ֗ת",
+                "transliteration": "lə·’ōṯ",
+                "strong": "226",
+                "translation": " distinguish them ; "
+            },
+            {
+                "token": "וְרָאִ֙יתִי֙",
+                "transliteration": "wə·rā·’î·ṯî",
+                "strong": "7200",
+                "translation": " when I see "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַדָּ֔ם",
+                "transliteration": "had·dām",
+                "strong": "1818",
+                "translation": " the blood , "
+            },
+            {
+                "token": "וּפָסַחְתִּ֖י",
+                "transliteration": "ū·p̄ā·saḥ·tî",
+                "strong": "6452",
+                "translation": " I will pass "
+            },
+            {
+                "token": "עֲלֵכֶ֑ם",
+                "transliteration": "‘ă·lê·ḵem",
+                "strong": "5921",
+                "translation": " over you . "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " No "
+            },
+            {
+                "token": "נֶ֙גֶף֙",
+                "transliteration": "ne·ḡep̄",
+                "strong": "5063",
+                "translation": " plague "
+            },
+            {
+                "token": "יִֽהְיֶ֨ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " will fall "
+            },
+            {
+                "token": "בָכֶ֥ם",
+                "transliteration": "ḇā·ḵem",
+                "strong": "",
+                "translation": " on you "
+            },
+            {
+                "token": "לְמַשְׁחִ֔ית",
+                "transliteration": "lə·maš·ḥîṯ",
+                "strong": "4889",
+                "translation": " to destroy you "
+            },
+            {
+                "token": "בְּהַכֹּתִ֖י",
+                "transliteration": "bə·hak·kō·ṯî",
+                "strong": "5221",
+                "translation": " when I strike "
+            },
+            {
+                "token": "בְּאֶ֥רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            }
+        ],
+        "verse_reference": "Exodus 12:13",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַזֶּ֤ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " And this "
+            },
+            {
+                "token": "הַיּ֨וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "וְהָיָה֩",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " will be "
+            },
+            {
+                "token": "לְזִכָּר֔וֹן",
+                "transliteration": "lə·zik·kā·rō·wn",
+                "strong": "2146",
+                "translation": " a memorial "
+            },
+            {
+                "token": "לָכֶם֙",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for you , "
+            },
+            {
+                "token": "וְחַגֹּתֶ֥ם",
+                "transliteration": "wə·ḥag·gō·ṯem",
+                "strong": "2287",
+                "translation": " and you are to celebrate "
+            },
+            {
+                "token": "אֹת֖וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " it "
+            },
+            {
+                "token": "חַ֣ג",
+                "transliteration": "ḥaḡ",
+                "strong": "2282",
+                "translation": " as a feast "
+            },
+            {
+                "token": "לַֽיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "תְּחָגֻּֽהוּ׃",
+                "transliteration": "tə·ḥāg·gu·hū",
+                "strong": "2287",
+                "translation": " - "
+            },
+            {
+                "token": "עוֹלָ֖ם",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " as a permanent "
+            },
+            {
+                "token": "חֻקַּ֥ת",
+                "transliteration": "ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " statute "
+            },
+            {
+                "token": "לְדֹרֹ֣תֵיכֶ֔ם",
+                "transliteration": "lə·ḏō·rō·ṯê·ḵem",
+                "strong": "1755",
+                "translation": " for the generations to come . "
+            }
+        ],
+        "verse_reference": "Exodus 12:14",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁבְעַ֤ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " For seven "
+            },
+            {
+                "token": "יָמִים֙",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "תֹּאכֵ֔לוּ",
+                "transliteration": "tō·ḵê·lū",
+                "strong": "398",
+                "translation": " you must eat "
+            },
+            {
+                "token": "אַ֚ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " . . . "
+            },
+            {
+                "token": "מַצּ֣וֹת",
+                "transliteration": "maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " unleavened bread . "
+            },
+            {
+                "token": "הָרִאשׁ֔וֹן",
+                "transliteration": "hā·ri·šō·wn",
+                "strong": "7223",
+                "translation": " On the first "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "תַּשְׁבִּ֥יתוּ",
+                "transliteration": "taš·bî·ṯū",
+                "strong": "7673",
+                "translation": " you are to remove "
+            },
+            {
+                "token": "שְּׂאֹ֖ר",
+                "transliteration": "śə·’ōr",
+                "strong": "7603",
+                "translation": " the leaven "
+            },
+            {
+                "token": "מִבָּתֵּיכֶ֑ם",
+                "transliteration": "mib·bāt·tê·ḵem",
+                "strong": "1004",
+                "translation": " from your houses . "
+            },
+            {
+                "token": "כִּ֣י׀",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Whoever "
+            },
+            {
+                "token": "אֹכֵ֣ל",
+                "transliteration": "’ō·ḵêl",
+                "strong": "398",
+                "translation": " eats "
+            },
+            {
+                "token": "חָמֵ֗ץ",
+                "transliteration": "ḥā·mêṣ",
+                "strong": "2557",
+                "translation": " anything leavened "
+            },
+            {
+                "token": "הָרִאשֹׁ֖ן",
+                "transliteration": "hā·ri·šōn",
+                "strong": "7223",
+                "translation": " from the first "
+            },
+            {
+                "token": "מִיּ֥וֹם",
+                "transliteration": "mî·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " through "
+            },
+            {
+                "token": "הַשְּׁבִעִֽי׃",
+                "transliteration": "haš·šə·ḇi·‘î",
+                "strong": "7637",
+                "translation": " the seventh "
+            },
+            {
+                "token": "י֥וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְנִכְרְתָ֞ה",
+                "transliteration": "wə·niḵ·rə·ṯāh",
+                "strong": "3772",
+                "translation": " must be cut off "
+            },
+            {
+                "token": "הַנֶּ֤פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַהִוא֙",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִיִּשְׂרָאֵ֔ל",
+                "transliteration": "mî·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " from Israel . "
+            }
+        ],
+        "verse_reference": "Exodus 12:15",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָרִאשׁוֹן֙",
+                "transliteration": "hā·ri·šō·wn",
+                "strong": "7223",
+                "translation": " On the first "
+            },
+            {
+                "token": "וּבַיּ֤וֹם",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "יִהְיֶ֣ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " you are to hold "
+            },
+            {
+                "token": "לָכֶ֑ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " - "
+            },
+            {
+                "token": "קֹ֔דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " a sacred "
+            },
+            {
+                "token": "מִקְרָא־",
+                "transliteration": "miq·rā-",
+                "strong": "4744",
+                "translation": " assembly , "
+            },
+            {
+                "token": "קֹ֖דֶשׁ",
+                "transliteration": "qō·ḏeš",
+                "strong": "6944",
+                "translation": " and another "
+            },
+            {
+                "token": "מִקְרָא־",
+                "transliteration": "miq·rā-",
+                "strong": "4744",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֔י",
+                "transliteration": "haš·šə·ḇî·‘î",
+                "strong": "7637",
+                "translation": " on the seventh "
+            },
+            {
+                "token": "וּבַיּוֹם֙",
+                "transliteration": "ū·ḇay·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            },
+            {
+                "token": "בָהֶ֔ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " You must "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "יֵעָשֶׂ֣ה",
+                "transliteration": "yê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " do "
+            },
+            {
+                "token": "מְלָאכָה֙",
+                "transliteration": "mə·lā·ḵāh",
+                "strong": "4399",
+                "translation": " any work "
+            },
+            {
+                "token": "אַ֚ךְ",
+                "transliteration": "’aḵ",
+                "strong": "389",
+                "translation": " on those days , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " except to prepare "
+            },
+            {
+                "token": "יֵאָכֵ֣ל",
+                "transliteration": "yê·’ā·ḵêl",
+                "strong": "398",
+                "translation": " the meals "
+            },
+            {
+                "token": "נֶ֔פֶשׁ",
+                "transliteration": "ne·p̄eš",
+                "strong": "5315",
+                "translation": " - "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " - — "
+            },
+            {
+                "token": "ה֥וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "לְבַדּ֖וֹ",
+                "transliteration": "lə·ḇad·dōw",
+                "strong": "776",
+                "translation": " is all "
+            },
+            {
+                "token": "יֵעָשֶׂ֥ה",
+                "transliteration": "yê·‘ā·śeh",
+                "strong": "6213",
+                "translation": " you may do "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Exodus 12:16",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּשְׁמַרְתֶּם֮",
+                "transliteration": "ū·šə·mar·tem",
+                "strong": "8104",
+                "translation": " So you are to keep "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַמַּצּוֹת֒",
+                "transliteration": "ham·maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " the Feast of Unleavened Bread , "
+            },
+            {
+                "token": "כִּ֗י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הַזֶּ֔ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " on this "
+            },
+            {
+                "token": "בְּעֶ֙צֶם֙",
+                "transliteration": "bə·‘e·ṣem",
+                "strong": "6106",
+                "translation": " very "
+            },
+            {
+                "token": "הַיּ֣וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "הוֹצֵ֥אתִי",
+                "transliteration": "hō·w·ṣê·ṯî",
+                "strong": "3318",
+                "translation": " I brought "
+            },
+            {
+                "token": "צִבְאוֹתֵיכֶ֖ם",
+                "transliteration": "ṣiḇ·’ō·w·ṯê·ḵem",
+                "strong": "6635",
+                "translation": " your divisions "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            },
+            {
+                "token": "וּשְׁמַרְתֶּ֞ם",
+                "transliteration": "ū·šə·mar·tem",
+                "strong": "8104",
+                "translation": " You must keep "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַזֶּ֛ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַיּ֥וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "עוֹלָֽם׃",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " as a permanent "
+            },
+            {
+                "token": "חֻקַּ֥ת",
+                "transliteration": "ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " statute "
+            },
+            {
+                "token": "לְדֹרֹתֵיכֶ֖ם",
+                "transliteration": "lə·ḏō·rō·ṯê·ḵem",
+                "strong": "1755",
+                "translation": " for the generations to come . "
+            }
+        ],
+        "verse_reference": "Exodus 12:17",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בָּרִאשֹׁ֡ן",
+                "transliteration": "bā·ri·šōn",
+                "strong": "7223",
+                "translation": " In the first [month] "
+            },
+            {
+                "token": "תֹּאכְל֖וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " you are to eat "
+            },
+            {
+                "token": "מַצֹּ֑ת",
+                "transliteration": "maṣ·ṣōṯ",
+                "strong": "4682",
+                "translation": " unleavened bread , "
+            },
+            {
+                "token": "בָּעֶ֔רֶב",
+                "transliteration": "bā·‘e·reḇ",
+                "strong": "6153",
+                "translation": " from the evening "
+            },
+            {
+                "token": "בְּאַרְבָּעָה֩",
+                "transliteration": "bə·’ar·bā·‘āh",
+                "strong": "702",
+                "translation": " of the fourteenth "
+            },
+            {
+                "token": "עָשָׂ֨ר",
+                "transliteration": "‘ā·śār",
+                "strong": "6240",
+                "translation": " . . . "
+            },
+            {
+                "token": "י֤וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "לַחֹ֙דֶשׁ֙",
+                "transliteration": "la·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַ֠ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "בָּעָֽרֶב׃",
+                "transliteration": "bā·‘ā·reḇ",
+                "strong": "6153",
+                "translation": " the evening "
+            },
+            {
+                "token": "הָאֶחָ֧ד",
+                "transliteration": "hā·’e·ḥāḏ",
+                "strong": "259",
+                "translation": " of the twenty-first "
+            },
+            {
+                "token": "וְעֶשְׂרִ֛ים",
+                "transliteration": "wə·‘eś·rîm",
+                "strong": "6242",
+                "translation": " . . . "
+            },
+            {
+                "token": "לַחֹ֖דֶשׁ",
+                "transliteration": "la·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " . . . "
+            },
+            {
+                "token": "י֣וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            }
+        ],
+        "verse_reference": "Exodus 12:18",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שִׁבְעַ֣ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " For seven "
+            },
+            {
+                "token": "יָמִ֔ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " there must be no "
+            },
+            {
+                "token": "שְׂאֹ֕ר",
+                "transliteration": "śə·’ōr",
+                "strong": "7603",
+                "translation": " leaven "
+            },
+            {
+                "token": "יִמָּצֵ֖א",
+                "transliteration": "yim·mā·ṣê",
+                "strong": "4672",
+                "translation": " found "
+            },
+            {
+                "token": "בְּבָתֵּיכֶ֑ם",
+                "transliteration": "bə·ḇāt·tê·ḵem",
+                "strong": "1004",
+                "translation": " in your houses . "
+            },
+            {
+                "token": "כִּ֣י׀",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " anyone "
+            },
+            {
+                "token": "אֹכֵ֣ל",
+                "transliteration": "’ō·ḵêl",
+                "strong": "398",
+                "translation": " eats "
+            },
+            {
+                "token": "מַחְמֶ֗צֶת",
+                "transliteration": "maḥ·me·ṣeṯ",
+                "strong": "2557",
+                "translation": " something leavened , "
+            },
+            {
+                "token": "הַהִוא֙",
+                "transliteration": "ha·hi·w",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "הַנֶּ֤פֶשׁ",
+                "transliteration": "han·ne·p̄eš",
+                "strong": "5315",
+                "translation": " person , "
+            },
+            {
+                "token": "בַּגֵּ֖ר",
+                "transliteration": "bag·gêr",
+                "strong": "1616",
+                "translation": " whether a foreigner "
+            },
+            {
+                "token": "וּבְאֶזְרַ֥ח",
+                "transliteration": "ū·ḇə·’ez·raḥ",
+                "strong": "249",
+                "translation": " or native "
+            },
+            {
+                "token": "הָאָֽרֶץ׃",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " of the land , "
+            },
+            {
+                "token": "וְנִכְרְתָ֞ה",
+                "transliteration": "wə·niḵ·rə·ṯāh",
+                "strong": "3772",
+                "translation": " must be cut off "
+            },
+            {
+                "token": "מֵעֲדַ֣ת",
+                "transliteration": "mê·‘ă·ḏaṯ",
+                "strong": "5712",
+                "translation": " from the congregation "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "Exodus 12:19",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " {You are} not "
+            },
+            {
+                "token": "תֹאכֵ֑לוּ",
+                "transliteration": "ṯō·ḵê·lū",
+                "strong": "398",
+                "translation": " to eat "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " anything "
+            },
+            {
+                "token": "מַחְמֶ֖צֶת",
+                "transliteration": "maḥ·me·ṣeṯ",
+                "strong": "2557",
+                "translation": " leavened ; "
+            },
+            {
+                "token": "תֹּאכְל֖וּ",
+                "transliteration": "tō·ḵə·lū",
+                "strong": "398",
+                "translation": " eat "
+            },
+            {
+                "token": "מַצּֽוֹת׃פ",
+                "transliteration": "maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " unleavened bread "
+            },
+            {
+                "token": "בְּכֹל֙",
+                "transliteration": "bə·ḵōl",
+                "strong": "3605",
+                "translation": " in all "
+            },
+            {
+                "token": "מוֹשְׁבֹ֣תֵיכֶ֔ם",
+                "transliteration": "mō·wō·šə·ḇō·ṯê·ḵem",
+                "strong": "4186",
+                "translation": " your homes . ” "
+            }
+        ],
+        "verse_reference": "Exodus 12:20",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מֹשֶׁ֛ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Then Moses "
+            },
+            {
+                "token": "וַיִּקְרָ֥א",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " summoned "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "זִקְנֵ֥י",
+                "transliteration": "ziq·nê",
+                "strong": "2205",
+                "translation": " the elders "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וַיֹּ֣אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and told "
+            },
+            {
+                "token": "אֲלֵהֶ֑ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " them , "
+            },
+            {
+                "token": "מִֽשְׁכ֗וּ",
+                "transliteration": "miš·ḵū",
+                "strong": "4900",
+                "translation": " “ Go at once "
+            },
+            {
+                "token": "וּקְח֨וּ",
+                "transliteration": "ū·qə·ḥū",
+                "strong": "3947",
+                "translation": " and select "
+            },
+            {
+                "token": "לָכֶ֥ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " for yourselves "
+            },
+            {
+                "token": "צֹ֛אן",
+                "transliteration": "ṣōn",
+                "strong": "6629",
+                "translation": " a lamb "
+            },
+            {
+                "token": "לְמִשְׁפְּחֹתֵיכֶ֖ם",
+                "transliteration": "lə·miš·pə·ḥō·ṯê·ḵem",
+                "strong": "4940",
+                "translation": " for each family , "
+            },
+            {
+                "token": "וְשַׁחֲט֥וּ",
+                "transliteration": "wə·ša·ḥă·ṭū",
+                "strong": "7819",
+                "translation": " and slaughter "
+            },
+            {
+                "token": "הַפָּֽסַח׃",
+                "transliteration": "hap·pā·saḥ",
+                "strong": "6453",
+                "translation": " the Passover lamb . "
+            }
+        ],
+        "verse_reference": "Exodus 12:21",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּלְקַחְתֶּ֞ם",
+                "transliteration": "ū·lə·qaḥ·tem",
+                "strong": "3947",
+                "translation": " Take "
+            },
+            {
+                "token": "אֲגֻדַּ֣ת",
+                "transliteration": "’ă·ḡud·daṯ",
+                "strong": "92",
+                "translation": " a cluster "
+            },
+            {
+                "token": "אֵז֗וֹב",
+                "transliteration": "’ê·zō·wḇ",
+                "strong": "231",
+                "translation": " of hyssop , "
+            },
+            {
+                "token": "וּטְבַלְתֶּם֮",
+                "transliteration": "ū·ṭə·ḇal·tem",
+                "strong": "2881",
+                "translation": " dip "
+            },
+            {
+                "token": "בַּדָּ֣ם",
+                "transliteration": "bad·dām",
+                "strong": "1818",
+                "translation": " it into the blood "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בַּסַּף֒",
+                "transliteration": "bas·sap̄",
+                "strong": "5592",
+                "translation": " in the basin , "
+            },
+            {
+                "token": "וְהִגַּעְתֶּ֤ם",
+                "transliteration": "wə·hig·ga‘·tem",
+                "strong": "5060",
+                "translation": " and brush "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " - "
+            },
+            {
+                "token": "הַדָּ֖ם",
+                "transliteration": "had·dām",
+                "strong": "1818",
+                "translation": " the blood "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בַּסָּ֑ף",
+                "transliteration": "bas·sāp̄",
+                "strong": "5592",
+                "translation": " - "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " on "
+            },
+            {
+                "token": "הַמַּשְׁקוֹף֙",
+                "transliteration": "ham·maš·qō·wp̄",
+                "strong": "4947",
+                "translation": " the top "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " and "
+            },
+            {
+                "token": "שְׁתֵּ֣י",
+                "transliteration": "šə·tê",
+                "strong": "8147",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַמְּזוּזֹ֔ת",
+                "transliteration": "ham·mə·zū·zōṯ",
+                "strong": "4201",
+                "translation": " sides of the doorframe . "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " None "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְאַתֶּ֗ם",
+                "transliteration": "wə·’at·tem",
+                "strong": "859",
+                "translation": " of you "
+            },
+            {
+                "token": "תֵצְא֛וּ",
+                "transliteration": "ṯê·ṣə·’ū",
+                "strong": "3318",
+                "translation": " shall go out "
+            },
+            {
+                "token": "מִפֶּֽתַח־",
+                "transliteration": "mip·pe·ṯaḥ-",
+                "strong": "6607",
+                "translation": " the door "
+            },
+            {
+                "token": "בֵּית֖וֹ",
+                "transliteration": "bê·ṯōw",
+                "strong": "1004",
+                "translation": " of his house "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "בֹּֽקֶר׃",
+                "transliteration": "bō·qer",
+                "strong": "1242",
+                "translation": " morning . "
+            }
+        ],
+        "verse_reference": "Exodus 12:22",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֮",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " When the LORD "
+            },
+            {
+                "token": "וְעָבַ֣ר",
+                "transliteration": "wə·‘ā·ḇar",
+                "strong": "5674",
+                "translation": " passes through "
+            },
+            {
+                "token": "לִנְגֹּ֣ף",
+                "transliteration": "lin·gōp̄",
+                "strong": "5062",
+                "translation": " to strike down "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִצְרַיִם֒",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " the Egyptians , "
+            },
+            {
+                "token": "וְרָאָ֤ה",
+                "transliteration": "wə·rā·’āh",
+                "strong": "7200",
+                "translation": " He will see "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַדָּם֙",
+                "transliteration": "had·dām",
+                "strong": "1818",
+                "translation": " the blood "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "הַמַּשְׁק֔וֹף",
+                "transliteration": "ham·maš·qō·wp̄",
+                "strong": "4947",
+                "translation": " the top "
+            },
+            {
+                "token": "וְעַ֖ל",
+                "transliteration": "wə·‘al",
+                "strong": "5921",
+                "translation": " and "
+            },
+            {
+                "token": "שְׁתֵּ֣י",
+                "transliteration": "šə·tê",
+                "strong": "8147",
+                "translation": " vvv "
+            },
+            {
+                "token": "הַמְּזוּזֹ֑ת",
+                "transliteration": "ham·mə·zū·zōṯ",
+                "strong": "4201",
+                "translation": " sides of the doorframe "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " - "
+            },
+            {
+                "token": "וּפָסַ֤ח",
+                "transliteration": "ū·p̄ā·saḥ",
+                "strong": "6452",
+                "translation": " and will pass "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "הַפֶּ֔תַח",
+                "transliteration": "hap·pe·ṯaḥ",
+                "strong": "6607",
+                "translation": " that doorway ; "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " so He will not "
+            },
+            {
+                "token": "יִתֵּן֙",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " allow "
+            },
+            {
+                "token": "הַמַּשְׁחִ֔ית",
+                "transliteration": "ham·maš·ḥîṯ",
+                "strong": "7843",
+                "translation": " the destroyer "
+            },
+            {
+                "token": "לָבֹ֥א",
+                "transliteration": "lā·ḇō",
+                "strong": "935",
+                "translation": " to enter "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּתֵּיכֶ֖ם",
+                "transliteration": "bāt·tê·ḵem",
+                "strong": "1004",
+                "translation": " your houses "
+            },
+            {
+                "token": "לִנְגֹּֽף׃",
+                "transliteration": "lin·gōp̄",
+                "strong": "5062",
+                "translation": " and strike you down . "
+            }
+        ],
+        "verse_reference": "Exodus 12:23",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּשְׁמַרְתֶּ֖ם",
+                "transliteration": "ū·šə·mar·tem",
+                "strong": "8104",
+                "translation": " And you are to keep "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַדָּבָ֣ר",
+                "transliteration": "had·dā·ḇār",
+                "strong": "1697",
+                "translation": " command "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " as a "
+            },
+            {
+                "token": "עוֹלָֽם׃",
+                "transliteration": "‘ō·w·lām",
+                "strong": "5769",
+                "translation": " permanent "
+            },
+            {
+                "token": "לְחָק־",
+                "transliteration": "lə·ḥāq-",
+                "strong": "2706",
+                "translation": " statute "
+            },
+            {
+                "token": "לְךָ֥",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " for you "
+            },
+            {
+                "token": "וּלְבָנֶ֖יךָ",
+                "transliteration": "ū·lə·ḇā·ne·ḵā",
+                "strong": "1121",
+                "translation": " and your descendants . "
+            }
+        ],
+        "verse_reference": "Exodus 12:24",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֞ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "תָבֹ֣אוּ",
+                "transliteration": "ṯā·ḇō·’ū",
+                "strong": "935",
+                "translation": " you enter "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָאָ֗רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "יִתֵּ֧ן",
+                "transliteration": "yit·tên",
+                "strong": "5414",
+                "translation": " will give "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "כַּאֲשֶׁ֣ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " as "
+            },
+            {
+                "token": "דִּבֵּ֑ר",
+                "transliteration": "dib·bêr",
+                "strong": "1696",
+                "translation": " He promised , "
+            },
+            {
+                "token": "וּשְׁמַרְתֶּ֖ם",
+                "transliteration": "ū·šə·mar·tem",
+                "strong": "8104",
+                "translation": " you are to keep "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הַזֹּֽאת׃",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " this "
+            },
+            {
+                "token": "הָעֲבֹדָ֥ה",
+                "transliteration": "hā·‘ă·ḇō·ḏāh",
+                "strong": "5656",
+                "translation": " service . "
+            }
+        ],
+        "verse_reference": "Exodus 12:25",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֕ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "בְּנֵיכֶ֑ם",
+                "transliteration": "bə·nê·ḵem",
+                "strong": "1121",
+                "translation": " your children "
+            },
+            {
+                "token": "יֹאמְר֥וּ",
+                "transliteration": "yō·mə·rū",
+                "strong": "559",
+                "translation": " ask you , "
+            },
+            {
+                "token": "אֲלֵיכֶ֖ם",
+                "transliteration": "’ă·lê·ḵem",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "מָ֛ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "הָעֲבֹדָ֥ה",
+                "transliteration": "hā·‘ă·ḇō·ḏāh",
+                "strong": "5656",
+                "translation": " does this service "
+            },
+            {
+                "token": "הַזֹּ֖את",
+                "transliteration": "haz·zōṯ",
+                "strong": "2063",
+                "translation": " mean "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " to you ? ’ "
+            }
+        ],
+        "verse_reference": "Exodus 12:26",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַאֲמַרְתֶּ֡ם",
+                "transliteration": "wa·’ă·mar·tem",
+                "strong": "559",
+                "translation": " you are to reply , "
+            },
+            {
+                "token": "ה֜וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " ‘ It "
+            },
+            {
+                "token": "פֶּ֨סַח",
+                "transliteration": "pe·saḥ",
+                "strong": "6453",
+                "translation": " is the Passover "
+            },
+            {
+                "token": "זֶֽבַח־",
+                "transliteration": "ze·ḇaḥ-",
+                "strong": "2077",
+                "translation": " sacrifice "
+            },
+            {
+                "token": "לַֽיהוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "פָּ֠סַח",
+                "transliteration": "pā·saḥ",
+                "strong": "6452",
+                "translation": " passed "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "בָּתֵּ֤י",
+                "transliteration": "bāt·tê",
+                "strong": "1004",
+                "translation": " the houses "
+            },
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " vvv "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of the Israelites "
+            },
+            {
+                "token": "בְּמִצְרַ֔יִם",
+                "transliteration": "bə·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " in Egypt "
+            },
+            {
+                "token": "בְּנָגְפּ֥וֹ",
+                "transliteration": "bə·nā·ḡə·pōw",
+                "strong": "5062",
+                "translation": " when He struck down "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " - "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " the Egyptians "
+            },
+            {
+                "token": "הִצִּ֑יל",
+                "transliteration": "hiṣ·ṣîl",
+                "strong": "5337",
+                "translation": " and spared "
+            },
+            {
+                "token": "בָּתֵּ֣ינוּ",
+                "transliteration": "bāt·tê·nū",
+                "strong": "1004",
+                "translation": " our homes . ’” "
+            },
+            {
+                "token": "הָעָ֖ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " Then the people "
+            },
+            {
+                "token": "וַיִּקֹּ֥ד",
+                "transliteration": "way·yiq·qōḏ",
+                "strong": "6915",
+                "translation": " bowed down "
+            },
+            {
+                "token": "וַיִּֽשְׁתַּחֲוּֽוּ׃",
+                "transliteration": "way·yiš·ta·ḥăw·wū",
+                "strong": "7812",
+                "translation": " and worshiped . "
+            }
+        ],
+        "verse_reference": "Exodus 12:27",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " And the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיֵּלְכ֥וּ",
+                "transliteration": "way·yê·lə·ḵū",
+                "strong": "1980",
+                "translation": " went "
+            },
+            {
+                "token": "וַיַּֽעֲשׂ֖וּ",
+                "transliteration": "way·ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " and did "
+            },
+            {
+                "token": "כַּאֲשֶׁ֨ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " just what "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "צִוָּ֧ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " had commanded "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאַהֲרֹ֖ן",
+                "transliteration": "wə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "כֵּ֥ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " - "
+            },
+            {
+                "token": "עָשֽׂוּ׃ס",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Exodus 12:28",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֣י׀",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " Now "
+            },
+            {
+                "token": "בַּחֲצִ֣י",
+                "transliteration": "ba·ḥă·ṣî",
+                "strong": "2677",
+                "translation": " at midnight "
+            },
+            {
+                "token": "הַלַּ֗יְלָה",
+                "transliteration": "hal·lay·lāh",
+                "strong": "3915",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַֽיהוָה֮",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "הִכָּ֣ה",
+                "transliteration": "hik·kāh",
+                "strong": "5221",
+                "translation": " struck down "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "בְּכוֹר֮",
+                "transliteration": "bə·ḵō·wr",
+                "strong": "1060",
+                "translation": " firstborn "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " male in the land "
+            },
+            {
+                "token": "מִצְרַיִם֒",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "מִבְּכֹ֤ר",
+                "transliteration": "mib·bə·ḵōr",
+                "strong": "1060",
+                "translation": " from the firstborn "
+            },
+            {
+                "token": "פַּרְעֹה֙",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " of Pharaoh , "
+            },
+            {
+                "token": "הַיֹּשֵׁ֣ב",
+                "transliteration": "hay·yō·šêḇ",
+                "strong": "3427",
+                "translation": " who sat "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "כִּסְא֔וֹ",
+                "transliteration": "kis·’ōw",
+                "strong": "3678",
+                "translation": " his throne , "
+            },
+            {
+                "token": "עַ֚ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "בְּכ֣וֹר",
+                "transliteration": "bə·ḵō·wr",
+                "strong": "1060",
+                "translation": " the firstborn "
+            },
+            {
+                "token": "הַשְּׁבִ֔י",
+                "transliteration": "haš·šə·ḇî",
+                "strong": "7628",
+                "translation": " of the prisoner "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּבֵ֣ית",
+                "transliteration": "bə·ḇêṯ",
+                "strong": "1004",
+                "translation": " in the dungeon "
+            },
+            {
+                "token": "הַבּ֑וֹר",
+                "transliteration": "hab·bō·wr",
+                "strong": "953",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְכֹ֖ל",
+                "transliteration": "wə·ḵōl",
+                "strong": "3605",
+                "translation": " as well as all "
+            },
+            {
+                "token": "בְּכ֥וֹר",
+                "transliteration": "bə·ḵō·wr",
+                "strong": "1060",
+                "translation": " the firstborn "
+            },
+            {
+                "token": "בְּהֵמָֽה׃",
+                "transliteration": "bə·hê·māh",
+                "strong": "929",
+                "translation": " among the livestock . "
+            }
+        ],
+        "verse_reference": "Exodus 12:29",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לַ֗יְלָה",
+                "transliteration": "lay·lāh",
+                "strong": "3915",
+                "translation": " During the night "
+            },
+            {
+                "token": "פַּרְעֹ֜ה",
+                "transliteration": "par·‘ōh",
+                "strong": "6547",
+                "translation": " Pharaoh "
+            },
+            {
+                "token": "וַיָּ֨קָם",
+                "transliteration": "way·yā·qām",
+                "strong": "6965",
+                "translation": " got up — "
+            },
+            {
+                "token": "ה֤וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " he "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "עֲבָדָיו֙",
+                "transliteration": "‘ă·ḇā·ḏāw",
+                "strong": "5650",
+                "translation": " his officials "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּמִצְרָ֑יִם",
+                "transliteration": "bə·miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " the Egyptians — "
+            },
+            {
+                "token": "וַתְּהִ֛י",
+                "transliteration": "wat·tə·hî",
+                "strong": "1961",
+                "translation": " and there was "
+            },
+            {
+                "token": "גְדֹלָ֖ה",
+                "transliteration": "ḡə·ḏō·lāh",
+                "strong": "1419",
+                "translation": " loud "
+            },
+            {
+                "token": "צְעָקָ֥ה",
+                "transliteration": "ṣə·‘ā·qāh",
+                "strong": "6818",
+                "translation": " wailing "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " in Egypt ; "
+            },
+            {
+                "token": "אֵ֣ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " for there was no "
+            },
+            {
+                "token": "בַּ֔יִת",
+                "transliteration": "ba·yiṯ",
+                "strong": "1004",
+                "translation": " house "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "אֵֽין־",
+                "transliteration": "’ên-",
+                "strong": "369",
+                "translation": " without "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵֽת׃",
+                "transliteration": "mêṯ",
+                "strong": "4191",
+                "translation": " someone dead . "
+            }
+        ],
+        "verse_reference": "Exodus 12:30",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיִּקְרָא֩",
+                "transliteration": "way·yiq·rā",
+                "strong": "7121",
+                "translation": " Then [Pharaoh] summoned "
+            },
+            {
+                "token": "לְמֹשֶׁ֨ה",
+                "transliteration": "lə·mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וּֽלְאַהֲרֹ֜ן",
+                "transliteration": "ū·lə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron "
+            },
+            {
+                "token": "לַ֗יְלָה",
+                "transliteration": "lay·lāh",
+                "strong": "3915",
+                "translation": " by night "
+            },
+            {
+                "token": "וַיֹּ֙אמֶר֙",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and said , "
+            },
+            {
+                "token": "ק֤וּמוּ",
+                "transliteration": "qū·mū",
+                "strong": "6965",
+                "translation": " “ Get up , "
+            },
+            {
+                "token": "צְּאוּ֙",
+                "transliteration": "ṣə·’ū",
+                "strong": "3318",
+                "translation": " leave "
+            },
+            {
+                "token": "מִתּ֣וֹךְ",
+                "transliteration": "mit·tō·wḵ",
+                "strong": "8432",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַמִּ֔י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " my people , "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " both "
+            },
+            {
+                "token": "אַתֶּ֖ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . ! "
+            },
+            {
+                "token": "וּלְכ֛וּ",
+                "transliteration": "ū·lə·ḵū",
+                "strong": "1980",
+                "translation": " Go , "
+            },
+            {
+                "token": "עִבְד֥וּ",
+                "transliteration": "‘iḇ·ḏū",
+                "strong": "5647",
+                "translation": " worship "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "כְּדַבֶּרְכֶֽם׃",
+                "transliteration": "kə·ḏab·ber·ḵem",
+                "strong": "1696",
+                "translation": " as you have requested . "
+            }
+        ],
+        "verse_reference": "Exodus 12:31",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קְח֛וּ",
+                "transliteration": "qə·ḥū",
+                "strong": "3947",
+                "translation": " Take "
+            },
+            {
+                "token": "צֹאנְכֶ֨ם",
+                "transliteration": "ṣō·nə·ḵem",
+                "strong": "6629",
+                "translation": " your flocks "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "בְּקַרְכֶ֥ם",
+                "transliteration": "bə·qar·ḵem",
+                "strong": "1241",
+                "translation": " herds "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " as well , "
+            },
+            {
+                "token": "כַּאֲשֶׁ֥ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " just as "
+            },
+            {
+                "token": "דִּבַּרְתֶּ֖ם",
+                "transliteration": "dib·bar·tem",
+                "strong": "1696",
+                "translation": " you have said , "
+            },
+            {
+                "token": "וָלֵ֑כוּ",
+                "transliteration": "wā·lê·ḵū",
+                "strong": "1980",
+                "translation": " and depart ! "
+            },
+            {
+                "token": "וּבֵֽרַכְתֶּ֖ם",
+                "transliteration": "ū·ḇê·raḵ·tem",
+                "strong": "1288",
+                "translation": " And bless "
+            },
+            {
+                "token": "אֹתִֽי׃",
+                "transliteration": "’ō·ṯî",
+                "strong": "853",
+                "translation": " me "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " also . ” "
+            }
+        ],
+        "verse_reference": "Exodus 12:32",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לְשַׁלְּחָ֣ם",
+                "transliteration": "lə·šal·lə·ḥām",
+                "strong": "7971",
+                "translation": " And in order to send them "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " out of "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "לְמַהֵ֖ר",
+                "transliteration": "lə·ma·hêr",
+                "strong": "4116",
+                "translation": " quickly , "
+            },
+            {
+                "token": "מִצְרַ֙יִם֙",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " the Egyptians "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַתֶּחֱזַ֤ק",
+                "transliteration": "wat·te·ḥĕ·zaq",
+                "strong": "2388",
+                "translation": " urged "
+            },
+            {
+                "token": "הָעָ֔ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people on . "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " “ For [otherwise] , ” "
+            },
+            {
+                "token": "אָמְר֖וּ",
+                "transliteration": "’ā·mə·rū",
+                "strong": "559",
+                "translation": " they said , "
+            },
+            {
+                "token": "כֻּלָּ֥נוּ",
+                "transliteration": "kul·lā·nū",
+                "strong": "3605",
+                "translation": " “ we are all "
+            },
+            {
+                "token": "מֵתִֽים׃",
+                "transliteration": "mê·ṯîm",
+                "strong": "4191",
+                "translation": " going to die ! ” "
+            }
+        ],
+        "verse_reference": "Exodus 12:33",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הָעָ֛ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " So the people "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּשָּׂ֥א",
+                "transliteration": "way·yiś·śā",
+                "strong": "5375",
+                "translation": " took "
+            },
+            {
+                "token": "בְּצֵק֖וֹ",
+                "transliteration": "bə·ṣê·qōw",
+                "strong": "1217",
+                "translation": " their dough "
+            },
+            {
+                "token": "טֶ֣רֶם",
+                "transliteration": "ṭe·rem",
+                "strong": "2962",
+                "translation": " before "
+            },
+            {
+                "token": "יֶחְמָ֑ץ",
+                "transliteration": "yeḥ·māṣ",
+                "strong": "2556",
+                "translation": " it was leavened , "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " [carrying it] on "
+            },
+            {
+                "token": "שִׁכְמָֽם׃",
+                "transliteration": "šiḵ·mām",
+                "strong": "7926",
+                "translation": " their shoulders "
+            },
+            {
+                "token": "מִשְׁאֲרֹתָ֛ם",
+                "transliteration": "miš·’ă·rō·ṯām",
+                "strong": "4863",
+                "translation": " in kneading bowls "
+            },
+            {
+                "token": "צְרֻרֹ֥ת",
+                "transliteration": "ṣə·ru·rōṯ",
+                "strong": "6887",
+                "translation": " wrapped "
+            },
+            {
+                "token": "בְּשִׂמְלֹתָ֖ם",
+                "transliteration": "bə·śim·lō·ṯām",
+                "strong": "8071",
+                "translation": " in clothing . "
+            }
+        ],
+        "verse_reference": "Exodus 12:34",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבְנֵי־",
+                "transliteration": "ū·ḇə·nê-",
+                "strong": "1121",
+                "translation": " Furthermore, the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֥ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "עָשׂ֖וּ",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " acted "
+            },
+            {
+                "token": "מֹשֶׁ֑ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " on Moses’ "
+            },
+            {
+                "token": "כִּדְבַ֣ר",
+                "transliteration": "kiḏ·ḇar",
+                "strong": "1697",
+                "translation": " word "
+            },
+            {
+                "token": "וַֽיִּשְׁאֲלוּ֙",
+                "transliteration": "way·yiš·’ă·lū",
+                "strong": "7592",
+                "translation": " and asked "
+            },
+            {
+                "token": "מִמִּצְרַ֔יִם",
+                "transliteration": "mim·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " the Egyptians "
+            },
+            {
+                "token": "כְּלֵי־",
+                "transliteration": "kə·lê-",
+                "strong": "3627",
+                "translation": " for articles "
+            },
+            {
+                "token": "כֶ֛סֶף",
+                "transliteration": "ḵe·sep̄",
+                "strong": "3701",
+                "translation": " of silver "
+            },
+            {
+                "token": "וּכְלֵ֥י",
+                "transliteration": "ū·ḵə·lê",
+                "strong": "3627",
+                "translation": " and "
+            },
+            {
+                "token": "זָהָ֖ב",
+                "transliteration": "zā·hāḇ",
+                "strong": "2091",
+                "translation": " gold , "
+            },
+            {
+                "token": "וּשְׂמָלֹֽת׃",
+                "transliteration": "ū·śə·mā·lōṯ",
+                "strong": "8071",
+                "translation": " and for clothing . "
+            }
+        ],
+        "verse_reference": "Exodus 12:35",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַֽיהוָ֞ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " And the LORD "
+            },
+            {
+                "token": "נָתַ֨ן",
+                "transliteration": "nā·ṯan",
+                "strong": "5414",
+                "translation": " gave "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָעָ֛ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "חֵ֥ן",
+                "transliteration": "ḥên",
+                "strong": "2580",
+                "translation": " such favor "
+            },
+            {
+                "token": "בְּעֵינֵ֥י",
+                "transliteration": "bə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the sight "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of the Egyptians "
+            },
+            {
+                "token": "וַיַּשְׁאִל֑וּם",
+                "transliteration": "way·yaš·’i·lūm",
+                "strong": "7592",
+                "translation": " that they granted their request . "
+            },
+            {
+                "token": "וַֽיְנַצְּל֖וּ",
+                "transliteration": "way·naṣ·ṣə·lū",
+                "strong": "5337",
+                "translation": " In this way they plundered "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִצְרָֽיִם׃פ",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " the Egyptians . "
+            }
+        ],
+        "verse_reference": "Exodus 12:36",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְנֵֽי־",
+                "transliteration": "ḇə·nê-",
+                "strong": "1121",
+                "translation": " The Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֛ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּסְע֧וּ",
+                "transliteration": "way·yis·‘ū",
+                "strong": "5265",
+                "translation": " journeyed "
+            },
+            {
+                "token": "מֵרַעְמְסֵ֖ס",
+                "transliteration": "mê·ra‘·mə·sês",
+                "strong": "7486",
+                "translation": " from Rameses "
+            },
+            {
+                "token": "סֻכֹּ֑תָה",
+                "transliteration": "suk·kō·ṯāh",
+                "strong": "5523",
+                "translation": " to Succoth "
+            },
+            {
+                "token": "כְּשֵׁשׁ־",
+                "transliteration": "kə·šêš-",
+                "strong": "8337",
+                "translation": " with about 600,000 "
+            },
+            {
+                "token": "מֵא֨וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶ֧לֶף",
+                "transliteration": "’e·lep̄",
+                "strong": "505",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַגְּבָרִ֖ים",
+                "transliteration": "hag·gə·ḇā·rîm",
+                "strong": "1397",
+                "translation": " men "
+            },
+            {
+                "token": "רַגְלִ֛י",
+                "transliteration": "raḡ·lî",
+                "strong": "7273",
+                "translation": " on foot , "
+            },
+            {
+                "token": "לְבַ֥ד",
+                "transliteration": "lə·ḇaḏ",
+                "strong": "905",
+                "translation": " besides "
+            },
+            {
+                "token": "מִטָּֽף׃",
+                "transliteration": "miṭ·ṭāp̄",
+                "strong": "2945",
+                "translation": " women and children . "
+            }
+        ],
+        "verse_reference": "Exodus 12:37",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עֵ֥רֶב",
+                "transliteration": "‘ê·reḇ",
+                "strong": "6154",
+                "translation": " And a mixed "
+            },
+            {
+                "token": "רַ֖ב",
+                "transliteration": "raḇ",
+                "strong": "7227",
+                "translation": " multitude "
+            },
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "עָלָ֣ה",
+                "transliteration": "‘ā·lāh",
+                "strong": "5927",
+                "translation": " went up "
+            },
+            {
+                "token": "אִתָּ֑ם",
+                "transliteration": "’it·tām",
+                "strong": "854",
+                "translation": " with them , "
+            },
+            {
+                "token": "כָּבֵ֥ד",
+                "transliteration": "kā·ḇêḏ",
+                "strong": "3515",
+                "translation": " along with great droves of "
+            },
+            {
+                "token": "מְאֹֽד׃",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִקְנֶ֖ה",
+                "transliteration": "miq·neh",
+                "strong": "4735",
+                "translation": " livestock , "
+            },
+            {
+                "token": "וְצֹ֣אן",
+                "transliteration": "wə·ṣōn",
+                "strong": "6629",
+                "translation": " both flocks "
+            },
+            {
+                "token": "וּבָקָ֔ר",
+                "transliteration": "ū·ḇā·qār",
+                "strong": "1241",
+                "translation": " and herds . "
+            }
+        ],
+        "verse_reference": "Exodus 12:38",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " Since "
+            },
+            {
+                "token": "הַבָּצֵ֜ק",
+                "transliteration": "hab·bā·ṣêq",
+                "strong": "1217",
+                "translation": " their dough "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " had no "
+            },
+            {
+                "token": "חָמֵ֑ץ",
+                "transliteration": "ḥā·mêṣ",
+                "strong": "2556",
+                "translation": " leaven , "
+            },
+            {
+                "token": "וַיֹּאפ֨וּ",
+                "transliteration": "way·yō·p̄ū",
+                "strong": "644",
+                "translation": " the people baked "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הוֹצִ֧יאוּ",
+                "transliteration": "hō·w·ṣî·’ū",
+                "strong": "3318",
+                "translation": " what they had brought "
+            },
+            {
+                "token": "מִמִּצְרַ֛יִם",
+                "transliteration": "mim·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " out of Egypt "
+            },
+            {
+                "token": "מַצּ֖וֹת",
+                "transliteration": "maṣ·ṣō·wṯ",
+                "strong": "4682",
+                "translation": " into unleavened "
+            },
+            {
+                "token": "עֻגֹ֥ת",
+                "transliteration": "‘u·ḡōṯ",
+                "strong": "5692",
+                "translation": " loaves . "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "גֹרְשׁ֣וּ",
+                "transliteration": "ḡō·rə·šū",
+                "strong": "1644",
+                "translation": " when they had been driven out "
+            },
+            {
+                "token": "מִמִּצְרַ֗יִם",
+                "transliteration": "mim·miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "יָֽכְלוּ֙",
+                "transliteration": "yā·ḵə·lū",
+                "strong": "3201",
+                "translation": " they could "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "לְהִתְמַהְמֵ֔הַּ",
+                "transliteration": "lə·hiṯ·mah·mê·ah",
+                "strong": "4102",
+                "translation": " delay "
+            },
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " had not "
+            },
+            {
+                "token": "עָשׂ֥וּ",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " prepared "
+            },
+            {
+                "token": "צֵדָ֖ה",
+                "transliteration": "ṣê·ḏāh",
+                "strong": "6720",
+                "translation": " any provisions "
+            },
+            {
+                "token": "לָהֶֽם׃",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " for themselves . "
+            }
+        ],
+        "verse_reference": "Exodus 12:39",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּמוֹשַׁב֙",
+                "transliteration": "ū·mō·wō·šaḇ",
+                "strong": "4186",
+                "translation": " Now the duration "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " vvv "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of the Israelites’ "
+            },
+            {
+                "token": "יָשְׁב֖וּ",
+                "transliteration": "yā·šə·ḇū",
+                "strong": "3427",
+                "translation": " stay "
+            },
+            {
+                "token": "בְּמִצְרָ֑יִם",
+                "transliteration": "bə·miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " in Egypt "
+            },
+            {
+                "token": "שְׁלֹשִׁ֣ים",
+                "transliteration": "šə·lō·šîm",
+                "strong": "7970",
+                "translation": " was 430 "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֖וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָֽה׃",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֔ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years . "
+            }
+        ],
+        "verse_reference": "Exodus 12:40",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "מִקֵּץ֙",
+                "transliteration": "miq·qêṣ",
+                "strong": "7093",
+                "translation": " At the end "
+            },
+            {
+                "token": "שְׁלֹשִׁ֣ים",
+                "transliteration": "šə·lō·šîm",
+                "strong": "7970",
+                "translation": " of the 430 "
+            },
+            {
+                "token": "וְאַרְבַּ֥ע",
+                "transliteration": "wə·’ar·ba‘",
+                "strong": "702",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵא֖וֹת",
+                "transliteration": "mê·’ō·wṯ",
+                "strong": "3967",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֑ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "שָׁנָ֔ה",
+                "transliteration": "šā·nāh",
+                "strong": "8141",
+                "translation": " years , "
+            },
+            {
+                "token": "הַזֶּ֔ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " to the "
+            },
+            {
+                "token": "בְּעֶ֙צֶם֙",
+                "transliteration": "bə·‘e·ṣem",
+                "strong": "6106",
+                "translation": " very "
+            },
+            {
+                "token": "הַיּ֣וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD’s "
+            },
+            {
+                "token": "צִבְא֥וֹת",
+                "transliteration": "ṣiḇ·’ō·wṯ",
+                "strong": "6635",
+                "translation": " divisions "
+            },
+            {
+                "token": "יָֽצְא֛וּ",
+                "transliteration": "yā·ṣə·’ū",
+                "strong": "3318",
+                "translation": " went out "
+            },
+            {
+                "token": "מֵאֶ֥רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " of the land "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            }
+        ],
+        "verse_reference": "Exodus 12:41",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לַֽיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Because the LORD "
+            },
+            {
+                "token": "שִׁמֻּרִ֥ים",
+                "transliteration": "šim·mu·rîm",
+                "strong": "8107",
+                "translation": " kept a vigil "
+            },
+            {
+                "token": "הוּא֙",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "לֵ֣יל",
+                "transliteration": "lêl",
+                "strong": "3915",
+                "translation": " night "
+            },
+            {
+                "token": "לְהוֹצִיאָ֖ם",
+                "transliteration": "lə·hō·w·ṣî·’ām",
+                "strong": "3318",
+                "translation": " to bring them "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "הֽוּא־",
+                "transliteration": "hū-",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַזֶּה֙",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this same "
+            },
+            {
+                "token": "הַלַּ֤יְלָה",
+                "transliteration": "hal·lay·lāh",
+                "strong": "3915",
+                "translation": " night [is to be a vigil ] "
+            },
+            {
+                "token": "לַֽיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "שִׁמֻּרִ֛ים",
+                "transliteration": "šim·mu·rîm",
+                "strong": "8107",
+                "translation": " to be observed "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " by all "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְדֹרֹתָֽם׃פ",
+                "transliteration": "lə·ḏō·rō·ṯām",
+                "strong": "1755",
+                "translation": " for the generations to come . "
+            }
+        ],
+        "verse_reference": "Exodus 12:42",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " And the LORD "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "מֹשֶׁ֣ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאַהֲרֹ֔ן",
+                "transliteration": "wə·’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron , "
+            },
+            {
+                "token": "זֹ֖את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " “ This "
+            },
+            {
+                "token": "חֻקַּ֣ת",
+                "transliteration": "ḥuq·qaṯ",
+                "strong": "2708",
+                "translation": " is the statute "
+            },
+            {
+                "token": "הַפָּ֑סַח",
+                "transliteration": "hap·pā·saḥ",
+                "strong": "6453",
+                "translation": " of the Passover : "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " No "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " foreigner "
+            },
+            {
+                "token": "נֵכָ֖ר",
+                "transliteration": "nê·ḵār",
+                "strong": "5236",
+                "translation": " . . . "
+            },
+            {
+                "token": "יֹ֥אכַל",
+                "transliteration": "yō·ḵal",
+                "strong": "398",
+                "translation": " is to eat "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " of it . "
+            }
+        ],
+        "verse_reference": "Exodus 12:43",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " But any "
+            },
+            {
+                "token": "עֶ֥בֶד",
+                "transliteration": "‘e·ḇeḏ",
+                "strong": "5650",
+                "translation": " slave [who] "
+            },
+            {
+                "token": "אִ֖ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " vvv "
+            },
+            {
+                "token": "מִקְנַת־",
+                "transliteration": "miq·naṯ-",
+                "strong": "4736",
+                "translation": " has been purchased "
+            },
+            {
+                "token": "כָּ֑סֶף",
+                "transliteration": "kā·sep̄",
+                "strong": "3701",
+                "translation": " . . . "
+            },
+            {
+                "token": "יֹ֥אכַל",
+                "transliteration": "yō·ḵal",
+                "strong": "398",
+                "translation": " may eat "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " of it , "
+            },
+            {
+                "token": "וּמַלְתָּ֣ה",
+                "transliteration": "ū·mal·tāh",
+                "strong": "4135",
+                "translation": " after you have circumcised him . "
+            },
+            {
+                "token": "אֹת֔וֹ",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אָ֖ז",
+                "transliteration": "’āz",
+                "strong": "227",
+                "translation": " - "
+            }
+        ],
+        "verse_reference": "Exodus 12:44",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            {
+                "token": "תּוֹשָׁ֥ב",
+                "transliteration": "tō·wō·šāḇ",
+                "strong": "8453",
+                "translation": " A temporary resident "
+            },
+            {
+                "token": "וְשָׂכִ֖יר",
+                "transliteration": "wə·śā·ḵîr",
+                "strong": "7916",
+                "translation": " or hired hand "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " shall not "
+            },
+            {
+                "token": "יֹ֥אכַל־",
+                "transliteration": "yō·ḵal-",
+                "strong": "398",
+                "translation": " eat "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " [the Passover] . "
+            }
+        ],
+        "verse_reference": "Exodus 12:45",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יֵאָכֵ֔ל",
+                "transliteration": "yê·’ā·ḵêl",
+                "strong": "398",
+                "translation": " It must be eaten "
+            },
+            {
+                "token": "אֶחָד֙",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " inside one "
+            },
+            {
+                "token": "בְּבַ֤יִת",
+                "transliteration": "bə·ḇa·yiṯ",
+                "strong": "1004",
+                "translation": " house . "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " You are not "
+            },
+            {
+                "token": "תוֹצִ֧יא",
+                "transliteration": "ṯō·w·ṣî",
+                "strong": "3318",
+                "translation": " to take "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " any of "
+            },
+            {
+                "token": "הַבָּשָׂ֖ר",
+                "transliteration": "hab·bā·śār",
+                "strong": "1320",
+                "translation": " the meat "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " outside "
+            },
+            {
+                "token": "ח֑וּצָה",
+                "transliteration": "ḥū·ṣāh",
+                "strong": "2351",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַבַּ֛יִת",
+                "transliteration": "hab·ba·yiṯ",
+                "strong": "1004",
+                "translation": " the house , "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and you may not "
+            },
+            {
+                "token": "תִשְׁבְּרוּ־",
+                "transliteration": "ṯiš·bə·rū-",
+                "strong": "7665",
+                "translation": " break "
+            },
+            {
+                "token": "בֽוֹ׃",
+                "transliteration": "ḇōw",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "וְעֶ֖צֶם",
+                "transliteration": "wə·‘e·ṣem",
+                "strong": "6106",
+                "translation": " any of the bones . "
+            }
+        ],
+        "verse_reference": "Exodus 12:46",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " The whole "
+            },
+            {
+                "token": "עֲדַ֥ת",
+                "transliteration": "‘ă·ḏaṯ",
+                "strong": "5712",
+                "translation": " congregation "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "יַעֲשׂ֥וּ",
+                "transliteration": "ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " must celebrate "
+            },
+            {
+                "token": "אֹתֽוֹ׃",
+                "transliteration": "’ō·ṯōw",
+                "strong": "853",
+                "translation": " it . "
+            }
+        ],
+        "verse_reference": "Exodus 12:47",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "47"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְכִֽי־",
+                "transliteration": "wə·ḵî-",
+                "strong": "3588",
+                "translation": " If "
+            },
+            {
+                "token": "גֵּ֗ר",
+                "transliteration": "gêr",
+                "strong": "1616",
+                "translation": " a foreigner "
+            },
+            {
+                "token": "יָג֨וּר",
+                "transliteration": "yā·ḡūr",
+                "strong": "1481",
+                "translation": " resides "
+            },
+            {
+                "token": "אִתְּךָ֜",
+                "transliteration": "’it·tə·ḵā",
+                "strong": "854",
+                "translation": " with "
+            },
+            {
+                "token": "וְעָ֣שָׂה",
+                "transliteration": "wə·‘ā·śāh",
+                "strong": "6213",
+                "translation": " you and wants to celebrate "
+            },
+            {
+                "token": "לַיהוָה֒",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD’s "
+            },
+            {
+                "token": "פֶסַח֮",
+                "transliteration": "p̄e·saḥ",
+                "strong": "6453",
+                "translation": " Passover , "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all the "
+            },
+            {
+                "token": "זָכָ֗ר",
+                "transliteration": "zā·ḵār",
+                "strong": "2145",
+                "translation": " males [in the household] "
+            },
+            {
+                "token": "הִמּ֧וֹל",
+                "transliteration": "him·mō·wl",
+                "strong": "4135",
+                "translation": " must be circumcised "
+            },
+            {
+                "token": "ל֣וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " ; "
+            },
+            {
+                "token": "וְאָז֙",
+                "transliteration": "wə·’āz",
+                "strong": "227",
+                "translation": " then "
+            },
+            {
+                "token": "יִקְרַ֣ב",
+                "transliteration": "yiq·raḇ",
+                "strong": "7126",
+                "translation": " he may come near "
+            },
+            {
+                "token": "לַעֲשֹׂת֔וֹ",
+                "transliteration": "la·‘ă·śō·ṯōw",
+                "strong": "6213",
+                "translation": " to celebrate it , "
+            },
+            {
+                "token": "וְהָיָ֖ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " and he shall be "
+            },
+            {
+                "token": "כְּאֶזְרַ֣ח",
+                "transliteration": "kə·’ez·raḥ",
+                "strong": "249",
+                "translation": " like a native "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " of the land . "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " But no "
+            },
+            {
+                "token": "עָרֵ֖ל",
+                "transliteration": "‘ā·rêl",
+                "strong": "6189",
+                "translation": " uncircumcised man "
+            },
+            {
+                "token": "יֹ֥אכַל",
+                "transliteration": "yō·ḵal",
+                "strong": "398",
+                "translation": " may eat "
+            },
+            {
+                "token": "בּֽוֹ׃",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " of it . "
+            }
+        ],
+        "verse_reference": "Exodus 12:48",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "48"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַחַ֔ת",
+                "transliteration": "’a·ḥaṯ",
+                "strong": "259",
+                "translation": " The same "
+            },
+            {
+                "token": "תּוֹרָ֣ה",
+                "transliteration": "tō·w·rāh",
+                "strong": "8451",
+                "translation": " law "
+            },
+            {
+                "token": "יִהְיֶ֖ה",
+                "transliteration": "yih·yeh",
+                "strong": "1961",
+                "translation": " shall apply "
+            },
+            {
+                "token": "לָֽאֶזְרָ֑ח",
+                "transliteration": "lā·’ez·rāḥ",
+                "strong": "249",
+                "translation": " to both the native "
+            },
+            {
+                "token": "וְלַגֵּ֖ר",
+                "transliteration": "wə·lag·gêr",
+                "strong": "1616",
+                "translation": " and the foreigner "
+            },
+            {
+                "token": "הַגָּ֥ר",
+                "transliteration": "hag·gār",
+                "strong": "1481",
+                "translation": " who resides "
+            },
+            {
+                "token": "בְּתוֹכְכֶֽם׃",
+                "transliteration": "bə·ṯō·wḵ·ḵem",
+                "strong": "8432",
+                "translation": " among you . ” "
+            }
+        ],
+        "verse_reference": "Exodus 12:49",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "49"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Then all "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיַּֽעֲשׂ֖וּ",
+                "transliteration": "way·ya·‘ă·śū",
+                "strong": "6213",
+                "translation": " did "
+            },
+            {
+                "token": "כֵּ֥ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " this — "
+            },
+            {
+                "token": "עָשֽׂוּ׃ס",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " they did "
+            },
+            {
+                "token": "כַּאֲשֶׁ֨ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " just as "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "צִוָּ֧ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " had commanded "
+            },
+            {
+                "token": "מֹשֶׁ֥ה",
+                "transliteration": "mō·šeh",
+                "strong": "4872",
+                "translation": " Moses "
+            },
+            {
+                "token": "וְאֶֽת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אַהֲרֹ֖ן",
+                "transliteration": "’a·hă·rōn",
+                "strong": "175",
+                "translation": " and Aaron . "
+            }
+        ],
+        "verse_reference": "Exodus 12:50",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "50"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֕י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "הַזֶּ֑ה",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " on that "
+            },
+            {
+                "token": "בְּעֶ֖צֶם",
+                "transliteration": "bə·‘e·ṣem",
+                "strong": "6106",
+                "translation": " very "
+            },
+            {
+                "token": "הַיּ֣וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הוֹצִ֨יא",
+                "transliteration": "hō·w·ṣî",
+                "strong": "3318",
+                "translation": " brought "
+            },
+            {
+                "token": "בְּנֵ֧י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֛ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵאֶ֥רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " by "
+            },
+            {
+                "token": "צִבְאֹתָֽם׃פ",
+                "transliteration": "ṣiḇ·’ō·ṯām",
+                "strong": "6635",
+                "translation": " their divisions . "
+            }
+        ],
+        "verse_reference": "Exodus 12:51",
+        "book": "Exodus",
+        "chapter": "12",
+        "verse": "51"
+    }
+]

@@ -1,0 +1,932 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "שִׁ֗יר",
+                "transliteration": "šîr",
+                "strong": "7892",
+                "translation": " A song "
+            },
+            {
+                "token": "הַֽמַּ֫עֲל֥וֹת",
+                "transliteration": "ham·ma·‘ă·lō·wṯ",
+                "strong": "4609",
+                "translation": " of ascents . "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD , "
+            },
+            {
+                "token": "זְכוֹר־",
+                "transliteration": "zə·ḵō·wr-",
+                "strong": "2142",
+                "translation": " remember "
+            },
+            {
+                "token": "אֵ֝ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " on behalf "
+            },
+            {
+                "token": "לְדָוִ֑ד",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " of David "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "עֻנּוֹתֽוֹ׃",
+                "transliteration": "‘un·nō·w·ṯōw",
+                "strong": "6031",
+                "translation": " the hardships he endured , "
+            }
+        ],
+        "verse_reference": "Psalm 132:1",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " how "
+            },
+            {
+                "token": "נִ֭שְׁבַּע",
+                "transliteration": "niš·ba‘",
+                "strong": "7650",
+                "translation": " he swore an oath "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " to the LORD , "
+            },
+            {
+                "token": "נָ֝דַ֗ר",
+                "transliteration": "nā·ḏar",
+                "strong": "5087",
+                "translation": " [and] vowed "
+            },
+            {
+                "token": "לַאֲבִ֥יר",
+                "transliteration": "la·’ă·ḇîr",
+                "strong": "46",
+                "translation": " to the Mighty One "
+            },
+            {
+                "token": "יַעֲקֹֽב׃",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob : "
+            }
+        ],
+        "verse_reference": "Psalm 132:2",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " “ I will not "
+            },
+            {
+                "token": "אָ֭בֹא",
+                "transliteration": "’ā·ḇō",
+                "strong": "935",
+                "translation": " enter "
+            },
+            {
+                "token": "בְּאֹ֣הֶל",
+                "transliteration": "bə·’ō·hel",
+                "strong": "168",
+                "translation": " . . . "
+            },
+            {
+                "token": "בֵּיתִ֑י",
+                "transliteration": "bê·ṯî",
+                "strong": "1004",
+                "translation": " my house "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " or "
+            },
+            {
+                "token": "אֶ֝עֱלֶ֗ה",
+                "transliteration": "’e·‘ĕ·leh",
+                "strong": "5927",
+                "translation": " get "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " into "
+            },
+            {
+                "token": "עֶ֥רֶשׂ",
+                "transliteration": "‘e·reś",
+                "strong": "6210",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְצוּעָֽי׃",
+                "transliteration": "yə·ṣū·‘āy",
+                "strong": "3326",
+                "translation": " my bed , "
+            }
+        ],
+        "verse_reference": "Psalm 132:3",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " I will not "
+            },
+            {
+                "token": "אֶתֵּ֣ן",
+                "transliteration": "’et·tên",
+                "strong": "5414",
+                "translation": " give "
+            },
+            {
+                "token": "שְׁנַ֣ת",
+                "transliteration": "šə·naṯ",
+                "strong": "8153",
+                "translation": " sleep "
+            },
+            {
+                "token": "לְעֵינָ֑י",
+                "transliteration": "lə·‘ê·nāy",
+                "strong": "5869",
+                "translation": " to my eyes "
+            },
+            {
+                "token": "תְּנוּמָֽה׃",
+                "transliteration": "tə·nū·māh",
+                "strong": "8572",
+                "translation": " [or] slumber "
+            },
+            {
+                "token": "לְֽעַפְעַפַּ֥י",
+                "transliteration": "lə·‘ap̄·‘ap·pay",
+                "strong": "6079",
+                "translation": " to my eyelids , "
+            }
+        ],
+        "verse_reference": "Psalm 132:4",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "אֶמְצָ֣א",
+                "transliteration": "’em·ṣā",
+                "strong": "4672",
+                "translation": " I find "
+            },
+            {
+                "token": "מָ֭קוֹם",
+                "transliteration": "mā·qō·wm",
+                "strong": "4725",
+                "translation": " a place "
+            },
+            {
+                "token": "לַיהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " for the LORD , "
+            },
+            {
+                "token": "מִ֝שְׁכָּנ֗וֹת",
+                "transliteration": "miš·kā·nō·wṯ",
+                "strong": "4908",
+                "translation": " a dwelling "
+            },
+            {
+                "token": "לַאֲבִ֥יר",
+                "transliteration": "la·’ă·ḇîr",
+                "strong": "46",
+                "translation": " for the Mighty "
+            },
+            {
+                "token": "יַעֲקֹֽב׃",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " One of Jacob . ” "
+            }
+        ],
+        "verse_reference": "Psalm 132:5",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הִנֵּֽה־",
+                "transliteration": "hin·nêh-",
+                "strong": "2009",
+                "translation": " vvv "
+            },
+            {
+                "token": "שְׁמַֽעֲנ֥וּהָ",
+                "transliteration": "šə·ma·‘ă·nū·hā",
+                "strong": "8085",
+                "translation": " We heard [that the ark was] "
+            },
+            {
+                "token": "בְאֶפְרָ֑תָה",
+                "transliteration": "ḇə·’ep̄·rā·ṯāh",
+                "strong": "672",
+                "translation": " in Ephrathah ; "
+            },
+            {
+                "token": "מְ֝צָאנ֗וּהָ",
+                "transliteration": "mə·ṣā·nū·hā",
+                "strong": "4672",
+                "translation": " we found "
+            },
+            {
+                "token": "בִּשְׂדֵי־",
+                "transliteration": "biś·ḏê-",
+                "strong": "7704",
+                "translation": " it in the fields "
+            },
+            {
+                "token": "יָֽעַר׃",
+                "transliteration": "yā·‘ar",
+                "strong": "3293",
+                "translation": " of Jaar . "
+            }
+        ],
+        "verse_reference": "Psalm 132:6",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "נָב֥וֹאָה",
+                "transliteration": "nā·ḇō·w·’āh",
+                "strong": "935",
+                "translation": " Let us go "
+            },
+            {
+                "token": "לְמִשְׁכְּנוֹתָ֑יו",
+                "transliteration": "lə·miš·kə·nō·w·ṯāw",
+                "strong": "4908",
+                "translation": " to His dwelling place ; "
+            },
+            {
+                "token": "נִ֝שְׁתַּחֲוֶ֗ה",
+                "transliteration": "niš·ta·ḥă·weh",
+                "strong": "7812",
+                "translation": " let us worship "
+            },
+            {
+                "token": "לַהֲדֹ֥ם",
+                "transliteration": "la·hă·ḏōm",
+                "strong": "1916",
+                "translation": " at His footstool "
+            },
+            {
+                "token": "רַגְלָֽיו׃",
+                "transliteration": "raḡ·lāw",
+                "strong": "7272",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Psalm 132:7",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "קוּמָ֣ה",
+                "transliteration": "qū·māh",
+                "strong": "6965",
+                "translation": " Arise , "
+            },
+            {
+                "token": "יְ֭הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " O LORD , "
+            },
+            {
+                "token": "לִמְנוּחָתֶ֑ךָ",
+                "transliteration": "lim·nū·ḥā·ṯe·ḵā",
+                "strong": "4496",
+                "translation": " to Your resting place , "
+            },
+            {
+                "token": "אַ֝תָּ֗ה",
+                "transliteration": "’at·tāh",
+                "strong": "859",
+                "translation": " You "
+            },
+            {
+                "token": "וַאֲר֥וֹן",
+                "transliteration": "wa·’ă·rō·wn",
+                "strong": "727",
+                "translation": " and the ark "
+            },
+            {
+                "token": "עֻזֶּֽךָ׃",
+                "transliteration": "‘uz·ze·ḵā",
+                "strong": "5797",
+                "translation": " of Your strength . "
+            }
+        ],
+        "verse_reference": "Psalm 132:8",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כֹּהֲנֶ֥יךָ",
+                "transliteration": "kō·hă·ne·ḵā",
+                "strong": "3548",
+                "translation": " May Your priests "
+            },
+            {
+                "token": "יִלְבְּשׁוּ־",
+                "transliteration": "yil·bə·šū-",
+                "strong": "3847",
+                "translation": " be clothed "
+            },
+            {
+                "token": "צֶ֑דֶק",
+                "transliteration": "ṣe·ḏeq",
+                "strong": "6664",
+                "translation": " with righteousness , "
+            },
+            {
+                "token": "וַחֲסִידֶ֥יךָ",
+                "transliteration": "wa·ḥă·sî·ḏe·ḵā",
+                "strong": "2623",
+                "translation": " and Your saints "
+            },
+            {
+                "token": "יְרַנֵּֽנוּ׃",
+                "transliteration": "yə·ran·nê·nū",
+                "strong": "7442",
+                "translation": " shout for joy . "
+            }
+        ],
+        "verse_reference": "Psalm 132:9",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּ֭עֲבוּר",
+                "transliteration": "ba·‘ă·ḇūr",
+                "strong": "5668",
+                "translation": " For the sake "
+            },
+            {
+                "token": "עַבְדֶּ֑ךָ",
+                "transliteration": "‘aḇ·de·ḵā",
+                "strong": "5650",
+                "translation": " of Your servant "
+            },
+            {
+                "token": "דָּוִ֣ד",
+                "transliteration": "dā·wiḏ",
+                "strong": "1732",
+                "translation": " David , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " do not "
+            },
+            {
+                "token": "תָּ֝שֵׁ֗ב",
+                "transliteration": "tā·šêḇ",
+                "strong": "7725",
+                "translation": " reject "
+            },
+            {
+                "token": "פְּנֵ֣י",
+                "transliteration": "pə·nê",
+                "strong": "6440",
+                "translation": " . . . "
+            },
+            {
+                "token": "מְשִׁיחֶֽךָ׃",
+                "transliteration": "mə·šî·ḥe·ḵā",
+                "strong": "4899",
+                "translation": " Your anointed one . "
+            }
+        ],
+        "verse_reference": "Psalm 132:10",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֨ה׀",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " The LORD "
+            },
+            {
+                "token": "נִשְׁבַּֽע־",
+                "transliteration": "niš·ba‘-",
+                "strong": "7650",
+                "translation": " swore an oath "
+            },
+            {
+                "token": "לְדָוִ֡ד",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " to David "
+            },
+            {
+                "token": "אֱמֶת֮",
+                "transliteration": "’ĕ·meṯ",
+                "strong": "571",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " a promise He will not "
+            },
+            {
+                "token": "יָשׁ֪וּב",
+                "transliteration": "yā·šūḇ",
+                "strong": "7725",
+                "translation": " revoke "
+            },
+            {
+                "token": "מִ֫מֶּ֥נָּה",
+                "transliteration": "mim·men·nāh",
+                "strong": "4480",
+                "translation": " . . . : "
+            },
+            {
+                "token": "מִפְּרִ֥י",
+                "transliteration": "mip·pə·rî",
+                "strong": "6529",
+                "translation": " “ One of your descendants "
+            },
+            {
+                "token": "בִטְנְךָ֑",
+                "transliteration": "ḇiṭ·nə·ḵā",
+                "strong": "990",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָ֝שִׁ֗ית",
+                "transliteration": "’ā·šîṯ",
+                "strong": "7896",
+                "translation": " I will place "
+            },
+            {
+                "token": "לְכִסֵּא־",
+                "transliteration": "lə·ḵis·sê-",
+                "strong": "3678",
+                "translation": " on your throne "
+            },
+            {
+                "token": "לָֽךְ׃",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " . "
+            }
+        ],
+        "verse_reference": "Psalm 132:11",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִֽם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " If "
+            },
+            {
+                "token": "בָנֶ֨יךָ׀",
+                "transliteration": "ḇā·ne·ḵā",
+                "strong": "1121",
+                "translation": " your sons "
+            },
+            {
+                "token": "יִשְׁמְר֬וּ",
+                "transliteration": "yiš·mə·rū",
+                "strong": "8104",
+                "translation": " keep "
+            },
+            {
+                "token": "בְּרִיתִי֮",
+                "transliteration": "bə·rî·ṯî",
+                "strong": "1285",
+                "translation": " My covenant "
+            },
+            {
+                "token": "וְעֵדֹתִ֥י",
+                "transliteration": "wə·‘ê·ḏō·ṯî",
+                "strong": "5713",
+                "translation": " and the testimony "
+            },
+            {
+                "token": "ז֗וֹ",
+                "transliteration": "zōw",
+                "strong": "2097",
+                "translation": " - "
+            },
+            {
+                "token": "אֲלַ֫מְּדֵ֥ם",
+                "transliteration": "’ă·lam·mə·ḏêm",
+                "strong": "3925",
+                "translation": " I will teach them , "
+            },
+            {
+                "token": "בְּנֵיהֶ֥ם",
+                "transliteration": "bə·nê·hem",
+                "strong": "1121",
+                "translation": " then their sons "
+            },
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " will also "
+            },
+            {
+                "token": "יֵ֝שְׁב֗וּ",
+                "transliteration": "yê·šə·ḇū",
+                "strong": "3427",
+                "translation": " sit "
+            },
+            {
+                "token": "לְכִסֵּא־",
+                "transliteration": "lə·ḵis·sê-",
+                "strong": "3678",
+                "translation": " on your throne "
+            },
+            {
+                "token": "לָֽךְ׃",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "עֲדֵי־",
+                "transliteration": "‘ă·ḏê-",
+                "strong": "5703",
+                "translation": " forever "
+            },
+            {
+                "token": "עַ֑ד",
+                "transliteration": "‘aḏ",
+                "strong": "5703",
+                "translation": " and ever . ” "
+            }
+        ],
+        "verse_reference": "Psalm 132:12",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "בָחַ֣ר",
+                "transliteration": "ḇā·ḥar",
+                "strong": "977",
+                "translation": " has chosen "
+            },
+            {
+                "token": "בְּצִיּ֑וֹן",
+                "transliteration": "bə·ṣî·yō·wn",
+                "strong": "6726",
+                "translation": " Zion ; "
+            },
+            {
+                "token": "אִ֝וָּ֗הּ",
+                "transliteration": "’iw·wāh",
+                "strong": "183",
+                "translation": " He has desired "
+            },
+            {
+                "token": "לְמוֹשָׁ֥ב",
+                "transliteration": "lə·mō·wō·šāḇ",
+                "strong": "4186",
+                "translation": " it for His home "
+            },
+            {
+                "token": "לֽוֹ׃",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " : "
+            }
+        ],
+        "verse_reference": "Psalm 132:13",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "זֹאת־",
+                "transliteration": "zōṯ-",
+                "strong": "2063",
+                "translation": " “ This "
+            },
+            {
+                "token": "מְנוּחָתִ֥י",
+                "transliteration": "mə·nū·ḥā·ṯî",
+                "strong": "4496",
+                "translation": " is My resting place "
+            },
+            {
+                "token": "עֲדֵי־",
+                "transliteration": "‘ă·ḏê-",
+                "strong": "5703",
+                "translation": " forever "
+            },
+            {
+                "token": "עַ֑ד",
+                "transliteration": "‘aḏ",
+                "strong": "5703",
+                "translation": " and ever ; "
+            },
+            {
+                "token": "פֹּֽה־",
+                "transliteration": "pōh-",
+                "strong": "6311",
+                "translation": " here "
+            },
+            {
+                "token": "אֵ֝שֵׁ֗ב",
+                "transliteration": "’ê·šêḇ",
+                "strong": "3427",
+                "translation": " I will dwell , "
+            },
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אִוִּתִֽיהָ׃",
+                "transliteration": "’iw·wi·ṯî·hā",
+                "strong": "183",
+                "translation": " I have desired [this home] . "
+            }
+        ],
+        "verse_reference": "Psalm 132:14",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲבָרֵ֑ךְ",
+                "transliteration": "’ă·ḇā·rêḵ",
+                "strong": "1288",
+                "translation": " I will bless her "
+            },
+            {
+                "token": "בָּרֵ֣ךְ",
+                "transliteration": "bā·rêḵ",
+                "strong": "1288",
+                "translation": " with abundant "
+            },
+            {
+                "token": "צֵ֭ידָהּ",
+                "transliteration": "ṣê·ḏāh",
+                "strong": "6718",
+                "translation": " provisions ; "
+            },
+            {
+                "token": "אַשְׂבִּ֥יעַֽ",
+                "transliteration": "’aś·bî·a‘",
+                "strong": "7646",
+                "translation": " I will satisfy "
+            },
+            {
+                "token": "אֶ֝בְיוֹנֶ֗יהָ",
+                "transliteration": "’eḇ·yō·w·ne·hā",
+                "strong": "34",
+                "translation": " her poor "
+            },
+            {
+                "token": "לָֽחֶם׃",
+                "transliteration": "lā·ḥem",
+                "strong": "3899",
+                "translation": " with bread . "
+            }
+        ],
+        "verse_reference": "Psalm 132:15",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַלְבִּ֣ישׁ",
+                "transliteration": "’al·bîš",
+                "strong": "3847",
+                "translation": " I will clothe "
+            },
+            {
+                "token": "וְֽ֭כֹהֲנֶיהָ",
+                "transliteration": "wə·ḵō·hă·ne·hā",
+                "strong": "3548",
+                "translation": " her priests "
+            },
+            {
+                "token": "יֶ֑שַׁע",
+                "transliteration": "ye·ša‘",
+                "strong": "3468",
+                "translation": " with salvation , "
+            },
+            {
+                "token": "וַ֝חֲסִידֶ֗יהָ",
+                "transliteration": "wa·ḥă·sî·ḏe·hā",
+                "strong": "2623",
+                "translation": " and her saints "
+            },
+            {
+                "token": "רַנֵּ֥ן",
+                "transliteration": "ran·nên",
+                "strong": "7442",
+                "translation": " will sing out in joy "
+            },
+            {
+                "token": "יְרַנֵּֽנוּ׃",
+                "transliteration": "yə·ran·nê·nū",
+                "strong": "7442",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Psalm 132:16",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁ֤ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " There "
+            },
+            {
+                "token": "קֶ֣רֶן",
+                "transliteration": "qe·ren",
+                "strong": "7161",
+                "translation": " I will make a horn "
+            },
+            {
+                "token": "אַצְמִ֣יחַ",
+                "transliteration": "’aṣ·mî·aḥ",
+                "strong": "6779",
+                "translation": " grow "
+            },
+            {
+                "token": "לְדָוִ֑ד",
+                "transliteration": "lə·ḏā·wiḏ",
+                "strong": "1732",
+                "translation": " for David ; "
+            },
+            {
+                "token": "עָרַ֥כְתִּי",
+                "transliteration": "‘ā·raḵ·tî",
+                "strong": "6186",
+                "translation": " I have prepared "
+            },
+            {
+                "token": "נֵ֝֗ר",
+                "transliteration": "nêr",
+                "strong": "5216",
+                "translation": " a lamp "
+            },
+            {
+                "token": "לִמְשִׁיחִֽי׃",
+                "transliteration": "lim·šî·ḥî",
+                "strong": "4899",
+                "translation": " for My anointed one . "
+            }
+        ],
+        "verse_reference": "Psalm 132:17",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַלְבִּ֣ישׁ",
+                "transliteration": "’al·bîš",
+                "strong": "3847",
+                "translation": " I will clothe "
+            },
+            {
+                "token": "א֭וֹיְבָיו",
+                "transliteration": "’ō·wy·ḇāw",
+                "strong": "341",
+                "translation": " his enemies "
+            },
+            {
+                "token": "בֹּ֑שֶׁת",
+                "transliteration": "bō·šeṯ",
+                "strong": "1322",
+                "translation": " with shame , "
+            },
+            {
+                "token": "נִזְרֽוֹ׃",
+                "transliteration": "niz·rōw",
+                "strong": "5145",
+                "translation": " but the crown "
+            },
+            {
+                "token": "וְ֝עָלָ֗יו",
+                "transliteration": "wə·‘ā·lāw",
+                "strong": "5921",
+                "translation": " upon him "
+            },
+            {
+                "token": "יָצִ֥יץ",
+                "transliteration": "yā·ṣîṣ",
+                "strong": "6692",
+                "translation": " will gleam . ” "
+            }
+        ],
+        "verse_reference": "Psalm 132:18",
+        "book": "Psalm",
+        "chapter": "132",
+        "verse": "18"
+    }
+]

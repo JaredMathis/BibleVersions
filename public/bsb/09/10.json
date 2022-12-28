@@ -1,0 +1,2870 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "שְׁמוּאֵ֜ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Then Samuel "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיִּקַּ֨ח",
+                "transliteration": "way·yiq·qaḥ",
+                "strong": "3947",
+                "translation": " took "
+            },
+            {
+                "token": "פַּ֥ךְ",
+                "transliteration": "paḵ",
+                "strong": "6378",
+                "translation": " a flask "
+            },
+            {
+                "token": "הַשֶּׁ֛מֶן",
+                "transliteration": "haš·še·men",
+                "strong": "8081",
+                "translation": " of oil , "
+            },
+            {
+                "token": "וַיִּצֹ֥ק",
+                "transliteration": "way·yi·ṣōq",
+                "strong": "3332",
+                "translation": " poured it "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " on "
+            },
+            {
+                "token": "רֹאשׁ֖וֹ",
+                "transliteration": "rō·šōw",
+                "strong": "7218",
+                "translation": " Saul’s head , "
+            },
+            {
+                "token": "וַיִּשָּׁקֵ֑הוּ",
+                "transliteration": "way·yiš·šā·qê·hū",
+                "strong": "5401",
+                "translation": " kissed him , "
+            },
+            {
+                "token": "וַיֹּ֕אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and said , "
+            },
+            {
+                "token": "הֲל֗וֹא",
+                "transliteration": "hă·lō·w",
+                "strong": "3808",
+                "translation": " “ Has not "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "יְהוָ֛ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "מְשָׁחֲךָ֧",
+                "transliteration": "mə·šā·ḥă·ḵā",
+                "strong": "4886",
+                "translation": " anointed you "
+            },
+            {
+                "token": "לְנָגִֽיד׃",
+                "transliteration": "lə·nā·ḡîḏ",
+                "strong": "5057",
+                "translation": " ruler "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " over "
+            },
+            {
+                "token": "נַחֲלָת֖וֹ",
+                "transliteration": "na·ḥă·lā·ṯōw",
+                "strong": "5159",
+                "translation": " His inheritance ? "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:1",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּלֶכְתְּךָ֤",
+                "transliteration": "bə·leḵ·tə·ḵā",
+                "strong": "1980",
+                "translation": " When you leave "
+            },
+            {
+                "token": "מֵעִמָּדִ֔י",
+                "transliteration": "mê·‘im·mā·ḏî",
+                "strong": "5978",
+                "translation": " me "
+            },
+            {
+                "token": "הַיּוֹם֙",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " today , "
+            },
+            {
+                "token": "וּמָצָאתָ֩",
+                "transliteration": "ū·mā·ṣā·ṯā",
+                "strong": "4672",
+                "translation": " you will find "
+            },
+            {
+                "token": "שְׁנֵ֨י",
+                "transliteration": "šə·nê",
+                "strong": "8147",
+                "translation": " two "
+            },
+            {
+                "token": "אֲנָשִׁ֜ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " men "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " at "
+            },
+            {
+                "token": "רָחֵ֛ל",
+                "transliteration": "rā·ḥêl",
+                "strong": "7354",
+                "translation": " Rachel’s "
+            },
+            {
+                "token": "קְבֻרַ֥ת",
+                "transliteration": "qə·ḇu·raṯ",
+                "strong": "6900",
+                "translation": " tomb "
+            },
+            {
+                "token": "בְּצֶלְצַ֑ח",
+                "transliteration": "bə·ṣel·ṣaḥ",
+                "strong": "6766",
+                "translation": " in Zelzah "
+            },
+            {
+                "token": "בִּגְב֥וּל",
+                "transliteration": "biḡ·ḇūl",
+                "strong": "1366",
+                "translation": " on the border "
+            },
+            {
+                "token": "בִּנְיָמִ֖ן",
+                "transliteration": "bin·yā·min",
+                "strong": "1144",
+                "translation": " of Benjamin . "
+            },
+            {
+                "token": "וְאָמְר֣וּ",
+                "transliteration": "wə·’ā·mə·rū",
+                "strong": "559",
+                "translation": " They will say "
+            },
+            {
+                "token": "אֵלֶ֗יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " to you , "
+            },
+            {
+                "token": "הָאֲתֹנוֹת֙",
+                "transliteration": "hā·’ă·ṯō·nō·wṯ",
+                "strong": "860",
+                "translation": " ‘ The donkeys "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "הָלַ֣כְתָּ",
+                "transliteration": "hā·laḵ·tā",
+                "strong": "1980",
+                "translation": " you seek "
+            },
+            {
+                "token": "לְבַקֵּ֔שׁ",
+                "transliteration": "lə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִמְצְא֤וּ",
+                "transliteration": "nim·ṣə·’ū",
+                "strong": "4672",
+                "translation": " have been found , "
+            },
+            {
+                "token": "וְהִנֵּ֨ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and now "
+            },
+            {
+                "token": "אָבִ֙יךָ֙",
+                "transliteration": "’ā·ḇî·ḵā",
+                "strong": "1",
+                "translation": " your father "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נָטַ֤שׁ",
+                "transliteration": "nā·ṭaš",
+                "strong": "5203",
+                "translation": " has stopped "
+            },
+            {
+                "token": "דִּבְרֵ֣י",
+                "transliteration": "diḇ·rê",
+                "strong": "1697",
+                "translation": " worrying about "
+            },
+            {
+                "token": "הָאֲתֹנ֔וֹת",
+                "transliteration": "hā·’ă·ṯō·nō·wṯ",
+                "strong": "860",
+                "translation": " the donkeys "
+            },
+            {
+                "token": "וְדָאַ֤ג",
+                "transliteration": "wə·ḏā·’aḡ",
+                "strong": "1672",
+                "translation": " and started worrying "
+            },
+            {
+                "token": "לָכֶם֙",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " about you , "
+            },
+            {
+                "token": "לֵאמֹ֔ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " asking , "
+            },
+            {
+                "token": "מָ֥ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " “ What "
+            },
+            {
+                "token": "אֶעֱשֶׂ֖ה",
+                "transliteration": "’e·‘ĕ·śeh",
+                "strong": "6213",
+                "translation": " should I do "
+            },
+            {
+                "token": "לִבְנִֽי׃",
+                "transliteration": "liḇ·nî",
+                "strong": "1121",
+                "translation": " about my son ?”’ "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:2",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְחָלַפְתָּ֨",
+                "transliteration": "wə·ḥā·lap̄·tā",
+                "strong": "2498",
+                "translation": " Then you will go "
+            },
+            {
+                "token": "וָהָ֗לְאָה",
+                "transliteration": "wā·hā·lə·’āh",
+                "strong": "1973",
+                "translation": " on "
+            },
+            {
+                "token": "מִשָּׁ֜ם",
+                "transliteration": "miš·šām",
+                "strong": "8033",
+                "translation": " from there "
+            },
+            {
+                "token": "וּבָ֙אתָ֙",
+                "transliteration": "ū·ḇā·ṯā",
+                "strong": "935",
+                "translation": " until you come "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "אֵל֣וֹן",
+                "transliteration": "’ê·lō·wn",
+                "strong": "436",
+                "translation": " the Oak "
+            },
+            {
+                "token": "תָּב֔וֹר",
+                "transliteration": "tā·ḇō·wr",
+                "strong": "8396",
+                "translation": " of Tabor . "
+            },
+            {
+                "token": "שְׁלֹשָׁ֣ה",
+                "transliteration": "šə·lō·šāh",
+                "strong": "7969",
+                "translation": " Three "
+            },
+            {
+                "token": "אֲנָשִׁ֔ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " men "
+            },
+            {
+                "token": "עֹלִ֥ים",
+                "transliteration": "‘ō·lîm",
+                "strong": "5927",
+                "translation": " going up "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הָאֱלֹהִ֖ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "1008",
+                "translation": " vvv "
+            },
+            {
+                "token": "אֵ֑ל",
+                "transliteration": "’êl",
+                "strong": "1008",
+                "translation": " at Bethel "
+            },
+            {
+                "token": "וּמְצָא֤וּךָ",
+                "transliteration": "ū·mə·ṣā·’ū·ḵā",
+                "strong": "4672",
+                "translation": " will meet you "
+            },
+            {
+                "token": "שָּׁם֙",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there , "
+            },
+            {
+                "token": "אֶחָ֞ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "נֹשֵׂ֣א׀",
+                "transliteration": "nō·śê",
+                "strong": "5375",
+                "translation": " carrying "
+            },
+            {
+                "token": "שְׁלֹשָׁ֣ה",
+                "transliteration": "šə·lō·šāh",
+                "strong": "7969",
+                "translation": " three "
+            },
+            {
+                "token": "גְדָיִ֗ים",
+                "transliteration": "ḡə·ḏā·yîm",
+                "strong": "1423",
+                "translation": " young goats , "
+            },
+            {
+                "token": "וְאֶחָד֙",
+                "transliteration": "wə·’e·ḥāḏ",
+                "strong": "259",
+                "translation": " another "
+            },
+            {
+                "token": "נֹשֵׂ֗א",
+                "transliteration": "nō·śê",
+                "strong": "5375",
+                "translation": " carrying "
+            },
+            {
+                "token": "שְׁלֹ֙שֶׁת֙",
+                "transliteration": "šə·lō·šeṯ",
+                "strong": "7969",
+                "translation": " three "
+            },
+            {
+                "token": "כִּכְּר֣וֹת",
+                "transliteration": "kik·kə·rō·wṯ",
+                "strong": "3603",
+                "translation": " loaves "
+            },
+            {
+                "token": "לֶ֔חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "3899",
+                "translation": " of bread , "
+            },
+            {
+                "token": "וְאֶחָ֥ד",
+                "transliteration": "wə·’e·ḥāḏ",
+                "strong": "259",
+                "translation": " and another "
+            },
+            {
+                "token": "נֹשֵׂ֖א",
+                "transliteration": "nō·śê",
+                "strong": "5375",
+                "translation": " carrying "
+            },
+            {
+                "token": "נֵֽבֶל־",
+                "transliteration": "nê·ḇel-",
+                "strong": "5035",
+                "translation": " a skin "
+            },
+            {
+                "token": "יָֽיִן׃",
+                "transliteration": "yā·yin",
+                "strong": "3196",
+                "translation": " of wine . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:3",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְשָׁאֲל֥וּ",
+                "transliteration": "wə·šā·’ă·lū",
+                "strong": "7592",
+                "translation": " They will greet you "
+            },
+            {
+                "token": "לְךָ֖",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְשָׁל֑וֹם",
+                "transliteration": "lə·šā·lō·wm",
+                "strong": "7965",
+                "translation": " . . . "
+            },
+            {
+                "token": "וְנָתְנ֤וּ",
+                "transliteration": "wə·nā·ṯə·nū",
+                "strong": "5414",
+                "translation": " and give "
+            },
+            {
+                "token": "לְךָ֙",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "שְׁתֵּי־",
+                "transliteration": "šə·tê-",
+                "strong": "8147",
+                "translation": " two "
+            },
+            {
+                "token": "לֶ֔חֶם",
+                "transliteration": "le·ḥem",
+                "strong": "3899",
+                "translation": " [loaves] of bread , "
+            },
+            {
+                "token": "וְלָקַחְתָּ֖",
+                "transliteration": "wə·lā·qaḥ·tā",
+                "strong": "3947",
+                "translation": " which you will accept "
+            },
+            {
+                "token": "מִיָּדָֽם׃",
+                "transliteration": "mî·yā·ḏām",
+                "strong": "3027",
+                "translation": " from their hands . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:4",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אַ֣חַר",
+                "transliteration": "’a·ḥar",
+                "strong": "310",
+                "translation": " After "
+            },
+            {
+                "token": "כֵּ֗ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " that "
+            },
+            {
+                "token": "תָּבוֹא֙",
+                "transliteration": "tā·ḇō·w",
+                "strong": "935",
+                "translation": " you will come "
+            },
+            {
+                "token": "גִּבְעַ֣ת",
+                "transliteration": "giḇ·‘aṯ",
+                "strong": "1389",
+                "translation": " to Gibeah "
+            },
+            {
+                "token": "הָאֱלֹהִ֔ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God , "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "פְלִשְׁתִּ֑ים",
+                "transliteration": "p̄ə·liš·tîm",
+                "strong": "6430",
+                "translation": " the Philistines "
+            },
+            {
+                "token": "נְצִבֵ֣י",
+                "transliteration": "nə·ṣi·ḇê",
+                "strong": "5333",
+                "translation": " [have] an outpost . "
+            },
+            {
+                "token": "וִיהִי֩",
+                "transliteration": "wî·hî",
+                "strong": "1961",
+                "translation": " . . . "
+            },
+            {
+                "token": "כְבֹאֲךָ֨",
+                "transliteration": "ḵə·ḇō·’ă·ḵā",
+                "strong": "935",
+                "translation": " As you approach "
+            },
+            {
+                "token": "שָׁ֜ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָעִ֗יר",
+                "transliteration": "hā·‘îr",
+                "strong": "5892",
+                "translation": " the city , "
+            },
+            {
+                "token": "וּפָגַעְתָּ֞",
+                "transliteration": "ū·p̄ā·ḡa‘·tā",
+                "strong": "6293",
+                "translation": " you will meet "
+            },
+            {
+                "token": "חֶ֤בֶל",
+                "transliteration": "ḥe·ḇel",
+                "strong": "2256",
+                "translation": " a group "
+            },
+            {
+                "token": "נְבִיאִים֙",
+                "transliteration": "nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " of prophets "
+            },
+            {
+                "token": "יֹרְדִ֣ים",
+                "transliteration": "yō·rə·ḏîm",
+                "strong": "3381",
+                "translation": " coming down "
+            },
+            {
+                "token": "מֵֽהַבָּמָ֔ה",
+                "transliteration": "mê·hab·bā·māh",
+                "strong": "1116",
+                "translation": " from the high place , "
+            },
+            {
+                "token": "וְלִפְנֵיהֶ֞ם",
+                "transliteration": "wə·lip̄·nê·hem",
+                "strong": "6440",
+                "translation": " preceded "
+            },
+            {
+                "token": "נֵ֤בֶל",
+                "transliteration": "nê·ḇel",
+                "strong": "5035",
+                "translation": " by harps , "
+            },
+            {
+                "token": "וְתֹף֙",
+                "transliteration": "wə·ṯōp̄",
+                "strong": "8596",
+                "translation": " tambourines , "
+            },
+            {
+                "token": "וְחָלִ֣יל",
+                "transliteration": "wə·ḥā·lîl",
+                "strong": "2485",
+                "translation": " flutes , "
+            },
+            {
+                "token": "וְכִנּ֔וֹר",
+                "transliteration": "wə·ḵin·nō·wr",
+                "strong": "3658",
+                "translation": " and lyres , "
+            },
+            {
+                "token": "וְהֵ֖מָּה",
+                "transliteration": "wə·hêm·māh",
+                "strong": "1992",
+                "translation": " and they "
+            },
+            {
+                "token": "מִֽתְנַבְּאִֽים׃",
+                "transliteration": "miṯ·nab·bə·’îm",
+                "strong": "5012",
+                "translation": " will be prophesying . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:5",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "ר֣וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " Then the Spirit "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וְצָלְחָ֤ה",
+                "transliteration": "wə·ṣā·lə·ḥāh",
+                "strong": "6743",
+                "translation": " will rush "
+            },
+            {
+                "token": "עָלֶ֙יךָ֙",
+                "transliteration": "‘ā·le·ḵā",
+                "strong": "5921",
+                "translation": " upon you , "
+            },
+            {
+                "token": "וְהִתְנַבִּ֖יתָ",
+                "transliteration": "wə·hiṯ·nab·bî·ṯā",
+                "strong": "5012",
+                "translation": " and you will prophesy "
+            },
+            {
+                "token": "עִמָּ֑ם",
+                "transliteration": "‘im·mām",
+                "strong": "5973",
+                "translation": " with them ; "
+            },
+            {
+                "token": "וְנֶהְפַּכְתָּ֖",
+                "transliteration": "wə·neh·paḵ·tā",
+                "strong": "2015",
+                "translation": " and you will be transformed "
+            },
+            {
+                "token": "אַחֵֽר׃",
+                "transliteration": "’a·ḥêr",
+                "strong": "312",
+                "translation": " into a different "
+            },
+            {
+                "token": "לְאִ֥ישׁ",
+                "transliteration": "lə·’îš",
+                "strong": "376",
+                "translation": " person . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:6",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֗ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " When "
+            },
+            {
+                "token": "הָאֵ֖לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " these "
+            },
+            {
+                "token": "לָ֑ךְ",
+                "transliteration": "lāḵ",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "הָאֹת֥וֹת",
+                "transliteration": "hā·’ō·ṯō·wṯ",
+                "strong": "226",
+                "translation": " signs "
+            },
+            {
+                "token": "תְבֹאֶינָה",
+                "transliteration": "ṯə·ḇō·ʾɛ·nå̄h",
+                "strong": "935",
+                "translation": " have come , "
+            },
+            {
+                "token": "עֲשֵׂ֤ה",
+                "transliteration": "‘ă·śêh",
+                "strong": "6213",
+                "translation": " do "
+            },
+            {
+                "token": "לְךָ֙",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " as the occasion "
+            },
+            {
+                "token": "תִּמְצָ֣א",
+                "transliteration": "tim·ṣā",
+                "strong": "4672",
+                "translation": " demands , "
+            },
+            {
+                "token": "יָדֶ֔ךָ",
+                "transliteration": "yā·ḏe·ḵā",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "הָאֱלֹהִ֖ים",
+                "transliteration": "hā·’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God [is] "
+            },
+            {
+                "token": "עִמָּֽךְ׃",
+                "transliteration": "‘im·māḵ",
+                "strong": "5973",
+                "translation": " with you . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:7",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְיָרַדְתָּ֣",
+                "transliteration": "wə·yā·raḏ·tā",
+                "strong": "3381",
+                "translation": " And you shall go "
+            },
+            {
+                "token": "לְפָנַי֮",
+                "transliteration": "lə·p̄ā·nay",
+                "strong": "6440",
+                "translation": " before me "
+            },
+            {
+                "token": "הַגִּלְגָּל֒",
+                "transliteration": "hag·gil·gāl",
+                "strong": "1537",
+                "translation": " to Gilgal , "
+            },
+            {
+                "token": "וְהִנֵּ֤ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " and surely "
+            },
+            {
+                "token": "אָֽנֹכִי֙",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " I "
+            },
+            {
+                "token": "יֹרֵ֣ד",
+                "transliteration": "yō·rêḏ",
+                "strong": "3381",
+                "translation": " will come "
+            },
+            {
+                "token": "אֵלֶ֔יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " to you "
+            },
+            {
+                "token": "לְהַעֲל֣וֹת",
+                "transliteration": "lə·ha·‘ă·lō·wṯ",
+                "strong": "5927",
+                "translation": " to offer "
+            },
+            {
+                "token": "עֹל֔וֹת",
+                "transliteration": "‘ō·lō·wṯ",
+                "strong": "5930",
+                "translation": " burnt offerings "
+            },
+            {
+                "token": "לִזְבֹּ֖חַ",
+                "transliteration": "liz·bō·aḥ",
+                "strong": "2076",
+                "translation": " and to sacrifice "
+            },
+            {
+                "token": "שְׁלָמִ֑ים",
+                "transliteration": "šə·lā·mîm",
+                "strong": "8002",
+                "translation": " peace offerings "
+            },
+            {
+                "token": "זִבְחֵ֣י",
+                "transliteration": "ziḇ·ḥê",
+                "strong": "2077",
+                "translation": " . . . . "
+            },
+            {
+                "token": "תּוֹחֵל֙",
+                "transliteration": "tō·w·ḥêl",
+                "strong": "3176",
+                "translation": " Wait "
+            },
+            {
+                "token": "שִׁבְעַ֨ת",
+                "transliteration": "šiḇ·‘aṯ",
+                "strong": "7651",
+                "translation": " seven "
+            },
+            {
+                "token": "יָמִ֤ים",
+                "transliteration": "yā·mîm",
+                "strong": "3117",
+                "translation": " days "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " until "
+            },
+            {
+                "token": "בּוֹאִ֣י",
+                "transliteration": "bō·w·’î",
+                "strong": "935",
+                "translation": " I come "
+            },
+            {
+                "token": "אֵלֶ֔יךָ",
+                "transliteration": "’ê·le·ḵā",
+                "strong": "413",
+                "translation": " to you "
+            },
+            {
+                "token": "וְהוֹדַעְתִּ֣י",
+                "transliteration": "wə·hō·w·ḏa‘·tî",
+                "strong": "3045",
+                "translation": " and show "
+            },
+            {
+                "token": "לְךָ֔",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "תַּעֲשֶֽׂה׃",
+                "transliteration": "ta·‘ă·śeh",
+                "strong": "6213",
+                "translation": " you are to do .” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:8",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֗ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כְּהַפְנֹת֤וֹ",
+                "transliteration": "kə·hap̄·nō·ṯōw",
+                "strong": "6437",
+                "translation": " As Saul turned "
+            },
+            {
+                "token": "שִׁכְמוֹ֙",
+                "transliteration": "šiḵ·mōw",
+                "strong": "7926",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָלֶ֙כֶת֙",
+                "transliteration": "lā·le·ḵeṯ",
+                "strong": "1980",
+                "translation": " to leave "
+            },
+            {
+                "token": "מֵעִ֣ם",
+                "transliteration": "mê·‘im",
+                "strong": "5973",
+                "translation": " . . . "
+            },
+            {
+                "token": "שְׁמוּאֵ֔ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Samuel , "
+            },
+            {
+                "token": "אֱלֹהִ֖ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "וַיַּהֲפָךְ־",
+                "transliteration": "way·ya·hă·p̄āḵ-",
+                "strong": "2015",
+                "translation": " changed "
+            },
+            {
+                "token": "ל֥וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " [Saul’s] "
+            },
+            {
+                "token": "לֵ֣ב",
+                "transliteration": "lêḇ",
+                "strong": "3820",
+                "translation": " heart , "
+            },
+            {
+                "token": "אַחֵ֑ר",
+                "transliteration": "’a·ḥêr",
+                "strong": "312",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "הָאֹת֥וֹת",
+                "transliteration": "hā·’ō·ṯō·wṯ",
+                "strong": "226",
+                "translation": " the signs "
+            },
+            {
+                "token": "הָאֵ֖לֶּה",
+                "transliteration": "hā·’êl·leh",
+                "strong": "428",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיָּבֹ֛אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " came to pass "
+            },
+            {
+                "token": "הַהֽוּא׃ס",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " that "
+            },
+            {
+                "token": "בַּיּ֥וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:9",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּבֹ֤אוּ",
+                "transliteration": "way·yā·ḇō·’ū",
+                "strong": "935",
+                "translation": " When Saul and his servant arrived "
+            },
+            {
+                "token": "שָׁם֙",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "הַגִּבְעָ֔תָה",
+                "transliteration": "hag·giḇ·‘ā·ṯāh",
+                "strong": "1389",
+                "translation": " at Gibeah , "
+            },
+            {
+                "token": "וְהִנֵּ֥ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " . . . "
+            },
+            {
+                "token": "חֶֽבֶל־",
+                "transliteration": "ḥe·ḇel-",
+                "strong": "2256",
+                "translation": " a group "
+            },
+            {
+                "token": "נְבִאִ֖ים",
+                "transliteration": "nə·ḇi·’îm",
+                "strong": "5030",
+                "translation": " of prophets "
+            },
+            {
+                "token": "לִקְרָאת֑וֹ",
+                "transliteration": "liq·rā·ṯōw",
+                "strong": "7122",
+                "translation": " met him . "
+            },
+            {
+                "token": "ר֣וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " Then the Spirit "
+            },
+            {
+                "token": "אֱלֹהִ֔ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " of God "
+            },
+            {
+                "token": "וַתִּצְלַ֤ח",
+                "transliteration": "wat·tiṣ·laḥ",
+                "strong": "6743",
+                "translation": " rushed "
+            },
+            {
+                "token": "עָלָיו֙",
+                "transliteration": "‘ā·lāw",
+                "strong": "5921",
+                "translation": " upon him , "
+            },
+            {
+                "token": "וַיִּתְנַבֵּ֖א",
+                "transliteration": "way·yiṯ·nab·bê",
+                "strong": "5012",
+                "translation": " and he prophesied "
+            },
+            {
+                "token": "בְּתוֹכָֽם׃",
+                "transliteration": "bə·ṯō·w·ḵām",
+                "strong": "8432",
+                "translation": " along with them . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:10",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֗י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " All those "
+            },
+            {
+                "token": "מֵאִתְּמ֣וֹל",
+                "transliteration": "mê·’it·tə·mō·wl",
+                "strong": "865",
+                "translation": " who had formerly "
+            },
+            {
+                "token": "יֽוֹדְעוֹ֙",
+                "transliteration": "yō·wḏ·‘ōw",
+                "strong": "3045",
+                "translation": " known [Saul] "
+            },
+            {
+                "token": "שִׁלְשׁ֔וֹם",
+                "transliteration": "šil·šō·wm",
+                "strong": "8032",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּרְא֕וּ",
+                "transliteration": "way·yir·’ū",
+                "strong": "7200",
+                "translation": " and saw him "
+            },
+            {
+                "token": "וְהִנֵּ֥ה",
+                "transliteration": "wə·hin·nêh",
+                "strong": "2009",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִבָּ֑א",
+                "transliteration": "nib·bā",
+                "strong": "5012",
+                "translation": " prophesying "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " with "
+            },
+            {
+                "token": "נְבִאִ֖ים",
+                "transliteration": "nə·ḇi·’îm",
+                "strong": "5030",
+                "translation": " the prophets "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " asked "
+            },
+            {
+                "token": "הָעָ֜ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " . . . "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " one "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " vvv "
+            },
+            {
+                "token": "רֵעֵ֗הוּ",
+                "transliteration": "rê·‘ê·hū",
+                "strong": "7453",
+                "translation": " another , "
+            },
+            {
+                "token": "מַה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " “ What "
+            },
+            {
+                "token": "זֶּה֙",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָיָ֣ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " has happened "
+            },
+            {
+                "token": "לְבֶן־",
+                "transliteration": "lə·ḇen-",
+                "strong": "1121",
+                "translation": " to the son "
+            },
+            {
+                "token": "קִ֔ישׁ",
+                "transliteration": "qîš",
+                "strong": "7027",
+                "translation": " of Kish ? "
+            },
+            {
+                "token": "שָׁא֖וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " Is Saul "
+            },
+            {
+                "token": "הֲגַ֥ם",
+                "transliteration": "hă·ḡam",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "בַּנְּבִיאִֽים׃",
+                "transliteration": "ban·nə·ḇî·’îm",
+                "strong": "5030",
+                "translation": " among the prophets ? ” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:11",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " Then a man "
+            },
+            {
+                "token": "מִשָּׁ֛ם",
+                "transliteration": "miš·šām",
+                "strong": "8033",
+                "translation": " who lived there "
+            },
+            {
+                "token": "וַיֹּ֖אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיַּ֨עַן",
+                "transliteration": "way·ya·‘an",
+                "strong": "6030",
+                "translation": " replied , "
+            },
+            {
+                "token": "וּמִ֣י",
+                "transliteration": "ū·mî",
+                "strong": "4310",
+                "translation": " “ And who "
+            },
+            {
+                "token": "אֲבִיהֶ֑ם",
+                "transliteration": "’ă·ḇî·hem",
+                "strong": "1",
+                "translation": " is their father ?” "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " So "
+            },
+            {
+                "token": "כֵּן֙",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " the saying "
+            },
+            {
+                "token": "הָיְתָ֣ה",
+                "transliteration": "hā·yə·ṯāh",
+                "strong": "1961",
+                "translation": " became "
+            },
+            {
+                "token": "לְמָשָׁ֔ל",
+                "transliteration": "lə·mā·šāl",
+                "strong": "4912",
+                "translation": " a proverb : "
+            },
+            {
+                "token": "שָׁא֖וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " “ Is Saul "
+            },
+            {
+                "token": "הֲגַ֥ם",
+                "transliteration": "hă·ḡam",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "בַּנְּבִאִֽים׃",
+                "transliteration": "ban·nə·ḇi·’îm",
+                "strong": "5030",
+                "translation": " among the prophets ? ” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:12",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיְכַל֙",
+                "transliteration": "way·ḵal",
+                "strong": "3615",
+                "translation": " And when Saul had finished "
+            },
+            {
+                "token": "מֵֽהִתְנַבּ֔וֹת",
+                "transliteration": "mê·hiṯ·nab·bō·wṯ",
+                "strong": "5012",
+                "translation": " prophesying , "
+            },
+            {
+                "token": "וַיָּבֹ֖א",
+                "transliteration": "way·yā·ḇō",
+                "strong": "935",
+                "translation": " he went up "
+            },
+            {
+                "token": "הַבָּמָֽה׃",
+                "transliteration": "hab·bā·māh",
+                "strong": "1116",
+                "translation": " to the high place . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:13",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁא֥וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " Now Saul’s "
+            },
+            {
+                "token": "דּ֨וֹד",
+                "transliteration": "dō·wḏ",
+                "strong": "1730",
+                "translation": " uncle "
+            },
+            {
+                "token": "וַיֹּאמֶר֩",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " asked "
+            },
+            {
+                "token": "אֵלָ֛יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " him "
+            },
+            {
+                "token": "וְאֶֽל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " and "
+            },
+            {
+                "token": "נַעֲר֖וֹ",
+                "transliteration": "na·‘ă·rōw",
+                "strong": "5288",
+                "translation": " his servant , "
+            },
+            {
+                "token": "אָ֣ן",
+                "transliteration": "’ān",
+                "strong": "575",
+                "translation": " “ Where "
+            },
+            {
+                "token": "הֲלַכְתֶּ֑ם",
+                "transliteration": "hă·laḵ·tem",
+                "strong": "1980",
+                "translation": " did you go ?” "
+            },
+            {
+                "token": "לְבַקֵּשׁ֙",
+                "transliteration": "lə·ḇaq·qêš",
+                "strong": "1245",
+                "translation": " “ To look for "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הָ֣אֲתֹנ֔וֹת",
+                "transliteration": "hā·’ă·ṯō·nō·wṯ",
+                "strong": "860",
+                "translation": " the donkeys , ” "
+            },
+            {
+                "token": "וַיֹּ֕אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " Saul replied . "
+            },
+            {
+                "token": "וַנִּרְאֶ֣ה",
+                "transliteration": "wan·nir·’eh",
+                "strong": "7200",
+                "translation": " “ When we saw "
+            },
+            {
+                "token": "כִי־",
+                "transliteration": "ḵî-",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַ֔יִן",
+                "transliteration": "’a·yin",
+                "strong": "369",
+                "translation": " they were not to be found , "
+            },
+            {
+                "token": "וַנָּב֖וֹא",
+                "transliteration": "wan·nā·ḇō·w",
+                "strong": "935",
+                "translation": " we went "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "שְׁמוּאֵֽל׃",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Samuel .” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:14",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַגִּֽידָה־",
+                "transliteration": "hag·gî·ḏāh-",
+                "strong": "5046",
+                "translation": " “ Tell "
+            },
+            {
+                "token": "נָּ֣א",
+                "transliteration": "nā",
+                "strong": "4994",
+                "translation": " - "
+            },
+            {
+                "token": "לִ֔י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " me , ” "
+            },
+            {
+                "token": "שָׁא֑וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " Saul’s "
+            },
+            {
+                "token": "דּ֣וֹד",
+                "transliteration": "dō·wḏ",
+                "strong": "1730",
+                "translation": " uncle "
+            },
+            {
+                "token": "וַיֹּ֖אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " asked , "
+            },
+            {
+                "token": "מָֽה־",
+                "transliteration": "māh-",
+                "strong": "4100",
+                "translation": " “ what "
+            },
+            {
+                "token": "שְׁמוּאֵֽל׃",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " did Samuel "
+            },
+            {
+                "token": "אָמַ֥ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " say to you ?” "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:15",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁאוּל֙",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " And Saul "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " replied "
+            },
+            {
+                "token": "דּוֹד֔וֹ",
+                "transliteration": "dō·w·ḏōw",
+                "strong": "1730",
+                "translation": " - , "
+            },
+            {
+                "token": "הַגֵּ֤ד",
+                "transliteration": "hag·gêḏ",
+                "strong": "5046",
+                "translation": " “ He assured "
+            },
+            {
+                "token": "הִגִּיד֙",
+                "transliteration": "hig·gîḏ",
+                "strong": "5046",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָ֔נוּ",
+                "transliteration": "lā·nū",
+                "strong": "",
+                "translation": " us "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "הָאֲתֹנ֑וֹת",
+                "transliteration": "hā·’ă·ṯō·nō·wṯ",
+                "strong": "860",
+                "translation": " the donkeys "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִמְצְא֖וּ",
+                "transliteration": "nim·ṣə·’ū",
+                "strong": "4672",
+                "translation": " had been found . ” "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " But Saul did not "
+            },
+            {
+                "token": "הִגִּ֣יד",
+                "transliteration": "hig·gîḏ",
+                "strong": "5046",
+                "translation": " tell "
+            },
+            {
+                "token": "ל֔וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " [his uncle] "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " what "
+            },
+            {
+                "token": "שְׁמוּאֵֽל׃פ",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Samuel "
+            },
+            {
+                "token": "אָמַ֥ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " had said "
+            },
+            {
+                "token": "דְּבַ֤ר",
+                "transliteration": "də·ḇar",
+                "strong": "1697",
+                "translation": " about "
+            },
+            {
+                "token": "הַמְּלוּכָה֙",
+                "transliteration": "ham·mə·lū·ḵāh",
+                "strong": "4410",
+                "translation": " the kingship . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:16",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁמוּאֵל֙",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " After this, Samuel "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיַּצְעֵ֤ק",
+                "transliteration": "way·yaṣ·‘êq",
+                "strong": "6817",
+                "translation": " summoned "
+            },
+            {
+                "token": "הָעָ֔ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "הַמִּצְפָּֽה׃",
+                "transliteration": "ham·miṣ·pāh",
+                "strong": "4709",
+                "translation": " at Mizpah "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:17",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּ֣אמֶר׀",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בְּנֵ֣י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " the Israelites "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל פ",
+                "transliteration": "yiś·rå̄·ʾēl p̄",
+                "strong": "3478",
+                "translation": " . . . , "
+            },
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " “ This is what "
+            },
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "אֱלֹהֵ֣י",
+                "transliteration": "’ĕ·lō·hê",
+                "strong": "430",
+                "translation": " the God "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "אָמַ֤ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "אָנֹכִ֛י",
+                "transliteration": "’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " ‘ I "
+            },
+            {
+                "token": "הֶעֱלֵ֥יתִי",
+                "transliteration": "he·‘ĕ·lê·ṯî",
+                "strong": "5927",
+                "translation": " brought "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel "
+            },
+            {
+                "token": "מִמִּצְרָ֑יִם",
+                "transliteration": "mim·miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " up out of Egypt , "
+            },
+            {
+                "token": "וָאַצִּ֤יל",
+                "transliteration": "wā·’aṣ·ṣîl",
+                "strong": "5337",
+                "translation": " and I rescued "
+            },
+            {
+                "token": "אֶתְכֶם֙",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "מִיַּ֣ד",
+                "transliteration": "mî·yaḏ",
+                "strong": "3027",
+                "translation": " from the hands "
+            },
+            {
+                "token": "מִצְרַ֔יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of the Egyptians "
+            },
+            {
+                "token": "וּמִיַּד֙",
+                "transliteration": "ū·mî·yaḏ",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and of all "
+            },
+            {
+                "token": "הַמַּמְלָכ֔וֹת",
+                "transliteration": "ham·mam·lā·ḵō·wṯ",
+                "strong": "4467",
+                "translation": " the kingdoms "
+            },
+            {
+                "token": "הַלֹּחֲצִ֖ים",
+                "transliteration": "hal·lō·ḥă·ṣîm",
+                "strong": "3905",
+                "translation": " that oppressed you .’ "
+            },
+            {
+                "token": "אֶתְכֶֽם׃",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:18",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַיּ֜וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " But today "
+            },
+            {
+                "token": "וְאַתֶּ֨ם",
+                "transliteration": "wə·’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "מְאַסְתֶּ֣ם",
+                "transliteration": "mə·’as·tem",
+                "strong": "3988",
+                "translation": " have rejected "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "אֱלֹהֵיכֶ֗ם",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God , "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "ה֣וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "מוֹשִׁ֣יעַ",
+                "transliteration": "mō·wō·šî·a‘",
+                "strong": "3467",
+                "translation": " saves "
+            },
+            {
+                "token": "לָכֶם֮",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " you "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " from all "
+            },
+            {
+                "token": "רָעוֹתֵיכֶ֣ם",
+                "transliteration": "rā·‘ō·w·ṯê·ḵem",
+                "strong": "7451",
+                "translation": " your troubles "
+            },
+            {
+                "token": "וְצָרֹֽתֵיכֶם֒",
+                "transliteration": "wə·ṣā·rō·ṯê·ḵem",
+                "strong": "6869",
+                "translation": " and afflictions , "
+            },
+            {
+                "token": "וַתֹּ֣אמְרוּ",
+                "transliteration": "wat·tō·mə·rū",
+                "strong": "559",
+                "translation": " and you have said "
+            },
+            {
+                "token": "ל֔וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to Him , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " ‘ No , "
+            },
+            {
+                "token": "תָּשִׂ֣ים",
+                "transliteration": "tā·śîm",
+                "strong": "7760",
+                "translation": " set "
+            },
+            {
+                "token": "מֶ֖לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " a king "
+            },
+            {
+                "token": "עָלֵ֑ינוּ",
+                "transliteration": "‘ā·lê·nū",
+                "strong": "5921",
+                "translation": " over us .’ "
+            },
+            {
+                "token": "וְעַתָּ֗ה",
+                "transliteration": "wə·‘at·tāh",
+                "strong": "6258",
+                "translation": " Now therefore "
+            },
+            {
+                "token": "הִֽתְיַצְּבוּ֙",
+                "transliteration": "hiṯ·yaṣ·ṣə·ḇū",
+                "strong": "3320",
+                "translation": " present yourselves "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "לְשִׁבְטֵיכֶ֖ם",
+                "transliteration": "lə·šiḇ·ṭê·ḵem",
+                "strong": "7626",
+                "translation": " by your tribes "
+            },
+            {
+                "token": "וּלְאַלְפֵיכֶֽם׃",
+                "transliteration": "ū·lə·’al·p̄ê·ḵem",
+                "strong": "505",
+                "translation": " and clans .” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:19",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁמוּאֵ֔ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Thus Samuel "
+            },
+            {
+                "token": "אֵ֖ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " had all "
+            },
+            {
+                "token": "שִׁבְטֵ֣י",
+                "transliteration": "šiḇ·ṭê",
+                "strong": "7626",
+                "translation": " the tribes "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וַיַּקְרֵ֣ב",
+                "transliteration": "way·yaq·rêḇ",
+                "strong": "7126",
+                "translation": " come forward , "
+            },
+            {
+                "token": "שֵׁ֥בֶט",
+                "transliteration": "šê·ḇeṭ",
+                "strong": "7626",
+                "translation": " and the tribe "
+            },
+            {
+                "token": "בִּנְיָמִֽן׃",
+                "transliteration": "bin·yā·min",
+                "strong": "1144",
+                "translation": " of Benjamin "
+            },
+            {
+                "token": "וַיִּלָּכֵ֖ד",
+                "transliteration": "way·yil·lā·ḵêḏ",
+                "strong": "3920",
+                "translation": " was selected . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:20",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שֵׁ֤בֶט",
+                "transliteration": "šê·ḇeṭ",
+                "strong": "7626",
+                "translation": " Then he had the tribe "
+            },
+            {
+                "token": "בִּנְיָמִן֙",
+                "transliteration": "bin·yā·min",
+                "strong": "1144",
+                "translation": " of Benjamin "
+            },
+            {
+                "token": "וַיַּקְרֵ֞ב",
+                "transliteration": "way·yaq·rêḇ",
+                "strong": "7126",
+                "translation": " come forward "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לְמִשְׁפַּחְתּוֹ",
+                "transliteration": "lə·miš·paḥ·tō",
+                "strong": "4940",
+                "translation": " by its clans , "
+            },
+            {
+                "token": "מִשְׁפַּ֣חַת",
+                "transliteration": "miš·pa·ḥaṯ",
+                "strong": "4940",
+                "translation": " and the clan "
+            },
+            {
+                "token": "הַמַּטְרִ֑י",
+                "transliteration": "ham·maṭ·rî",
+                "strong": "4309",
+                "translation": " of Matri "
+            },
+            {
+                "token": "וַתִּלָּכֵ֖ד",
+                "transliteration": "wat·til·lā·ḵêḏ",
+                "strong": "3920",
+                "translation": " was selected . "
+            },
+            {
+                "token": "שָׁא֣וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " Finally, Saul "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "קִ֔ישׁ",
+                "transliteration": "qîš",
+                "strong": "7027",
+                "translation": " of Kish "
+            },
+            {
+                "token": "וַיִּלָּכֵד֙",
+                "transliteration": "way·yil·lā·ḵêḏ",
+                "strong": "3920",
+                "translation": " was selected . "
+            },
+            {
+                "token": "וַיְבַקְשֻׁ֖הוּ",
+                "transliteration": "way·ḇaq·šu·hū",
+                "strong": "1245",
+                "translation": " But when they looked for him , "
+            },
+            {
+                "token": "וְלֹ֥א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " they could not "
+            },
+            {
+                "token": "נִמְצָֽא׃",
+                "transliteration": "nim·ṣā",
+                "strong": "4672",
+                "translation": " find him . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:21",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עוֹד֙",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " So again "
+            },
+            {
+                "token": "וַיִּשְׁאֲלוּ־",
+                "transliteration": "way·yiš·’ă·lū-",
+                "strong": "7592",
+                "translation": " they inquired "
+            },
+            {
+                "token": "בַּֽיהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD , "
+            },
+            {
+                "token": "אִ֑ישׁס",
+                "transliteration": "ʾī·šs",
+                "strong": "376",
+                "translation": " “ Has the man "
+            },
+            {
+                "token": "הֲבָ֥א",
+                "transliteration": "hă·ḇā",
+                "strong": "935",
+                "translation": " come "
+            },
+            {
+                "token": "הֲלֹ֣ם",
+                "transliteration": "hă·lōm",
+                "strong": "1988",
+                "translation": " here "
+            },
+            {
+                "token": "ע֖וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " yet ? ” "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " And the LORD "
+            },
+            {
+                "token": "וַיֹּ֣אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " replied , "
+            },
+            {
+                "token": "הִנֵּה־",
+                "transliteration": "hin·nêh-",
+                "strong": "2009",
+                "translation": " “ Behold , "
+            },
+            {
+                "token": "נֶחְבָּ֖א",
+                "transliteration": "neḥ·bā",
+                "strong": "2244",
+                "translation": " he has hidden "
+            },
+            {
+                "token": "ה֥וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " himself "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " among "
+            },
+            {
+                "token": "הַכֵּלִֽים׃",
+                "transliteration": "hak·kê·lîm",
+                "strong": "3627",
+                "translation": " the baggage .” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:22",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּרֻ֙צוּ֙",
+                "transliteration": "way·yā·ru·ṣū",
+                "strong": "7323",
+                "translation": " So they ran "
+            },
+            {
+                "token": "וַיִּקָּחֻ֣הוּ",
+                "transliteration": "way·yiq·qā·ḥu·hū",
+                "strong": "3947",
+                "translation": " and brought [Saul] "
+            },
+            {
+                "token": "מִשָּׁ֔ם",
+                "transliteration": "miš·šām",
+                "strong": "8033",
+                "translation": " - , "
+            },
+            {
+                "token": "וַיִּתְיַצֵּ֖ב",
+                "transliteration": "way·yiṯ·yaṣ·ṣêḇ",
+                "strong": "3320",
+                "translation": " and when he stood "
+            },
+            {
+                "token": "בְּת֣וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " among "
+            },
+            {
+                "token": "הָעָ֑ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people , "
+            },
+            {
+                "token": "מִשִּׁכְמ֖וֹ",
+                "transliteration": "miš·šiḵ·mōw",
+                "strong": "7926",
+                "translation": " he was a head "
+            },
+            {
+                "token": "וָמָֽעְלָה׃",
+                "transliteration": "wā·mā·‘ə·lāh",
+                "strong": "4605",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּגְבַּהּ֙",
+                "transliteration": "way·yiḡ·bah",
+                "strong": "1361",
+                "translation": " taller "
+            },
+            {
+                "token": "מִכָּל־",
+                "transliteration": "mik·kāl",
+                "strong": "3605",
+                "translation": " than any "
+            },
+            {
+                "token": "הָעָ֔ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " of the others . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:23",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁמוּאֵ֜ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Samuel "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "הָעָ֗ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people , "
+            },
+            {
+                "token": "הַרְּאִיתֶם֙",
+                "transliteration": "har·rə·’î·ṯem",
+                "strong": "7200",
+                "translation": " “ Do you see "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " the one "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּֽחַר־",
+                "transliteration": "bā·ḥar-",
+                "strong": "977",
+                "translation": " has chosen "
+            },
+            {
+                "token": "בּ֣וֹ",
+                "transliteration": "bōw",
+                "strong": "",
+                "translation": " ? "
+            },
+            {
+                "token": "אֵ֥ין",
+                "transliteration": "’ên",
+                "strong": "369",
+                "translation": " [There is] no one "
+            },
+            {
+                "token": "כָּמֹ֖הוּ",
+                "transliteration": "kā·mō·hū",
+                "strong": "3644",
+                "translation": " like him "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " among all "
+            },
+            {
+                "token": "הָעָ֑ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people .” "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " And all "
+            },
+            {
+                "token": "הָעָ֛ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "וַיֹּאמְר֖וּ",
+                "transliteration": "way·yō·mə·rū",
+                "strong": "559",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיָּרִ֧עוּ",
+                "transliteration": "way·yā·ri·‘ū",
+                "strong": "7321",
+                "translation": " shouted , "
+            },
+            {
+                "token": "יְחִ֥י",
+                "transliteration": "yə·ḥî",
+                "strong": "2421",
+                "translation": " “ Long live "
+            },
+            {
+                "token": "הַמֶּֽלֶךְ׃פ",
+                "transliteration": "ham·me·leḵ",
+                "strong": "4428",
+                "translation": " the king !” "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:24",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שְׁמוּאֵ֜ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " Then Samuel "
+            },
+            {
+                "token": "וַיְדַבֵּ֨ר",
+                "transliteration": "way·ḏab·bêr",
+                "strong": "1696",
+                "translation": " explained "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הָעָ֗ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "אֵ֚ת",
+                "transliteration": "’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִשְׁפַּ֣ט",
+                "transliteration": "miš·paṭ",
+                "strong": "4941",
+                "translation": " the rights "
+            },
+            {
+                "token": "הַמְּלֻכָ֔ה",
+                "transliteration": "ham·mə·lu·ḵāh",
+                "strong": "4410",
+                "translation": " of kingship . "
+            },
+            {
+                "token": "וַיִּכְתֹּ֣ב",
+                "transliteration": "way·yiḵ·tōḇ",
+                "strong": "3789",
+                "translation": " He wrote them "
+            },
+            {
+                "token": "בַּסֵּ֔פֶר",
+                "transliteration": "bas·sê·p̄er",
+                "strong": "5612",
+                "translation": " on a scroll "
+            },
+            {
+                "token": "וַיַּנַּ֖ח",
+                "transliteration": "way·yan·naḥ",
+                "strong": "5117",
+                "translation": " and laid [it] up "
+            },
+            {
+                "token": "לִפְנֵ֣י",
+                "transliteration": "lip̄·nê",
+                "strong": "6440",
+                "translation": " before "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . "
+            },
+            {
+                "token": "שְׁמוּאֵ֛ל",
+                "transliteration": "šə·mū·’êl",
+                "strong": "8050",
+                "translation": " And Samuel "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " sent all "
+            },
+            {
+                "token": "הָעָ֖ם",
+                "transliteration": "hā·‘ām",
+                "strong": "5971",
+                "translation": " the people "
+            },
+            {
+                "token": "וַיְשַׁלַּ֧ח",
+                "transliteration": "way·šal·laḥ",
+                "strong": "7971",
+                "translation": " away , "
+            },
+            {
+                "token": "אִ֥ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " each "
+            },
+            {
+                "token": "לְבֵיתֽוֹ׃",
+                "transliteration": "lə·ḇê·ṯōw",
+                "strong": "1004",
+                "translation": " to his own home . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:25",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁא֔וּל",
+                "transliteration": "šā·’ūl",
+                "strong": "7586",
+                "translation": " Saul "
+            },
+            {
+                "token": "וְגַ֨ם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "הָלַ֥ךְ",
+                "transliteration": "hā·laḵ",
+                "strong": "1980",
+                "translation": " went "
+            },
+            {
+                "token": "לְבֵית֖וֹ",
+                "transliteration": "lə·ḇê·ṯōw",
+                "strong": "1004",
+                "translation": " to his home "
+            },
+            {
+                "token": "גִּבְעָ֑תָה",
+                "transliteration": "giḇ·‘ā·ṯāh",
+                "strong": "1390",
+                "translation": " in Gibeah , "
+            },
+            {
+                "token": "הַחַ֕יִל",
+                "transliteration": "ha·ḥa·yil",
+                "strong": "2428",
+                "translation": " and the [men] of valor "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " whose "
+            },
+            {
+                "token": "בְּלִבָּֽם׃",
+                "transliteration": "bə·lib·bām",
+                "strong": "3820",
+                "translation": " hearts "
+            },
+            {
+                "token": "אֱלֹהִ֖ים",
+                "transliteration": "’ĕ·lō·hîm",
+                "strong": "430",
+                "translation": " God "
+            },
+            {
+                "token": "נָגַ֥ע",
+                "transliteration": "nā·ḡa‘",
+                "strong": "5060",
+                "translation": " had touched "
+            },
+            {
+                "token": "וַיֵּלְכ֣וּ",
+                "transliteration": "way·yê·lə·ḵū",
+                "strong": "1980",
+                "translation": " went "
+            },
+            {
+                "token": "עִמּ֔וֹ",
+                "transliteration": "‘im·mōw",
+                "strong": "5973",
+                "translation": " with him . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:26",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְלִיַּ֣עַל",
+                "transliteration": "ḇə·lî·ya·‘al",
+                "strong": "1100",
+                "translation": " But some worthless "
+            },
+            {
+                "token": "וּבְנֵ֧י",
+                "transliteration": "ū·ḇə·nê",
+                "strong": "1121",
+                "translation": " men "
+            },
+            {
+                "token": "אָמְר֗וּ",
+                "transliteration": "’ā·mə·rū",
+                "strong": "559",
+                "translation": " said , "
+            },
+            {
+                "token": "מַה־",
+                "transliteration": "mah-",
+                "strong": "4100",
+                "translation": " “ How "
+            },
+            {
+                "token": "זֶ֔ה",
+                "transliteration": "zeh",
+                "strong": "2088",
+                "translation": " can this [man] "
+            },
+            {
+                "token": "יֹּשִׁעֵ֙נוּ֙",
+                "transliteration": "yō·ši·‘ê·nū",
+                "strong": "3467",
+                "translation": " save us ? ” "
+            },
+            {
+                "token": "וַיִּבְזֻ֕הוּ",
+                "transliteration": "way·yiḇ·zu·hū",
+                "strong": "959",
+                "translation": " So they despised him "
+            },
+            {
+                "token": "הֵבִ֥יאוּ",
+                "transliteration": "hê·ḇî·’ū",
+                "strong": "935",
+                "translation": " and brought "
+            },
+            {
+                "token": "ל֖וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " no "
+            },
+            {
+                "token": "מִנְחָ֑ה",
+                "transliteration": "min·ḥāh",
+                "strong": "4503",
+                "translation": " gifts ; "
+            },
+            {
+                "token": "וַיְהִ֖י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " but [Saul] remained "
+            },
+            {
+                "token": "כְּמַחֲרִֽישׁ׃פ",
+                "transliteration": "kə·ma·ḥă·rîš",
+                "strong": "2790",
+                "translation": " silent [about it] . "
+            }
+        ],
+        "verse_reference": "1 Samuel 10:27",
+        "book": "1 Samuel",
+        "chapter": "10",
+        "verse": "27"
+    }
+]

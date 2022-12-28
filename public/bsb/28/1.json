@@ -1,0 +1,1158 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "דְּבַר־",
+                "transliteration": "də·ḇar-",
+                "strong": "1697",
+                "translation": " [This is] the word "
+            },
+            {
+                "token": "יְהוָ֣ה׀",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "הָיָ֗ה",
+                "transliteration": "hā·yāh",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "הוֹשֵׁ֙עַ֙",
+                "transliteration": "hō·wō·šê·a‘",
+                "strong": "1954",
+                "translation": " Hosea "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "בְּאֵרִ֔י",
+                "transliteration": "bə·’ê·rî",
+                "strong": "882",
+                "translation": " of Beeri "
+            },
+            {
+                "token": "בִּימֵ֨י",
+                "transliteration": "bî·mê",
+                "strong": "3117",
+                "translation": " in the days "
+            },
+            {
+                "token": "עֻזִּיָּ֥ה",
+                "transliteration": "‘uz·zî·yāh",
+                "strong": "5818",
+                "translation": " of Uzziah , "
+            },
+            {
+                "token": "יוֹתָ֛ם",
+                "transliteration": "yō·w·ṯām",
+                "strong": "3147",
+                "translation": " Jotham , "
+            },
+            {
+                "token": "אָחָ֥ז",
+                "transliteration": "’ā·ḥāz",
+                "strong": "271",
+                "translation": " Ahaz , "
+            },
+            {
+                "token": "יְחִזְקִיָּ֖ה",
+                "transliteration": "yə·ḥiz·qî·yāh",
+                "strong": "3169",
+                "translation": " and Hezekiah , "
+            },
+            {
+                "token": "מַלְכֵ֣י",
+                "transliteration": "mal·ḵê",
+                "strong": "4428",
+                "translation": " kings "
+            },
+            {
+                "token": "יְהוּדָ֑ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "וּבִימֵ֛י",
+                "transliteration": "ū·ḇî·mê",
+                "strong": "3117",
+                "translation": " and [of] "
+            },
+            {
+                "token": "יָרָבְעָ֥ם",
+                "transliteration": "yā·rā·ḇə·‘ām",
+                "strong": "3379",
+                "translation": " Jeroboam "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "יוֹאָ֖שׁ",
+                "transliteration": "yō·w·’āš",
+                "strong": "3101",
+                "translation": " of Jehoash , "
+            },
+            {
+                "token": "מֶ֥לֶךְ",
+                "transliteration": "me·leḵ",
+                "strong": "4428",
+                "translation": " king "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "Hosea 1:1",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " When the LORD "
+            },
+            {
+                "token": "תְּחִלַּ֥ת",
+                "transliteration": "tə·ḥil·laṯ",
+                "strong": "8462",
+                "translation": " first "
+            },
+            {
+                "token": "דִּבֶּר־",
+                "transliteration": "dib·ber-",
+                "strong": "1696",
+                "translation": " spoke "
+            },
+            {
+                "token": "בְּהוֹשֵׁ֑עַ פ",
+                "transliteration": "bə·hō·šē·aʿ p̄",
+                "strong": "1954",
+                "translation": " through Hosea , "
+            },
+            {
+                "token": "יְהוָ֜ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " He "
+            },
+            {
+                "token": "וַיֹּ֨אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " told "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "הוֹשֵׁ֗עַ",
+                "transliteration": "hō·wō·šê·a‘",
+                "strong": "1954",
+                "translation": " him , "
+            },
+            {
+                "token": "לֵ֣ךְ",
+                "transliteration": "lêḵ",
+                "strong": "1980",
+                "translation": " “ Go , "
+            },
+            {
+                "token": "קַח־",
+                "transliteration": "qaḥ-",
+                "strong": "3947",
+                "translation": " take "
+            },
+            {
+                "token": "זְנוּנִים֙",
+                "transliteration": "zə·nū·nîm",
+                "strong": "2183",
+                "translation": " a prostitute "
+            },
+            {
+                "token": "לְךָ֞",
+                "transliteration": "lə·ḵā",
+                "strong": "",
+                "translation": " as your "
+            },
+            {
+                "token": "אֵ֤שֶׁת",
+                "transliteration": "’ê·šeṯ",
+                "strong": "802",
+                "translation": " wife "
+            },
+            {
+                "token": "וְיַלְדֵ֣י",
+                "transliteration": "wə·yal·ḏê",
+                "strong": "3206",
+                "translation": " and have children "
+            },
+            {
+                "token": "זְנוּנִ֔ים",
+                "transliteration": "zə·nū·nîm",
+                "strong": "2183",
+                "translation": " of adultery , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " because "
+            },
+            {
+                "token": "הָאָ֔רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " this land "
+            },
+            {
+                "token": "זָנֹ֤ה",
+                "transliteration": "zā·nōh",
+                "strong": "2181",
+                "translation": " is flagrantly prostituting itself "
+            },
+            {
+                "token": "תִזְנֶה֙",
+                "transliteration": "ṯiz·neh",
+                "strong": "2181",
+                "translation": " . . . "
+            },
+            {
+                "token": "מֵֽאַחֲרֵ֖י",
+                "transliteration": "mê·’a·ḥă·rê",
+                "strong": "310",
+                "translation": " [by departing] from "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD . ” "
+            }
+        ],
+        "verse_reference": "Hosea 1:2",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֵּ֙לֶךְ֙",
+                "transliteration": "way·yê·leḵ",
+                "strong": "1980",
+                "translation": " So [Hosea] went "
+            },
+            {
+                "token": "וַיִּקַּ֔ח",
+                "transliteration": "way·yiq·qaḥ",
+                "strong": "3947",
+                "translation": " and married "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "גֹּ֖מֶר",
+                "transliteration": "gō·mer",
+                "strong": "1586",
+                "translation": " Gomer "
+            },
+            {
+                "token": "בַּת־",
+                "transliteration": "baṯ-",
+                "strong": "1323",
+                "translation": " daughter "
+            },
+            {
+                "token": "דִּבְלָ֑יִם",
+                "transliteration": "diḇ·lā·yim",
+                "strong": "1691",
+                "translation": " of Diblaim , "
+            },
+            {
+                "token": "וַתַּ֥הַר",
+                "transliteration": "wat·ta·har",
+                "strong": "2029",
+                "translation": " and she conceived "
+            },
+            {
+                "token": "וַתֵּֽלֶד־",
+                "transliteration": "wat·tê·leḏ-",
+                "strong": "3205",
+                "translation": " and bore "
+            },
+            {
+                "token": "ל֖וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " him "
+            },
+            {
+                "token": "בֵּֽן׃",
+                "transliteration": "bên",
+                "strong": "1121",
+                "translation": " a son . "
+            }
+        ],
+        "verse_reference": "Hosea 1:3",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהוָה֙",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " Then the LORD "
+            },
+            {
+                "token": "וַיֹּ֤אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " said "
+            },
+            {
+                "token": "אֵלָ֔יו",
+                "transliteration": "’ê·lāw",
+                "strong": "413",
+                "translation": " to [Hosea] , "
+            },
+            {
+                "token": "קְרָ֥א",
+                "transliteration": "qə·rā",
+                "strong": "7121",
+                "translation": " “ Name him "
+            },
+            {
+                "token": "שְׁמ֖וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " . . . "
+            },
+            {
+                "token": "יִזְרְעֶ֑אל",
+                "transliteration": "yiz·rə·‘el",
+                "strong": "3157",
+                "translation": " Jezreel , "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "ע֣וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " soon "
+            },
+            {
+                "token": "מְעַ֗ט",
+                "transliteration": "mə·‘aṭ",
+                "strong": "4592",
+                "translation": " . . . "
+            },
+            {
+                "token": "וּפָ֨קַדְתִּ֜י",
+                "transliteration": "ū·p̄ā·qaḏ·tî",
+                "strong": "6485",
+                "translation": " I will bring "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "דְּמֵ֤י",
+                "transliteration": "də·mê",
+                "strong": "1818",
+                "translation": " the bloodshed "
+            },
+            {
+                "token": "יִזְרְעֶאל֙",
+                "transliteration": "yiz·rə·‘el",
+                "strong": "3157",
+                "translation": " of Jezreel "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " upon "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the house "
+            },
+            {
+                "token": "יֵה֔וּא",
+                "transliteration": "yê·hū",
+                "strong": "3058",
+                "translation": " of Jehu , "
+            },
+            {
+                "token": "וְהִ֨שְׁבַּתִּ֔י",
+                "transliteration": "wə·hiš·bat·tî",
+                "strong": "7673",
+                "translation": " and I will put an end "
+            },
+            {
+                "token": "מַמְלְכ֖וּת",
+                "transliteration": "mam·lə·ḵūṯ",
+                "strong": "4468",
+                "translation": " to the kingdom "
+            },
+            {
+                "token": "בֵּ֥ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " vvv "
+            },
+            {
+                "token": "יִשְׂרָאֵֽל׃",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            }
+        ],
+        "verse_reference": "Hosea 1:4",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהָיָ֖ה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And "
+            },
+            {
+                "token": "הַה֑וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " on that "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "וְשָֽׁבַרְתִּי֙",
+                "transliteration": "wə·šā·ḇar·tî",
+                "strong": "7665",
+                "translation": " I will break "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "קֶ֣שֶׁת",
+                "transliteration": "qe·šeṯ",
+                "strong": "7198",
+                "translation": " the bow "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "בְּעֵ֖מֶק",
+                "transliteration": "bə·‘ê·meq",
+                "strong": "6010",
+                "translation": " in the Valley "
+            },
+            {
+                "token": "יִזְרְעֶֽאל׃",
+                "transliteration": "yiz·rə·‘el",
+                "strong": "3157",
+                "translation": " of Jezreel . ” "
+            }
+        ],
+        "verse_reference": "Hosea 1:5",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "עוֹד֙",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " [Gomer] again "
+            },
+            {
+                "token": "וַתַּ֤הַר",
+                "transliteration": "wat·ta·har",
+                "strong": "2029",
+                "translation": " conceived "
+            },
+            {
+                "token": "וַתֵּ֣לֶד",
+                "transliteration": "wat·tê·leḏ",
+                "strong": "3205",
+                "translation": " and gave birth to "
+            },
+            {
+                "token": "בַּ֔ת",
+                "transliteration": "baṯ",
+                "strong": "1323",
+                "translation": " a daughter , "
+            },
+            {
+                "token": "וַיֹּ֣אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " and [the LORD] said "
+            },
+            {
+                "token": "ל֔וֹ",
+                "transliteration": "lōw",
+                "strong": "",
+                "translation": " to [Hosea] , "
+            },
+            {
+                "token": "קְרָ֥א",
+                "transliteration": "qə·rā",
+                "strong": "7121",
+                "translation": " “ Name "
+            },
+            {
+                "token": "שְׁמָ֖הּ",
+                "transliteration": "šə·māh",
+                "strong": "8034",
+                "translation": " her "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3819",
+                "translation": " vvv "
+            },
+            {
+                "token": "רֻחָ֑מָה",
+                "transliteration": "ru·ḥā·māh",
+                "strong": "3819",
+                "translation": " Lo-ruhamah , "
+            },
+            {
+                "token": "כִּי֩",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "לֹ֨א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " I will no "
+            },
+            {
+                "token": "אוֹסִ֜יף",
+                "transliteration": "’ō·w·sîp̄",
+                "strong": "3254",
+                "translation": " longer "
+            },
+            {
+                "token": "ע֗וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֲרַחֵם֙",
+                "transliteration": "’ă·ra·ḥêm",
+                "strong": "7355",
+                "translation": " have compassion "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " on the house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "נָשֹׂ֥א",
+                "transliteration": "nā·śō",
+                "strong": "5375",
+                "translation": " I should ever "
+            },
+            {
+                "token": "אֶשָּׂ֖א",
+                "transliteration": "’eś·śā",
+                "strong": "5375",
+                "translation": " forgive "
+            },
+            {
+                "token": "לָהֶֽם׃",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them . "
+            }
+        ],
+        "verse_reference": "Hosea 1:6",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " Yet "
+            },
+            {
+                "token": "אֲרַחֵ֔ם",
+                "transliteration": "’ă·ra·ḥêm",
+                "strong": "7355",
+                "translation": " I will have compassion "
+            },
+            {
+                "token": "בֵּ֤ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " on the house "
+            },
+            {
+                "token": "יְהוּדָה֙",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah , "
+            },
+            {
+                "token": "וְהֽוֹשַׁעְתִּ֖ים",
+                "transliteration": "wə·hō·wō·ša‘·tîm",
+                "strong": "3467",
+                "translation": " and I will save them — "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "אֽוֹשִׁיעֵ֗ם",
+                "transliteration": "’ō·wō·šî·‘êm",
+                "strong": "3467",
+                "translation": " - "
+            },
+            {
+                "token": "בְּקֶ֤שֶׁת",
+                "transliteration": "bə·qe·šeṯ",
+                "strong": "7198",
+                "translation": " by bow "
+            },
+            {
+                "token": "וּבְחֶ֙רֶב֙",
+                "transliteration": "ū·ḇə·ḥe·reḇ",
+                "strong": "2719",
+                "translation": " or sword "
+            },
+            {
+                "token": "וּבְמִלְחָמָ֔ה",
+                "transliteration": "ū·ḇə·mil·ḥā·māh",
+                "strong": "4421",
+                "translation": " or war , "
+            },
+            {
+                "token": "בְּסוּסִ֖ים",
+                "transliteration": "bə·sū·sîm",
+                "strong": "5483",
+                "translation": " not by horses "
+            },
+            {
+                "token": "וּבְפָרָשִֽׁים׃",
+                "transliteration": "ū·ḇə·p̄ā·rā·šîm",
+                "strong": "6571",
+                "translation": " and cavalry , "
+            },
+            {
+                "token": "בַּיהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " but by the LORD "
+            },
+            {
+                "token": "אֱלֹֽהֵיהֶ֑ם",
+                "transliteration": "’ĕ·lō·hê·hem",
+                "strong": "430",
+                "translation": " their God . ” "
+            }
+        ],
+        "verse_reference": "Hosea 1:7",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַתִּגְמֹ֖ל",
+                "transliteration": "wat·tiḡ·mōl",
+                "strong": "1580",
+                "translation": " After she had weaned "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3819",
+                "translation": " vvv "
+            },
+            {
+                "token": "רֻחָ֑מָה",
+                "transliteration": "ru·ḥā·māh",
+                "strong": "3819",
+                "translation": " Lo-ruhamah , "
+            },
+            {
+                "token": "וַתַּ֖הַר",
+                "transliteration": "wat·ta·har",
+                "strong": "2029",
+                "translation": " [Gomer] conceived "
+            },
+            {
+                "token": "וַתֵּ֥לֶד",
+                "transliteration": "wat·tê·leḏ",
+                "strong": "3205",
+                "translation": " and gave birth to "
+            },
+            {
+                "token": "בֵּֽן׃",
+                "transliteration": "bên",
+                "strong": "1121",
+                "translation": " a son . "
+            }
+        ],
+        "verse_reference": "Hosea 1:8",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיֹּ֕אמֶר",
+                "transliteration": "way·yō·mer",
+                "strong": "559",
+                "translation": " And [the LORD] said , "
+            },
+            {
+                "token": "קְרָ֥א",
+                "transliteration": "qə·rā",
+                "strong": "7121",
+                "translation": " “ Name "
+            },
+            {
+                "token": "שְׁמ֖וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " him "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3818",
+                "translation": " vvv "
+            },
+            {
+                "token": "עַמִּ֑י",
+                "transliteration": "‘am·mî",
+                "strong": "3818",
+                "translation": " Lo-ammi , "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "אַתֶּם֙",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " are not "
+            },
+            {
+                "token": "עַמִּ֔י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " My people , "
+            },
+            {
+                "token": "וְאָנֹכִ֖י",
+                "transliteration": "wə·’ā·nō·ḵî",
+                "strong": "595",
+                "translation": " and I "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " am not "
+            },
+            {
+                "token": "אֶהְיֶ֥ה",
+                "transliteration": "’eh·yeh",
+                "strong": "1961",
+                "translation": " your God "
+            },
+            {
+                "token": "לָכֶֽם׃ס",
+                "transliteration": "lå̄·ḵɛm",
+                "strong": "",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Hosea 1:9",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מִסְפַּ֤ר",
+                "transliteration": "mis·par",
+                "strong": "4557",
+                "translation": " Yet the number "
+            },
+            {
+                "token": "בְּנֵֽי־",
+                "transliteration": "bə·nê-",
+                "strong": "1121",
+                "translation": " vvv "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of the Israelites "
+            },
+            {
+                "token": "וְֽ֠הָיָה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " will be "
+            },
+            {
+                "token": "כְּח֣וֹל",
+                "transliteration": "kə·ḥō·wl",
+                "strong": "2344",
+                "translation": " like the sand "
+            },
+            {
+                "token": "הַיָּ֔ם",
+                "transliteration": "hay·yām",
+                "strong": "3220",
+                "translation": " of the sea , "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " which "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " cannot "
+            },
+            {
+                "token": "יִמַּ֖ד",
+                "transliteration": "yim·maḏ",
+                "strong": "4058",
+                "translation": " be measured "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " [or] "
+            },
+            {
+                "token": "יִסָּפֵ֑ר",
+                "transliteration": "yis·sā·p̄êr",
+                "strong": "5608",
+                "translation": " counted . "
+            },
+            {
+                "token": "וְֽ֠הָיָה",
+                "transliteration": "wə·hā·yāh",
+                "strong": "1961",
+                "translation": " And it will happen that "
+            },
+            {
+                "token": "בִּמְק֞וֹם",
+                "transliteration": "bim·qō·wm",
+                "strong": "4725",
+                "translation": " in the [very] place "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " where "
+            },
+            {
+                "token": "יֵאָמֵ֤ר",
+                "transliteration": "yê·’ā·mêr",
+                "strong": "559",
+                "translation": " it was said "
+            },
+            {
+                "token": "לָהֶם֙",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " to them , "
+            },
+            {
+                "token": "אַתֶּ֔ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " ‘ You "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " [are] not "
+            },
+            {
+                "token": "עַמִּ֣י",
+                "transliteration": "‘am·mî",
+                "strong": "5971",
+                "translation": " My people , ’ "
+            },
+            {
+                "token": "יֵאָמֵ֥ר",
+                "transliteration": "yê·’ā·mêr",
+                "strong": "559",
+                "translation": " they will be called "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " . . . "
+            },
+            {
+                "token": "בְּנֵ֥י",
+                "transliteration": "bə·nê",
+                "strong": "1121",
+                "translation": " ‘ sons "
+            },
+            {
+                "token": "חָֽי׃",
+                "transliteration": "ḥāy",
+                "strong": "2416",
+                "translation": " of the living "
+            },
+            {
+                "token": "אֵֽל־",
+                "transliteration": "’êl-",
+                "strong": "410",
+                "translation": " God . ’ "
+            }
+        ],
+        "verse_reference": "Hosea 1:10",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּנֵֽי־",
+                "transliteration": "bə·nê-",
+                "strong": "1121",
+                "translation": " Then the people "
+            },
+            {
+                "token": "יְהוּדָ֤ה",
+                "transliteration": "yə·hū·ḏāh",
+                "strong": "3063",
+                "translation": " of Judah "
+            },
+            {
+                "token": "וּבְנֵֽי־",
+                "transliteration": "ū·ḇə·nê-",
+                "strong": "1121",
+                "translation": " [and] "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וְ֠נִקְבְּצוּ",
+                "transliteration": "wə·niq·bə·ṣū",
+                "strong": "6908",
+                "translation": " will be gathered "
+            },
+            {
+                "token": "יַחְדָּ֔ו",
+                "transliteration": "yaḥ·dāw",
+                "strong": "3162",
+                "translation": " together , "
+            },
+            {
+                "token": "וְשָׂמ֥וּ",
+                "transliteration": "wə·śā·mū",
+                "strong": "7760",
+                "translation": " and they will appoint "
+            },
+            {
+                "token": "לָהֶ֛ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " for themselves "
+            },
+            {
+                "token": "אֶחָ֖ד",
+                "transliteration": "’e·ḥāḏ",
+                "strong": "259",
+                "translation": " one "
+            },
+            {
+                "token": "רֹ֥אשׁ",
+                "transliteration": "rōš",
+                "strong": "7218",
+                "translation": " leader , "
+            },
+            {
+                "token": "וְעָל֣וּ",
+                "transliteration": "wə·‘ā·lū",
+                "strong": "5927",
+                "translation": " and will go up "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " out "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " of the land . "
+            },
+            {
+                "token": "כִּ֥י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "גָד֖וֹל",
+                "transliteration": "ḡā·ḏō·wl",
+                "strong": "1419",
+                "translation": " great [will be] "
+            },
+            {
+                "token": "י֥וֹם",
+                "transliteration": "yō·wm",
+                "strong": "3117",
+                "translation": " the day "
+            },
+            {
+                "token": "יִזְרְעֶֽאל׃",
+                "transliteration": "yiz·rə·‘el",
+                "strong": "3157",
+                "translation": " of Jezreel . [’’] "
+            }
+        ],
+        "verse_reference": "Hosea 1:11",
+        "book": "Hosea",
+        "chapter": "1",
+        "verse": "11"
+    }
+]

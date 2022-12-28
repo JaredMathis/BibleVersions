@@ -1,0 +1,780 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "הַ֥לְלוּ",
+                "transliteration": "hal·lū",
+                "strong": "1984",
+                "translation": " Hallelujah "
+            },
+            {
+                "token": "יָ֨הּ׀",
+                "transliteration": "yāh",
+                "strong": "3050",
+                "translation": " . . . ! "
+            },
+            {
+                "token": "הַֽלְל֣וּ",
+                "transliteration": "hal·lū",
+                "strong": "1984",
+                "translation": " Praise "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְ֭הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הַשָּׁמַ֑יִם",
+                "transliteration": "haš·šā·ma·yim",
+                "strong": "8064",
+                "translation": " the heavens ; "
+            },
+            {
+                "token": "הַֽ֝לְל֗וּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " praise Him "
+            },
+            {
+                "token": "בַּמְּרוֹמִֽים׃",
+                "transliteration": "bam·mə·rō·w·mîm",
+                "strong": "4791",
+                "translation": " in the highest places . "
+            }
+        ],
+        "verse_reference": "Psalm 148:1",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַֽלְל֥וּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " Praise Him , "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "מַלְאָכָ֑יו",
+                "transliteration": "mal·’ā·ḵāw",
+                "strong": "4397",
+                "translation": " His angels ; "
+            },
+            {
+                "token": "הַֽ֝לְל֗וּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " praise Him , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "צְבָאוֹ׃",
+                "transliteration": "ṣə·ḇå̄·ʾō",
+                "strong": "6635",
+                "translation": " His heavenly hosts . "
+            }
+        ],
+        "verse_reference": "Psalm 148:2",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַֽ֭לְלוּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " Praise Him , "
+            },
+            {
+                "token": "שֶׁ֣מֶשׁ",
+                "transliteration": "še·meš",
+                "strong": "8121",
+                "translation": " O sun "
+            },
+            {
+                "token": "וְיָרֵ֑חַ",
+                "transliteration": "wə·yā·rê·aḥ",
+                "strong": "3394",
+                "translation": " and moon ; "
+            },
+            {
+                "token": "הַ֝לְל֗וּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " praise Him , "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "אֽוֹר׃",
+                "transliteration": "’ō·wr",
+                "strong": "216",
+                "translation": " you shining "
+            },
+            {
+                "token": "כּ֥וֹכְבֵי",
+                "transliteration": "kō·wḵ·ḇê",
+                "strong": "3556",
+                "translation": " stars . "
+            }
+        ],
+        "verse_reference": "Psalm 148:3",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַֽ֭לְלוּהוּ",
+                "transliteration": "hal·lū·hū",
+                "strong": "1984",
+                "translation": " Praise Him , "
+            },
+            {
+                "token": "שְׁמֵ֣י",
+                "transliteration": "šə·mê",
+                "strong": "8064",
+                "translation": " O highest heavens "
+            },
+            {
+                "token": "הַשָּׁמָ֑יִם",
+                "transliteration": "haš·šā·mā·yim",
+                "strong": "8064",
+                "translation": " . . . , "
+            },
+            {
+                "token": "וְ֝הַמַּ֗יִם",
+                "transliteration": "wə·ham·ma·yim",
+                "strong": "4325",
+                "translation": " and you waters "
+            },
+            {
+                "token": "אֲשֶׁ֤ר׀",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "מֵעַ֬ל",
+                "transliteration": "mê·‘al",
+                "strong": "5921",
+                "translation": " above "
+            },
+            {
+                "token": "הַשָּׁמָֽיִם׃",
+                "transliteration": "haš·šā·mā·yim",
+                "strong": "8064",
+                "translation": " the skies . "
+            }
+        ],
+        "verse_reference": "Psalm 148:4",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְֽ֭הַֽלְלוּ",
+                "transliteration": "yə·hal·lū",
+                "strong": "1984",
+                "translation": " Let them praise "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שֵׁ֣ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " the name "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD , "
+            },
+            {
+                "token": "כִּ֤י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "ה֭וּא",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " He "
+            },
+            {
+                "token": "צִוָּ֣ה",
+                "transliteration": "ṣiw·wāh",
+                "strong": "6680",
+                "translation": " gave the command "
+            },
+            {
+                "token": "וְנִבְרָֽאוּ׃",
+                "transliteration": "wə·niḇ·rā·’ū",
+                "strong": "1254",
+                "translation": " and they were created . "
+            }
+        ],
+        "verse_reference": "Psalm 148:5",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּעֲמִידֵ֣ם",
+                "transliteration": "way·ya·‘ă·mî·ḏêm",
+                "strong": "5975",
+                "translation": " He established them "
+            },
+            {
+                "token": "לָעַ֣ד",
+                "transliteration": "lā·‘aḏ",
+                "strong": "5703",
+                "translation": " forever "
+            },
+            {
+                "token": "לְעוֹלָ֑ם",
+                "transliteration": "lə·‘ō·w·lām",
+                "strong": "5769",
+                "translation": " and ever ; "
+            },
+            {
+                "token": "נָ֝תַ֗ן",
+                "transliteration": "nā·ṯan",
+                "strong": "5414",
+                "translation": " He issued "
+            },
+            {
+                "token": "חָק־",
+                "transliteration": "ḥāq-",
+                "strong": "2706",
+                "translation": " a decree "
+            },
+            {
+                "token": "וְלֹ֣א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " that will never "
+            },
+            {
+                "token": "יַעֲבֽוֹר׃",
+                "transliteration": "ya·‘ă·ḇō·wr",
+                "strong": "5674",
+                "translation": " pass away . "
+            }
+        ],
+        "verse_reference": "Psalm 148:6",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַֽלְל֣וּ",
+                "transliteration": "hal·lū",
+                "strong": "1984",
+                "translation": " Praise "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְ֭הוָה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָאָ֑רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the earth , "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "תַּ֝נִּינִ֗ים",
+                "transliteration": "tan·nî·nîm",
+                "strong": "8577",
+                "translation": " great sea creatures "
+            },
+            {
+                "token": "תְּהֹמֽוֹת׃",
+                "transliteration": "tə·hō·mō·wṯ",
+                "strong": "8415",
+                "translation": " and ocean depths , "
+            }
+        ],
+        "verse_reference": "Psalm 148:7",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֵ֣שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " lightning "
+            },
+            {
+                "token": "וּ֭בָרָד",
+                "transliteration": "ū·ḇā·rāḏ",
+                "strong": "1259",
+                "translation": " and hail , "
+            },
+            {
+                "token": "שֶׁ֣לֶג",
+                "transliteration": "še·leḡ",
+                "strong": "7950",
+                "translation": " snow "
+            },
+            {
+                "token": "וְקִיט֑וֹר",
+                "transliteration": "wə·qî·ṭō·wr",
+                "strong": "7008",
+                "translation": " and clouds , "
+            },
+            {
+                "token": "סְ֝עָרָ֗ה",
+                "transliteration": "sə·‘ā·rāh",
+                "strong": "5591",
+                "translation": " powerful "
+            },
+            {
+                "token": "ר֥וּחַ",
+                "transliteration": "rū·aḥ",
+                "strong": "7307",
+                "translation": " wind "
+            },
+            {
+                "token": "עֹשָׂ֥ה",
+                "transliteration": "‘ō·śāh",
+                "strong": "6213",
+                "translation": " fulfilling "
+            },
+            {
+                "token": "דְבָרֽוֹ׃",
+                "transliteration": "ḏə·ḇā·rōw",
+                "strong": "1697",
+                "translation": " His word , "
+            }
+        ],
+        "verse_reference": "Psalm 148:8",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֶהָרִ֥ים",
+                "transliteration": "he·hā·rîm",
+                "strong": "2022",
+                "translation": " mountains "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "גְּבָע֑וֹת",
+                "transliteration": "gə·ḇā·‘ō·wṯ",
+                "strong": "1389",
+                "translation": " hills , "
+            },
+            {
+                "token": "פְּ֝רִ֗י",
+                "transliteration": "pə·rî",
+                "strong": "6529",
+                "translation": " fruit "
+            },
+            {
+                "token": "עֵ֥ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " trees "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "אֲרָזִֽים׃",
+                "transliteration": "’ă·rā·zîm",
+                "strong": "730",
+                "translation": " cedars , "
+            }
+        ],
+        "verse_reference": "Psalm 148:9",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַֽחַיָּ֥ה",
+                "transliteration": "ha·ḥay·yāh",
+                "strong": "2416",
+                "translation": " wild animals "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "בְּהֵמָ֑ה",
+                "transliteration": "bə·hê·māh",
+                "strong": "929",
+                "translation": " cattle , "
+            },
+            {
+                "token": "רֶ֝֗מֶשׂ",
+                "transliteration": "re·meś",
+                "strong": "7431",
+                "translation": " crawling creatures "
+            },
+            {
+                "token": "כָּנָֽף׃",
+                "transliteration": "kā·nāp̄",
+                "strong": "3671",
+                "translation": " and flying "
+            },
+            {
+                "token": "וְצִפּ֥וֹר",
+                "transliteration": "wə·ṣip·pō·wr",
+                "strong": "6833",
+                "translation": " birds , "
+            }
+        ],
+        "verse_reference": "Psalm 148:10",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "מַלְכֵי־",
+                "transliteration": "mal·ḵê-",
+                "strong": "4428",
+                "translation": " kings "
+            },
+            {
+                "token": "אֶ֭רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " of the earth "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "לְאֻמִּ֑ים",
+                "transliteration": "lə·’um·mîm",
+                "strong": "3816",
+                "translation": " peoples , "
+            },
+            {
+                "token": "שָׂ֝רִ֗ים",
+                "transliteration": "rîm",
+                "strong": "8269",
+                "translation": " princes "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "שֹׁ֥פְטֵי",
+                "transliteration": "šō·p̄ə·ṭê",
+                "strong": "8199",
+                "translation": " rulers "
+            },
+            {
+                "token": "אָֽרֶץ׃",
+                "transliteration": "’ā·reṣ",
+                "strong": "776",
+                "translation": " of the earth , "
+            }
+        ],
+        "verse_reference": "Psalm 148:11",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּחוּרִ֥ים",
+                "transliteration": "ba·ḥū·rîm",
+                "strong": "970",
+                "translation": " young men "
+            },
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " and "
+            },
+            {
+                "token": "בְּתוּל֑וֹת",
+                "transliteration": "bə·ṯū·lō·wṯ",
+                "strong": "1330",
+                "translation": " maidens , "
+            },
+            {
+                "token": "זְ֝קֵנִ֗ים",
+                "transliteration": "zə·qê·nîm",
+                "strong": "2205",
+                "translation": " old "
+            },
+            {
+                "token": "עִם־",
+                "transliteration": "‘im-",
+                "strong": "5973",
+                "translation": " and "
+            },
+            {
+                "token": "נְעָרִֽים׃",
+                "transliteration": "nə·‘ā·rîm",
+                "strong": "5288",
+                "translation": " young together . "
+            }
+        ],
+        "verse_reference": "Psalm 148:12",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יְהַלְל֤וּ׀",
+                "transliteration": "yə·hal·lū",
+                "strong": "1984",
+                "translation": " Let them praise "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שֵׁ֬ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " the name "
+            },
+            {
+                "token": "יְהוָ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "שְׁמ֣וֹ",
+                "transliteration": "šə·mōw",
+                "strong": "8034",
+                "translation": " His name "
+            },
+            {
+                "token": "לְבַדּ֑וֹ",
+                "transliteration": "lə·ḇad·dōw",
+                "strong": "905",
+                "translation": " alone "
+            },
+            {
+                "token": "נִשְׂגָּ֣ב",
+                "transliteration": "niś·gāḇ",
+                "strong": "7682",
+                "translation": " is exalted ; "
+            },
+            {
+                "token": "ה֝וֹד֗וֹ",
+                "transliteration": "hō·w·ḏōw",
+                "strong": "1935",
+                "translation": " His splendor "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " [is] above "
+            },
+            {
+                "token": "אֶ֥רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " the earth "
+            },
+            {
+                "token": "וְשָׁמָֽיִם׃",
+                "transliteration": "wə·šā·mā·yim",
+                "strong": "8064",
+                "translation": " and the heavens . "
+            }
+        ],
+        "verse_reference": "Psalm 148:13",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיָּ֤רֶם",
+                "transliteration": "way·yā·rem",
+                "strong": "7311",
+                "translation": " He has raised up "
+            },
+            {
+                "token": "קֶ֨רֶן׀",
+                "transliteration": "qe·ren",
+                "strong": "7161",
+                "translation": " a horn "
+            },
+            {
+                "token": "לְעַמּ֡וֹ",
+                "transliteration": "lə·‘am·mōw",
+                "strong": "5971",
+                "translation": " for His people , "
+            },
+            {
+                "token": "תְּהִלָּ֤ה",
+                "transliteration": "tə·hil·lāh",
+                "strong": "8416",
+                "translation": " the praise "
+            },
+            {
+                "token": "לְֽכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " of all "
+            },
+            {
+                "token": "חֲסִידָ֗יו",
+                "transliteration": "ḥă·sî·ḏāw",
+                "strong": "2623",
+                "translation": " His saints , "
+            },
+            {
+                "token": "לִבְנֵ֣י",
+                "transliteration": "liḇ·nê",
+                "strong": "1121",
+                "translation": " of Israel "
+            },
+            {
+                "token": "יִ֭שְׂרָאֵל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " . . . , "
+            },
+            {
+                "token": "עַֽם־",
+                "transliteration": "‘am-",
+                "strong": "5971",
+                "translation": " a people "
+            },
+            {
+                "token": "קְרֹב֗וֹ",
+                "transliteration": "qə·rō·ḇōw",
+                "strong": "7138",
+                "translation": " near to Him . "
+            },
+            {
+                "token": "הַֽלְלוּ־",
+                "transliteration": "hal·lū-",
+                "strong": "1984",
+                "translation": " Hallelujah "
+            },
+            {
+                "token": "יָֽהּ׃",
+                "transliteration": "yāh",
+                "strong": "3050",
+                "translation": " . . . ! "
+            }
+        ],
+        "verse_reference": "Psalm 148:14",
+        "book": "Psalm",
+        "chapter": "148",
+        "verse": "14"
+    }
+]

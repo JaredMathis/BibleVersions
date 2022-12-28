@@ -1,0 +1,5218 @@
+[
+    {
+        "tokens": [
+            {
+                "token": "וַיְהִ֣י׀",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " - "
+            },
+            {
+                "token": "הַשְּׁבִיעִ֗ית",
+                "transliteration": "haš·šə·ḇî·‘îṯ",
+                "strong": "7637",
+                "translation": " In the seventh "
+            },
+            {
+                "token": "בַּשָּׁנָ֣ה",
+                "transliteration": "baš·šā·nāh",
+                "strong": "8141",
+                "translation": " year , "
+            },
+            {
+                "token": "בֶּעָשׂ֣וֹר",
+                "transliteration": "be·‘ā·śō·wr",
+                "strong": "6218",
+                "translation": " on the tenth "
+            },
+            {
+                "token": "לַחֹ֔דֶשׁ",
+                "transliteration": "la·ḥō·ḏeš",
+                "strong": "2320",
+                "translation": " day "
+            },
+            {
+                "token": "בַּֽחֲמִשִׁי֙",
+                "transliteration": "ba·ḥă·mi·šî",
+                "strong": "2549",
+                "translation": " of the fifth month , "
+            },
+            {
+                "token": "מִזִּקְנֵ֥י",
+                "transliteration": "miz·ziq·nê",
+                "strong": "2205",
+                "translation": " some of the elders "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "בָּ֧אוּ",
+                "transliteration": "bā·’ū",
+                "strong": "935",
+                "translation": " came "
+            },
+            {
+                "token": "אֲנָשִׁ֛ים",
+                "transliteration": "’ă·nā·šîm",
+                "strong": "582",
+                "translation": " . . . "
+            },
+            {
+                "token": "לִדְרֹ֣שׁ",
+                "transliteration": "liḏ·rōš",
+                "strong": "1875",
+                "translation": " to inquire "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD , "
+            },
+            {
+                "token": "וַיֵּשְׁב֖וּ",
+                "transliteration": "way·yê·šə·ḇū",
+                "strong": "3427",
+                "translation": " and they sat down "
+            },
+            {
+                "token": "לְפָנָֽי׃ס",
+                "transliteration": "lə·p̄ā·nāy",
+                "strong": "6440",
+                "translation": " before me . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:1",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דְבַר־",
+                "transliteration": "ḏə·ḇar-",
+                "strong": "1697",
+                "translation": " Then the word "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וַיְהִ֥י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "אֵלַ֥י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to me , "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " saying , "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:2",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " “ Son "
+            },
+            {
+                "token": "אָדָ֗ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " of man , "
+            },
+            {
+                "token": "דַּבֵּ֞ר",
+                "transliteration": "dab·bêr",
+                "strong": "1696",
+                "translation": " speak "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " - "
+            },
+            {
+                "token": "זִקְנֵ֤י",
+                "transliteration": "ziq·nê",
+                "strong": "2205",
+                "translation": " to the elders "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וְאָמַרְתָּ֣",
+                "transliteration": "wə·’ā·mar·tā",
+                "strong": "559",
+                "translation": " and tell "
+            },
+            {
+                "token": "אֲלֵהֶ֔ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " them "
+            },
+            {
+                "token": "כֹּ֤ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " that this is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "אָמַר֙",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "אַתֶּ֣ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " Have you "
+            },
+            {
+                "token": "בָּאִ֑ים",
+                "transliteration": "bā·’îm",
+                "strong": "935",
+                "translation": " come "
+            },
+            {
+                "token": "הֲלִדְרֹ֥שׁ",
+                "transliteration": "hă·liḏ·rōš",
+                "strong": "1875",
+                "translation": " to inquire "
+            },
+            {
+                "token": "אֹתִ֖י",
+                "transliteration": "’ō·ṯî",
+                "strong": "853",
+                "translation": " of Me ? "
+            },
+            {
+                "token": "אָ֙נִי֙",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " As surely as "
+            },
+            {
+                "token": "חַי־",
+                "transliteration": "ḥay-",
+                "strong": "2416",
+                "translation": " I live , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " I will not "
+            },
+            {
+                "token": "אִדָּרֵ֣שׁ",
+                "transliteration": "’id·dā·rêš",
+                "strong": "1875",
+                "translation": " be consulted "
+            },
+            {
+                "token": "לָכֶ֔ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " by you , "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֥י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:3",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הֲתִשְׁפֹּ֣ט",
+                "transliteration": "hă·ṯiš·pōṭ",
+                "strong": "8199",
+                "translation": " Will you judge "
+            },
+            {
+                "token": "אֹתָ֔ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them , "
+            },
+            {
+                "token": "הֲתִשְׁפּ֖וֹט",
+                "transliteration": "hă·ṯiš·pō·wṭ",
+                "strong": "8199",
+                "translation": " will you judge [them] , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "אָדָ֑ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " of man ? "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הוֹדִיעֵֽם׃",
+                "transliteration": "hō·w·ḏî·‘êm",
+                "strong": "3045",
+                "translation": " Confront them with "
+            },
+            {
+                "token": "תּוֹעֲבֹ֥ת",
+                "transliteration": "tō·w·‘ă·ḇōṯ",
+                "strong": "8441",
+                "translation": " the abominations "
+            },
+            {
+                "token": "אֲבוֹתָ֖ם",
+                "transliteration": "’ă·ḇō·w·ṯām",
+                "strong": "1",
+                "translation": " of their fathers "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:4",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָמַרְתָּ֣",
+                "transliteration": "wə·’ā·mar·tā",
+                "strong": "559",
+                "translation": " and tell "
+            },
+            {
+                "token": "אֲלֵיהֶ֗ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " them "
+            },
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " that this is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִה֒",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "אָמַר֮",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "בְּיוֹם֙",
+                "transliteration": "bə·yō·wm",
+                "strong": "3117",
+                "translation": " On the day "
+            },
+            {
+                "token": "בָּחֳרִ֣י",
+                "transliteration": "bā·ḥo·rî",
+                "strong": "977",
+                "translation": " I chose "
+            },
+            {
+                "token": "בְיִשְׂרָאֵ֔ל",
+                "transliteration": "ḇə·yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " Israel , "
+            },
+            {
+                "token": "וָאֶשָּׂ֣א",
+                "transliteration": "wā·’eś·śā",
+                "strong": "5375",
+                "translation": " I swore an oath "
+            },
+            {
+                "token": "יָדִ֗י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְזֶ֙רַע֙",
+                "transliteration": "lə·ze·ra‘",
+                "strong": "2233",
+                "translation": " to the descendants "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " of the house "
+            },
+            {
+                "token": "יַֽעֲקֹ֔ב",
+                "transliteration": "ya·‘ă·qōḇ",
+                "strong": "3290",
+                "translation": " of Jacob "
+            },
+            {
+                "token": "וָאִוָּדַ֥ע",
+                "transliteration": "wā·’iw·wā·ḏa‘",
+                "strong": "3045",
+                "translation": " and made Myself known "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " to them "
+            },
+            {
+                "token": "בְּאֶ֣רֶץ",
+                "transliteration": "bə·’e·reṣ",
+                "strong": "776",
+                "translation": " in the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            },
+            {
+                "token": "וָאֶשָּׂ֨א",
+                "transliteration": "wā·’eś·śā",
+                "strong": "5375",
+                "translation": " With an uplifted "
+            },
+            {
+                "token": "יָדִ֤י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " hand "
+            },
+            {
+                "token": "לֵאמֹ֔ר",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " I said "
+            },
+            {
+                "token": "לָהֶם֙",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " to them , "
+            },
+            {
+                "token": "אֲנִ֖י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " ‘ I "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹהֵיכֶֽם׃",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God . ’ "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:5",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַה֗וּא",
+                "transliteration": "ha·hū",
+                "strong": "1931",
+                "translation": " On that "
+            },
+            {
+                "token": "בַּיּ֣וֹם",
+                "transliteration": "bay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "נָשָׂ֤אתִי",
+                "transliteration": "nā·śā·ṯî",
+                "strong": "5375",
+                "translation": " I swore "
+            },
+            {
+                "token": "יָדִי֙",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " . . . "
+            },
+            {
+                "token": "לָהֶ֔ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " - "
+            },
+            {
+                "token": "לְהֽוֹצִיאָ֖ם",
+                "transliteration": "lə·hō·w·ṣî·’ām",
+                "strong": "3318",
+                "translation": " to bring them "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "אֶ֜רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " a land "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "תַּ֣רְתִּי",
+                "transliteration": "tar·tî",
+                "strong": "8446",
+                "translation": " I had searched out "
+            },
+            {
+                "token": "לָהֶ֗ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " for them , "
+            },
+            {
+                "token": "זָבַ֤ת",
+                "transliteration": "zā·ḇaṯ",
+                "strong": "2100",
+                "translation": " a land flowing "
+            },
+            {
+                "token": "חָלָב֙",
+                "transliteration": "ḥā·lāḇ",
+                "strong": "2461",
+                "translation": " with milk "
+            },
+            {
+                "token": "וּדְבַ֔שׁ",
+                "transliteration": "ū·ḏə·ḇaš",
+                "strong": "1706",
+                "translation": " and honey , "
+            },
+            {
+                "token": "צְבִ֥י",
+                "transliteration": "ṣə·ḇî",
+                "strong": "6643",
+                "translation": " the glory "
+            },
+            {
+                "token": "הִ֖יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " of all "
+            },
+            {
+                "token": "הָאֲרָצֽוֹת׃",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " lands . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:6",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֹמַ֣ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " And I said "
+            },
+            {
+                "token": "אֲלֵהֶ֗ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " to them : "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " ‘ Each of you "
+            },
+            {
+                "token": "הַשְׁלִ֔יכוּ",
+                "transliteration": "haš·lî·ḵū",
+                "strong": "7993",
+                "translation": " must throw away "
+            },
+            {
+                "token": "שִׁקּוּצֵ֤י",
+                "transliteration": "šiq·qū·ṣê",
+                "strong": "8251",
+                "translation": " the abominations "
+            },
+            {
+                "token": "עֵינָיו֙",
+                "transliteration": "‘ê·nāw",
+                "strong": "5869",
+                "translation": " before his eyes , "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " and you must not "
+            },
+            {
+                "token": "תִּטַּמָּ֑אוּ",
+                "transliteration": "tiṭ·ṭam·mā·’ū",
+                "strong": "2930",
+                "translation": " defile yourselves "
+            },
+            {
+                "token": "וּבְגִלּוּלֵ֥י",
+                "transliteration": "ū·ḇə·ḡil·lū·lê",
+                "strong": "1544",
+                "translation": " with the idols "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            },
+            {
+                "token": "אֲנִ֖י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֥ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹהֵיכֶֽם׃",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God . ’ "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:7",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַיַּמְרוּ־",
+                "transliteration": "way·yam·rū-",
+                "strong": "4784",
+                "translation": " But they rebelled "
+            },
+            {
+                "token": "בִ֗י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " against Me "
+            },
+            {
+                "token": "וְלֹ֤א",
+                "transliteration": "wə·lō",
+                "strong": "3808",
+                "translation": " and refused "
+            },
+            {
+                "token": "אָבוּ֙",
+                "transliteration": "’ā·ḇū",
+                "strong": "14",
+                "translation": " . . . "
+            },
+            {
+                "token": "לִּשְׁמֹ֣עַ",
+                "transliteration": "liš·mō·a‘",
+                "strong": "8085",
+                "translation": " to listen "
+            },
+            {
+                "token": "אֵלַ֔י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " - . "
+            },
+            {
+                "token": "אִ֣ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " None of them "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " - "
+            },
+            {
+                "token": "הִשְׁלִ֔יכוּ",
+                "transliteration": "hiš·lî·ḵū",
+                "strong": "7993",
+                "translation": " cast away "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שִׁקּוּצֵ֤י",
+                "transliteration": "šiq·qū·ṣê",
+                "strong": "8251",
+                "translation": " the abominations "
+            },
+            {
+                "token": "עֵֽינֵיהֶם֙",
+                "transliteration": "‘ê·nê·hem",
+                "strong": "5869",
+                "translation": " before their eyes , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and they did not "
+            },
+            {
+                "token": "עָזָ֑בוּ",
+                "transliteration": "‘ā·zā·ḇū",
+                "strong": "5800",
+                "translation": " forsake "
+            },
+            {
+                "token": "גִּלּוּלֵ֥י",
+                "transliteration": "gil·lū·lê",
+                "strong": "1544",
+                "translation": " the idols "
+            },
+            {
+                "token": "מִצְרַ֖יִם",
+                "transliteration": "miṣ·ra·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            },
+            {
+                "token": "וָאֹמַ֞ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " So I resolved "
+            },
+            {
+                "token": "לִשְׁפֹּ֧ךְ",
+                "transliteration": "liš·pōḵ",
+                "strong": "8210",
+                "translation": " to pour out "
+            },
+            {
+                "token": "חֲמָתִ֣י",
+                "transliteration": "ḥă·mā·ṯî",
+                "strong": "2534",
+                "translation": " My wrath "
+            },
+            {
+                "token": "עֲלֵיהֶ֗ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " upon them "
+            },
+            {
+                "token": "לְכַלּ֤וֹת",
+                "transliteration": "lə·ḵal·lō·wṯ",
+                "strong": "3615",
+                "translation": " and vent "
+            },
+            {
+                "token": "אַפִּי֙",
+                "transliteration": "’ap·pî",
+                "strong": "639",
+                "translation": " My anger "
+            },
+            {
+                "token": "בָּהֶ֔ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " against them "
+            },
+            {
+                "token": "בְּת֖וֹךְ",
+                "transliteration": "bə·ṯō·wḵ",
+                "strong": "8432",
+                "translation": " in "
+            },
+            {
+                "token": "אֶ֥רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:8",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאַ֙עַשׂ֙",
+                "transliteration": "wā·’a·‘aś",
+                "strong": "6213",
+                "translation": " But I acted "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמִ֔י",
+                "transliteration": "šə·mî",
+                "strong": "8034",
+                "translation": " of My name , "
+            },
+            {
+                "token": "לְבִלְתִּ֥י",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " that it should not "
+            },
+            {
+                "token": "הֵחֵ֛ל",
+                "transliteration": "hê·ḥêl",
+                "strong": "2490",
+                "translation": " be profaned "
+            },
+            {
+                "token": "לְעֵינֵ֥י",
+                "transliteration": "lə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the eyes "
+            },
+            {
+                "token": "הַגּוֹיִ֖ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " among whom "
+            },
+            {
+                "token": "הֵ֣מָּה",
+                "transliteration": "hêm·māh",
+                "strong": "1992",
+                "translation": " they were living "
+            },
+            {
+                "token": "בְתוֹכָ֑ם",
+                "transliteration": "ḇə·ṯō·w·ḵām",
+                "strong": "8432",
+                "translation": " . . . , "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " in whose "
+            },
+            {
+                "token": "לְעֵ֣ינֵיהֶ֔ם",
+                "transliteration": "lə·‘ê·nê·hem",
+                "strong": "5869",
+                "translation": " sight "
+            },
+            {
+                "token": "נוֹדַ֤עְתִּי",
+                "transliteration": "nō·w·ḏa‘·tî",
+                "strong": "3045",
+                "translation": " I had revealed Myself "
+            },
+            {
+                "token": "אֲלֵיהֶם֙",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " to [Israel] "
+            },
+            {
+                "token": "לְהוֹצִיאָ֖ם",
+                "transliteration": "lə·hō·w·ṣî·’ām",
+                "strong": "3318",
+                "translation": " by bringing them "
+            },
+            {
+                "token": "מֵאֶ֥רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָֽיִם׃",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:9",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֽוֹצִיאֵ֖ם",
+                "transliteration": "wā·’ō·w·ṣî·’êm",
+                "strong": "3318",
+                "translation": " So I brought them "
+            },
+            {
+                "token": "מֵאֶ֣רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " out of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt "
+            },
+            {
+                "token": "וָאֲבִאֵ֖ם",
+                "transliteration": "wā·’ă·ḇi·’êm",
+                "strong": "935",
+                "translation": " and led them "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הַמִּדְבָּֽר׃",
+                "transliteration": "ham·miḏ·bār",
+                "strong": "4057",
+                "translation": " the wilderness . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:10",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֶתֵּ֤ן",
+                "transliteration": "wā·’et·tên",
+                "strong": "5414",
+                "translation": " And I gave "
+            },
+            {
+                "token": "לָהֶם֙",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "חֻקּוֹתַ֔י",
+                "transliteration": "ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " My statutes "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "הוֹדַ֣עְתִּי",
+                "transliteration": "hō·w·ḏa‘·tî",
+                "strong": "3045",
+                "translation": " and made known "
+            },
+            {
+                "token": "אוֹתָ֑ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " to them "
+            },
+            {
+                "token": "מִשְׁפָּטַ֖י",
+                "transliteration": "miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances — "
+            },
+            {
+                "token": "הָאָדָ֖ם",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " for the man "
+            },
+            {
+                "token": "אֲשֶׁ֨ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יַעֲשֶׂ֥ה",
+                "transliteration": "ya·‘ă·śeh",
+                "strong": "6213",
+                "translation": " does [these things] "
+            },
+            {
+                "token": "אוֹתָ֛ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וָחַ֥י",
+                "transliteration": "wā·ḥay",
+                "strong": "2421",
+                "translation": " will live "
+            },
+            {
+                "token": "בָּהֶֽם׃",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " by them . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:11",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְגַ֤ם",
+                "transliteration": "wə·ḡam",
+                "strong": "1571",
+                "translation": " I also "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נָתַ֣תִּי",
+                "transliteration": "nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " gave "
+            },
+            {
+                "token": "לָהֶ֔ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "שַׁבְּתוֹתַי֙",
+                "transliteration": "šab·bə·ṯō·w·ṯay",
+                "strong": "7676",
+                "translation": " My Sabbaths "
+            },
+            {
+                "token": "לִהְי֣וֹת",
+                "transliteration": "lih·yō·wṯ",
+                "strong": "1961",
+                "translation": " vvv "
+            },
+            {
+                "token": "לְא֔וֹת",
+                "transliteration": "lə·’ō·wṯ",
+                "strong": "226",
+                "translation": " as a sign "
+            },
+            {
+                "token": "בֵּינִ֖י",
+                "transliteration": "bê·nî",
+                "strong": "996",
+                "translation": " between us "
+            },
+            {
+                "token": "וּבֵֽינֵיהֶ֑ם",
+                "transliteration": "ū·ḇê·nê·hem",
+                "strong": "996",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לָדַ֕עַת",
+                "transliteration": "lā·ḏa·‘aṯ",
+                "strong": "3045",
+                "translation": " so that they would know "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "מְקַדְּשָֽׁם׃",
+                "transliteration": "mə·qad·də·šām",
+                "strong": "6942",
+                "translation": " who sanctifies them . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:12",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בֵֽית־",
+                "transliteration": "ḇêṯ-",
+                "strong": "1004",
+                "translation": " Yet the house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֜ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "וַיַּמְרוּ־",
+                "transliteration": "way·yam·rū-",
+                "strong": "4784",
+                "translation": " rebelled "
+            },
+            {
+                "token": "בִ֨י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " against Me "
+            },
+            {
+                "token": "בַּמִּדְבָּ֗ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness . "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " They did not "
+            },
+            {
+                "token": "הָלָ֜כוּ",
+                "transliteration": "hā·lā·ḵū",
+                "strong": "1980",
+                "translation": " follow "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּחֻקּוֹתַ֨י",
+                "transliteration": "bə·ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " My statutes "
+            },
+            {
+                "token": "מָאָ֗סוּ",
+                "transliteration": "mā·’ā·sū",
+                "strong": "3988",
+                "translation": " and they rejected "
+            },
+            {
+                "token": "מִשְׁפָּטַ֣י",
+                "transliteration": "miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances — "
+            },
+            {
+                "token": "הָֽאָדָם֙",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " though the man "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יַעֲשֶׂ֨ה",
+                "transliteration": "ya·‘ă·śeh",
+                "strong": "6213",
+                "translation": " does [these things] "
+            },
+            {
+                "token": "אֹתָ֤ם",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וָחַ֣י",
+                "transliteration": "wā·ḥay",
+                "strong": "2421",
+                "translation": " will live "
+            },
+            {
+                "token": "בָּהֶ֔ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " by them — "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and they "
+            },
+            {
+                "token": "מְאֹ֑ד",
+                "transliteration": "mə·’ōḏ",
+                "strong": "3966",
+                "translation": " utterly "
+            },
+            {
+                "token": "חִלְּל֣וּ",
+                "transliteration": "ḥil·lə·lū",
+                "strong": "2490",
+                "translation": " profaned "
+            },
+            {
+                "token": "שַׁבְּתֹתַ֖י",
+                "transliteration": "šab·bə·ṯō·ṯay",
+                "strong": "7676",
+                "translation": " My Sabbaths . "
+            },
+            {
+                "token": "וָאֹמַ֞ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " Then I resolved "
+            },
+            {
+                "token": "לִשְׁפֹּ֨ךְ",
+                "transliteration": "liš·pōḵ",
+                "strong": "8210",
+                "translation": " to pour "
+            },
+            {
+                "token": "חֲמָתִ֧י",
+                "transliteration": "ḥă·mā·ṯî",
+                "strong": "2534",
+                "translation": " out My wrath "
+            },
+            {
+                "token": "עֲלֵיהֶ֛ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " upon them "
+            },
+            {
+                "token": "לְכַלּוֹתָֽם׃",
+                "transliteration": "lə·ḵal·lō·w·ṯām",
+                "strong": "3615",
+                "translation": " and put an end to them "
+            },
+            {
+                "token": "בַּמִּדְבָּ֖ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:13",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֶעֱשֶׂ֖ה",
+                "transliteration": "wā·’e·‘ĕ·śeh",
+                "strong": "6213",
+                "translation": " But I acted "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמִ֑י",
+                "transliteration": "šə·mî",
+                "strong": "8034",
+                "translation": " of My name , "
+            },
+            {
+                "token": "לְבִלְתִּ֤י",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " so that it would not "
+            },
+            {
+                "token": "הֵחֵל֙",
+                "transliteration": "hê·ḥêl",
+                "strong": "2490",
+                "translation": " be profaned "
+            },
+            {
+                "token": "לְעֵינֵ֣י",
+                "transliteration": "lə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the eyes "
+            },
+            {
+                "token": "הַגּוֹיִ֔ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " in whose "
+            },
+            {
+                "token": "לְעֵינֵיהֶֽם׃",
+                "transliteration": "lə·‘ê·nê·hem",
+                "strong": "5869",
+                "translation": " sight "
+            },
+            {
+                "token": "הוֹצֵאתִ֖ים",
+                "transliteration": "hō·w·ṣê·ṯîm",
+                "strong": "3318",
+                "translation": " I had brought them out . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:14",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " Moreover , "
+            },
+            {
+                "token": "יָדִ֛י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " with an uplifted hand "
+            },
+            {
+                "token": "אֲנִ֗י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "נָשָׂ֧אתִי",
+                "transliteration": "nā·śā·ṯî",
+                "strong": "5375",
+                "translation": " swore "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " to them "
+            },
+            {
+                "token": "בַּמִּדְבָּ֑ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness "
+            },
+            {
+                "token": "לְבִלְתִּי֩",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " that I would not "
+            },
+            {
+                "token": "הָבִ֨יא",
+                "transliteration": "hā·ḇî",
+                "strong": "935",
+                "translation": " bring "
+            },
+            {
+                "token": "אוֹתָ֜ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הָאָ֣רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נָתַ֗תִּי",
+                "transliteration": "nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " I had given [them] — "
+            },
+            {
+                "token": "זָבַ֤ת",
+                "transliteration": "zā·ḇaṯ",
+                "strong": "2100",
+                "translation": " [a land] flowing "
+            },
+            {
+                "token": "חָלָב֙",
+                "transliteration": "ḥā·lāḇ",
+                "strong": "2461",
+                "translation": " with milk "
+            },
+            {
+                "token": "וּדְבַ֔שׁ",
+                "transliteration": "ū·ḏə·ḇaš",
+                "strong": "1706",
+                "translation": " and honey , "
+            },
+            {
+                "token": "צְבִ֥י",
+                "transliteration": "ṣə·ḇî",
+                "strong": "6643",
+                "translation": " the glory "
+            },
+            {
+                "token": "הִ֖יא",
+                "transliteration": "hî",
+                "strong": "1931",
+                "translation": " . . . "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " of all "
+            },
+            {
+                "token": "הָאֲרָצֽוֹת׃",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " lands — "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:15",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַ֜עַן",
+                "transliteration": "ya·‘an",
+                "strong": "3282",
+                "translation": " because "
+            },
+            {
+                "token": "מָאָ֗סוּ",
+                "transliteration": "mā·’ā·sū",
+                "strong": "3988",
+                "translation": " they kept rejecting "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּמִשְׁפָּטַ֣י",
+                "transliteration": "bə·miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances , "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " refusing "
+            },
+            {
+                "token": "הָלְכ֣וּ",
+                "transliteration": "hā·lə·ḵū",
+                "strong": "1980",
+                "translation": " to walk "
+            },
+            {
+                "token": "בָהֶ֔ם",
+                "transliteration": "ḇā·hem",
+                "strong": "",
+                "translation": " in "
+            },
+            {
+                "token": "חֻקּוֹתַי֙",
+                "transliteration": "ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " My statutes , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " and "
+            },
+            {
+                "token": "חִלֵּ֑לוּ",
+                "transliteration": "ḥil·lê·lū",
+                "strong": "2490",
+                "translation": " profaning "
+            },
+            {
+                "token": "שַׁבְּתוֹתַ֖י",
+                "transliteration": "šab·bə·ṯō·w·ṯay",
+                "strong": "7676",
+                "translation": " My Sabbaths ; "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " for "
+            },
+            {
+                "token": "לִבָּ֥ם",
+                "transliteration": "lib·bām",
+                "strong": "3820",
+                "translation": " their hearts "
+            },
+            {
+                "token": "הֹלֵֽךְ׃",
+                "transliteration": "hō·lêḵ",
+                "strong": "1980",
+                "translation": " continually went "
+            },
+            {
+                "token": "אַחֲרֵ֥י",
+                "transliteration": "’a·ḥă·rê",
+                "strong": "310",
+                "translation": " after "
+            },
+            {
+                "token": "גִלּוּלֵיהֶ֖ם",
+                "transliteration": "ḡil·lū·lê·hem",
+                "strong": "1544",
+                "translation": " their idols . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:16",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַתָּ֧חָס",
+                "transliteration": "wat·tā·ḥās",
+                "strong": "2347",
+                "translation": " Yet I looked on them with pity "
+            },
+            {
+                "token": "עֵינִ֛י",
+                "transliteration": "‘ê·nî",
+                "strong": "5869",
+                "translation": " . . . "
+            },
+            {
+                "token": "עֲלֵיהֶ֖ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " . . . "
+            },
+            {
+                "token": "מִֽשַּׁחֲתָ֑ם",
+                "transliteration": "miš·ša·ḥă·ṯām",
+                "strong": "7843",
+                "translation": " and did not destroy them "
+            },
+            {
+                "token": "וְלֹֽא־",
+                "transliteration": "wə·lō-",
+                "strong": "3808",
+                "translation": " or "
+            },
+            {
+                "token": "עָשִׂ֧יתִי",
+                "transliteration": "‘ā·śî·ṯî",
+                "strong": "6213",
+                "translation": " bring "
+            },
+            {
+                "token": "אוֹתָ֛ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "כָּלָ֖ה",
+                "transliteration": "kā·lāh",
+                "strong": "3617",
+                "translation": " to an end "
+            },
+            {
+                "token": "בַּמִּדְבָּֽר׃",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:17",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בַּמִּדְבָּ֔ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " In the wilderness "
+            },
+            {
+                "token": "וָאֹמַ֤ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " I said "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בְּנֵיהֶם֙",
+                "transliteration": "bə·nê·hem",
+                "strong": "1121",
+                "translation": " their children : "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " ‘ Do not "
+            },
+            {
+                "token": "תֵּלֵ֔כוּ",
+                "transliteration": "tê·lê·ḵū",
+                "strong": "1980",
+                "translation": " walk "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּחוּקֵּ֤י",
+                "transliteration": "bə·ḥūq·qê",
+                "strong": "2706",
+                "translation": " in the statutes "
+            },
+            {
+                "token": "אֲבֽוֹתֵיכֶם֙",
+                "transliteration": "’ă·ḇō·w·ṯê·ḵem",
+                "strong": "1",
+                "translation": " of your fathers "
+            },
+            {
+                "token": "תִּשְׁמֹ֑רוּ",
+                "transliteration": "tiš·mō·rū",
+                "strong": "8104",
+                "translation": " or keep "
+            },
+            {
+                "token": "מִשְׁפְּטֵיהֶ֖ם",
+                "transliteration": "miš·pə·ṭê·hem",
+                "strong": "4941",
+                "translation": " their ordinances "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " . . . "
+            },
+            {
+                "token": "תִּטַּמָּֽאוּ׃",
+                "transliteration": "tiṭ·ṭam·mā·’ū",
+                "strong": "2930",
+                "translation": " or defile "
+            },
+            {
+                "token": "וּבְגִלּוּלֵיהֶ֖ם",
+                "transliteration": "ū·ḇə·ḡil·lū·lê·hem",
+                "strong": "1544",
+                "translation": " yourselves with their idols "
+            },
+            {
+                "token": "אַל־",
+                "transliteration": "’al-",
+                "strong": "408",
+                "translation": " . . . . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:18",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנִי֙",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֣ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹהֵיכֶ֔ם",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God ; "
+            },
+            {
+                "token": "לֵ֑כוּ",
+                "transliteration": "lê·ḵū",
+                "strong": "1980",
+                "translation": " walk "
+            },
+            {
+                "token": "בְּחֻקּוֹתַ֖י",
+                "transliteration": "bə·ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " in My statutes , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שִׁמְר֖וּ",
+                "transliteration": "šim·rū",
+                "strong": "8104",
+                "translation": " keep "
+            },
+            {
+                "token": "מִשְׁפָּטַ֥י",
+                "transliteration": "miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances , "
+            },
+            {
+                "token": "וַעֲשׂ֥וּ",
+                "transliteration": "wa·‘ă·śū",
+                "strong": "6213",
+                "translation": " and practice them "
+            },
+            {
+                "token": "אוֹתָֽם׃",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:19",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "שַׁבְּתוֹתַ֖י",
+                "transliteration": "šab·bə·ṯō·w·ṯay",
+                "strong": "7676",
+                "translation": " Keep My Sabbaths "
+            },
+            {
+                "token": "קַדֵּ֑שׁוּ",
+                "transliteration": "qad·dê·šū",
+                "strong": "6942",
+                "translation": " holy , "
+            },
+            {
+                "token": "וְהָי֤וּ",
+                "transliteration": "wə·hā·yū",
+                "strong": "1961",
+                "translation": " that they may be "
+            },
+            {
+                "token": "לְאוֹת֙",
+                "transliteration": "lə·’ō·wṯ",
+                "strong": "226",
+                "translation": " a sign "
+            },
+            {
+                "token": "בֵּינִ֣י",
+                "transliteration": "bê·nî",
+                "strong": "996",
+                "translation": " between us "
+            },
+            {
+                "token": "וּבֵֽינֵיכֶ֔ם",
+                "transliteration": "ū·ḇê·nê·ḵem",
+                "strong": "996",
+                "translation": " . . . , "
+            },
+            {
+                "token": "לָדַ֕עַת",
+                "transliteration": "lā·ḏa·‘aṯ",
+                "strong": "3045",
+                "translation": " so that you may know "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD "
+            },
+            {
+                "token": "אֱלֹהֵיכֶֽם׃",
+                "transliteration": "’ĕ·lō·hê·ḵem",
+                "strong": "430",
+                "translation": " your God . ’ "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:20",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            {
+                "token": "הַבָּנִ֗ים",
+                "transliteration": "hab·bā·nîm",
+                "strong": "1121",
+                "translation": " But the children "
+            },
+            {
+                "token": "וַיַּמְרוּ־",
+                "transliteration": "way·yam·rū-",
+                "strong": "4784",
+                "translation": " rebelled "
+            },
+            {
+                "token": "בִ֣י",
+                "transliteration": "ḇî",
+                "strong": "",
+                "translation": " against Me . "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " They did not "
+            },
+            {
+                "token": "הָ֠לָכוּ",
+                "transliteration": "hā·lā·ḵū",
+                "strong": "1980",
+                "translation": " walk "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּחֻקּוֹתַ֣י",
+                "transliteration": "bə·ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " in My statutes "
+            },
+            {
+                "token": "שָׁמְר֜וּ",
+                "transliteration": "šā·mə·rū",
+                "strong": "8104",
+                "translation": " or carefully "
+            },
+            {
+                "token": "לַעֲשׂ֣וֹת",
+                "transliteration": "la·‘ă·śō·wṯ",
+                "strong": "6213",
+                "translation": " observe "
+            },
+            {
+                "token": "אוֹתָ֗ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִשְׁפָּטַ֨י",
+                "transliteration": "miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances "
+            },
+            {
+                "token": "לֹא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " . . . — "
+            },
+            {
+                "token": "הָֽאָדָם֙",
+                "transliteration": "hā·’ā·ḏām",
+                "strong": "120",
+                "translation": " though the man "
+            },
+            {
+                "token": "אֲשֶׁר֩",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " who "
+            },
+            {
+                "token": "יַעֲשֶׂ֨ה",
+                "transliteration": "ya·‘ă·śeh",
+                "strong": "6213",
+                "translation": " does [these things] "
+            },
+            {
+                "token": "אוֹתָ֤ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וָחַ֣י",
+                "transliteration": "wā·ḥay",
+                "strong": "2421",
+                "translation": " will live "
+            },
+            {
+                "token": "בָּהֶ֔ם",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " by them — "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "חִלֵּ֑לוּ",
+                "transliteration": "ḥil·lê·lū",
+                "strong": "2490",
+                "translation": " and they profaned "
+            },
+            {
+                "token": "שַׁבְּתוֹתַ֖י",
+                "transliteration": "šab·bə·ṯō·w·ṯay",
+                "strong": "7676",
+                "translation": " My Sabbaths . "
+            },
+            {
+                "token": "וָאֹמַ֞ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " So I resolved "
+            },
+            {
+                "token": "לִשְׁפֹּ֧ךְ",
+                "transliteration": "liš·pōḵ",
+                "strong": "8210",
+                "translation": " to pour "
+            },
+            {
+                "token": "חֲמָתִ֣י",
+                "transliteration": "ḥă·mā·ṯî",
+                "strong": "2534",
+                "translation": " out My wrath "
+            },
+            {
+                "token": "עֲלֵיהֶ֗ם",
+                "transliteration": "‘ă·lê·hem",
+                "strong": "5921",
+                "translation": " upon them "
+            },
+            {
+                "token": "לְכַלּ֥וֹת",
+                "transliteration": "lə·ḵal·lō·wṯ",
+                "strong": "3615",
+                "translation": " and vent "
+            },
+            {
+                "token": "אַפִּ֛י",
+                "transliteration": "’ap·pî",
+                "strong": "639",
+                "translation": " My anger "
+            },
+            {
+                "token": "בָּ֖ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " against them "
+            },
+            {
+                "token": "בַּמִּדְבָּֽר׃",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:21",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וַהֲשִׁבֹ֙תִי֙",
+                "transliteration": "wa·hă·ši·ḇō·ṯî",
+                "strong": "7725",
+                "translation": " But I withheld "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָדִ֔י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " My hand "
+            },
+            {
+                "token": "וָאַ֖עַשׂ",
+                "transliteration": "wā·’a·‘aś",
+                "strong": "6213",
+                "translation": " and acted "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמִ֑י",
+                "transliteration": "šə·mî",
+                "strong": "8034",
+                "translation": " of My name , "
+            },
+            {
+                "token": "לְבִלְתִּ֤י",
+                "transliteration": "lə·ḇil·tî",
+                "strong": "1115",
+                "translation": " so that it would not "
+            },
+            {
+                "token": "הֵחֵל֙",
+                "transliteration": "hê·ḥêl",
+                "strong": "2490",
+                "translation": " be profaned "
+            },
+            {
+                "token": "לְעֵינֵ֣י",
+                "transliteration": "lə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the eyes "
+            },
+            {
+                "token": "הַגּוֹיִ֔ם",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " in whose "
+            },
+            {
+                "token": "לְעֵינֵיהֶֽם׃",
+                "transliteration": "lə·‘ê·nê·hem",
+                "strong": "5869",
+                "translation": " sight "
+            },
+            {
+                "token": "הוֹצֵ֥אתִי",
+                "transliteration": "hō·w·ṣê·ṯî",
+                "strong": "3318",
+                "translation": " I had brought them out "
+            },
+            {
+                "token": "אוֹתָ֖ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:22",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            {
+                "token": "גַּם־",
+                "transliteration": "gam-",
+                "strong": "1571",
+                "translation": " However , "
+            },
+            {
+                "token": "אֲנִ֗י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " vvv "
+            },
+            {
+                "token": "נָשָׂ֧אתִי",
+                "transliteration": "nā·śā·ṯî",
+                "strong": "5375",
+                "translation": " with an uplifted hand I swore "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָדִ֛י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " - "
+            },
+            {
+                "token": "לָהֶ֖ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " to them "
+            },
+            {
+                "token": "בַּמִּדְבָּ֑ר",
+                "transliteration": "bam·miḏ·bār",
+                "strong": "4057",
+                "translation": " in the wilderness "
+            },
+            {
+                "token": "לְהָפִ֤יץ",
+                "transliteration": "lə·hā·p̄îṣ",
+                "strong": "6327",
+                "translation": " that I would scatter "
+            },
+            {
+                "token": "אֹתָם֙",
+                "transliteration": "’ō·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "בַּגּוֹיִ֔ם",
+                "transliteration": "bag·gō·w·yim",
+                "strong": "1471",
+                "translation": " among the nations "
+            },
+            {
+                "token": "וּלְזָר֥וֹת",
+                "transliteration": "ū·lə·zā·rō·wṯ",
+                "strong": "2219",
+                "translation": " and disperse "
+            },
+            {
+                "token": "אוֹתָ֖ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " them "
+            },
+            {
+                "token": "בָּאֲרָצֽוֹת׃",
+                "transliteration": "bā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " throughout the lands . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:23",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            {
+                "token": "יַ֜עַן",
+                "transliteration": "ya·‘an",
+                "strong": "3282",
+                "translation": " For "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " they did not "
+            },
+            {
+                "token": "עָשׂוּ֙",
+                "transliteration": "‘ā·śū",
+                "strong": "6213",
+                "translation": " practice "
+            },
+            {
+                "token": "מִשְׁפָּטַ֤י",
+                "transliteration": "miš·pā·ṭay",
+                "strong": "4941",
+                "translation": " My ordinances , "
+            },
+            {
+                "token": "מָאָ֔סוּ",
+                "transliteration": "mā·’ā·sū",
+                "strong": "3988",
+                "translation": " but they rejected "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וְחֻקּוֹתַ֣י",
+                "transliteration": "wə·ḥuq·qō·w·ṯay",
+                "strong": "2708",
+                "translation": " My statutes "
+            },
+            {
+                "token": "חִלֵּ֑לוּ",
+                "transliteration": "ḥil·lê·lū",
+                "strong": "2490",
+                "translation": " and profaned "
+            },
+            {
+                "token": "וְאַחֲרֵי֙",
+                "transliteration": "wə·’a·ḥă·rê",
+                "strong": "310",
+                "translation": " . . . "
+            },
+            {
+                "token": "שַׁבְּתוֹתַ֖י",
+                "transliteration": "šab·bə·ṯō·w·ṯay",
+                "strong": "7676",
+                "translation": " My Sabbaths , "
+            },
+            {
+                "token": "הָי֖וּ",
+                "transliteration": "hā·yū",
+                "strong": "1961",
+                "translation": " fixing "
+            },
+            {
+                "token": "עֵינֵיהֶֽם׃",
+                "transliteration": "‘ê·nê·hem",
+                "strong": "5869",
+                "translation": " their eyes "
+            },
+            {
+                "token": "גִּלּוּלֵ֣י",
+                "transliteration": "gil·lū·lê",
+                "strong": "1544",
+                "translation": " on the idols "
+            },
+            {
+                "token": "אֲבוֹתָ֔ם",
+                "transliteration": "’ă·ḇō·w·ṯām",
+                "strong": "1",
+                "translation": " of their fathers . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:24",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲנִי֙",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "וְגַם־",
+                "transliteration": "wə·ḡam-",
+                "strong": "1571",
+                "translation": " also "
+            },
+            {
+                "token": "נָתַ֣תִּי",
+                "transliteration": "nā·ṯat·tî",
+                "strong": "5414",
+                "translation": " gave them "
+            },
+            {
+                "token": "לָהֶ֔ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " over "
+            },
+            {
+                "token": "חֻקִּ֖ים",
+                "transliteration": "ḥuq·qîm",
+                "strong": "2706",
+                "translation": " to statutes "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " that were not "
+            },
+            {
+                "token": "טוֹבִ֑ים",
+                "transliteration": "ṭō·w·ḇîm",
+                "strong": "2896",
+                "translation": " good "
+            },
+            {
+                "token": "וּמִ֨שְׁפָּטִ֔ים",
+                "transliteration": "ū·miš·pā·ṭîm",
+                "strong": "4941",
+                "translation": " and ordinances "
+            },
+            {
+                "token": "בָּהֶֽם׃",
+                "transliteration": "bā·hem",
+                "strong": "",
+                "translation": " by which "
+            },
+            {
+                "token": "לֹ֥א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " they could not "
+            },
+            {
+                "token": "יִֽחְי֖וּ",
+                "transliteration": "yiḥ·yū",
+                "strong": "2421",
+                "translation": " live . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:25",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֲטַמֵּ֤א",
+                "transliteration": "wā·’ă·ṭam·mê",
+                "strong": "2930",
+                "translation": " And I pronounced them unclean "
+            },
+            {
+                "token": "אוֹתָם֙",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּמַתְּנוֹתָ֔ם",
+                "transliteration": "bə·mat·tə·nō·w·ṯām",
+                "strong": "4979",
+                "translation": " through their gifts — "
+            },
+            {
+                "token": "בְּהַעֲבִ֖יר",
+                "transliteration": "bə·ha·‘ă·ḇîr",
+                "strong": "5674",
+                "translation": " the sacrifice "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " of every "
+            },
+            {
+                "token": "פֶּ֣טֶר",
+                "transliteration": "pe·ṭer",
+                "strong": "6363",
+                "translation": " firstborn {in the fire} "
+            },
+            {
+                "token": "רָ֑חַם",
+                "transliteration": "rā·ḥam",
+                "strong": "7356",
+                "translation": " . . . — "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " so that "
+            },
+            {
+                "token": "אֲשִׁמֵּ֔ם",
+                "transliteration": "’ă·šim·mêm",
+                "strong": "8074",
+                "translation": " I might devastate them , "
+            },
+            {
+                "token": "לְמַ֙עַן֙",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " in order "
+            },
+            {
+                "token": "אֲשֶׁ֣ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "יֵֽדְע֔וּ",
+                "transliteration": "yê·ḏə·‘ū",
+                "strong": "3045",
+                "translation": " they would know "
+            },
+            {
+                "token": "אֲשֶׁ֖ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָֽה׃ס",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:26",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֵ֞ן",
+                "transliteration": "lā·ḵên",
+                "strong": "3651",
+                "translation": " Therefore , "
+            },
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " son "
+            },
+            {
+                "token": "אָדָ֔ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " of man , "
+            },
+            {
+                "token": "דַּבֵּ֨ר",
+                "transliteration": "dab·bêr",
+                "strong": "1696",
+                "translation": " speak "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "בֵּ֤ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the house "
+            },
+            {
+                "token": "יִשְׂרָאֵל֙",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "וְאָמַרְתָּ֣",
+                "transliteration": "wə·’ā·mar·tā",
+                "strong": "559",
+                "translation": " and tell them that "
+            },
+            {
+                "token": "אֲלֵיהֶ֔ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "כֹּ֥ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " this is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "אָמַ֖ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "זֹ֚את",
+                "transliteration": "zōṯ",
+                "strong": "2063",
+                "translation": " In this way "
+            },
+            {
+                "token": "ע֗וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " also "
+            },
+            {
+                "token": "אֲב֣וֹתֵיכֶ֔ם",
+                "transliteration": "’ă·ḇō·w·ṯê·ḵem",
+                "strong": "1",
+                "translation": " your fathers "
+            },
+            {
+                "token": "גִּדְּפ֤וּ",
+                "transliteration": "gid·də·p̄ū",
+                "strong": "1442",
+                "translation": " blasphemed "
+            },
+            {
+                "token": "אוֹתִי֙",
+                "transliteration": "’ō·w·ṯî",
+                "strong": "853",
+                "translation": " Me "
+            },
+            {
+                "token": "מָֽעַל׃",
+                "transliteration": "mā·‘al",
+                "strong": "4604",
+                "translation": " by their unfaithfulness "
+            },
+            {
+                "token": "בְּמַעֲלָ֥ם",
+                "transliteration": "bə·ma·‘ă·lām",
+                "strong": "4603",
+                "translation": " against "
+            },
+            {
+                "token": "בִּ֖י",
+                "transliteration": "bî",
+                "strong": "",
+                "translation": " Me . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:27",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֲבִיאֵם֙",
+                "transliteration": "wā·’ă·ḇî·’êm",
+                "strong": "935",
+                "translation": " When I brought them "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "הָאָ֔רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נָשָׂ֙אתִי֙",
+                "transliteration": "nā·śā·ṯî",
+                "strong": "5375",
+                "translation": " I swore "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָדִ֔י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " - "
+            },
+            {
+                "token": "לָתֵ֥ת",
+                "transliteration": "lā·ṯêṯ",
+                "strong": "5414",
+                "translation": " to give "
+            },
+            {
+                "token": "אוֹתָ֖הּ",
+                "transliteration": "’ō·w·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לָהֶ֑ם",
+                "transliteration": "lā·hem",
+                "strong": "",
+                "translation": " them "
+            },
+            {
+                "token": "וַיִּרְאוּ֩",
+                "transliteration": "way·yir·’ū",
+                "strong": "7200",
+                "translation": " and they saw "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " any "
+            },
+            {
+                "token": "רָמָ֜ה",
+                "transliteration": "rā·māh",
+                "strong": "7311",
+                "translation": " high "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " . . . "
+            },
+            {
+                "token": "גִּבְעָ֨ה",
+                "transliteration": "giḇ·‘āh",
+                "strong": "1389",
+                "translation": " hill "
+            },
+            {
+                "token": "עָבֹ֗ת",
+                "transliteration": "‘ā·ḇōṯ",
+                "strong": "5687",
+                "translation": " or leafy "
+            },
+            {
+                "token": "עֵ֣ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " tree , "
+            },
+            {
+                "token": "שָׁ֤ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "וַיִּזְבְּחוּ־",
+                "transliteration": "way·yiz·bə·ḥū-",
+                "strong": "2076",
+                "translation": " they offered "
+            },
+            {
+                "token": "זִבְחֵיהֶם֙",
+                "transliteration": "ziḇ·ḥê·hem",
+                "strong": "2077",
+                "translation": " their sacrifices , "
+            },
+            {
+                "token": "וַיִּתְּנוּ־",
+                "transliteration": "way·yit·tə·nū-",
+                "strong": "5414",
+                "translation": " presented "
+            },
+            {
+                "token": "שָׁם֙",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " - "
+            },
+            {
+                "token": "קָרְבָּנָ֔ם",
+                "transliteration": "qā·rə·bā·nām",
+                "strong": "7133",
+                "translation": " offerings "
+            },
+            {
+                "token": "כַּ֣עַס",
+                "transliteration": "ka·‘as",
+                "strong": "3708",
+                "translation": " that provoked Me , "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וַיָּשִׂ֣ימוּ",
+                "transliteration": "way·yā·śî·mū",
+                "strong": "7760",
+                "translation": " sent up "
+            },
+            {
+                "token": "שָׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "נִיח֣וֹחֵיהֶ֔ם",
+                "transliteration": "nî·ḥō·w·ḥê·hem",
+                "strong": "5207",
+                "translation": " their fragrant "
+            },
+            {
+                "token": "רֵ֚יחַ",
+                "transliteration": "rê·aḥ",
+                "strong": "7381",
+                "translation": " incense , "
+            },
+            {
+                "token": "וַיַּסִּ֥יכוּ",
+                "transliteration": "way·yas·sî·ḵū",
+                "strong": "5258",
+                "translation": " and poured out "
+            },
+            {
+                "token": "שָׁ֖ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִסְכֵּיהֶֽם׃",
+                "transliteration": "nis·kê·hem",
+                "strong": "5262",
+                "translation": " their drink offerings . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:28",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֹמַ֣ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " So I asked them : "
+            },
+            {
+                "token": "אֲלֵהֶ֔ם",
+                "transliteration": "’ă·lê·hem",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "מָ֣ה",
+                "transliteration": "māh",
+                "strong": "4100",
+                "translation": " ‘ What "
+            },
+            {
+                "token": "הַבָּמָ֔ה",
+                "transliteration": "hab·bā·māh",
+                "strong": "1116",
+                "translation": " is this high place "
+            },
+            {
+                "token": "אֲשֶׁר־",
+                "transliteration": "’ă·šer-",
+                "strong": "834",
+                "translation": " to which "
+            },
+            {
+                "token": "אַתֶּ֥ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "הַבָּאִ֖ים",
+                "transliteration": "hab·bā·’îm",
+                "strong": "935",
+                "translation": " go ? ’ "
+            },
+            {
+                "token": "עַ֖ד",
+                "transliteration": "‘aḏ",
+                "strong": "5704",
+                "translation": " ( And to "
+            },
+            {
+                "token": "הַזֶּֽה׃",
+                "transliteration": "haz·zeh",
+                "strong": "2088",
+                "translation": " this "
+            },
+            {
+                "token": "הַיּ֥וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " day "
+            },
+            {
+                "token": "שָׁ֑ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " . . . "
+            },
+            {
+                "token": "וַיִּקָּרֵ֤א",
+                "transliteration": "way·yiq·qā·rê",
+                "strong": "7121",
+                "translation": " it is called "
+            },
+            {
+                "token": "שְׁמָהּ֙",
+                "transliteration": "šə·māh",
+                "strong": "8034",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּמָ֔ה",
+                "transliteration": "bā·māh",
+                "strong": "1117",
+                "translation": " Bamah . ) "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:29",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            {
+                "token": "לָכֵ֞ן",
+                "transliteration": "lā·ḵên",
+                "strong": "3651",
+                "translation": " Therefore "
+            },
+            {
+                "token": "אֱמֹ֣ר׀",
+                "transliteration": "’ĕ·mōr",
+                "strong": "559",
+                "translation": " tell "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " - "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " the house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel "
+            },
+            {
+                "token": "כֹּ֤ה",
+                "transliteration": "kōh",
+                "strong": "3541",
+                "translation": " that this is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "אָמַר֙",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "אַתֶּ֣ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " Will you "
+            },
+            {
+                "token": "נִטְמְאִ֑ים",
+                "transliteration": "niṭ·mə·’îm",
+                "strong": "2930",
+                "translation": " defile yourselves "
+            },
+            {
+                "token": "הַבְּדֶ֥רֶךְ",
+                "transliteration": "hab·bə·ḏe·reḵ",
+                "strong": "1870",
+                "translation": " the way "
+            },
+            {
+                "token": "אֲבֽוֹתֵיכֶ֖ם",
+                "transliteration": "’ă·ḇō·w·ṯê·ḵem",
+                "strong": "1",
+                "translation": " your fathers did , "
+            },
+            {
+                "token": "זֹנִֽים׃",
+                "transliteration": "zō·nîm",
+                "strong": "2181",
+                "translation": " prostituting "
+            },
+            {
+                "token": "אַתֶּ֥ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " yourselves "
+            },
+            {
+                "token": "וְאַחֲרֵ֥י",
+                "transliteration": "wə·’a·ḥă·rê",
+                "strong": "310",
+                "translation": " with "
+            },
+            {
+                "token": "שִׁקּוּצֵיהֶ֖ם",
+                "transliteration": "šiq·qū·ṣê·hem",
+                "strong": "8251",
+                "translation": " their abominations ? "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:30",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבִשְׂאֵ֣ת",
+                "transliteration": "ū·ḇiś·’êṯ",
+                "strong": "5375",
+                "translation": " When you offer "
+            },
+            {
+                "token": "מַתְּנֹֽתֵיכֶ֡ם",
+                "transliteration": "mat·tə·nō·ṯê·ḵem",
+                "strong": "4979",
+                "translation": " your gifts , "
+            },
+            {
+                "token": "בְּנֵיכֶ֨ם",
+                "transliteration": "bə·nê·ḵem",
+                "strong": "1121",
+                "translation": " sacrificing your sons "
+            },
+            {
+                "token": "בְּֽהַעֲבִיר֩",
+                "transliteration": "bə·ha·‘ă·ḇîr",
+                "strong": "5674",
+                "translation": " . . . "
+            },
+            {
+                "token": "בָּאֵ֜שׁ",
+                "transliteration": "bā·’êš",
+                "strong": "784",
+                "translation": " in the fire , "
+            },
+            {
+                "token": "אַתֶּם֩",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "נִטְמְאִ֤֨ים",
+                "transliteration": "niṭ·mə·’îm",
+                "strong": "2930",
+                "translation": " continue to defile "
+            },
+            {
+                "token": "לְכָל־",
+                "transliteration": "lə·ḵāl",
+                "strong": "3605",
+                "translation": " yourselves with all "
+            },
+            {
+                "token": "גִּלּֽוּלֵיכֶם֙",
+                "transliteration": "gil·lū·lê·ḵem",
+                "strong": "1544",
+                "translation": " your idols "
+            },
+            {
+                "token": "עַד־",
+                "transliteration": "‘aḏ-",
+                "strong": "5704",
+                "translation": " to "
+            },
+            {
+                "token": "הַיּ֔וֹם",
+                "transliteration": "hay·yō·wm",
+                "strong": "3117",
+                "translation": " this day . "
+            },
+            {
+                "token": "וַאֲנִ֛י",
+                "transliteration": "wa·’ă·nî",
+                "strong": "589",
+                "translation": " So should I "
+            },
+            {
+                "token": "אִדָּרֵ֥שׁ",
+                "transliteration": "’id·dā·rêš",
+                "strong": "1875",
+                "translation": " be consulted "
+            },
+            {
+                "token": "לָכֶ֖ם",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " by you , "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " O house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel ? "
+            },
+            {
+                "token": "אָ֗נִי",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " As surely as "
+            },
+            {
+                "token": "חַי־",
+                "transliteration": "ḥay-",
+                "strong": "2416",
+                "translation": " I live , "
+            },
+            {
+                "token": "נְאֻם֙",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " I will not "
+            },
+            {
+                "token": "אִדָּרֵ֖שׁ",
+                "transliteration": "’id·dā·rêš",
+                "strong": "1875",
+                "translation": " be consulted "
+            },
+            {
+                "token": "לָכֶֽם׃",
+                "transliteration": "lā·ḵem",
+                "strong": "",
+                "translation": " by you ! "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:31",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אֲשֶׁ֣ר׀",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " When "
+            },
+            {
+                "token": "אַתֶּ֣ם",
+                "transliteration": "’at·tem",
+                "strong": "859",
+                "translation": " you "
+            },
+            {
+                "token": "אֹמְרִ֗ים",
+                "transliteration": "’ō·mə·rîm",
+                "strong": "559",
+                "translation": " say , "
+            },
+            {
+                "token": "נִֽהְיֶ֤ה",
+                "transliteration": "nih·yeh",
+                "strong": "1961",
+                "translation": " ‘ Let us be "
+            },
+            {
+                "token": "כַגּוֹיִם֙",
+                "transliteration": "ḵag·gō·w·yim",
+                "strong": "1471",
+                "translation": " like the nations , "
+            },
+            {
+                "token": "כְּמִשְׁפְּח֣וֹת",
+                "transliteration": "kə·miš·pə·ḥō·wṯ",
+                "strong": "4940",
+                "translation": " like the peoples "
+            },
+            {
+                "token": "הָאֲרָצ֔וֹת",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " of the lands , "
+            },
+            {
+                "token": "לְשָׁרֵ֖ת",
+                "transliteration": "lə·šā·rêṯ",
+                "strong": "8334",
+                "translation": " serving "
+            },
+            {
+                "token": "עֵ֥ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " wood "
+            },
+            {
+                "token": "וָאָֽבֶן׃",
+                "transliteration": "wā·’ā·ḇen",
+                "strong": "68",
+                "translation": " and stone , ’ "
+            },
+            {
+                "token": "וְהָֽעֹלָה֙",
+                "transliteration": "wə·hā·‘ō·lāh",
+                "strong": "5927",
+                "translation": " . . . "
+            },
+            {
+                "token": "עַל־",
+                "transliteration": "‘al-",
+                "strong": "5921",
+                "translation": " what you have in "
+            },
+            {
+                "token": "ר֣וּחֲכֶ֔ם",
+                "transliteration": "rū·ḥă·ḵem",
+                "strong": "7307",
+                "translation": " mind "
+            },
+            {
+                "token": "הָי֖וֹ",
+                "transliteration": "hā·yōw",
+                "strong": "1961",
+                "translation": " "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " will never "
+            },
+            {
+                "token": "תִֽהְיֶ֑ה",
+                "transliteration": "ṯih·yeh",
+                "strong": "1961",
+                "translation": " come to pass . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:32",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            {
+                "token": "אָ֕נִי",
+                "transliteration": "’ā·nî",
+                "strong": "589",
+                "translation": " As surely as "
+            },
+            {
+                "token": "חַי־",
+                "transliteration": "ḥay-",
+                "strong": "2416",
+                "translation": " I live , "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֠א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " - "
+            },
+            {
+                "token": "חֲזָקָ֜ה",
+                "transliteration": "ḥă·zā·qāh",
+                "strong": "2389",
+                "translation": " with a strong "
+            },
+            {
+                "token": "בְּיָ֨ד",
+                "transliteration": "bə·yāḏ",
+                "strong": "3027",
+                "translation": " hand , "
+            },
+            {
+                "token": "נְטוּיָ֛ה",
+                "transliteration": "nə·ṭū·yāh",
+                "strong": "5186",
+                "translation": " an outstretched "
+            },
+            {
+                "token": "וּבִזְר֧וֹעַ",
+                "transliteration": "ū·ḇiz·rō·w·a‘",
+                "strong": "2220",
+                "translation": " arm , "
+            },
+            {
+                "token": "שְׁפוּכָ֖ה",
+                "transliteration": "šə·p̄ū·ḵāh",
+                "strong": "8210",
+                "translation": " and outpoured "
+            },
+            {
+                "token": "וּבְחֵמָ֥ה",
+                "transliteration": "ū·ḇə·ḥê·māh",
+                "strong": "2534",
+                "translation": " wrath "
+            },
+            {
+                "token": "אֶמְל֥וֹךְ",
+                "transliteration": "’em·lō·wḵ",
+                "strong": "4427",
+                "translation": " I will rule "
+            },
+            {
+                "token": "עֲלֵיכֶֽם׃",
+                "transliteration": "‘ă·lê·ḵem",
+                "strong": "5921",
+                "translation": " over you . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:33",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            {
+                "token": "חֲזָקָה֙",
+                "transliteration": "ḥă·zā·qāh",
+                "strong": "2389",
+                "translation": " With a strong "
+            },
+            {
+                "token": "בְּיָ֤ד",
+                "transliteration": "bə·yāḏ",
+                "strong": "3027",
+                "translation": " hand , "
+            },
+            {
+                "token": "נְטוּיָ֔ה",
+                "transliteration": "nə·ṭū·yāh",
+                "strong": "5186",
+                "translation": " an outstretched "
+            },
+            {
+                "token": "וּבִזְר֣וֹעַ",
+                "transliteration": "ū·ḇiz·rō·w·a‘",
+                "strong": "2220",
+                "translation": " arm , "
+            },
+            {
+                "token": "שְׁפוּכָֽה׃",
+                "transliteration": "šə·p̄ū·ḵāh",
+                "strong": "8210",
+                "translation": " and outpoured "
+            },
+            {
+                "token": "וּבְחֵמָ֖ה",
+                "transliteration": "ū·ḇə·ḥê·māh",
+                "strong": "2534",
+                "translation": " wrath "
+            },
+            {
+                "token": "וְהוֹצֵאתִ֤י",
+                "transliteration": "wə·hō·w·ṣê·ṯî",
+                "strong": "3318",
+                "translation": " I will bring "
+            },
+            {
+                "token": "אֶתְכֶם֙",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you {out} "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָ֣עַמִּ֔ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "וְקִבַּצְתִּ֣י",
+                "transliteration": "wə·qib·baṣ·tî",
+                "strong": "6908",
+                "translation": " and gather "
+            },
+            {
+                "token": "אֶתְכֶ֔ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " from "
+            },
+            {
+                "token": "הָ֣אֲרָצ֔וֹת",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " the lands "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " to which "
+            },
+            {
+                "token": "נְפוֹצֹתֶ֖ם",
+                "transliteration": "nə·p̄ō·w·ṣō·ṯem",
+                "strong": "6327",
+                "translation": " you have been scattered . "
+            },
+            {
+                "token": "בָּ֑ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:34",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהֵבֵאתִ֣י",
+                "transliteration": "wə·hê·ḇê·ṯî",
+                "strong": "935",
+                "translation": " And I will bring "
+            },
+            {
+                "token": "אֶתְכֶ֔ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "מִדְבַּ֖ר",
+                "transliteration": "miḏ·bar",
+                "strong": "4057",
+                "translation": " the wilderness "
+            },
+            {
+                "token": "הָֽעַמִּ֑ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " of the nations , "
+            },
+            {
+                "token": "שָׁ֔ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " [where] "
+            },
+            {
+                "token": "וְנִשְׁפַּטְתִּ֤י",
+                "transliteration": "wə·niš·paṭ·tî",
+                "strong": "8199",
+                "translation": " I will enter into judgment "
+            },
+            {
+                "token": "אִתְּכֶם֙",
+                "transliteration": "’it·tə·ḵem",
+                "strong": "854",
+                "translation": " with you "
+            },
+            {
+                "token": "פָּנִ֖ים",
+                "transliteration": "pā·nîm",
+                "strong": "6440",
+                "translation": " face "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " to "
+            },
+            {
+                "token": "פָּנִֽים׃",
+                "transliteration": "pā·nîm",
+                "strong": "6440",
+                "translation": " face . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:35",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כַּאֲשֶׁ֤ר",
+                "transliteration": "ka·’ă·šer",
+                "strong": "834",
+                "translation": " Just as "
+            },
+            {
+                "token": "נִשְׁפַּ֙טְתִּי֙",
+                "transliteration": "niš·paṭ·tî",
+                "strong": "8199",
+                "translation": " I entered into judgment "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "854",
+                "translation": " with "
+            },
+            {
+                "token": "אֲב֣וֹתֵיכֶ֔ם",
+                "transliteration": "’ă·ḇō·w·ṯê·ḵem",
+                "strong": "1",
+                "translation": " your fathers "
+            },
+            {
+                "token": "בְּמִדְבַּ֖ר",
+                "transliteration": "bə·miḏ·bar",
+                "strong": "4057",
+                "translation": " in the wilderness "
+            },
+            {
+                "token": "אֶ֣רֶץ",
+                "transliteration": "’e·reṣ",
+                "strong": "776",
+                "translation": " of the land "
+            },
+            {
+                "token": "מִצְרָ֑יִם",
+                "transliteration": "miṣ·rā·yim",
+                "strong": "4714",
+                "translation": " of Egypt , "
+            },
+            {
+                "token": "כֵּ֚ן",
+                "transliteration": "kên",
+                "strong": "3651",
+                "translation": " so "
+            },
+            {
+                "token": "אִשָּׁפֵ֣ט",
+                "transliteration": "’iš·šā·p̄êṭ",
+                "strong": "8199",
+                "translation": " I will enter into judgment "
+            },
+            {
+                "token": "אִתְּכֶ֔ם",
+                "transliteration": "’it·tə·ḵem",
+                "strong": "854",
+                "translation": " with you , "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֥י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:36",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְהַעֲבַרְתִּ֥י",
+                "transliteration": "wə·ha·‘ă·ḇar·tî",
+                "strong": "5674",
+                "translation": " I will make you pass "
+            },
+            {
+                "token": "אֶתְכֶ֖ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "תַּ֣חַת",
+                "transliteration": "ta·ḥaṯ",
+                "strong": "8478",
+                "translation": " under "
+            },
+            {
+                "token": "הַשָּׁ֑בֶט",
+                "transliteration": "haš·šā·ḇeṭ",
+                "strong": "7626",
+                "translation": " the rod "
+            },
+            {
+                "token": "וְהֵבֵאתִ֥י",
+                "transliteration": "wə·hê·ḇê·ṯî",
+                "strong": "935",
+                "translation": " and will bring "
+            },
+            {
+                "token": "אֶתְכֶ֖ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "בְּמָסֹ֥רֶת",
+                "transliteration": "bə·mā·sō·reṯ",
+                "strong": "4562",
+                "translation": " you into the bond "
+            },
+            {
+                "token": "הַבְּרִֽית׃",
+                "transliteration": "hab·bə·rîṯ",
+                "strong": "1285",
+                "translation": " of the covenant . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:37",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וּבָרוֹתִ֣י",
+                "transliteration": "ū·ḇā·rō·w·ṯî",
+                "strong": "1305",
+                "translation": " And I will purge you "
+            },
+            {
+                "token": "מִכֶּ֗ם",
+                "transliteration": "mik·kem",
+                "strong": "",
+                "translation": " of "
+            },
+            {
+                "token": "הַמֹּרְדִ֤ים",
+                "transliteration": "ham·mō·rə·ḏîm",
+                "strong": "4775",
+                "translation": " those who rebel "
+            },
+            {
+                "token": "וְהַפּֽוֹשְׁעִים֙",
+                "transliteration": "wə·hap·pō·wō·šə·‘îm",
+                "strong": "6586",
+                "translation": " and transgress "
+            },
+            {
+                "token": "בִּ֔י",
+                "transliteration": "bî",
+                "strong": "",
+                "translation": " against Me . "
+            },
+            {
+                "token": "אוֹצִ֣יא",
+                "transliteration": "’ō·w·ṣî",
+                "strong": "3318",
+                "translation": " I will bring them out "
+            },
+            {
+                "token": "אוֹתָ֔ם",
+                "transliteration": "’ō·w·ṯām",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מֵאֶ֤רֶץ",
+                "transliteration": "mê·’e·reṣ",
+                "strong": "776",
+                "translation": " of the land "
+            },
+            {
+                "token": "מְגֽוּרֵיהֶם֙",
+                "transliteration": "mə·ḡū·rê·hem",
+                "strong": "4033",
+                "translation": " in which they dwell , "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " but they will not "
+            },
+            {
+                "token": "וְאֶל־",
+                "transliteration": "wə·’el-",
+                "strong": "413",
+                "translation": " enter "
+            },
+            {
+                "token": "יָב֑וֹא",
+                "transliteration": "yā·ḇō·w",
+                "strong": "935",
+                "translation": " . . . "
+            },
+            {
+                "token": "אַדְמַ֥ת",
+                "transliteration": "’aḏ·maṯ",
+                "strong": "127",
+                "translation": " the land "
+            },
+            {
+                "token": "יִשְׂרָאֵ֖ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel . "
+            },
+            {
+                "token": "וִֽידַעְתֶּ֖ם",
+                "transliteration": "wî·ḏa‘·tem",
+                "strong": "3045",
+                "translation": " Then you will know "
+            },
+            {
+                "token": "כִּי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָֽה׃",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:38",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאַתֶּ֨ם",
+                "transliteration": "wə·’at·tem",
+                "strong": "859",
+                "translation": " And as for you , "
+            },
+            {
+                "token": "בֵּֽית־",
+                "transliteration": "bêṯ-",
+                "strong": "1004",
+                "translation": " O house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֜ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " this is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהֹוִ֗ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "אָמַ֣ר׀",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "לְכ֣וּ",
+                "transliteration": "lə·ḵū",
+                "strong": "1980",
+                "translation": " Go "
+            },
+            {
+                "token": "עֲבֹ֔דוּ",
+                "transliteration": "‘ă·ḇō·ḏū",
+                "strong": "5647",
+                "translation": " and serve "
+            },
+            {
+                "token": "גִּלּוּלָיו֙",
+                "transliteration": "gil·lū·lāw",
+                "strong": "1544",
+                "translation": " your idols , "
+            },
+            {
+                "token": "אִ֤ישׁ",
+                "transliteration": "’îš",
+                "strong": "376",
+                "translation": " every one of you . "
+            },
+            {
+                "token": "וְאַחַ֕ר",
+                "transliteration": "wə·’a·ḥar",
+                "strong": "310",
+                "translation": " But afterward , "
+            },
+            {
+                "token": "אִם־",
+                "transliteration": "’im-",
+                "strong": "518",
+                "translation": " you will surely "
+            },
+            {
+                "token": "אֵינְכֶ֖ם",
+                "transliteration": "’ê·nə·ḵem",
+                "strong": "369",
+                "translation": " . . . "
+            },
+            {
+                "token": "שֹׁמְעִ֣ים",
+                "transliteration": "šō·mə·‘îm",
+                "strong": "8085",
+                "translation": " listen "
+            },
+            {
+                "token": "אֵלָ֑י",
+                "transliteration": "’ê·lāy",
+                "strong": "413",
+                "translation": " to Me , "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לֹ֣א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and you will no "
+            },
+            {
+                "token": "ע֔וֹד",
+                "transliteration": "‘ō·wḏ",
+                "strong": "5750",
+                "translation": " longer "
+            },
+            {
+                "token": "תְחַלְּלוּ־",
+                "transliteration": "ṯə·ḥal·lə·lū-",
+                "strong": "2490",
+                "translation": " defile "
+            },
+            {
+                "token": "קָדְשִׁי֙",
+                "transliteration": "qāḏ·šî",
+                "strong": "6944",
+                "translation": " My holy "
+            },
+            {
+                "token": "שֵׁ֤ם",
+                "transliteration": "šêm",
+                "strong": "8034",
+                "translation": " name "
+            },
+            {
+                "token": "בְּמַתְּנֽוֹתֵיכֶ֖ם",
+                "transliteration": "bə·mat·tə·nō·w·ṯê·ḵem",
+                "strong": "4979",
+                "translation": " with your gifts "
+            },
+            {
+                "token": "וּבְגִלּוּלֵיכֶֽם׃",
+                "transliteration": "ū·ḇə·ḡil·lū·lê·ḵem",
+                "strong": "1544",
+                "translation": " and idols . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:39",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כִּ֣י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " For "
+            },
+            {
+                "token": "קָדְשִׁ֞י",
+                "transliteration": "qāḏ·šî",
+                "strong": "6944",
+                "translation": " on My holy "
+            },
+            {
+                "token": "בְהַר־",
+                "transliteration": "ḇə·har-",
+                "strong": "2022",
+                "translation": " mountain , "
+            },
+            {
+                "token": "מְר֣וֹם",
+                "transliteration": "mə·rō·wm",
+                "strong": "4791",
+                "translation": " the high "
+            },
+            {
+                "token": "בְּהַ֣ר׀",
+                "transliteration": "bə·har",
+                "strong": "2022",
+                "translation": " mountain "
+            },
+            {
+                "token": "יִשְׂרָאֵ֗ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "נְאֻם֙",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD , "
+            },
+            {
+                "token": "שָׁ֣ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " there "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " the whole "
+            },
+            {
+                "token": "בֵּ֧ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֛ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "כֻּלֹּ֖ה",
+                "transliteration": "kul·lōh",
+                "strong": "3605",
+                "translation": " all of them , "
+            },
+            {
+                "token": "יַעַבְדֻ֜נִי",
+                "transliteration": "ya·‘aḇ·ḏu·nî",
+                "strong": "5647",
+                "translation": " will serve Me "
+            },
+            {
+                "token": "בָּאָ֑רֶץ",
+                "transliteration": "bā·’ā·reṣ",
+                "strong": "776",
+                "translation": " in the land . "
+            },
+            {
+                "token": "שָׁ֣ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " There "
+            },
+            {
+                "token": "אֶרְצֵ֔ם",
+                "transliteration": "’er·ṣêm",
+                "strong": "7521",
+                "translation": " I will accept "
+            },
+            {
+                "token": "וְשָׁ֞ם",
+                "transliteration": "wə·šām",
+                "strong": "8033",
+                "translation": " them "
+            },
+            {
+                "token": "אֶדְר֣וֹשׁ",
+                "transliteration": "’eḏ·rō·wōš",
+                "strong": "1875",
+                "translation": " and will require "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "תְּרוּמֹֽתֵיכֶ֗ם",
+                "transliteration": "tə·rū·mō·ṯê·ḵem",
+                "strong": "8641",
+                "translation": " your offerings "
+            },
+            {
+                "token": "וְאֶת־",
+                "transliteration": "wə·’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "רֵאשִׁ֛ית",
+                "transliteration": "rê·šîṯ",
+                "strong": "7225",
+                "translation": " and choice "
+            },
+            {
+                "token": "מַשְׂאוֹתֵיכֶ֖ם",
+                "transliteration": "maś·’ō·w·ṯê·ḵem",
+                "strong": "4864",
+                "translation": " gifts , "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " along with all "
+            },
+            {
+                "token": "קָדְשֵׁיכֶֽם׃",
+                "transliteration": "qā·ḏə·šê·ḵem",
+                "strong": "6944",
+                "translation": " your holy sacrifices . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:40",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בְּהוֹצִיאִ֤י",
+                "transliteration": "bə·hō·w·ṣî·’î",
+                "strong": "3318",
+                "translation": " When I bring "
+            },
+            {
+                "token": "אֶתְכֶם֙",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " you from "
+            },
+            {
+                "token": "הָ֣עַמִּ֔ים",
+                "transliteration": "hā·‘am·mîm",
+                "strong": "5971",
+                "translation": " the peoples "
+            },
+            {
+                "token": "וְקִבַּצְתִּ֣י",
+                "transliteration": "wə·qib·baṣ·tî",
+                "strong": "6908",
+                "translation": " and gather "
+            },
+            {
+                "token": "אֶתְכֶ֔ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "מִן־",
+                "transliteration": "min-",
+                "strong": "4480",
+                "translation": " you from "
+            },
+            {
+                "token": "הָ֣אֲרָצ֔וֹת",
+                "transliteration": "hā·’ă·rā·ṣō·wṯ",
+                "strong": "776",
+                "translation": " the lands "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " to which "
+            },
+            {
+                "token": "נְפֹצֹתֶ֖ם",
+                "transliteration": "nə·p̄ō·ṣō·ṯem",
+                "strong": "6327",
+                "translation": " you have been scattered "
+            },
+            {
+                "token": "בָּ֑ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "אֶרְצֶ֣ה",
+                "transliteration": "’er·ṣeh",
+                "strong": "7521",
+                "translation": " I will accept "
+            },
+            {
+                "token": "אֶתְכֶם֒",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "נִיחֹחַ֮",
+                "transliteration": "nî·ḥō·aḥ",
+                "strong": "5207",
+                "translation": " you as a pleasing "
+            },
+            {
+                "token": "בְּרֵ֣יחַ",
+                "transliteration": "bə·rê·aḥ",
+                "strong": "7381",
+                "translation": " aroma . "
+            },
+            {
+                "token": "וְנִקְדַּשְׁתִּ֥י",
+                "transliteration": "wə·niq·daš·tî",
+                "strong": "6942",
+                "translation": " And I will show My holiness "
+            },
+            {
+                "token": "בָכֶ֖ם",
+                "transliteration": "ḇā·ḵem",
+                "strong": "",
+                "translation": " through you "
+            },
+            {
+                "token": "לְעֵינֵ֥י",
+                "transliteration": "lə·‘ê·nê",
+                "strong": "5869",
+                "translation": " in the sight "
+            },
+            {
+                "token": "הַגּוֹיִֽם׃",
+                "transliteration": "hag·gō·w·yim",
+                "strong": "1471",
+                "translation": " of the nations . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:41",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וִֽידַעְתֶּם֙",
+                "transliteration": "wî·ḏa‘·tem",
+                "strong": "3045",
+                "translation": " Then you will know "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "בַּהֲבִיאִ֥י",
+                "transliteration": "ba·hă·ḇî·’î",
+                "strong": "935",
+                "translation": " when I bring "
+            },
+            {
+                "token": "אֶתְכֶ֖ם",
+                "transliteration": "’eṯ·ḵem",
+                "strong": "853",
+                "translation": " you "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " into "
+            },
+            {
+                "token": "אַדְמַ֣ת",
+                "transliteration": "’aḏ·maṯ",
+                "strong": "127",
+                "translation": " the land "
+            },
+            {
+                "token": "יִשְׂרָאֵ֑ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " . . . "
+            },
+            {
+                "token": "הָאָ֗רֶץ",
+                "transliteration": "hā·’ā·reṣ",
+                "strong": "776",
+                "translation": " the land "
+            },
+            {
+                "token": "אֲשֶׁ֤ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " that "
+            },
+            {
+                "token": "נָשָׂ֙אתִי֙",
+                "transliteration": "nā·śā·ṯî",
+                "strong": "5375",
+                "translation": " I swore "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "יָדִ֔י",
+                "transliteration": "yā·ḏî",
+                "strong": "3027",
+                "translation": " - "
+            },
+            {
+                "token": "לָתֵ֥ת",
+                "transliteration": "lā·ṯêṯ",
+                "strong": "5414",
+                "translation": " to give "
+            },
+            {
+                "token": "אוֹתָ֖הּ",
+                "transliteration": "’ō·w·ṯāh",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "לַאֲבֽוֹתֵיכֶֽם׃",
+                "transliteration": "la·’ă·ḇō·w·ṯê·ḵem",
+                "strong": "1",
+                "translation": " your fathers . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:42",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            {
+                "token": "שָׁ֗ם",
+                "transliteration": "šām",
+                "strong": "8033",
+                "translation": " There "
+            },
+            {
+                "token": "אֶת־",
+                "transliteration": "’eṯ-",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "וּזְכַרְתֶּם־",
+                "transliteration": "ū·zə·ḵar·tem-",
+                "strong": "2142",
+                "translation": " you will remember "
+            },
+            {
+                "token": "דַּרְכֵיכֶם֙",
+                "transliteration": "dar·ḵê·ḵem",
+                "strong": "1870",
+                "translation": " your ways "
+            },
+            {
+                "token": "וְאֵת֙",
+                "transliteration": "wə·’êṯ",
+                "strong": "853",
+                "translation": " - "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " and all "
+            },
+            {
+                "token": "עֲלִיל֣וֹתֵיכֶ֔ם",
+                "transliteration": "‘ă·lî·lō·w·ṯê·ḵem",
+                "strong": "5949",
+                "translation": " the deeds "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " with which "
+            },
+            {
+                "token": "נִטְמֵאתֶ֖ם",
+                "transliteration": "niṭ·mê·ṯem",
+                "strong": "2930",
+                "translation": " you have defiled yourselves "
+            },
+            {
+                "token": "בָּ֑ם",
+                "transliteration": "bām",
+                "strong": "",
+                "translation": " , "
+            },
+            {
+                "token": "וּנְקֹֽטֹתֶם֙",
+                "transliteration": "ū·nə·qō·ṭō·ṯem",
+                "strong": "6962",
+                "translation": " and you will loathe "
+            },
+            {
+                "token": "בִּפְנֵיכֶ֔ם",
+                "transliteration": "bip̄·nê·ḵem",
+                "strong": "6440",
+                "translation": " yourselves "
+            },
+            {
+                "token": "בְּכָל־",
+                "transliteration": "bə·ḵāl",
+                "strong": "3605",
+                "translation": " for all "
+            },
+            {
+                "token": "רָעוֹתֵיכֶ֖ם",
+                "transliteration": "rā·‘ō·w·ṯê·ḵem",
+                "strong": "7451",
+                "translation": " the evils "
+            },
+            {
+                "token": "אֲשֶׁ֥ר",
+                "transliteration": "’ă·šer",
+                "strong": "834",
+                "translation": " - "
+            },
+            {
+                "token": "עֲשִׂיתֶֽם׃",
+                "transliteration": "‘ă·śî·ṯem",
+                "strong": "6213",
+                "translation": " you have done . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:43",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וִֽידַעְתֶּם֙",
+                "transliteration": "wî·ḏa‘·tem",
+                "strong": "3045",
+                "translation": " Then you will know , "
+            },
+            {
+                "token": "בֵּ֣ית",
+                "transliteration": "bêṯ",
+                "strong": "1004",
+                "translation": " O house "
+            },
+            {
+                "token": "יִשְׂרָאֵ֔ל",
+                "transliteration": "yiś·rā·’êl",
+                "strong": "3478",
+                "translation": " of Israel , "
+            },
+            {
+                "token": "כִּֽי־",
+                "transliteration": "kî-",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֣י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I "
+            },
+            {
+                "token": "יְהוָ֔ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " am the LORD , "
+            },
+            {
+                "token": "בַּעֲשׂוֹתִ֥י",
+                "transliteration": "ba·‘ă·śō·w·ṯî",
+                "strong": "6213",
+                "translation": " when I have dealt "
+            },
+            {
+                "token": "אִתְּכֶ֖ם",
+                "transliteration": "’it·tə·ḵem",
+                "strong": "854",
+                "translation": " with you "
+            },
+            {
+                "token": "לְמַ֣עַן",
+                "transliteration": "lə·ma·‘an",
+                "strong": "4616",
+                "translation": " for the sake "
+            },
+            {
+                "token": "שְׁמִ֑י",
+                "transliteration": "šə·mî",
+                "strong": "8034",
+                "translation": " of My name "
+            },
+            {
+                "token": "לֹא֩",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " and not according to "
+            },
+            {
+                "token": "הָרָעִ֜ים",
+                "transliteration": "hā·rā·‘îm",
+                "strong": "7451",
+                "translation": " your wicked "
+            },
+            {
+                "token": "כְדַרְכֵיכֶ֨ם",
+                "transliteration": "ḵə·ḏar·ḵê·ḵem",
+                "strong": "1870",
+                "translation": " ways "
+            },
+            {
+                "token": "הַנִּשְׁחָתוֹת֙",
+                "transliteration": "han·niš·ḥā·ṯō·wṯ",
+                "strong": "7843",
+                "translation": " and corrupt "
+            },
+            {
+                "token": "וְכַעֲלִילֽוֹתֵיכֶ֤ם",
+                "transliteration": "wə·ḵa·‘ă·lî·lō·w·ṯê·ḵem",
+                "strong": "5949",
+                "translation": " acts , "
+            },
+            {
+                "token": "נְאֻ֖ם",
+                "transliteration": "nə·’um",
+                "strong": "5002",
+                "translation": " declares "
+            },
+            {
+                "token": "אֲדֹנָ֥י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִֽה׃פ",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD . ” "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:44",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            {
+                "token": "דְבַר־",
+                "transliteration": "ḏə·ḇar-",
+                "strong": "1697",
+                "translation": " Now the word "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD "
+            },
+            {
+                "token": "וַיְהִ֥י",
+                "transliteration": "way·hî",
+                "strong": "1961",
+                "translation": " came "
+            },
+            {
+                "token": "אֵלַ֥י",
+                "transliteration": "’ê·lay",
+                "strong": "413",
+                "translation": " to me , "
+            },
+            {
+                "token": "לֵאמֹֽר׃",
+                "transliteration": "lê·mōr",
+                "strong": "559",
+                "translation": " saying , "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:45",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            {
+                "token": "בֶּן־",
+                "transliteration": "ben-",
+                "strong": "1121",
+                "translation": " “ Son "
+            },
+            {
+                "token": "אָדָ֗ם",
+                "transliteration": "’ā·ḏām",
+                "strong": "120",
+                "translation": " of man , "
+            },
+            {
+                "token": "שִׂ֤ים",
+                "transliteration": "śîm",
+                "strong": "7760",
+                "translation": " set "
+            },
+            {
+                "token": "פָּנֶ֙יךָ֙",
+                "transliteration": "pā·ne·ḵā",
+                "strong": "6440",
+                "translation": " your face "
+            },
+            {
+                "token": "דֶּ֣רֶךְ",
+                "transliteration": "de·reḵ",
+                "strong": "1870",
+                "translation": " toward "
+            },
+            {
+                "token": "תֵּימָ֔נָה",
+                "transliteration": "tê·mā·nāh",
+                "strong": "8486",
+                "translation": " the south , "
+            },
+            {
+                "token": "וְהַטֵּ֖ף",
+                "transliteration": "wə·haṭ·ṭêp̄",
+                "strong": "5197",
+                "translation": " preach "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " against "
+            },
+            {
+                "token": "דָּר֑וֹם",
+                "transliteration": "dā·rō·wm",
+                "strong": "1864",
+                "translation": " it , "
+            },
+            {
+                "token": "וְהִנָּבֵ֛א",
+                "transliteration": "wə·hin·nā·ḇê",
+                "strong": "5012",
+                "translation": " and prophesy "
+            },
+            {
+                "token": "אֶל־",
+                "transliteration": "’el-",
+                "strong": "413",
+                "translation": " against "
+            },
+            {
+                "token": "יַ֥עַר",
+                "transliteration": "ya·‘ar",
+                "strong": "3293",
+                "translation": " the forest "
+            },
+            {
+                "token": "הַשָּׂדֶ֖ה",
+                "transliteration": "haś·śā·ḏeh",
+                "strong": "7704",
+                "translation": " vvv "
+            },
+            {
+                "token": "נֶֽגֶב׃",
+                "transliteration": "ne·ḡeḇ",
+                "strong": "5045",
+                "translation": " of the Negev . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:46",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וְאָֽמַרְתָּ֙",
+                "transliteration": "wə·’ā·mar·tā",
+                "strong": "559",
+                "translation": " Say "
+            },
+            {
+                "token": "לְיַ֣עַר",
+                "transliteration": "lə·ya·‘ar",
+                "strong": "3293",
+                "translation": " to the forest "
+            },
+            {
+                "token": "הַנֶּ֔גֶב",
+                "transliteration": "han·ne·ḡeḇ",
+                "strong": "5045",
+                "translation": " of the Negev : "
+            },
+            {
+                "token": "שְׁמַ֖ע",
+                "transliteration": "šə·ma‘",
+                "strong": "8085",
+                "translation": " Hear "
+            },
+            {
+                "token": "דְּבַר־",
+                "transliteration": "də·ḇar-",
+                "strong": "1697",
+                "translation": " the word "
+            },
+            {
+                "token": "יְהוָ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " of the LORD ! "
+            },
+            {
+                "token": "כֹּֽה־",
+                "transliteration": "kōh-",
+                "strong": "3541",
+                "translation": " This is what "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " the Lord "
+            },
+            {
+                "token": "יְהוִ֡ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD "
+            },
+            {
+                "token": "הִנְנִ֣י",
+                "transliteration": "hin·nî",
+                "strong": "2005",
+                "translation": " . . . "
+            },
+            {
+                "token": "אָמַ֣ר",
+                "transliteration": "’ā·mar",
+                "strong": "559",
+                "translation": " says : "
+            },
+            {
+                "token": "מַֽצִּית־",
+                "transliteration": "maṣ·ṣîṯ-",
+                "strong": "3341",
+                "translation": " I am about to ignite "
+            },
+            {
+                "token": "בְּךָ֣׀",
+                "transliteration": "bə·ḵā",
+                "strong": "",
+                "translation": " in you "
+            },
+            {
+                "token": "אֵ֡שׁ",
+                "transliteration": "’êš",
+                "strong": "784",
+                "translation": " a fire , "
+            },
+            {
+                "token": "וְאָכְלָ֣ה",
+                "transliteration": "wə·’ā·ḵə·lāh",
+                "strong": "398",
+                "translation": " and it will devour "
+            },
+            {
+                "token": "כָל־",
+                "transliteration": "ḵāl",
+                "strong": "3605",
+                "translation": " all "
+            },
+            {
+                "token": "בְךָ֣",
+                "transliteration": "ḇə·ḵā",
+                "strong": "",
+                "translation": " your "
+            },
+            {
+                "token": "עֵֽץ־",
+                "transliteration": "‘êṣ-",
+                "strong": "6086",
+                "translation": " trees , "
+            },
+            {
+                "token": "לַח֩",
+                "transliteration": "laḥ",
+                "strong": "3892",
+                "translation": " both green "
+            },
+            {
+                "token": "וְכָל־",
+                "transliteration": "wə·ḵāl",
+                "strong": "3605",
+                "translation": " [and] "
+            },
+            {
+                "token": "יָבֵ֤שׁ",
+                "transliteration": "yā·ḇêš",
+                "strong": "3002",
+                "translation": " dry "
+            },
+            {
+                "token": "עֵ֨ץ",
+                "transliteration": "‘êṣ",
+                "strong": "6086",
+                "translation": " - . "
+            },
+            {
+                "token": "שַׁלְהֶ֔בֶת",
+                "transliteration": "šal·he·ḇeṯ",
+                "strong": "7957",
+                "translation": " The blazing "
+            },
+            {
+                "token": "לַהֶ֣בֶת",
+                "transliteration": "la·he·ḇeṯ",
+                "strong": "3852",
+                "translation": " flame "
+            },
+            {
+                "token": "לֹֽא־",
+                "transliteration": "lō-",
+                "strong": "3808",
+                "translation": " will not "
+            },
+            {
+                "token": "תִכְבֶּה֙",
+                "transliteration": "ṯiḵ·beh",
+                "strong": "3518",
+                "translation": " be quenched , "
+            },
+            {
+                "token": "בָ֥הּ",
+                "transliteration": "ḇāh",
+                "strong": "",
+                "translation": " and by it "
+            },
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " every "
+            },
+            {
+                "token": "פָּנִ֖ים",
+                "transliteration": "pā·nîm",
+                "strong": "6440",
+                "translation": " face "
+            },
+            {
+                "token": "מִנֶּ֥גֶב",
+                "transliteration": "min·ne·ḡeḇ",
+                "strong": "5045",
+                "translation": " from south "
+            },
+            {
+                "token": "צָפֽוֹנָה׃",
+                "transliteration": "ṣā·p̄ō·w·nāh",
+                "strong": "6828",
+                "translation": " to north "
+            },
+            {
+                "token": "וְנִצְרְבוּ־",
+                "transliteration": "wə·niṣ·rə·ḇū-",
+                "strong": "6866",
+                "translation": " will be scorched . "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:47",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "47"
+    },
+    {
+        "tokens": [
+            {
+                "token": "כָּל־",
+                "transliteration": "kāl-",
+                "strong": "3605",
+                "translation": " Then all "
+            },
+            {
+                "token": "בָּשָׂ֔ר",
+                "transliteration": "bā·śār",
+                "strong": "1320",
+                "translation": " people "
+            },
+            {
+                "token": "וְרָאוּ֙",
+                "transliteration": "wə·rā·’ū",
+                "strong": "7200",
+                "translation": " will see "
+            },
+            {
+                "token": "כִּ֛י",
+                "transliteration": "kî",
+                "strong": "3588",
+                "translation": " that "
+            },
+            {
+                "token": "אֲנִ֥י",
+                "transliteration": "’ă·nî",
+                "strong": "589",
+                "translation": " I , "
+            },
+            {
+                "token": "יְהוָ֖ה",
+                "transliteration": "Yah·weh",
+                "strong": "3068",
+                "translation": " the LORD , "
+            },
+            {
+                "token": "בִּֽעַרְתִּ֑יהָ",
+                "transliteration": "bi·‘ar·tî·hā",
+                "strong": "1197",
+                "translation": " have kindled it ; "
+            },
+            {
+                "token": "לֹ֖א",
+                "transliteration": "lō",
+                "strong": "3808",
+                "translation": " it will not "
+            },
+            {
+                "token": "תִּכְבֶּֽה׃",
+                "transliteration": "tiḵ·beh",
+                "strong": "3518",
+                "translation": " be quenched . ” "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:48",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "48"
+    },
+    {
+        "tokens": [
+            {
+                "token": "וָאֹמַ֕ר",
+                "transliteration": "wā·’ō·mar",
+                "strong": "559",
+                "translation": " Then I said , "
+            },
+            {
+                "token": "אֲהָ֖הּ",
+                "transliteration": "’ă·hāh",
+                "strong": "162",
+                "translation": " “ Ah , "
+            },
+            {
+                "token": "אֲדֹנָ֣י",
+                "transliteration": "’ă·ḏō·nāy",
+                "strong": "136",
+                "translation": " Lord "
+            },
+            {
+                "token": "יְהוִ֑ה",
+                "transliteration": "Yah·weh",
+                "strong": "3069",
+                "translation": " GOD , "
+            },
+            {
+                "token": "הֵ֚מָּה",
+                "transliteration": "hêm·māh",
+                "strong": "1992",
+                "translation": " they "
+            },
+            {
+                "token": "אֹמְרִ֣ים",
+                "transliteration": "’ō·mə·rîm",
+                "strong": "559",
+                "translation": " are saying "
+            },
+            {
+                "token": "לִ֔י",
+                "transliteration": "lî",
+                "strong": "",
+                "translation": " of me , "
+            },
+            {
+                "token": "הֽוּא׃פ",
+                "transliteration": "hū",
+                "strong": "1931",
+                "translation": " ‘ Is he "
+            },
+            {
+                "token": "הֲלֹ֛א",
+                "transliteration": "hă·lō",
+                "strong": "3808",
+                "translation": " not "
+            },
+            {
+                "token": "מְמַשֵּׁ֥ל",
+                "transliteration": "mə·maš·šêl",
+                "strong": "4911",
+                "translation": " [just] telling "
+            },
+            {
+                "token": "מְשָׁלִ֖ים",
+                "transliteration": "mə·šā·lîm",
+                "strong": "4912",
+                "translation": " parables ? ’” "
+            }
+        ],
+        "verse_reference": "Ezekiel 20:49",
+        "book": "Ezekiel",
+        "chapter": "20",
+        "verse": "49"
+    }
+]
