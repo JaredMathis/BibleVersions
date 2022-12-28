@@ -52,6 +52,10 @@ def json_to(result):
     j = json.dumps(result, ensure_ascii=False, indent=4)
     return j
 
+#BSB
+
+#Wordproject
+
 for version in versions:
     index = {}
     version_directory_input = os.path.join(directory_wordproject, version)
