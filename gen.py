@@ -61,9 +61,10 @@ def update_index(index, book_number, chapter, book):
         index[book_number] = {}
         index[book_number]["name"] = book
         index[book_number]["chapters"] = []
-    index[book_number]["chapters"].append(chapter)
-        # Make sure the chapters are sorted by integer and not string
-    index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
+    if chapter not in index[book_number]["chapters"]:
+        index[book_number]["chapters"].append(chapter)
+            # Make sure the chapters are sorted by integer and not string
+        index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
 #BSB
 verse_column = 5
@@ -107,9 +108,15 @@ for line in csv.reader(bsb):
     token["translation"] = line[6] 
     result_verse["tokens"].append(token)
 
+bsb_path = os.path.join("public", "bsb")
+bsb_index_output_path = os.path.join(bsb_path, 'index.json')
+if not os.path.exists(bsb_index_output_path):
+    file_json_write(bsb_index_output_path, bsb_index)
+
+exit()
 for book_number in bsb_index:
     book = bsb_index[book_number]["name"]
-    book_output_path = os.path.join("public", "bsb", f"{book_number:02d}")
+    book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
     dir_create_if_not_exists(book_output_path)
     for chapter in  bsb_index[book_number]["chapters"]:
         chapter_output_path = os.path.join(book_output_path, chapter + ".json")
@@ -118,7 +125,6 @@ for book_number in bsb_index:
             file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
 #Wordproject
-exit()
 
 for version in versions:
     index = {}
