@@ -67,53 +67,59 @@ def update_index(index, book_number, chapter, book):
         index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
 #BSB
-verse_column = 5
-import csv
-bsb = file_read_lines('./bsb/bsb.csv')
-verse_reference = None
-result_bsb = []
-bsb_index = {}
-book_number = 0
-book_previous = None
-i = 0
-for line in csv.reader(bsb):
-    i = i+1
-    if i == 1:
-        continue
-    if (line[0] == ""):
-        continue
-    if line[verse_column] != '':
-        result_verse = {"tokens": []}
-        result_bsb.append(result_verse)
-        verse_reference = line[verse_column]
-        parsed1 = verse_reference.split(' ')
-        book = " ".join(parsed1[:-1])
-        if book != book_previous:
-            book_number = book_number + 1
-            book_previous = book
-        chapter_verse = parsed1[-1]
-        parsed2 = chapter_verse.split(':')
-        assert len(parsed2) == 2
-        chapter = parsed2[0] 
-        verse = parsed2[1]
-        update_index(bsb_index, book_number, chapter, book)
-    result_verse["verse_reference"] = verse_reference
-    result_verse["book"] = book
-    result_verse["chapter"] = chapter
-    result_verse["verse"] = verse
-    token = {}
-    token["token"] = line[0]
-    token["transliteration"] = line[1] 
-    token["strong"] = line[4] 
-    token["translation"] = line[6] 
-    result_verse["tokens"].append(token)
+def bsb_get():
+    verse_column = 5
+    import csv
+    bsb = file_read_lines('./bsb/bsb.csv')
+    verse_reference = None
+    result_bsb = []
+    bsb_index = {}
+    book_number = 0
+    book_previous = None
+    i = 0
+    for line in csv.reader(bsb):
+        i = i+1
+        if i == 1:
+            continue
+        if (line[0] == ""):
+            continue
+        if line[verse_column] != '':
+            result_verse = {"tokens": []}
+            result_bsb.append(result_verse)
+            verse_reference = line[verse_column]
+            parsed1 = verse_reference.split(' ')
+            book = " ".join(parsed1[:-1])
+            if book != book_previous:
+                book_number = book_number + 1
+                book_previous = book
+            chapter_verse = parsed1[-1]
+            parsed2 = chapter_verse.split(':')
+            assert len(parsed2) == 2
+            chapter = parsed2[0] 
+            verse = parsed2[1]
+            update_index(bsb_index, book_number, chapter, book)
+        result_verse["verse_reference"] = verse_reference
+        result_verse["book"] = book
+        result_verse["chapter"] = chapter
+        result_verse["verse"] = verse
+        token = {}
+        token["token"] = line[0]
+        token["transliteration"] = line[1] 
+        token["strong"] = line[4] 
+        token["translation"] = line[6] 
+        result_verse["tokens"].append(token)
+    return result_bsb,bsb_index
+
+result_bsb, bsb_index = bsb_get()
+
+exit()
 
 bsb_path = os.path.join("public", "bsb")
 bsb_index_output_path = os.path.join(bsb_path, 'index.json')
 if not os.path.exists(bsb_index_output_path):
     file_json_write(bsb_index_output_path, bsb_index)
 
-exit()
+
 for book_number in bsb_index:
     book = bsb_index[book_number]["name"]
     book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
