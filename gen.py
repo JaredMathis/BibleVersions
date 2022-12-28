@@ -56,12 +56,24 @@ def json_to(result):
     j = json.dumps(result, ensure_ascii=False, indent=4)
     return j
 
+def update_index(index, book_number, chapter, book):
+    if not book_number in index:
+        index[book_number] = {}
+        index[book_number]["name"] = book
+        index[book_number]["chapters"] = []
+    index[book_number]["chapters"].append(chapter)
+        # Make sure the chapters are sorted by integer and not string
+    index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
+
 #BSB
 verse_column = 5
 import csv
 bsb = file_read_lines('./bsb/bsb.csv')
 verse_reference = None
-verses = []
+result_bsb = []
+bsb_index = {}
+book_number = 0
+book_previous = None
 i = 0
 for line in csv.reader(bsb):
     i = i+1
@@ -71,15 +83,19 @@ for line in csv.reader(bsb):
         continue
     if line[verse_column] != '':
         result_verse = {"tokens": []}
-        verses.append(result_verse)
+        result_bsb.append(result_verse)
         verse_reference = line[verse_column]
         parsed1 = verse_reference.split(' ')
         book = " ".join(parsed1[:-1])
+        if book != book_previous:
+            book_number = book_number + 1
+            book_previous = book
         chapter_verse = parsed1[-1]
         parsed2 = chapter_verse.split(':')
         assert len(parsed2) == 2
         chapter = parsed2[0] 
         verse = parsed2[1]
+        update_index(bsb_index, book_number, chapter, book)
     result_verse["verse_reference"] = verse_reference
     result_verse["book"] = book
     result_verse["chapter"] = chapter
@@ -90,10 +106,18 @@ for line in csv.reader(bsb):
     token["strong"] = line[4] 
     token["translation"] = line[6] 
     result_verse["tokens"].append(token)
-print(verses)
-exit()
+
+for book_number in bsb_index:
+    book = bsb_index[book_number]["name"]
+    book_output_path = os.path.join("public", "bsb", f"{book_number:02d}")
+    dir_create_if_not_exists(book_output_path)
+    for chapter in  bsb_index[book_number]["chapters"]:
+        chapter_output_path = os.path.join(book_output_path, chapter + ".json")
+        verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result_bsb)]
+        file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
 #Wordproject
+exit()
 
 for version in versions:
     index = {}
@@ -112,13 +136,7 @@ for version in versions:
             book = list_first(h).text.strip()
             s = parsed.find_all('span', {"class":"chapread"})
             chapter = list_first(s).text.strip()
-            if not book_number in index:
-                index[book_number] = {}
-                index[book_number]["name"] = book
-                index[book_number]["chapters"] = []
-            index[book_number]["chapters"].append(chapter)
-            # Make sure the chapters are sorted by integer and not string
-            index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
+            update_index(book_number, chapter, book)
             verses = str(parsed.find_all('p')[-2])
             verses_list = verses.split('<br/>')
             result = []
@@ -134,3 +152,4 @@ for version in versions:
     
     output_path = os.path.join(version_directory_output, 'index.json')
     file_json_write(output_path, index)
+
