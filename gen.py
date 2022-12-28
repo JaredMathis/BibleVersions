@@ -40,13 +40,17 @@ def file_json_write(file_path, result):
         if blob.exists():
             blob.delete()
     else:
-        j = json.dumps(result, ensure_ascii=False, indent=4)
+        j = json_to(result)
         with open(file_path, 'w', encoding='utf-8') as output:
             output.write(j)
         # Upload the file to the bucket
         blob.upload_from_filename(file_path)
         if first_chapter_only:
             exit()
+
+def json_to(result):
+    j = json.dumps(result, ensure_ascii=False, indent=4)
+    return j
 
 for version in versions:
     index = {}
