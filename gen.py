@@ -57,9 +57,16 @@ def json_to(result):
     return j
 
 #BSB
-
+verse_column = 5
+import csv
 bsb = file_read_lines('./bsb/bsb.csv')
-print(bsb)
+verse_reference = None
+for line in csv.reader(bsb):
+    result = {}
+    if line[verse_column] != '':
+        verse_reference = line[verse_column]
+    result["verse_reference"] = verse_reference
+    print(result, line)
 exit()
 
 #Wordproject
