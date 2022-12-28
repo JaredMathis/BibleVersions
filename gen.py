@@ -110,12 +110,12 @@ for version in versions:
             output_path = os.path.join(output_directory, str_ending_rename(chapter, '.htm', '') + ".json")
             h = parsed.find_all('h1')
             book = list_first(h).text.strip()
+            s = parsed.find_all('span', {"class":"chapread"})
+            chapter = list_first(s).text.strip()
             if not book_number in index:
                 index[book_number] = {}
                 index[book_number]["name"] = book
                 index[book_number]["chapters"] = []
-            s = parsed.find_all('span', {"class":"chapread"})
-            chapter = list_first(s).text.strip()
             index[book_number]["chapters"].append(chapter)
             # Make sure the chapters are sorted by integer and not string
             index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
