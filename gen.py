@@ -14,6 +14,7 @@ bucket = storage.bucket('wlj-bible-versions.appspot.com')
 
 first_chapter_only = False
 delete_firebase_blobs = False
+firebase_blobs_write = False
 
 
 directory_public = 'public'
@@ -49,7 +50,8 @@ def file_json_write(file_path, result):
         with open(file_path, 'w', encoding='utf-8') as output:
             output.write(j)
         # Upload the file to the bucket
-        blob.upload_from_filename(file_path)
+        if firebase_blobs_write:
+            blob.upload_from_filename(file_path)
         if first_chapter_only:
             exit()
 
@@ -98,6 +100,7 @@ def biblehub_get():
                 result_verse = {"tokens": []}
                 result[version].append(result_verse)
                 book_number, book, chapter, verse = reference_parse(verse_reference, book_number, book_previous)
+                book_previous = book
                 result_verse["verse_reference"] = verse_reference
                 result_verse["book"] = book
                 result_verse["chapter"] = chapter
@@ -122,17 +125,20 @@ def reference_parse(verse_reference, book_number, book_previous):
 
 result,index = biblehub_get()
 
-def bible_write(result_bsb, bsb_index, bsb_path):
+print(index.keys())
+exit()
+
+def bible_write(result, index, bsb_path):
     bsb_index_output_path = os.path.join(bsb_path, 'index.json')
     if not os.path.exists(bsb_index_output_path):
-        file_json_write(bsb_index_output_path, bsb_index)
-    for book_number in bsb_index:
-        book = bsb_index[book_number]["name"]
+        file_json_write(bsb_index_output_path, index)
+    for book_number in index:
+        book = index[book_number]["name"]
         book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
         dir_create_if_not_exists(book_output_path)
-        for chapter in  bsb_index[book_number]["chapters"]:
+        for chapter in  index[book_number]["chapters"]:
             chapter_output_path = os.path.join(book_output_path, chapter + ".json")
-            verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result_bsb)]
+            verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result)]
             if not os.path.exists(chapter_output_path):
                 file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
