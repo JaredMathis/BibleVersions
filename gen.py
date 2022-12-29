@@ -14,7 +14,7 @@ bucket = storage.bucket('wlj-bible-versions.appspot.com')
 
 first_chapter_only = False
 delete_firebase_blobs = False
-firebase_blobs_write = False
+firebase_blobs_write = True
 
 
 directory_public = 'public'
@@ -125,8 +125,6 @@ def reference_parse(verse_reference, book_number, book_previous):
 
 result,index = biblehub_get()
 
-print(index.keys())
-exit()
 
 def bible_write(result, index, bsb_path):
     bsb_index_output_path = os.path.join(bsb_path, 'index.json')
