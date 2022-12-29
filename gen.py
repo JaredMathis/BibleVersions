@@ -52,6 +52,7 @@ def file_json_write(file_path, result):
         # Upload the file to the bucket
         if firebase_blobs_write:
             blob.upload_from_filename(file_path)
+            print(file_path)
         if first_chapter_only:
             exit()
 
