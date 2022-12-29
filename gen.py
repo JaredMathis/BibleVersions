@@ -136,7 +136,7 @@ def bible_write(result_bsb, bsb_index, bsb_path):
             if not os.path.exists(chapter_output_path):
                 file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
-bible_write(result["bsb"], index, os.path.join("public", "berean"))
+bible_write(result["BSB"], index, os.path.join("public", "berean"))
 
 exit()
 
