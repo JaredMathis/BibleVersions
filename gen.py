@@ -67,7 +67,79 @@ def update_index(index, book_number, chapter, book):
             # Make sure the chapters are sorted by integer and not string
         index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
+
 #BSB
+def biblehub_get():
+    versions_to_generate = ["BSB"]
+    verse_column = 0
+    import csv
+    bible_csv = file_read_lines('./biblehub/biblehub_bibles.csv')
+    verse_reference = None
+    result = {}
+    index = {}
+    book_number = 0
+    book_previous = None
+    i = 0
+    versions = []
+    for line in csv.reader(bible_csv):
+        i = i+1
+        if i == 1:
+            versions = line[1:]
+            for version in versions:
+                result[version] = []
+        if (line[0] == '\ufeff'):
+            continue
+        i = 1
+        for version in [x for x in versions if x in versions_to_generate]:
+            if line[verse_column] != '':
+                if line[i] == '':
+                    continue
+                verse_reference = line[verse_column]
+                result_verse = {"tokens": []}
+                result[version].append(result_verse)
+                book_number, book, chapter, verse = reference_parse(verse_reference, book_number, book_previous)
+                result_verse["verse_reference"] = verse_reference
+                result_verse["book"] = book
+                result_verse["chapter"] = chapter
+                result_verse["verse"] = verse
+                update_index(index, book_number, chapter, book)
+                result_verse["tokens"] = line[i].split(" ")
+                i = i + 1
+    return result,index
+
+def reference_parse(verse_reference, book_number, book_previous):
+    parsed1 = verse_reference.split(' ')
+    book = " ".join(parsed1[:-1])
+    if book != book_previous:
+        book_number = book_number + 1
+        book_previous = book
+    chapter_verse = parsed1[-1]
+    parsed2 = chapter_verse.split(':')
+    assert len(parsed2) == 2
+    chapter = parsed2[0] 
+    verse = parsed2[1]
+    return book_number,book,chapter,verse
+
+result,index = biblehub_get()
+
+def bible_write(result_bsb, bsb_index, bsb_path):
+    bsb_index_output_path = os.path.join(bsb_path, 'index.json')
+    if not os.path.exists(bsb_index_output_path):
+        file_json_write(bsb_index_output_path, bsb_index)
+    for book_number in bsb_index:
+        book = bsb_index[book_number]["name"]
+        book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
+        dir_create_if_not_exists(book_output_path)
+        for chapter in  bsb_index[book_number]["chapters"]:
+            chapter_output_path = os.path.join(book_output_path, chapter + ".json")
+            verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result_bsb)]
+            if not os.path.exists(chapter_output_path):
+                file_json_write(chapter_output_path, verses_for_book_and_chapter)
+
+bible_write(result["bsb"], index, os.path.join("public", "berean"))
+
+exit()
+
 def bsb_get():
     verse_column = 5
     import csv
@@ -88,16 +160,7 @@ def bsb_get():
             result_verse = {"tokens": []}
             result_bsb.append(result_verse)
             verse_reference = line[verse_column]
-            parsed1 = verse_reference.split(' ')
-            book = " ".join(parsed1[:-1])
-            if book != book_previous:
-                book_number = book_number + 1
-                book_previous = book
-            chapter_verse = parsed1[-1]
-            parsed2 = chapter_verse.split(':')
-            assert len(parsed2) == 2
-            chapter = parsed2[0] 
-            verse = parsed2[1]
+            book_number, book, chapter, verse = reference_parse(verse_reference, book_number, book_previous)
             update_index(bsb_index, book_number, chapter, book)
         result_verse["verse_reference"] = verse_reference
         result_verse["book"] = book
@@ -113,23 +176,7 @@ def bsb_get():
 
 result_bsb, bsb_index = bsb_get()
 
-exit()
-
-bsb_path = os.path.join("public", "bsb")
-bsb_index_output_path = os.path.join(bsb_path, 'index.json')
-if not os.path.exists(bsb_index_output_path):
-    file_json_write(bsb_index_output_path, bsb_index)
-
-
-for book_number in bsb_index:
-    book = bsb_index[book_number]["name"]
-    book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
-    dir_create_if_not_exists(book_output_path)
-    for chapter in  bsb_index[book_number]["chapters"]:
-        chapter_output_path = os.path.join(book_output_path, chapter + ".json")
-        verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result_bsb)]
-        if not os.path.exists(chapter_output_path):
-            file_json_write(chapter_output_path, verses_for_book_and_chapter)
+bible_write(result_bsb, bsb_index, os.path.join("public", "bsb"))
 
 #Wordproject
 
