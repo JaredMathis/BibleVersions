@@ -1,0 +1,1037 @@
+[
+    {
+        "tokens": [
+            "Adam,",
+            "Seth,",
+            "Enosh,"
+        ],
+        "verse_reference": "1 Chronicles 1:1",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "1"
+    },
+    {
+        "tokens": [
+            "Kenan,",
+            "Mahalalel,",
+            "Jared,"
+        ],
+        "verse_reference": "1 Chronicles 1:2",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "2"
+    },
+    {
+        "tokens": [
+            "Enoch,",
+            "Methuselah,",
+            "Lamech."
+        ],
+        "verse_reference": "1 Chronicles 1:3",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "3"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Noah:",
+            "Shem,",
+            "Ham,",
+            "and",
+            "Japheth."
+        ],
+        "verse_reference": "1 Chronicles 1:4",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "4"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Japheth:",
+            "Gomer,",
+            "Magog,",
+            "Madai,",
+            "Javan,",
+            "Tubal,",
+            "Meshech,",
+            "and",
+            "Tiras."
+        ],
+        "verse_reference": "1 Chronicles 1:5",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "5"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Gomer:",
+            "Ashkenaz,",
+            "Riphath,",
+            "and",
+            "Togarmah."
+        ],
+        "verse_reference": "1 Chronicles 1:6",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "6"
+    },
+    {
+        "tokens": [
+            "And",
+            "the",
+            "sons",
+            "of",
+            "Javan:",
+            "Elishah,",
+            "Tarshish,",
+            "the",
+            "Kittites,",
+            "and",
+            "the",
+            "Rodanites."
+        ],
+        "verse_reference": "1 Chronicles 1:7",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "7"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Ham:",
+            "Cush,",
+            "Mizraim,",
+            "Put,",
+            "and",
+            "Canaan."
+        ],
+        "verse_reference": "1 Chronicles 1:8",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "8"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Cush:",
+            "Seba,",
+            "Havilah,",
+            "Sabta,",
+            "Raamah,",
+            "and",
+            "Sabteca.",
+            "The",
+            "sons",
+            "of",
+            "Raamah:",
+            "Sheba",
+            "and",
+            "Dedan."
+        ],
+        "verse_reference": "1 Chronicles 1:9",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "9"
+    },
+    {
+        "tokens": [
+            "Cush",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Nimrod,",
+            "who",
+            "began",
+            "to",
+            "be",
+            "a",
+            "mighty",
+            "one",
+            "on",
+            "the",
+            "earth."
+        ],
+        "verse_reference": "1 Chronicles 1:10",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "10"
+    },
+    {
+        "tokens": [
+            "Mizraim",
+            "was",
+            "the",
+            "father",
+            "of",
+            "the",
+            "Ludites,",
+            "the",
+            "Anamites,",
+            "the",
+            "Lehabites,",
+            "the",
+            "Naphtuhites,"
+        ],
+        "verse_reference": "1 Chronicles 1:11",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "11"
+    },
+    {
+        "tokens": [
+            "the",
+            "Pathrusites,",
+            "the",
+            "Casluhites",
+            "(from",
+            "whom",
+            "the",
+            "Philistines",
+            "came),",
+            "and",
+            "the",
+            "Caphtorites."
+        ],
+        "verse_reference": "1 Chronicles 1:12",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "12"
+    },
+    {
+        "tokens": [
+            "And",
+            "Canaan",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Sidon",
+            "his",
+            "firstborn,",
+            "and",
+            "of",
+            "the",
+            "Hittites,"
+        ],
+        "verse_reference": "1 Chronicles 1:13",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "13"
+    },
+    {
+        "tokens": [
+            "the",
+            "Jebusites,",
+            "the",
+            "Amorites,",
+            "the",
+            "Girgashites,"
+        ],
+        "verse_reference": "1 Chronicles 1:14",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "14"
+    },
+    {
+        "tokens": [
+            "the",
+            "Hivites,",
+            "the",
+            "Arkites,",
+            "the",
+            "Sinites,"
+        ],
+        "verse_reference": "1 Chronicles 1:15",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "15"
+    },
+    {
+        "tokens": [
+            "the",
+            "Arvadites,",
+            "the",
+            "Zemarites,",
+            "and",
+            "the",
+            "Hamathites."
+        ],
+        "verse_reference": "1 Chronicles 1:16",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "16"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Shem:",
+            "Elam,",
+            "Asshur,",
+            "Arphaxad,",
+            "Lud,",
+            "and",
+            "Aram.",
+            "The",
+            "sons",
+            "of",
+            "Aram:",
+            "Uz,",
+            "Hul,",
+            "Gether,",
+            "and",
+            "Meshech."
+        ],
+        "verse_reference": "1 Chronicles 1:17",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "17"
+    },
+    {
+        "tokens": [
+            "Arphaxad",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Shelah,",
+            "and",
+            "Shelah",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Eber."
+        ],
+        "verse_reference": "1 Chronicles 1:18",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "18"
+    },
+    {
+        "tokens": [
+            "Two",
+            "sons",
+            "were",
+            "born",
+            "to",
+            "Eber:",
+            "One",
+            "was",
+            "named",
+            "Peleg,",
+            "because",
+            "in",
+            "his",
+            "days",
+            "the",
+            "earth",
+            "was",
+            "divided,",
+            "and",
+            "his",
+            "brother",
+            "was",
+            "named",
+            "Joktan."
+        ],
+        "verse_reference": "1 Chronicles 1:19",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "19"
+    },
+    {
+        "tokens": [
+            "And",
+            "Joktan",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Almodad,",
+            "Sheleph,",
+            "Hazarmaveth,",
+            "Jerah,"
+        ],
+        "verse_reference": "1 Chronicles 1:20",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "20"
+    },
+    {
+        "tokens": [
+            "Hadoram,",
+            "Uzal,",
+            "Diklah,"
+        ],
+        "verse_reference": "1 Chronicles 1:21",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "21"
+    },
+    {
+        "tokens": [
+            "Obal,",
+            "Abimael,",
+            "Sheba,"
+        ],
+        "verse_reference": "1 Chronicles 1:22",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "22"
+    },
+    {
+        "tokens": [
+            "Ophir,",
+            "Havilah,",
+            "and",
+            "Jobab.",
+            "All",
+            "these",
+            "were",
+            "sons",
+            "of",
+            "Joktan."
+        ],
+        "verse_reference": "1 Chronicles 1:23",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "23"
+    },
+    {
+        "tokens": [
+            "So",
+            "from",
+            "Shem",
+            "came",
+            "Arphaxad,",
+            "Shelah,"
+        ],
+        "verse_reference": "1 Chronicles 1:24",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "24"
+    },
+    {
+        "tokens": [
+            "Eber,",
+            "Peleg,",
+            "Reu,"
+        ],
+        "verse_reference": "1 Chronicles 1:25",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "25"
+    },
+    {
+        "tokens": [
+            "Serug,",
+            "Nahor,",
+            "Terah,"
+        ],
+        "verse_reference": "1 Chronicles 1:26",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "26"
+    },
+    {
+        "tokens": [
+            "and",
+            "Abram",
+            "(that",
+            "is,",
+            "Abraham)."
+        ],
+        "verse_reference": "1 Chronicles 1:27",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "27"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Abraham",
+            "were",
+            "Isaac",
+            "and",
+            "Ishmael."
+        ],
+        "verse_reference": "1 Chronicles 1:28",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "28"
+    },
+    {
+        "tokens": [
+            "These",
+            "are",
+            "their",
+            "genealogies:",
+            "Nebaioth",
+            "the",
+            "firstborn",
+            "of",
+            "Ishmael,",
+            "then",
+            "Kedar,",
+            "Adbeel,",
+            "Mibsam,"
+        ],
+        "verse_reference": "1 Chronicles 1:29",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "29"
+    },
+    {
+        "tokens": [
+            "Mishma,",
+            "Dumah,",
+            "Massa,",
+            "Hadad,",
+            "Tema,"
+        ],
+        "verse_reference": "1 Chronicles 1:30",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "30"
+    },
+    {
+        "tokens": [
+            "Jetur,",
+            "Naphish,",
+            "and",
+            "Kedemah.",
+            "These",
+            "were",
+            "the",
+            "sons",
+            "of",
+            "Ishmael."
+        ],
+        "verse_reference": "1 Chronicles 1:31",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "31"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "born",
+            "to",
+            "Keturah,",
+            "Abraham’s",
+            "concubine:",
+            "Zimran,",
+            "Jokshan,",
+            "Medan,",
+            "Midian,",
+            "Ishbak,",
+            "and",
+            "Shuah.",
+            "The",
+            "sons",
+            "of",
+            "Jokshan:",
+            "Sheba",
+            "and",
+            "Dedan."
+        ],
+        "verse_reference": "1 Chronicles 1:32",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "32"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Midian:",
+            "Ephah,",
+            "Epher,",
+            "Hanoch,",
+            "Abida,",
+            "and",
+            "Eldaah.",
+            "All",
+            "of",
+            "these",
+            "were",
+            "Keturah’s",
+            "sons."
+        ],
+        "verse_reference": "1 Chronicles 1:33",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "33"
+    },
+    {
+        "tokens": [
+            "Abraham",
+            "was",
+            "the",
+            "father",
+            "of",
+            "Isaac.",
+            "The",
+            "sons",
+            "of",
+            "Isaac:",
+            "Esau",
+            "and",
+            "Israel."
+        ],
+        "verse_reference": "1 Chronicles 1:34",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "34"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Esau:",
+            "Eliphaz,",
+            "Reuel,",
+            "Jeush,",
+            "Jalam,",
+            "and",
+            "Korah."
+        ],
+        "verse_reference": "1 Chronicles 1:35",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "35"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Eliphaz:",
+            "Teman,",
+            "Omar,",
+            "Zepho,",
+            "Gatam,",
+            "and",
+            "Kenaz;",
+            "and",
+            "by",
+            "Timna,",
+            "Amalek."
+        ],
+        "verse_reference": "1 Chronicles 1:36",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "36"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Reuel:",
+            "Nahath,",
+            "Zerah,",
+            "Shammah,",
+            "and",
+            "Mizzah."
+        ],
+        "verse_reference": "1 Chronicles 1:37",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "37"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Seir:",
+            "Lotan,",
+            "Shobal,",
+            "Zibeon,",
+            "Anah,",
+            "Dishon,",
+            "Ezer,",
+            "and",
+            "Dishan."
+        ],
+        "verse_reference": "1 Chronicles 1:38",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "38"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Lotan:",
+            "Hori",
+            "and",
+            "Homam.",
+            "Timna",
+            "was",
+            "Lotan’s",
+            "sister."
+        ],
+        "verse_reference": "1 Chronicles 1:39",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "39"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Shobal:",
+            "Alvan,",
+            "Manahath,",
+            "Ebal,",
+            "Shepho,",
+            "and",
+            "Onam.",
+            "The",
+            "sons",
+            "of",
+            "Zibeon:",
+            "Aiah",
+            "and",
+            "Anah."
+        ],
+        "verse_reference": "1 Chronicles 1:40",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "40"
+    },
+    {
+        "tokens": [
+            "The",
+            "son",
+            "of",
+            "Anah:",
+            "Dishon.",
+            "The",
+            "sons",
+            "of",
+            "Dishon:",
+            "Hemdan,",
+            "Eshban,",
+            "Ithran,",
+            "and",
+            "Cheran."
+        ],
+        "verse_reference": "1 Chronicles 1:41",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "41"
+    },
+    {
+        "tokens": [
+            "The",
+            "sons",
+            "of",
+            "Ezer:",
+            "Bilhan,",
+            "Zaavan,",
+            "and",
+            "Akan.",
+            "The",
+            "sons",
+            "of",
+            "Dishan:",
+            "Uz",
+            "and",
+            "Aran."
+        ],
+        "verse_reference": "1 Chronicles 1:42",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "42"
+    },
+    {
+        "tokens": [
+            "These",
+            "are",
+            "the",
+            "kings",
+            "who",
+            "reigned",
+            "in",
+            "the",
+            "land",
+            "of",
+            "Edom",
+            "before",
+            "any",
+            "king",
+            "reigned",
+            "over",
+            "the",
+            "Israelites:",
+            "Bela",
+            "son",
+            "of",
+            "Beor.",
+            "His",
+            "city",
+            "was",
+            "named",
+            "Dinhabah."
+        ],
+        "verse_reference": "1 Chronicles 1:43",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "43"
+    },
+    {
+        "tokens": [
+            "When",
+            "Bela",
+            "died,",
+            "Jobab",
+            "son",
+            "of",
+            "Zerah",
+            "from",
+            "Bozrah",
+            "reigned",
+            "in",
+            "his",
+            "place."
+        ],
+        "verse_reference": "1 Chronicles 1:44",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "44"
+    },
+    {
+        "tokens": [
+            "When",
+            "Jobab",
+            "died,",
+            "Husham",
+            "from",
+            "the",
+            "land",
+            "of",
+            "the",
+            "Temanites",
+            "reigned",
+            "in",
+            "his",
+            "place."
+        ],
+        "verse_reference": "1 Chronicles 1:45",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "45"
+    },
+    {
+        "tokens": [
+            "When",
+            "Husham",
+            "died,",
+            "Hadad",
+            "son",
+            "of",
+            "Bedad,",
+            "who",
+            "defeated",
+            "Midian",
+            "in",
+            "the",
+            "country",
+            "of",
+            "Moab,",
+            "reigned",
+            "in",
+            "his",
+            "place.",
+            "And",
+            "the",
+            "name",
+            "of",
+            "his",
+            "city",
+            "was",
+            "Avith."
+        ],
+        "verse_reference": "1 Chronicles 1:46",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "46"
+    },
+    {
+        "tokens": [
+            "When",
+            "Hadad",
+            "died,",
+            "Samlah",
+            "from",
+            "Masrekah",
+            "reigned",
+            "in",
+            "his",
+            "place."
+        ],
+        "verse_reference": "1 Chronicles 1:47",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "47"
+    },
+    {
+        "tokens": [
+            "When",
+            "Samlah",
+            "died,",
+            "Shaul",
+            "from",
+            "Rehoboth",
+            "on",
+            "the",
+            "Euphrates",
+            "reigned",
+            "in",
+            "his",
+            "place."
+        ],
+        "verse_reference": "1 Chronicles 1:48",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "48"
+    },
+    {
+        "tokens": [
+            "When",
+            "Shaul",
+            "died,",
+            "Baal-hanan",
+            "son",
+            "of",
+            "Achbor",
+            "reigned",
+            "in",
+            "his",
+            "place."
+        ],
+        "verse_reference": "1 Chronicles 1:49",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "49"
+    },
+    {
+        "tokens": [
+            "When",
+            "Baal-hanan",
+            "died,",
+            "Hadad",
+            "reigned",
+            "in",
+            "his",
+            "place.",
+            "His",
+            "city",
+            "was",
+            "named",
+            "Pau,",
+            "and",
+            "his",
+            "wife’s",
+            "name",
+            "was",
+            "Mehetabel",
+            "daughter",
+            "of",
+            "Matred,",
+            "the",
+            "daughter",
+            "of",
+            "Me-zahab."
+        ],
+        "verse_reference": "1 Chronicles 1:50",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "50"
+    },
+    {
+        "tokens": [
+            "Then",
+            "Hadad",
+            "died.",
+            "Now",
+            "the",
+            "chiefs",
+            "of",
+            "Edom",
+            "were",
+            "Timna,",
+            "Alvah,",
+            "Jetheth,"
+        ],
+        "verse_reference": "1 Chronicles 1:51",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "51"
+    },
+    {
+        "tokens": [
+            "Oholibamah,",
+            "Elah,",
+            "Pinon,"
+        ],
+        "verse_reference": "1 Chronicles 1:52",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "52"
+    },
+    {
+        "tokens": [
+            "Kenaz,",
+            "Teman,",
+            "Mibzar,"
+        ],
+        "verse_reference": "1 Chronicles 1:53",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "53"
+    },
+    {
+        "tokens": [
+            "Magdiel,",
+            "and",
+            "Iram.",
+            "These",
+            "were",
+            "the",
+            "chiefs",
+            "of",
+            "Edom."
+        ],
+        "verse_reference": "1 Chronicles 1:54",
+        "book": "1 Chronicles",
+        "chapter": "1",
+        "verse": "54"
+    }
+]
