@@ -71,6 +71,8 @@ def update_index(index, book_number, chapter, book):
         index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
 
+exit()
+
 #BSB
 def biblehub_get():
     versions_to_generate = ["BSB"]
@@ -143,7 +145,6 @@ def bible_write(result, index, bsb_path):
 
 bible_write(result["BSB"], index, os.path.join("public", "berean"))
 
-exit()
 
 def bsb_get():
     verse_column = 5
