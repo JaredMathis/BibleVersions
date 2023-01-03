@@ -77,7 +77,7 @@ def find_all_filter(parsed, tag_name, attribute_name, attribute_value):
     return parts
 
 letters = []
-words = []
+words = {}
 for v in vatican_download():
     parsed = html_parse(v)
     parts = find_all_filter(parsed, 'meta', 'name', 'part')
@@ -94,7 +94,7 @@ for v in vatican_download():
 
     MsoNormals = find_all_filter(parsed, 'p', 'class', ['MsoNormal'])
     for verse_element in MsoNormals:
-        tokens = verse_element.text.split(' ')
+        tokens = verse_element.text.replace('\n', ' ').split(' ')
         verse = tokens[0]
         tokens = tokens[1:]
         result.append({
@@ -112,11 +112,12 @@ for v in vatican_download():
             for invalid in "!\"(),./0123456789:;?[]¡«»¿":
                 t = t.replace(invalid, '')
             if not t in words:
-                words.append(t)
+                words[t] = True
 
 letters.sort()
 print("".join(letters))
 
+words = [x for x in (words).keys()]
 words.sort()
 file_json_write("gitignore/spanish_words.json", words)
 
