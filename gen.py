@@ -71,13 +71,17 @@ def update_index(index, book_number, chapter, book):
         index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
 
+def find_all_filter(parsed, tag_name, attribute_name, attribute_value):
+    metas = parsed.find_all(tag_name)
+    parts = [x for x in filter(lambda m:m.get(attribute_name) == attribute_value, metas)]
+    return parts
+
 for v in vatican_download():
     parsed = html_parse(v)
     tag_name = 'meta'
     attribute_name = 'name'
     attribute_value = 'part'
-    metas = parsed.find_all(tag_name)
-    parts = [x for x in filter(lambda m:m.get(attribute_name) == attribute_value, metas)]
+    parts = find_all_filter(parsed, tag_name, attribute_name, attribute_value)
     if (len(parts) == 0):
         continue
     part = parts[0]
