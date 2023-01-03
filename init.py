@@ -2,14 +2,6 @@ import os
 
 from common import *
 
-def vatican_download():
-    links_download(
-        'https://www.vatican.va/archive/ESL0506/', 
-        "_INDEX.HTM", 
-        lambda href: href.startswith('__'),
-        '.htm',
-        True)
-
 def wordproject_download():
     links_download(
         'https://www.wordproject.org/download/bibles/', 

@@ -9,6 +9,15 @@ directory_wordproject = 'wordproject'
 
 directory_gitignore = 'gitignore'
 
+
+def vatican_download():
+    links_download(
+        'https://www.vatican.va/archive/ESL0506/', 
+        "_INDEX.HTM", 
+        lambda href: href.startswith('__'),
+        '.htm',
+        True)
+        
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
         return
