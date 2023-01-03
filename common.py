@@ -11,20 +11,20 @@ directory_gitignore = 'gitignore'
 
 
 def vatican_download():
-    links_download(
+    return links_download(
         'https://www.vatican.va/archive/ESL0506/', 
         "_INDEX.HTM", 
         lambda href: href.startswith('__'),
         '.htm',
         True)
-        
+
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
         return
     else:
         os.makedirs(my_path)
 
-def http_get_cached(url, file_extension='.htm', decode_response=True, cached_path = 'cached_websites'):
+def http_get_cached(url, file_extension='.htm', decode_response=True, cached_path = 'gitignore/cached_websites'):
     factor = 1000
     sleep_time = random.randrange(5 * factor, 10  * factor) / factor
 
@@ -67,9 +67,10 @@ def links_download(url_base, url_index, download_if, file_extension, decode_resp
 
     for sub in subs:
         try:
-            http_get_cached(sub, file_extension, decode_response)
-        except:
+            yield http_get_cached(sub, file_extension, decode_response)
+        except Exception as inst:
             print("error " + sub)
+            print(inst)
 
 def directory_files_for_if_ends_with(directory, ending, for_each):
     files = os.listdir(directory)

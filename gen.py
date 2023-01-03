@@ -71,6 +71,10 @@ def update_index(index, book_number, chapter, book):
         index[book_number]["chapters"] = sorted(index[book_number]["chapters"], key=lambda e:int(e))
 
 
+for v in vatican_download():
+    # print(v)
+    pass
+
 exit()
 
 #BSB
