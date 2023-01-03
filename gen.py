@@ -108,12 +108,14 @@ for v in vatican_download():
             for c in t:
                 if not c in letters:
                     letters.append(c)
-                
-            for invalid in "!\"(),./0123456789:;?[]¡«»¿":
+            invalids = "!\"(),./0123456789:;?[]¡«»¿"
+            for invalid in invalids:
                 t = t.replace(invalid, '')
+            t = t.strip('–-')
+            if len(t) == 0:
+                continue
             if not t in words:
                 words[t] = True
-
 letters.sort()
 print("".join(letters))
 
@@ -172,7 +174,7 @@ def reference_parse(verse_reference, book_number, book_previous):
     chapter_verse = parsed1[-1]
     parsed2 = chapter_verse.split(':')
     assert len(parsed2) == 2
-    chapter = parsed2[0] 
+    chapter = parsed2[0]
     verse = parsed2[1]
     return book_number,book,chapter,verse
 
@@ -224,9 +226,9 @@ def bsb_get():
         result_verse["verse"] = verse
         token = {}
         token["token"] = line[0]
-        token["transliteration"] = line[1] 
-        token["strong"] = line[4] 
-        token["translation"] = line[6] 
+        token["transliteration"] = line[1]
+        token["strong"] = line[4]
+        token["translation"] = line[6]
         result_verse["tokens"].append(token)
     return result_bsb,bsb_index
 
@@ -261,12 +263,12 @@ for version in versions:
                 t = html_parse(v).text.strip('\n')
                 s = t.split(' ')
                 verse = s[0]
-                tokens = s[1:] 
+                tokens = s[1:]
                 result.append({"book":book,"chapter":chapter,"verse":verse,"tokens":tokens})
             file_json_write(output_path, result)
 
     directory_for_each_if_numeric(version_directory_input, for_each)
-    
+
     output_path = os.path.join(version_directory_output, 'index.json')
     file_json_write(output_path, index)
 
