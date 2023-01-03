@@ -88,8 +88,20 @@ for v in vatican_download():
     book = split[1]
     chapter = split[2]
 
+    result = []
+
     MsoNormals = find_all_filter(parsed, 'p', 'class', ['MsoNormal'])
-    print(MsoNormals)
+    for verse_element in MsoNormals:
+        tokens = verse_element.text.split(' ')
+        verse = tokens[0]
+        tokens = tokens[1:]
+        result.append({
+            "book": book,
+            "chapter": chapter,
+            "verse": verse,
+            "tokens": tokens,
+        })
+
 exit()
 
 #BSB
