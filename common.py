@@ -16,7 +16,7 @@ def vatican_download():
         "_INDEX.HTM", 
         lambda href: href.startswith('__'),
         '.htm',
-        True)
+        False)
 
 def dir_create_if_not_exists(my_path):
     if os.path.exists(my_path):
@@ -48,7 +48,7 @@ def http_get_save(url, path_save, decode_response=True):
         body = response.read()
         if decode_response:
             body = body.decode()
-        with open(path_save, 'w') as f:
+        with open(path_save, 'wb') as f:
             f.write(body)
 
 def html_parse(s):
