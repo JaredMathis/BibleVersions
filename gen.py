@@ -81,11 +81,16 @@ for v in vatican_download():
     parts = find_all_filter(parsed, 'meta', 'name', 'part')
     if (len(parts) == 0):
         continue
-    part = parts[0]
+    part = parts[0]['content']
+    split = part.split(' > ')
+    if len(split) < 3:
+        continue
+    print(split)
+    book = split[1]
+    print(book)
 
-    ps = parsed.find_all('p')
-    TtulodelLibros = p
-    print(parts)
+    # TtulodelLibros = find_all_filter(parsed, 'p', 'class', 'TtulodelLibro')
+    # print(TtulodelLibros)
 
 exit()
 
