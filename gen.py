@@ -78,10 +78,7 @@ def find_all_filter(parsed, tag_name, attribute_name, attribute_value):
 
 for v in vatican_download():
     parsed = html_parse(v)
-    tag_name = 'meta'
-    attribute_name = 'name'
-    attribute_value = 'part'
-    parts = find_all_filter(parsed, tag_name, attribute_name, attribute_value)
+    parts = find_all_filter(parsed, 'meta', 'name', 'part')
     if (len(parts) == 0):
         continue
     part = parts[0]
