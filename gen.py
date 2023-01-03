@@ -77,6 +77,7 @@ for v in vatican_download():
     parts = [x for x in filter(lambda m:m.get('name') == "part", metas)]
     if (len(parts) == 0):
         continue
+    part = parts[0]
     print(parts)
 
 exit()
