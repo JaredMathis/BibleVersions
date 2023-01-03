@@ -79,6 +79,8 @@ for v in vatican_download():
         continue
     print(part)
 
+exit()
+
 #BSB
 def biblehub_get():
     versions_to_generate = ["BSB"]
