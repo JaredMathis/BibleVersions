@@ -76,6 +76,8 @@ def find_all_filter(parsed, tag_name, attribute_name, attribute_value):
     parts = [x for x in filter(lambda m:m.get(attribute_name) == attribute_value, metas)]
     return parts
 
+letters = []
+words = []
 for v in vatican_download():
     parsed = html_parse(v)
     parts = find_all_filter(parsed, 'meta', 'name', 'part')
@@ -101,6 +103,22 @@ for v in vatican_download():
             "verse": verse,
             "tokens": tokens,
         })
+
+        for t in tokens:
+            for c in t:
+                if not c in letters:
+                    letters.append(c)
+                
+            for invalid in "!\"(),./0123456789:;?[]¡«»¿":
+                t = t.replace(invalid, '')
+            if not t in words:
+                words.append(t)
+
+letters.sort()
+print("".join(letters))
+
+words.sort()
+file_json_write("gitignore/spanish_words.json", words)
 
 exit()
 
