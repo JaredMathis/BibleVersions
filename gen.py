@@ -85,13 +85,11 @@ for v in vatican_download():
     split = part.split(' > ')
     if len(split) < 3:
         continue
-    print(split)
     book = split[1]
-    print(book)
+    chapter = split[2]
 
-    # TtulodelLibros = find_all_filter(parsed, 'p', 'class', 'TtulodelLibro')
-    # print(TtulodelLibros)
-
+    MsoNormals = find_all_filter(parsed, 'p', 'class', ['MsoNormal'])
+    print(MsoNormals)
 exit()
 
 #BSB
