@@ -74,10 +74,10 @@ def update_index(index, book_number, chapter, book):
 for v in vatican_download():
     parsed = html_parse(v)
     metas = parsed.find_all('meta')
-    part = [x for x in filter(lambda m:m.name == "part", metas)]
-    if (len(part) == 0):
+    parts = [x for x in filter(lambda m:m.get('name') == "part", metas)]
+    if (len(parts) == 0):
         continue
-    print(part)
+    print(parts)
 
 exit()
 
