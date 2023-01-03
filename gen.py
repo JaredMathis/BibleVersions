@@ -111,7 +111,7 @@ for v in vatican_download():
             invalids = "!\"(),./0123456789:;?[]¡«»¿"
             for invalid in invalids:
                 t = t.replace(invalid, '')
-            t = t.strip('–-')
+            t = t.strip('–-').lower()
             if len(t) == 0:
                 continue
             if not t in words:
