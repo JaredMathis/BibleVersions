@@ -72,10 +72,9 @@ def update_index(index, book_number, chapter, book):
 
 
 for v in vatican_download():
-    # print(v)
-    pass
-
-exit()
+    parsed = html_parse(v)
+    part = parsed.find_all('meta', name="part")
+    print(part)
 
 #BSB
 def biblehub_get():
