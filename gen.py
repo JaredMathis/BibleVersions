@@ -24,6 +24,20 @@ versions = [
     'sp'
 ]
 
+def bible_write(result, index, bsb_path):
+    bsb_index_output_path = os.path.join(bsb_path, 'index.json')
+    if not os.path.exists(bsb_index_output_path):
+        file_json_write(bsb_index_output_path, index)
+    for book_number in index:
+        book = index[book_number]["name"]
+        book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
+        dir_create_if_not_exists(book_output_path)
+        for chapter in  index[book_number]["chapters"]:
+            chapter_output_path = os.path.join(book_output_path, chapter + ".json")
+            verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result)]
+            if not os.path.exists(chapter_output_path):
+                file_json_write(chapter_output_path, verses_for_book_and_chapter)
+
 def directory_for_each_if_numeric(parent, for_each):
     files = os.listdir(parent)
     for f in files:
@@ -76,8 +90,12 @@ def find_all_filter(parsed, tag_name, attribute_name, attribute_value):
     parts = [x for x in filter(lambda m:m.get(attribute_name) == attribute_value, metas)]
     return parts
 
+result = []
+books = []
+index = {}
 letters = []
 words = {}
+book_number = 0
 for v in vatican_download():
     parsed = html_parse(v)
     parts = find_all_filter(parsed, 'meta', 'name', 'part')
@@ -88,21 +106,30 @@ for v in vatican_download():
     if len(split) < 3:
         continue
     book = split[1]
+    if not book in books:
+        books.append(book)
+        book_number = book_number + 1
     chapter = split[2]
 
-    result = []
+    if book != 'CARTA DE SANTIAGO':
+        continue
+    if chapter != '1':
+        continue
 
     MsoNormals = find_all_filter(parsed, 'p', 'class', ['MsoNormal'])
     for verse_element in MsoNormals:
         tokens = verse_element.text.replace('\n', ' ').split(' ')
         verse = tokens[0]
         tokens = tokens[1:]
+        if '' in tokens:
+            tokens.remove('')
         result.append({
             "book": book,
             "chapter": chapter,
             "verse": verse,
             "tokens": tokens,
         })
+        update_index(index, book_number, chapter, book)
 
         for t in tokens:
             for c in t:
@@ -122,6 +149,8 @@ print("".join(letters))
 words = [x for x in (words).keys()]
 words.sort()
 file_json_write("gitignore/spanish_words.json", words)
+
+bible_write(result, index, os.path.join("public", "vatican", 'sp'))
 
 exit()
 
@@ -181,19 +210,6 @@ def reference_parse(verse_reference, book_number, book_previous):
 result,index = biblehub_get()
 
 
-def bible_write(result, index, bsb_path):
-    bsb_index_output_path = os.path.join(bsb_path, 'index.json')
-    if not os.path.exists(bsb_index_output_path):
-        file_json_write(bsb_index_output_path, index)
-    for book_number in index:
-        book = index[book_number]["name"]
-        book_output_path = os.path.join(bsb_path ,f"{book_number:02d}")
-        dir_create_if_not_exists(book_output_path)
-        for chapter in  index[book_number]["chapters"]:
-            chapter_output_path = os.path.join(book_output_path, chapter + ".json")
-            verses_for_book_and_chapter = [x for x in filter(lambda v:v["book"] == book and v["chapter"] == chapter, result)]
-            if not os.path.exists(chapter_output_path):
-                file_json_write(chapter_output_path, verses_for_book_and_chapter)
 
 bible_write(result["BSB"], index, os.path.join("public", "berean"))
 
